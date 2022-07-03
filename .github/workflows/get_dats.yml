@@ -5,14 +5,15 @@ name: 'Process DATs'
 on:
   workflow_dispatch:
 
-env:
-  TEMP_DIR: "./docs/dats"
-  WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
+
 
 jobs:
   build-win_x64: # only win_x64 so far :)
     name: Build Chiaki Windows x64 binary
     runs-on: windows-2022
+    env:
+      TEMP_DIR: "./docs/dats"
+      WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
 
     steps:
       - name: Clean Workspace Action
