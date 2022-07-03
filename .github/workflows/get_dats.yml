@@ -65,7 +65,7 @@ jobs:
 
           $ProgressPreference = 'SilentlyContinue'
           $nointro_download_url = "https://datomatic.no-intro.org/{0}" -f $datomatic_download_path
-          $nointro_download_dest = "{0}/no-intro.zip" -f ${{ env.TEMP_DIR }}
+          $nointro_download_dest = "{0}/no-intro.zip" -f "${{ env.TEMP_DIR }}"
           Invoke-WebRequest -UseBasicParsing -Uri $nointro_download_url `
             -Method "POST" `
             -WebSession $session `
@@ -130,9 +130,9 @@ jobs:
       - name: Create XML
         shell: powershell
         run: |
-          Set-Content -Path ${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml -Value '<clrmamepro>'
+          Set-Content -Path "${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml" -Value '<clrmamepro>'
 
-          $datfiles = Get-ChildItem -Path ${{ env.TEMP_DIR }} | Where-Object {$_.Name -match ".+\.dat"}
+          $datfiles = Get-ChildItem -Path "${{ env.TEMP_DIR }}" | Where-Object {$_.Name -match ".+\.dat"}
           
           foreach( $file in $datfiles ) {
             [XML]$xmlfile = Get-Content -Path $file.FullName
@@ -140,7 +140,7 @@ jobs:
             $description = $xmlfile.datafile.header.description
             $version = $xmlfile.datafile.header.version
             $author = $xmlfile.datafile.header.author
-            $url = ${{ env.WWW_URL }}/$file.Name
+            $url = "${{ env.WWW_URL }}/"+$file.Name
             $file = $file.Name
 
             $xmlelement=@"
@@ -155,9 +155,9 @@ jobs:
               <datfile>
               "@
 
-            Add-Content -Path ${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml -Value $xmlelement
+            Add-Content -Path "${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml" -Value $xmlelement
           }
-          Add-Content -Path ${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml -Value '</clrmamepro>'
+          Add-Content -Path "${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml" -Value '</clrmamepro>'
 
       - name: Update dats on website
         run: |
