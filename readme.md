@@ -13,10 +13,10 @@ Following instructions from https://mamedev.emulab.it/clrmamepro/docs/wwwprofile
 - Create clrmamepro wwwprofile xml file from dats
 - Publish on github pages
 - Cron job at 8:00 UTC every day
+- Clean DAT file names (using name from inside XML)
 
 # What's missing?
 
-- Generate 1R1G DATs using [retool](https://github.com/unexpectedpanda/retool/)
 - Zip DATs
-- Split redump and nointro in two XML files
-- Further clean DAT file names (using name from inside XML?)
+- Split redump and nointro in two XML files and 2 jobs
+- Generate 1R1G DATs using [retool](https://github.com/unexpectedpanda/retool/)
