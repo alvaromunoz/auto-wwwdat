@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Google - Android (Misc)</name>
+		<description>Google - Android (Misc)</description>
+		<version>20220406-003921</version>
+		<author>Arctic Circle System, FakeShemp, Hiccup, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="5-Hand Poker (Unknown)">
+		<description>5-Hand Poker (Unknown)</description>
+		<rom name="5-handpoker.apk" size="75526927" crc="02248e32" md5="64b8dde0a953898821fa47576a7ee555" sha1="5e37d92e1035491bdc45c6909a11cfdfbecdbf3d"/>
+	</game>
+	<game name="Bingo Adventures (Unknown)">
+		<description>Bingo Adventures (Unknown)</description>
+		<rom name="bingoadventures.apk" size="118564700" crc="a22f30cd" md5="cb779acb86272e5a27f93e3f666868ab" sha1="aa2cf53cd01829adc5288381015e00ac2f5d8e9c"/>
+	</game>
+	<game name="Blackjack Duel (Unknown)">
+		<description>Blackjack Duel (Unknown)</description>
+		<rom name="blackjackduel.apk" size="73624126" crc="58ba7606" md5="47a7c1776eef669afced99066a1a72f8" sha1="656cffa75e604370536cbcadb7e2eeda01146420"/>
+	</game>
+	<game name="BombSquad (USA) (v1.4.136) (Demo) (Kiosk)">
+		<description>BombSquad (USA) (v1.4.136) (Demo) (Kiosk)</description>
+		<game_id>net.froemling.bombsquaddemo</game_id>
+		<rom name="Palette_Game_BombSquad-demo-release_LDU_0403.apk" size="50986581" crc="5a1ae8fe" md5="ccd9c797dee0b19ac5049ea98f9e20d6" sha1="6911bf36ea27c48a9dfed4fab8c334b199e9b722" sha256="66de83d6a0c8c446efe7c0c8c89dcba7cc31ee9ddf08f83fe8f44513dc4e7e0c"/>
+	</game>
+	<game name="FleeFree (World) (Demo)">
+		<description>FleeFree (World) (Demo)</description>
+		<rom name="Fleafree10.apk" size="7056597" crc="5e325dfc" md5="fc0327ce7042b2a4f412ca3db946bdb0" sha1="ef6e480043667d8f6b323754f8c79d9c684407b3" sha256="e426fe7106bef6f6855ab0052cfa679203d09cb8edc407f3800efb645a379e53"/>
+	</game>
+	<game name="HexiBlox (Unknown)">
+		<description>HexiBlox (Unknown)</description>
+		<rom name="hexiblox.apk" size="75573406" crc="287af434" md5="341dc9c9c5938904c8ebece68a4c3db3" sha1="823cddbdcb3cc4dd175d8dbbcebf7064ffbdbcdc"/>
+	</game>
+	<game name="Houshou Player (World) (Ja) (DLsite)">
+		<description>Houshou Player (World) (Ja) (DLsite)</description>
+		<rom name="HOUSHOU_PLAYER_v1.0.0.apk" size="30433550" crc="6bb9d559" md5="a5642e534cb927916faf26447adbe8f7" sha1="19829025a00ca2bd3203cf417eac2d0020be819a" sha256="2cf9bb82fb5e7bc6665aac240784a6308a7e1a42b35583a4b1c862784788235f"/>
+	</game>
+	<game name="Kimi wa Chimera R (World) (Ja)">
+		<description>Kimi wa Chimera R (World) (Ja)</description>
+		<rom name="New.apk" size="42206225" crc="19d9bf86" md5="321d209657c96985373750cdec0a2c44" sha1="26cfe672e4b0416f961f61e8ccb6c52adf8f5340" sha256="8dbfa050c256733d8a5eb6d3be7557174b0623aa9a693bd3ce62dd98e7d1b3b2"/>
+	</game>
+	<game name="Nemuri no Sister (World) (En,Ja,Zh) (DLsite)">
+		<description>Nemuri no Sister (World) (En,Ja,Zh) (DLsite)</description>
+		<game_id>RJ351586</game_id>
+		<rom name="app-release.apk" size="27803935" crc="311413e5" md5="f71df58b6633d42e125f1956948ef753" sha1="12c5063d3698424662a75bc7d8c9530704bb1410" sha256="cc39e94d6c78899f3979ba546e844fd905d12370fc91aaaacd1dcfd46d8d3487"/>
+	</game>
+	<game name="Play 21 (Unknown)">
+		<description>Play 21 (Unknown)</description>
+		<rom name="play21.apk" size="73669201" crc="19b9e47b" md5="f85f94ac46c8426507da739b2ac6f8ad" sha1="10e360029d312ded1feb034c6ceb8bd2047aa49d"/>
+	</game>
+	<game name="Poker Hands (World) (v0.24.0)">
+		<description>Poker Hands (World) (v0.24.0)</description>
+		<game_id>com.hexigames.threehandpoker</game_id>
+		<rom name="pokerhands.apk" size="72210486" crc="feff4564" md5="5261a07e2b455e9b3858cb2b4cb98129" sha1="77a9ff43a9a57dce7e93b6004798bfb0f71c59a2" sha256="a24895db48f144e799799a460b721581b09cbde8933aa4b3aff2e3dc12b912e4" status="verified"/>
+	</game>
+	<game name="Seekers Notes - Hidden Mystery (USA) (v1.44.0) (Demo) (Kiosk)">
+		<description>Seekers Notes - Hidden Mystery (USA) (v1.44.0) (Demo) (Kiosk)</description>
+		<game_id>com.mytona.seekersnotes.android</game_id>
+		<rom name="TabA7_SNsamsung-release.apk" size="232478488" crc="f2262baa" md5="c1309f2567d4c92c006f73718596df48" sha1="fc699a1985106fef5328459e31205219d7d4f3de" sha256="0d862a2c66a507e8e02b68252a788aba092ed722e81ce283d2b8980af870cc8d"/>
+	</game>
+	<game name="Solitaire Go (World) (v0.18.0)">
+		<description>Solitaire Go (World) (v0.18.0)</description>
+		<game_id>com.hexigames.solitairego</game_id>
+		<rom name="solitairego!.apk" size="80969469" crc="c1067114" md5="663f6d420b9452ca788595e95f998ee8" sha1="82af76d40b4ef108c05ff2d45e068a0d7717b5bb" sha256="0549b515e78c5eda7b8f5677db03c677ffdeb586c397254534ae9a94362716d1" status="verified"/>
+	</game>
+	<game name="Sound Journey Dream Seeker (World) (Ja)">
+		<description>Sound Journey Dream Seeker (World) (Ja)</description>
+		<game_id>jp.tyrano.tyranoplayerframework</game_id>
+		<rom name="app-release.apk" size="206609195" crc="95772d14" md5="98b9582753128b9fe1934304453078ec" sha1="95a108b7152e0299ed130dd6e0c28c54cee4d164" sha256="367551eb1d7afa7100fbde48e690c209677b634a82a52cfed2f365277ab46eb6" status="verified"/>
+	</game>
+	<game name="Talking Tom Gold Run (USA) (v2.7.5.28) (Demo) (Kiosk)">
+		<description>Talking Tom Gold Run (USA) (v2.7.5.28) (Demo) (Kiosk)</description>
+		<game_id>com.outfit7.talkingtomgoldrun.o7promo.samsung</game_id>
+		<rom name="TabA7_TalkingTomGoldRun_RB-samsung-rc-b28-v2.7.5.28.apk" size="77770531" crc="0e635ca8" md5="27cea52b697c573e2d6371c1ab26e5ea" sha1="8e1f496bc7c0d95e0ec8b9a168ad197d033e46fe" sha256="9081ca2d257ae01826000fb9d11a11dc5a80997d3fbf94c5cd39d1cc21b2e608"/>
+	</game>
+	<game name="Talking Tom Gold Run (USA) (3.3.1.237) (Demo) (Kiosk)">
+		<description>Talking Tom Gold Run (USA) (3.3.1.237) (Demo) (Kiosk)</description>
+		<game_id>com.outfit7.talkingtomgoldrun.o7promo.samsung</game_id>
+		<rom name="Canvas_DemoApps_TalkingTomGoldRun.apk" size="85885148" crc="4175d52a" md5="4a544b92f0ba042da7d11bfef0b379cd" sha1="90df979559ad884b75787591560085f497a012f7" sha256="b5d26b3379f4de622b9c4ea8f0021377cd4499c214d830f07205274792942a10"/>
+	</game>
+	<game name="Virus Jigglin' Fever (Unknown) (v1.0.24) (Groupees)">
+		<description>Virus Jigglin' Fever (Unknown) (v1.0.24) (Groupees)</description>
+		<rom name="VJF-Android-1.0.24.apk" size="13339025" crc="c88e1a30" md5="40a821ad182a4e059b531733bb26e7bb" sha1="a6c5082c2dd599a0d96b1ae4a86169e3b78c1909"/>
+	</game>
+</datafile>
