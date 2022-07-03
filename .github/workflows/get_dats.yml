@@ -10,10 +10,10 @@ env:
   WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
 
 jobs:
-
-  nointro_dl:
+  dat-dl:
     name: 'Download no-intro daily dats'
     runs-on: windows-latest
+
     steps:
 
       - name: Clean Workspace
