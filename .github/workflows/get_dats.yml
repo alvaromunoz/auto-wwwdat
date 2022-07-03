@@ -10,13 +10,12 @@ env:
   WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
 
 jobs:
-  dat-dl:
-    name: 'Download no-intro daily dats'
-    runs-on: windows-latest
+  build-win_x64: # only win_x64 so far :)
+    name: Build Chiaki Windows x64 binary
+    runs-on: windows-2022
 
     steps:
-
-      - name: Clean Workspace
+      - name: Clean Workspace Action
         uses: yumis-coconudge/clean-workspace-action@v1.0.5
       
       - name: Checkout
