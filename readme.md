@@ -1,0 +1,1 @@
+Following instructions from https://mamedev.emulab.it/clrmamepro/docs/wwwprofiler.txt
