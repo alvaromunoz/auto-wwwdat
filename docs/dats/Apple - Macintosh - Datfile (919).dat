@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh - Discs (919) (2022-07-03 01-26-34)</description>
-		<version>2022-07-03 01-26-34</version>
-		<date>2022-07-03 01-26-34</date>
+		<description>Apple - Macintosh - Discs (919) (2022-07-03 06-31-12)</description>
+		<version>2022-07-03 06-31-12</version>
+		<date>2022-07-03 06-31-12</date>
 		<author>redump.org</author>
 		<homepage>redump.org</homepage>
 		<url>http://redump.org/</url>
@@ -6259,11 +6259,11 @@
 		<rom name="Last War (Japan).cue" size="82" crc="66de6b97" md5="64cdd524588ef21f85c514986f68d813" sha1="8a1cc7f3282a80e709f690c4560e46cd60a03988"/>
 		<rom name="Last War (Japan).bin" size="36860544" crc="474f9bfa" md5="07fcc1bb202aabf460cc77152b5f9701" sha1="66cb68569d09dba033dc21746f3bd04a95ac5f4e"/>
 	</game>
-	<game name="The Nanpa - Tokyo Tadaman Monogatari (Japan)">
+	<game name="Nanpa, The - Tokyo Tadaman Monogatari (Japan)">
 		<category>Games</category>
-		<description>The Nanpa - Tokyo Tadaman Monogatari (Japan)</description>
-		<rom name="The Nanpa - Tokyo Tadaman Monogatari (Japan).cue" size="133" crc="fca803e4" md5="dfcbe8eaa9dcad9c9a5d2bb840524890" sha1="13fb628f2687ef6b02233ba08af09df146257310"/>
-		<rom name="The Nanpa - Tokyo Tadaman Monogatari (Japan).bin" size="614488224" crc="88375cd9" md5="499aeef007e79778e8a687811bb5e268" sha1="a684e807a54edffdf8b31058e910540fefc28df0"/>
+		<description>Nanpa, The - Tokyo Tadaman Monogatari (Japan)</description>
+		<rom name="Nanpa, The - Tokyo Tadaman Monogatari (Japan).cue" size="134" crc="a2175fff" md5="d6d0a6808b06873cf1381662d45bb3bd" sha1="3d0652aa21e1f29f75b4f445c4deb8df4b8a759e"/>
+		<rom name="Nanpa, The - Tokyo Tadaman Monogatari (Japan).bin" size="614488224" crc="88375cd9" md5="499aeef007e79778e8a687811bb5e268" sha1="a684e807a54edffdf8b31058e910540fefc28df0"/>
 	</game>
 	<game name="Dink - Interactive Nanpa Special (Japan)">
 		<category>Games</category>
