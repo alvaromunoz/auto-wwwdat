@@ -30,8 +30,8 @@ jobs:
       - name: Create dats folder
         shell: powershell
         run: | 
-          Remove-Item ${{ env.TEMP_DIR }} -Recurse -ErrorAction Ignore
-          New-Item -Path ${{ env.TEMP_DIR }} -ItemType Directory -ErrorAction Ignore
+          Remove-Item "${{ env.TEMP_DIR }}" -Recurse -ErrorAction Ignore
+          New-Item -Path "${{ env.TEMP_DIR }}" -ItemType Directory -ErrorAction Ignore
 
       - name: Download no-intro DATs
         shell: powershell
@@ -165,5 +165,6 @@ jobs:
           git config --global user.name 'Git bot'
           git config --global user.email 'bot@noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add .
           git commit -am "Auto updated dats" && git push || echo "New dats"
 
