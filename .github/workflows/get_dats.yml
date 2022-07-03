@@ -147,7 +147,7 @@ jobs:
           $description = $xmlfile.datafile.header.description
           $version = $xmlfile.datafile.header.version
           $author = $xmlfile.datafile.header.author
-          $url = "${{ env.WWW_URL }}/$${{ env.TEMP_DIR }}/"+$file.Name
+          $url = "${{ env.WWW_URL }}/${{ env.TEMP_DIR }}/"+$file.Name
           $file = $file.Name
 
           $xmlelement=@"
