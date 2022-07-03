@@ -26,3 +26,9 @@ jobs:
       
       - name: Checkout
         uses: actions/checkout@v2
+
+      - name: Create dats folder
+      shell: powershell
+      run: | 
+        Remove-Item ${{ $env.TEMP_DIR }} -Recurse -ErrorAction Ignore
+        New-Item -Path ${{ $env.TEMP_DIR }} -ItemType Directory -ErrorAction Ignore
