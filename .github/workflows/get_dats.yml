@@ -1,11 +1,10 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Get DATs
 
-# Controls when the workflow will run
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  schedule:
+    # Run everyday at 8:00 UTC
+    - cron:  '0 8 * * *'
 
 defaults:
   run:
@@ -16,15 +15,11 @@ env:
   DATS_DIR: "dats"
   WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
   
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   download:
     name: Get DATs
-    # The type of runner that the job will run on
     runs-on: windows-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
       - name: Clean Workspace Action
@@ -34,13 +29,11 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Create dats folder
-        shell: powershell
         run: | 
           Remove-Item "${{ env.DATS_DIR }}" -Recurse -ErrorAction Ignore
           New-Item -Path "${{ env.DATS_DIR }}" -ItemType Directory -ErrorAction Ignore
 
       - name: Download no-intro DATs
-        shell: powershell
         run: |
           $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
           $session.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44"
@@ -91,7 +84,6 @@ jobs:
           }
 
       - name: Download redump DATs
-        shell: powershell
         run: |
           $redump_baseurl = "http://redump.org"
           $redump_download_page = Invoke-WebRequest -Uri "$redump_baseurl/downloads/"
@@ -111,7 +103,6 @@ jobs:
           }
 
       - name: Extract and clean DATs
-        shell: powershell
         run: |
 
           # Extract dats from zips
