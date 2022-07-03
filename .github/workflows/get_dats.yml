@@ -30,8 +30,8 @@ jobs:
       - name: Create dats folder
         shell: powershell
         run: | 
-          Remove-Item $TEMP_DIR -Recurse -ErrorAction Ignore
-          New-Item -Path $TEMP_DIR -ItemType Directory -ErrorAction Ignore
+          Remove-Item ${{ env.TEMP_DIR }} -Recurse -ErrorAction Ignore
+          New-Item -Path ${{ env.TEMP_DIR }} -ItemType Directory -ErrorAction Ignore
 
       - name: Download no-intro DATs
         shell: powershell
@@ -65,7 +65,7 @@ jobs:
 
           $ProgressPreference = 'SilentlyContinue'
           $nointro_download_url = "https://datomatic.no-intro.org/{0}" -f $datomatic_download_path
-          $nointro_download_dest = "{0}/no-intro.zip" -f $TEMP_DIR
+          $nointro_download_dest = "{0}/no-intro.zip" -f ${{ env.TEMP_DIR }}
           Invoke-WebRequest -UseBasicParsing -Uri $nointro_download_url `
             -Method "POST" `
             -WebSession $session `
@@ -94,7 +94,7 @@ jobs:
           foreach ($link in $redump_download_list) {
             
             $source = $redump_baseurl + $link.href
-            $destination = $TEMP_DIR + "/" + ($link.href -split "/" | Where-Object { $_ } | Select-Object -Last 1) + ".zip"
+            $destination = ${{ env.TEMP_DIR }} + "/" + ($link.href -split "/" | Where-Object { $_ } | Select-Object -Last 1) + ".zip"
             
             Invoke-WebRequest -UseBasicParsing -Uri "$source" `
               -OutFile "$destination" `
@@ -109,19 +109,19 @@ jobs:
         run: |
 
           # Extract dats from zips
-          $zipfiles = Get-ChildItem -Path $TEMP_DIR | Where-Object {$_.Name -match ".+\.zip"}
+          $zipfiles = Get-ChildItem -Path ${{ env.TEMP_DIR }} | Where-Object {$_.Name -match ".+\.zip"}
           foreach( $file in $zipfiles ) {
             Expand-Archive -LiteralPath $file.FullName -DestinationPath $file.DirectoryName
           }
 
           # Remove non dat files
-          $nodatfiles = Get-ChildItem -Path $TEMP_DIR | Where-Object {$_.Name -notmatch ".+\.dat"}
+          $nodatfiles = Get-ChildItem -Path ${{ env.TEMP_DIR }} | Where-Object {$_.Name -notmatch ".+\.dat"}
           foreach( $file in $nodatfiles ) {
             Remove-Item $file.FullName
           }
 
           # Rename dat files
-          $datfiles = Get-ChildItem -Path $TEMP_DIR | Where-Object {$_.Name -match ".+\.dat"}
+          $datfiles = Get-ChildItem -Path ${{ env.TEMP_DIR }} | Where-Object {$_.Name -match ".+\.dat"}
           foreach( $file in $datfiles ) {
             $newname = $file.Name -replace '(.+) \(.+\.dat', '$1.dat'
             Rename-Item -Path $file.FullName -NewName $newname
@@ -130,9 +130,9 @@ jobs:
       - name: Create XML
         shell: powershell
         run: |
-          Set-Content -Path $TEMP_DIR/raw_dat_clrmamepro.xml -Value '<clrmamepro>'
+          Set-Content -Path ${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml -Value '<clrmamepro>'
 
-          $datfiles = Get-ChildItem -Path $TEMP_DIR | Where-Object {$_.Name -match ".+\.dat"}
+          $datfiles = Get-ChildItem -Path ${{ env.TEMP_DIR }} | Where-Object {$_.Name -match ".+\.dat"}
           
           foreach( $file in $datfiles ) {
             [XML]$xmlfile = Get-Content -Path $file.FullName
@@ -140,7 +140,7 @@ jobs:
             $description = $xmlfile.datafile.header.description
             $version = $xmlfile.datafile.header.version
             $author = $xmlfile.datafile.header.author
-            $url = $WWW_URL/$file.Name
+            $url = ${{ env.WWW_URL }}/$file.Name
             $file = $file.Name
 
             $xmlelement=@"
@@ -149,15 +149,15 @@ jobs:
                 <description>$description</description>
                 <version>$version</version>
                 <author>$author</author>
-                <comment>Hosted on github $WWW_URL</comment>
+                <comment>Hosted on github ${{ env.WWW_URL }}</comment>
                 <url>$url</url>
                 <file>$file</file>
               <datfile>
               "@
 
-            Add-Content -Path $TEMP_DIR/raw_dat_clrmamepro.xml -Value $xmlelement
+            Add-Content -Path ${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml -Value $xmlelement
           }
-          Add-Content -Path $TEMP_DIR/raw_dat_clrmamepro.xml -Value '</clrmamepro>'
+          Add-Content -Path ${{ env.TEMP_DIR }}/raw_dat_clrmamepro.xml -Value '</clrmamepro>'
 
       - name: Update dats on website
         run: |
