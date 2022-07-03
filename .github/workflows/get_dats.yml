@@ -156,10 +156,9 @@ jobs:
               <description>$description</description>
               <version>$version</version>
               <author>$author</author>
-              <comment>Hosted on github ${{ env.WWW_URL }}</comment>
+              <comment>Hosted on ${{ env.WWW_URL }}</comment>
               <url>$url</url>
-              <file>$file</file>
-            <datfile>
+            </datfile>
           "@
 
             Add-Content -Path "${{ env.DATS_DIR }}/raw_dat_clrmamepro.xml" -Value $xmlelement
