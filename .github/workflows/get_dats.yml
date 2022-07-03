@@ -120,10 +120,13 @@ jobs:
           # Rename dat files
           $datfiles = Get-ChildItem -Path "${{ env.DATS_DIR }}" | Where-Object {$_.Name -match ".+\.dat"}
           foreach( $file in $datfiles ) {
-            $newname = $file.Name -replace '(.+) \(.+\.dat', '$1.dat'
+            [XML]$xmlfile = Get-Content -Path $file.FullName
+            $newname = $xmlfile.datafile.header.name + ".dat"
             Rename-Item -Path $file.FullName -NewName $newname
           }
 
+      #REDUMP must be split from NO-INTRO
+      #RETOOL MUST BE RUN IN BOTH
       - name: Create XML
         shell: powershell
         run: |
@@ -139,6 +142,9 @@ jobs:
           $version = $xmlfile.datafile.header.version
           $author = $xmlfile.datafile.header.author
           $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/"+$file.Name
+          
+          # TODO: This has to be .zip!
+          
           $file = $file.Name
 
           $xmlelement=@"
@@ -155,6 +161,9 @@ jobs:
             Add-Content -Path "${{ env.DATS_DIR }}/raw_dat_clrmamepro.xml" -Value $xmlelement
           }
           Add-Content -Path "${{ env.DATS_DIR }}/raw_dat_clrmamepro.xml" -Value "</clrmamepro>"
+
+          #TODO: Generate ZIPs
+          #TODO: Delete DATs
 
       - name: Update dats on website
         run: |
