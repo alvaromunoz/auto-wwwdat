@@ -218,24 +218,22 @@ jobs:
           New-Item -Path "docs/dats" -ItemType Directory
 
       - name: Get no-intro Artifacts
-        working-directory: docs/dats
         uses: actions/download-artifact@v3
         with:
           name: no-intro_zips
-          path: no-intro
+          path: docs/dats/no-intro
 
       - name: Get Redump Artifacts
-        working-directory: docs/dats
         uses: actions/download-artifact@v3
         with:
           name: redump_zips
-          path: redump
+          path: docs/dats/redump
 
       - name: Get XML Indexes Artifacts
-        working-directory: docs/dats
         uses: actions/download-artifact@v3
         with:
-          name: XML_indexes
+          name: XML_indexes          
+          path: docs/dats
 
       - name: Update dats on website
         run: |
