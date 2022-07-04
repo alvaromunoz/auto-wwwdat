@@ -9,32 +9,30 @@ on:
 defaults:
   run:
     shell: powershell
-    working-directory: docs
 
 env:
+  WORK_DIR: "docs"
   DATS_DIR: "dats"
   WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
-  
+
+# download in parallel jobs
+# matrix to extract, rename, zip 1 by 1, create XML, in parallel jobs
+# extract everything on separate steps
+# each step creates its own index.xml (pointing to zip files)
+# each step uploads artifacts
+# one step gets all artifacts
+# that same step publishes to git
+
 jobs:
-  download:
-    name: Get DATs
+  no-intro:
+    name: Download no-intro DATs
     runs-on: windows-latest
 
     steps:
 
-      - name: Clean Workspace Action
-        uses: yumis-coconudge/clean-workspace-action@v1.0.5
-      
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Create dats folder
-        run: | 
-          Remove-Item "${{ env.DATS_DIR }}" -Recurse -ErrorAction Ignore
-          New-Item -Path "${{ env.DATS_DIR }}" -ItemType Directory -ErrorAction Ignore
-
       - name: Download no-intro DATs
         run: |
+        
           $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
           $session.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44"
 
@@ -64,7 +62,7 @@ jobs:
 
           $ProgressPreference = 'SilentlyContinue'
           $nointro_download_url = "https://datomatic.no-intro.org/{0}" -f $datomatic_download_path
-          $nointro_download_dest = "{0}/no-intro.zip" -f "${{ env.DATS_DIR }}"
+          $nointro_download_dest = "./no-intro.zip"
           Invoke-WebRequest -UseBasicParsing -Uri $nointro_download_url `
             -Method "POST" `
             -WebSession $session `
@@ -83,6 +81,42 @@ jobs:
             "origin"          = "https://datomatic.no-intro.org"
           }
 
+      - name: Divide zip file
+        run: |
+          $temp_dir_name = "temp"
+          if (Test-Path -Path $temp_dir_name) {
+              Remove-Item $temp_dir_name -Recurse
+          }
+          $temp_dir = New-Item -Path $temp_dir_name -ItemType Directory
+          
+          $zip_file = Get-Item -Path "./no-intro.zip"
+          $dats_dir = Get-Item -Path $temp_dir.FullName
+
+          Expand-Archive -LiteralPath $zip_file.FullName -DestinationPath $dats_dir.FullName
+
+          # Create individual zips
+          $dat_files = Get-ChildItem -Path $dats_dir | Where-Object {$_.Name -match ".+\.dat"}
+          foreach( $file in $dat_files ) {
+            [XML]$xml_file = Get-Content -Path $file
+            $name = $xmlfile.datafile.header.name
+            $destination = $file.DirectoryName +"/"+ $xmlfile.datafile.header.name + ".zip"
+            Compress-Archive -LiteralPath $file.FullName -DestinationPath $destination
+          }
+
+          echo "ZIP_FILEPATH=$dats_dir.FullName" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+      
+      - name: Upload no-intro Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: no-intro_daily_zip
+          path: ${{ env.ZIP_FILEPATH }}/*.zip
+          if-no-files-found: error
+          retention-days: 1
+
+  redump:
+    name: Download Redump DATs
+    runs-on: windows-latest
+    steps:
       - name: Download redump DATs
         run: |
           $redump_baseurl = "http://redump.org"
@@ -92,7 +126,7 @@ jobs:
           foreach ($link in $redump_download_list) {
             
             $source = $redump_baseurl + $link.href
-            $destination = "${{ env.DATS_DIR }}" + "/" + ($link.href -split "/" | Where-Object { $_ } | Select-Object -Last 1) + ".zip"
+            $destination = "./" + ($link.href -split "/" | Where-Object { $_ } | Select-Object -Last 1) + ".zip"
             
             Invoke-WebRequest -UseBasicParsing -Uri "$source" `
               -OutFile "$destination" `
@@ -101,69 +135,70 @@ jobs:
               "Accept-Encoding" = "gzip, deflate"
             }    
           }
+          
+          $zip_filepath = Get-Item "." | %{$_.FullName}
+          echo "ZIP_FILEPATH=$zip_filepath" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+      
+      - name: Upload redump Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: redump_daily_zips
+          path: ${{ env.ZIP_FILEPATH }}/*.zip
+          if-no-files-found: error
+          retention-days: 1
 
-      - name: Extract and clean DATs
+  create_xml_files:
+    name: Create XML files
+    runs-on: windows-latest
+    working-directory: ${{ env.WORK_DIR }}
+    strategy:
+      matrix:
+        include:
+          - provider: "no-intro"
+            artifact: "no-intro_daily_zip"
+            dat_folder: "${{ env.DATS_DIR }}/no-intro"
+          - provider: "redump"
+            artifact: "redump_daily_zips"
+            dat_folder: "${{ env.DATS_DIR }}/redump"
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Get Artifacts
+        uses: actions/download-artifact@v3
+
+      - name: Get clrmamepro
         run: |
-
-          # Extract dats from zips
-          $zipfiles = Get-ChildItem -Path "${{ env.DATS_DIR }}" | Where-Object {$_.Name -match ".+\.zip"}
-          foreach( $file in $zipfiles ) {
-            Expand-Archive -LiteralPath $file.FullName -DestinationPath $file.DirectoryName
+          $ProgressPreference = 'SilentlyContinue'
+          $clrmamepro_download_url = [uri]"https://mamedev.emulab.it/clrmamepro/binaries/cmp4045_64.zip"
+          $clrmamepro_download_dest = $clrmamepro_download_url.Segments[-1]
+          $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
+          $session.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44"
+          Invoke-WebRequest -UseBasicParsing -Uri $clrmamepro_download_url `
+          -WebSession $session `
+          -OutFile $clrmamepro_download_dest `
+          -Headers @{
+          "Accept"="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+            "Accept-Encoding"="gzip, deflate, br"
+            "Referer"="https://mamedev.emulab.it/clrmamepro/"
           }
+          $clrmamepro_file = Get-Item $clrmamepro_download_dest
+          $clrmamepro_dir = New-Item -Path "clrmamepro" -ItemType Directory
+          Expand-Archive -LiteralPath $clrmamepro_file.FullName -DestinationPath $clrmamepro_dir.FullName
 
-          # Remove non dat files
-          $nodatfiles = Get-ChildItem -Path "${{ env.DATS_DIR }}" | Where-Object {$_.Name -notmatch ".+\.dat"}
-          foreach( $file in $nodatfiles ) {
-            Remove-Item $file.FullName
-          }
-
-          # Rename dat files
-          $datfiles = Get-ChildItem -Path "${{ env.DATS_DIR }}" | Where-Object {$_.Name -match ".+\.dat"}
-          foreach( $file in $datfiles ) {
-            [XML]$xmlfile = Get-Content -Path $file.FullName
-            $newname = $xmlfile.datafile.header.name + ".dat"
-            Rename-Item -Path $file.FullName -NewName $newname
-          }
-
-      #REDUMP must be split from NO-INTRO
-      #RETOOL MUST BE RUN IN BOTH
-      - name: Create XML
-        shell: powershell
+      - name: Clean DATs folders
         run: |
-          Set-Content -Path "${{ env.DATS_DIR }}/raw_dat_clrmamepro.xml" -Value '<clrmamepro>'
-
-          $datfiles = Get-ChildItem -Path "${{ env.DATS_DIR }}" | Where-Object {$_.Name -match ".+\.dat"}
-          
-          foreach( $file in $datfiles ) {
-
-          [XML]$xmlfile = Get-Content -Path $file.FullName
-          $name = $xmlfile.datafile.header.name
-          $description = $xmlfile.datafile.header.description
-          $version = $xmlfile.datafile.header.version
-          $author = $xmlfile.datafile.header.author
-          $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/"+$file.Name
-          
-          # TODO: This has to be .zip!
-          
-          $file = $file.Name
-
-          $xmlelement=@"
-            <datfile>
-              <name>$name</name>
-              <description>$description</description>
-              <version>$version</version>
-              <author>$author</author>
-              <comment>Hosted on ${{ env.WWW_URL }}</comment>
-              <url>$url</url>
-            </datfile>
-          "@
-
-            Add-Content -Path "${{ env.DATS_DIR }}/raw_dat_clrmamepro.xml" -Value $xmlelement
+          if (Test-Path -Path "${{ matrix.dat_folder }}") {
+              Remove-Item "${{ matrix.dat_folder }}" -Recurse
           }
-          Add-Content -Path "${{ env.DATS_DIR }}/raw_dat_clrmamepro.xml" -Value "</clrmamepro>"
+          New-Item -Path "${{ matrix.dat_folder }}" -ItemType Directory
 
-          #TODO: Generate ZIPs
-          #TODO: Delete DATs
+      - name: Create XML index (clrmamepro)
+        run: |
+          $dats_dir = Get-Content -Path "${{ env.DATS_DIR }}" | %{$_.Full}
+          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ matrix.dat_folder }}" "${{ env.DATS_DIR }}/${{ matrix.provider }}.xml"
 
       - name: Update dats on website
         run: |
