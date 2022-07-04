@@ -9,7 +9,6 @@ on:
 defaults:
   run:
     shell: powershell
-    working-directory: docs
 
 env:
   DATS_DIR: "dats"
@@ -108,7 +107,7 @@ jobs:
       - name: Upload no-intro Artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: no-intro_daily_zip
+          name: no-intro_zips
           path: ${{ env.ZIP_FILEPATH }}/*.zip
           if-no-files-found: error
           retention-days: 1
@@ -142,30 +141,30 @@ jobs:
       - name: Upload redump Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: redump_daily_zips
+          name: redump_zips
           path: ${{ env.ZIP_FILEPATH }}/*.zip
           if-no-files-found: error
           retention-days: 1
 
   create_xml_files:
-    name: Create XML files
+    name: Create index XML files
     runs-on: windows-latest
     needs: [no-intro, redump]
     strategy:
       matrix:
         include:
           - provider: "no-intro"
-            artifact: "no-intro_daily_zip"
+            artifact: "no-intro_zips"
           - provider: "redump"
-            artifact: "redump_daily_zips"
+            artifact: "redump_zips"
 
     steps:
 
-      - name: Checkout
-        uses: actions/checkout@v2
-
       - name: Get Artifacts
         uses: actions/download-artifact@v3
+        with:
+          name: ${{ matrix.artifact }}
+          path: ${{ matrix.provider }}
 
       - name: Get clrmamepro
         run: |
@@ -186,20 +185,61 @@ jobs:
           $clrmamepro_dir = New-Item -Path "clrmamepro" -ItemType Directory
           Expand-Archive -LiteralPath $clrmamepro_file.FullName -DestinationPath $clrmamepro_dir.FullName
 
-      - name: Clean DATs folders
-        run: |
-          if (Test-Path -Path "${{ env.DATS_DIR }}/${{ matrix.provider}}") {
-              Remove-Item "${{ env.DATS_DIR }}/${{ matrix.provider}}" -Recurse
-          }
-          New-Item -Path "${{ env.DATS_DIR }}/${{ matrix.provider}}" -ItemType Directory
-
       - name: Create XML index (clrmamepro)
         run: |
-          $dats_dir = Get-Content -Path "${{ env.DATS_DIR }}" | %{$_.Full}
-          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ env.DATS_DIR }}/${{ matrix.provider}}" "${{ env.DATS_DIR }}/${{ matrix.provider }}.xml"
+          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ matrix.provider }}" "${{ matrix.provider }}.xml"
+
+      - name: Upload XML indexes
+        uses: actions/upload-artifact@v3
+        with:
+          name: XML_indexes
+          path: ${{ matrix.provider }}.xml
+          if-no-files-found: error
+          retention-days: 1
+
+  update_git:
+    name: Update GIT repo
+    runs-on: windows-latest
+    needs: create_xml_files
+
+    steps:
+
+      - name: Clean Workspace
+        uses: yumis-coconudge/clean-workspace-action@v1.0.5
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Clean DATs folders
+        run: |
+          if (Test-Path -Path "docs/dats") {
+              Remove-Item "docs/dats" -Recurse
+          }
+          New-Item -Path "docs/dats" -ItemType Directory
+
+      - name: Get no-intro Artifacts
+        working-directory: docs/dats
+        uses: actions/download-artifact@v3
+        with:
+          name: no-intro_zips
+          path: no-intro
+
+      - name: Get Redump Artifacts
+        working-directory: docs/dats
+        uses: actions/download-artifact@v3
+        with:
+          name: redump_zips
+          path: redump
+
+      - name: Get XML Indexes Artifacts
+        working-directory: docs/dats
+        uses: actions/download-artifact@v3
+        with:
+          name: XML_indexes
 
       - name: Update dats on website
         run: |
+          ls -R
           git config --global user.name 'Git bot'
           git config --global user.email 'bot@noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
