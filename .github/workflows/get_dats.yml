@@ -97,8 +97,8 @@ jobs:
           $dat_files = Get-ChildItem -Path $dats_dir | Where-Object {$_.Name -match ".+\.dat"}
           foreach( $file in $dat_files ) {
             [XML]$xml_file = Get-Content -Path $file.FullName
-            $name = $xmlfile.datafile.header.name
-            $destination = $file.DirectoryName +"/"+ $xmlfile.datafile.header.name + ".zip"
+            $name = $xml_file.datafile.header.name
+            $destination = $file.DirectoryName +"/"+ $xml_file.datafile.header.name + ".zip"
             Compress-Archive -LiteralPath $file.FullName -DestinationPath $destination
           }
 
