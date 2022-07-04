@@ -12,7 +12,7 @@ defaults:
 
 env:
   DATS_DIR: "dats"
-  WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
+  WWW_URL: "alvaromunoz.github.io/auto-wwwdat"
 
 # download in parallel jobs
 # matrix to extract, rename, zip 1 by 1, create XML, in parallel jobs
