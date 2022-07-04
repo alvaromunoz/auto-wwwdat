@@ -86,20 +86,19 @@ jobs:
           if (Test-Path -Path $temp_dir_name) {
               Remove-Item $temp_dir_name -Recurse
           }
-          $temp_dir = New-Item -Path $temp_dir_name -ItemType Directory
+          $dats_dir = New-Item -Path $temp_dir_name -ItemType Directory
           
           $zip_file = Get-Item -Path "./no-intro.zip"
-          $dats_dir = Get-Item -Path $temp_dir.FullName
 
           Expand-Archive -LiteralPath $zip_file.FullName -DestinationPath $dats_dir.FullName
 
           # Create individual zips
           $dat_files = Get-ChildItem -Path $dats_dir | Where-Object {$_.Name -match ".+\.dat"}
           foreach( $file in $dat_files ) {
-            [XML]$xml_file = Get-Content -Path $file.FullName
+            [XML]$xml_file = Get-Content $file
             $name = $xml_file.datafile.header.name
             $destination = $file.DirectoryName +"/"+ $xml_file.datafile.header.name + ".zip"
-            Compress-Archive -LiteralPath $file.FullName -DestinationPath $destination
+            Compress-Archive -Path $file -DestinationPath $destination
           }
 
           echo "ZIP_FILEPATH=$dats_dir.FullName" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
