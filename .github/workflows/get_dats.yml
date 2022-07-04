@@ -175,8 +175,8 @@ jobs:
           $clrmamepro_dir = New-Item -Path "clrmamepro" -ItemType Directory
           Expand-Archive -LiteralPath $clrmamepro_file.FullName -DestinationPath $clrmamepro_dir.FullName
 
-          Set-Content -Path $clrmamepro_dir.FullName\cmpro.ini -Value '[CMPRO SETTINGS]'
-          Add-Content -Path $clrmamepro_dir.FullName\cmpro.ini -Value 'Misc_Version = 40450'
+          Set-Content -Path "$clrmamepro_dir\cmpro.ini" -Value '[CMPRO SETTINGS]'
+          Add-Content -Path "$clrmamepro_dir\cmpro.ini" -Value 'Misc_Version = 40450'
           
 
       - name: Create XML index (clrmamepro)
