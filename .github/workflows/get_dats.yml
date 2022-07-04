@@ -9,9 +9,9 @@ on:
 defaults:
   run:
     shell: powershell
+    working-directory: docs
 
 env:
-  WORK_DIR: "docs"
   DATS_DIR: "dats"
   WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
 
@@ -150,7 +150,6 @@ jobs:
   create_xml_files:
     name: Create XML files
     runs-on: windows-latest
-    working-directory: ${{ env.WORK_DIR }}
     strategy:
       matrix:
         include:
