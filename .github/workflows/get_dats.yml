@@ -84,21 +84,13 @@ jobs:
 
           Expand-Archive -LiteralPath $zip_file.FullName -DestinationPath $dats_dir.FullName
 
-          # Create individual zips
-          $dat_files = Get-ChildItem -Path $dats_dir | Where-Object { $_.Name -match ".+\.dat" }
-          foreach ( $file in $dat_files ) {
-              [XML]$xml_file = Get-Content $file.FullName
-              $destination = $file.DirectoryName + "/" + $xml_file.datafile.header.name + ".zip"
-              Compress-Archive -Path $file.FullName -DestinationPath $destination
-          }
-
           Write-Output "ZIP_FILEPATH=$dats_dir" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
       
       - name: Upload no-intro Artifacts
         uses: actions/upload-artifact@v3
         with:
           name: no-intro_zips
-          path: ${{ env.ZIP_FILEPATH }}/*.zip
+          path: ${{ env.ZIP_FILEPATH }}/*.dat
           if-no-files-found: error
           retention-days: 1
 
@@ -125,14 +117,19 @@ jobs:
             }    
           }
           
-          $zip_filepath = Get-Item "." | %{$_.FullName}
-          Write-Output "ZIP_FILEPATH=$zip_filepath" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          # $zip_filepath = Get-Item "./" | %{$_.FullName}
+
+          # Create individual dats
+          $zip_files = Get-ChildItem -Path $dats_dir | Where-Object { $_.Name -match ".+\.zip" }
+          foreach ( $file in $zip_files ) {
+              Expand-Archive -Path $file.FullName -DestinationPath "./"
+          }
       
       - name: Upload redump Artifact
         uses: actions/upload-artifact@v3
         with:
           name: redump_zips
-          path: ${{ env.ZIP_FILEPATH }}/*.zip
+          path: ${{ github.workspace }}/*.dat
           if-no-files-found: error
           retention-days: 1
 
