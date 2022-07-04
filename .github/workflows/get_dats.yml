@@ -155,10 +155,8 @@ jobs:
         include:
           - provider: "no-intro"
             artifact: "no-intro_daily_zip"
-            dat_folder: "${{ env.DATS_DIR }}/no-intro"
           - provider: "redump"
             artifact: "redump_daily_zips"
-            dat_folder: "${{ env.DATS_DIR }}/redump"
 
     steps:
 
@@ -189,15 +187,15 @@ jobs:
 
       - name: Clean DATs folders
         run: |
-          if (Test-Path -Path "${{ matrix.dat_folder }}") {
-              Remove-Item "${{ matrix.dat_folder }}" -Recurse
+          if (Test-Path -Path "${{ env.DATS_DIR }}/${{ matrix.provider}}") {
+              Remove-Item "${{ env.DATS_DIR }}/${{ matrix.provider}}" -Recurse
           }
-          New-Item -Path "${{ matrix.dat_folder }}" -ItemType Directory
+          New-Item -Path "${{ env.DATS_DIR }}/${{ matrix.provider}}" -ItemType Directory
 
       - name: Create XML index (clrmamepro)
         run: |
           $dats_dir = Get-Content -Path "${{ env.DATS_DIR }}" | %{$_.Full}
-          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ matrix.dat_folder }}" "${{ env.DATS_DIR }}/${{ matrix.provider }}.xml"
+          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ env.DATS_DIR }}/${{ matrix.provider}}" "${{ env.DATS_DIR }}/${{ matrix.provider }}.xml"
 
       - name: Update dats on website
         run: |
