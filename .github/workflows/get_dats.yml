@@ -14,14 +14,6 @@ env:
   DATS_DIR: "dats"
   WWW_URL: "alvaromunoz.github.io/auto-wwwdat"
 
-# download in parallel jobs
-# matrix to extract, rename, zip 1 by 1, create XML, in parallel jobs
-# extract everything on separate steps
-# each step creates its own index.xml (pointing to zip files)
-# each step uploads artifacts
-# one step gets all artifacts
-# that same step publishes to git
-
 jobs:
   no-intro:
     name: Download no-intro DATs
@@ -183,10 +175,17 @@ jobs:
           $clrmamepro_dir = New-Item -Path "clrmamepro" -ItemType Directory
           Expand-Archive -LiteralPath $clrmamepro_file.FullName -DestinationPath $clrmamepro_dir.FullName
 
+          $cmpro_ini_value = @”
+            [CMPRO SETTINGS]
+            Misc_Version = 40450
+          “@
+          Set-Content -Path $clrmamepro_dir.FullName\cmpro.ini -Value $cmpro_ini_value
+          
+
       - name: Create XML index (clrmamepro)
         run: |
-          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ github.workspace }}/${{ matrix.provider }}" "${{ github.workspace }}/${{ matrix.provider }}.xml"
-          $xml_index = Get-Item "${{ github.workspace }}/${{ matrix.provider }}.xml"
+          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ github.workspace }}\${{ matrix.provider }}" "${{ github.workspace }}\${{ matrix.provider }}.xml"
+          $xml_index = Get-Item "${{ github.workspace }}\${{ matrix.provider }}.xml"
           Write-Output "XML_FILEPATH=$xml_index" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
           
 
