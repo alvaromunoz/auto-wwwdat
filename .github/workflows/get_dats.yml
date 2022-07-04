@@ -150,6 +150,7 @@ jobs:
   create_xml_files:
     name: Create XML files
     runs-on: windows-latest
+    needs: [no-intro, redump]
     strategy:
       matrix:
         include:
