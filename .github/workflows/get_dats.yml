@@ -185,13 +185,13 @@ jobs:
 
       - name: Create XML index (clrmamepro)
         run: |
-          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ matrix.provider }}" "${{ matrix.provider }}.xml"
+          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "./${{ matrix.provider }}" "./${{ matrix.provider }}.xml"
 
       - name: Upload XML indexes
         uses: actions/upload-artifact@v3
         with:
           name: XML_indexes
-          path: ${{ matrix.provider }}.xml
+          path: "./${{ matrix.provider }}.xml"
           if-no-files-found: error
           retention-days: 1
 
