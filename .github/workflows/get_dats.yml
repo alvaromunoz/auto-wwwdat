@@ -185,7 +185,7 @@ jobs:
 
       - name: Create XML index (clrmamepro)
         run: |
-          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{env.GITHUB_WORKSPACE}}/${{ matrix.provider }}" "${{env.GITHUB_WORKSPACE}}/${{ matrix.provider }}.xml"
+          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ github.workspace }}/${{ matrix.provider }}" "${{ github.workspace }}/${{ matrix.provider }}.xml"
           $xml_index = Get-Item "./${{ matrix.provider }}.xml"
           Write-Output "XML_FILEPATH=$xml_index" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
           
