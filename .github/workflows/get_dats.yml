@@ -96,7 +96,7 @@ jobs:
           # Create individual zips
           $dat_files = Get-ChildItem -Path $dats_dir | Where-Object {$_.Name -match ".+\.dat"}
           foreach( $file in $dat_files ) {
-            [XML]$xml_file = Get-Content -Path $file
+            [XML]$xml_file = Get-Content -Path $file.FullName
             $name = $xmlfile.datafile.header.name
             $destination = $file.DirectoryName +"/"+ $xmlfile.datafile.header.name + ".zip"
             Compress-Archive -LiteralPath $file.FullName -DestinationPath $destination
