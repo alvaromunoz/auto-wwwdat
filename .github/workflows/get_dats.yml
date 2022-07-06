@@ -181,7 +181,8 @@ jobs:
           (${{ matrix.languages }} -split ";").ForEach({Add-Content -Path "user-config.yaml" -Value "- $_"}) 
           Add-Content -Path "user-config.yaml" -Value "region order:"
           Add-Content -Path "user-config.yaml" -Value "- ${{ matrix.region }}"
-          Add-Content -Path "user-config.yaml" -Value @"- World
+          Add-Content -Path "user-config.yaml" -Value @"
+          - World
           list prefix:
           list suffix:
           "@
