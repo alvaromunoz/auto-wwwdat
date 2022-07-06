@@ -206,10 +206,53 @@ jobs:
           $xml_index = Get-Item "raw_${{ matrix.provider }}.xml"
           Write-Output "XML_FILEPATH=$xml_index" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
 
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+          architecture: "x64"
+
+      - name: Checkout tools repo
+        uses: actions/checkout@v3
+        with:
+          repository: unexpectedpanda/retool
+          path: retool
+
+      - name: Create retool config files
+        working-directory: retool
+        run: |
+          Set-Content -Path "user-config.yaml" -Value @"
+          ---
+          language filter:
+          - English
+
+          region order:
+          - USA
+          - World
+
+          list prefix:
+
+          list suffix:
+          "@
+          New-Item "user-filters" -Type "Directory"
+          Set-Content -Path "user-filters\global.yaml" -Value @"
+          ---
+          exclude:
+          - "Homebrew"
+          include:
+          "@
+          Get-Content -Path "user-config.yaml"
+          Get-Content -Path "user-filters\global.yaml"          
+
       - name: Generate retool indexes
         if: false
+        working-directory: retool
         run: |
-          echo "WIP"
+          python3 -m pip install bs4 lxml strictyaml
+          # TODO: implement retool use
+          #update clone lists updateclonelists.py
+          #update metadata
+          #python retool.py <input dat/folder> --output <output folder> -l --exclude aAbBcdDemMopPruv
 
       - name: Upload XML indexes
         uses: actions/upload-artifact@v3
