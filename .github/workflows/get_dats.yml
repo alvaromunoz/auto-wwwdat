@@ -72,7 +72,7 @@ jobs:
             "origin"          = "https://datomatic.no-intro.org"
           }
 
-      - name: Divide zip file
+      - name: Extract zip file
         run: |
           $temp_dir_name = "temp"
           if (Test-Path -Path $temp_dir_name) {
@@ -86,7 +86,7 @@ jobs:
 
           Write-Output "ZIP_FILEPATH=$dats_dir" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
       
-      - name: Upload no-intro Artifacts
+      - name: Upload no-intro DATS
         uses: actions/upload-artifact@v3
         with:
           name: no-intro
@@ -125,7 +125,7 @@ jobs:
               Expand-Archive -Path $file.FullName -DestinationPath "./"
           }
       
-      - name: Upload redump Artifact
+      - name: Upload Redump DATS
         uses: actions/upload-artifact@v3
         with:
           name: redump
@@ -234,6 +234,7 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v2
+          ref: publish
 
       - name: Clean DATs folders
         run: |
@@ -268,5 +269,5 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add .
           git commit -am "Auto updated dats"
-          git push --force origin publish
+          git push
 
