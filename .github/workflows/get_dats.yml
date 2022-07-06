@@ -230,7 +230,8 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v2
-        ref: publish
+        with:
+          ref: publish
 
       - name: Clean DATs folders
         run: |
