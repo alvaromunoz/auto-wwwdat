@@ -18,5 +18,4 @@ Following instructions from https://mamedev.emulab.it/clrmamepro/docs/wwwprofile
 # What's missing?
 
 - Zip DATs
-- Split redump and nointro in two XML files and 2 jobs
 - Generate 1R1G DATs using [retool](https://github.com/unexpectedpanda/retool/)
