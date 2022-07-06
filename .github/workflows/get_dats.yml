@@ -147,6 +147,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: ${{ matrix.provider }}
+          path: ${{ matrix.provider }}
 
       # - name: Get clrmamepro
       #   run: |
