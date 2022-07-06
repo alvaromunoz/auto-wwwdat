@@ -89,7 +89,7 @@ jobs:
       - name: Upload no-intro Artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: no-intro_zips
+          name: no-intro
           path: ${{ env.ZIP_FILEPATH }}/*.dat
           if-no-files-found: error
           retention-days: 1
@@ -128,7 +128,7 @@ jobs:
       - name: Upload redump Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: redump_zips
+          name: redump
           path: ${{ github.workspace }}/*.dat
           if-no-files-found: error
           retention-days: 1
@@ -137,52 +137,81 @@ jobs:
     name: Create index XML files
     runs-on: windows-latest
     needs: [no-intro, redump]
-    strategy:
+     strategy:
       matrix:
-        include:
-          - provider: "no-intro"
-            artifact: "no-intro_zips"
-          - provider: "redump"
-            artifact: "redump_zips"
+        provider: [no-intro, redump]
 
     steps:
 
       - name: Get Artifacts
         uses: actions/download-artifact@v3
         with:
-          name: ${{ matrix.artifact }}
-          path: ${{ matrix.provider }}
+          name: ${{ matrix.provider }}
 
-      - name: Get clrmamepro
+      # - name: Get clrmamepro
+      #   run: |
+      #     $ProgressPreference = 'SilentlyContinue'
+      #     $clrmamepro_download_url = [uri]"https://mamedev.emulab.it/clrmamepro/binaries/cmp4045_64.zip"
+      #     $clrmamepro_download_dest = $clrmamepro_download_url.Segments[-1]
+      #     $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
+      #     $session.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44"
+      #     Invoke-WebRequest -UseBasicParsing -Uri $clrmamepro_download_url `
+      #     -WebSession $session `
+      #     -OutFile $clrmamepro_download_dest `
+      #     -Headers @{
+      #     "Accept"="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+      #       "Accept-Encoding"="gzip, deflate, br"
+      #       "Referer"="https://mamedev.emulab.it/clrmamepro/"
+      #     }
+      #     $clrmamepro_file = Get-Item $clrmamepro_download_dest
+      #     $clrmamepro_dir = New-Item -Path "clrmamepro" -ItemType Directory
+      #     Expand-Archive -LiteralPath $clrmamepro_file.FullName -DestinationPath $clrmamepro_dir.FullName
+
+      #     Set-Content -Path "$clrmamepro_dir\cmpro.ini" -Value '[CMPRO SETTINGS]'
+      #     Add-Content -Path "$clrmamepro_dir\cmpro.ini" -Value 'Misc_Version = 40450'
+          
+
+      # - name: Create XML index (clrmamepro)
+      #   run: |
+      #     ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ github.workspace }}\${{ matrix.provider }}" "${{ github.workspace }}\${{ matrix.provider }}.xml"
+      #     ls -R
+      #     $xml_index = Get-Item "${{ github.workspace }}\${{ matrix.provider }}.xml"
+      #     Write-Output "XML_FILEPATH=$xml_index" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          
+      - name: Create XML
+        shell: powershell
         run: |
-          $ProgressPreference = 'SilentlyContinue'
-          $clrmamepro_download_url = [uri]"https://mamedev.emulab.it/clrmamepro/binaries/cmp4045_64.zip"
-          $clrmamepro_download_dest = $clrmamepro_download_url.Segments[-1]
-          $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
-          $session.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44"
-          Invoke-WebRequest -UseBasicParsing -Uri $clrmamepro_download_url `
-          -WebSession $session `
-          -OutFile $clrmamepro_download_dest `
-          -Headers @{
-          "Accept"="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
-            "Accept-Encoding"="gzip, deflate, br"
-            "Referer"="https://mamedev.emulab.it/clrmamepro/"
+          Set-Content -Path "raw_${{ matrix.provider }}.xml" -Value '<clrmamepro>'
+          $datfiles = Get-ChildItem -Path "${{ matrix.provider }}" | Where-Object {$_.Name -match ".+\.dat"}
+          
+          foreach( $file in $datfiles ) {
+          [XML]$xmlfile = Get-Content -Path $file.FullName
+          $zipped_filename = $file.Name -replace ".dat", ".zip"
+          $name = $xmlfile.datafile.header.name
+          $description = $xmlfile.datafile.header.description
+          $version = $xmlfile.datafile.header.version
+          $author = $xmlfile.datafile.header.author
+          $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/${{ matrix.provider }}/"+$zipped_filename
+          $xmlelement=@"
+          <datfile>
+            <name>$name</name>
+            <description>$description</description>
+            <version>$version</version>
+            <author>$author</author>
+            <comment>Hosted on ${{ env.WWW_URL }}</comment>
+            <url>$url</url>
+          </datfile>
+          "@
+          Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value $xmlelement
           }
-          $clrmamepro_file = Get-Item $clrmamepro_download_dest
-          $clrmamepro_dir = New-Item -Path "clrmamepro" -ItemType Directory
-          Expand-Archive -LiteralPath $clrmamepro_file.FullName -DestinationPath $clrmamepro_dir.FullName
-
-          Set-Content -Path "$clrmamepro_dir\cmpro.ini" -Value '[CMPRO SETTINGS]'
-          Add-Content -Path "$clrmamepro_dir\cmpro.ini" -Value 'Misc_Version = 40450'
-          
-
-      - name: Create XML index (clrmamepro)
-        run: |
-          ./clrmamepro/cmpro64.exe /xml "${{ env.WWW_URL }}" "${{ github.workspace }}\${{ matrix.provider }}" "${{ github.workspace }}\${{ matrix.provider }}.xml"
-          ls -R
-          $xml_index = Get-Item "${{ github.workspace }}\${{ matrix.provider }}.xml"
+          Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value "</clrmamepro>"
+          $xml_index = Get-Item "raw_${{ matrix.provider }}.xml"
           Write-Output "XML_FILEPATH=$xml_index" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
-          
+
+      - name: Generate retool indexes
+        if: false
+        run: |
+          echo "WIP"
 
       - name: Upload XML indexes
         uses: actions/upload-artifact@v3
@@ -204,33 +233,31 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          ref: my-branch
 
       - name: Clean DATs folders
         run: |
-          if (Test-Path -Path "docs/dats") {
-              Remove-Item "docs/dats" -Recurse
+          if (Test-Path -Path "docs/${{ env.DATS_DIR }}") {
+              Remove-Item "docs/${{ env.DATS_DIR }}" -Recurse
           }
-          New-Item -Path "docs/dats" -ItemType Directory
+          New-Item -Path "docs/${{ env.DATS_DIR }}" -ItemType Directory
 
       - name: Get no-intro Artifacts
         uses: actions/download-artifact@v3
         with:
-          name: no-intro_zips
-          path: docs/dats/no-intro
+          name: no-intro
+          path: docs/${{ env.DATS_DIR }}/no-intro
 
       - name: Get Redump Artifacts
         uses: actions/download-artifact@v3
         with:
-          name: redump_zips
-          path: docs/dats/redump
+          name: redump
+          path: docs/${{ env.DATS_DIR }}/redump
 
       - name: Get XML Indexes Artifacts
         uses: actions/download-artifact@v3
         with:
-          name: XML_indexes          
-          path: docs/dats
+          name: XML_indexes
+          path: docs/${{ env.DATS_DIR }}
 
       - name: Update dats on website
         run: |
