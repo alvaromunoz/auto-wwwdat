@@ -139,13 +139,13 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        provider: ["no-intro", "redump"]
-        region: ["USA", "Europe"]
+        provider: [no-intro, redump]
+        region: [USA, Europe]
         include:
-          - region: "USA"
-            languages: "English" # separated by ;
-          - region: "Europe"
-            languages: "English;Spanish;French;German" # separated by ;
+          - region: USA
+            languages: English # separated by ;
+          - region: Europe
+            languages: English;Spanish;French;German # separated by ;
 
     steps:
 
@@ -178,7 +178,7 @@ jobs:
         run: |
           Set-Content -Path "user-config.yaml" -Value "---"
           Add-Content -Path "user-config.yaml" -Value "language filter:"
-          (${{ matrix.languages }} -split ";").ForEach({Add-Content -Path "user-config.yaml" -Value "- $_"}) 
+          ("${{ matrix.languages }}" -split ";").ForEach({Add-Content -Path "user-config.yaml" -Value "- $_"}) 
           Add-Content -Path "user-config.yaml" -Value "region order:"
           Add-Content -Path "user-config.yaml" -Value "- ${{ matrix.region }}"
           Add-Content -Path "user-config.yaml" -Value @"
