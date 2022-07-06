@@ -137,7 +137,7 @@ jobs:
     name: Create index XML files
     runs-on: windows-latest
     needs: [no-intro, redump]
-     strategy:
+    strategy:
       matrix:
         provider: [no-intro, redump]
 
