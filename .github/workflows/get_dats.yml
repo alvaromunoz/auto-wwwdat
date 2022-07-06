@@ -303,7 +303,7 @@ jobs:
 
       - name: Update dats on website
         run: |
-          ls -R
+          ((Get-Content -path ".\docs\index.html" -Raw) -replace 'Last update: .+<',('Last update: {0}<' -f (Get-Date -Format "dddd MM/dd/yyyy HH:mm K"))) | Set-Content -Path ".\docs\index.html"
           git config --global user.name 'Git bot'
           git config --global user.email 'bot@noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
