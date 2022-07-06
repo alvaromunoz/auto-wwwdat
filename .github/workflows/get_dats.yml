@@ -184,12 +184,12 @@ jobs:
 
           foreach( $file in $datfiles ) {
           [XML]$xmlfile = Get-Content -Path $file.FullName
-          $zipped_filename = $file.Name -replace ".dat", ".zip"
+          $index_filename = $file.Name #-replace ".dat", ".zip"  # TODO: zip files instead of raw dats
           $name = $xmlfile.datafile.header.name
           $description = $xmlfile.datafile.header.description
           $version = $xmlfile.datafile.header.version
           $author = $xmlfile.datafile.header.author
-          $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/${{ matrix.provider }}/"+$zipped_filename
+          $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/${{ matrix.provider }}/"+$index_filename
           $xmlelement=@"
           <datfile>
             <name>$name</name>
