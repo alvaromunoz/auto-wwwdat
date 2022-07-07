@@ -197,9 +197,10 @@ jobs:
           Get-Content -Path "user-filters\global.yaml"          
 
       - name: Generate retool indexes
-        working-directory:
+        working-directory: retool
         run: |
-          python3 ".\retool\retool.py" "${{ matrix.provider }}" --output "retool-${{ matrix.provider }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
+          NewItem "retool-${{ matrix.provider }}-${{ matrix.region }}" -Type "Directory"
+          python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider }}" --output "${{ github.workspace }}\retool-${{ matrix.provider }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
 
       - name: Upload Redump DATS
         uses: actions/upload-artifact@v3
