@@ -199,7 +199,7 @@ jobs:
       - name: Generate retool indexes
         working-directory:
         run: |
-          python3 ".retool\retool.py" "${{ matrix.provider }}" --output "retool-${{ matrix.provider }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
+          python3 ".\retool\retool.py" "${{ matrix.provider }}" --output "retool-${{ matrix.provider }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
 
       - name: Upload Redump DATS
         uses: actions/upload-artifact@v3
