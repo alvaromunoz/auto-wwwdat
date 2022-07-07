@@ -186,6 +186,7 @@ jobs:
           list prefix:
           list suffix:
           "@
+          New-Item "user-filters" -Type Directory
           Set-Content -Path "user-filters\global.yaml" -Value @"
           ---
           exclude:
