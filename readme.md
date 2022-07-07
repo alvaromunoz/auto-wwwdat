@@ -18,4 +18,4 @@ Following instructions from https://mamedev.emulab.it/clrmamepro/docs/wwwprofile
 # What's missing?
 
 - Zip DATs
-- Generate 1R1G DATs using [retool](https://github.com/unexpectedpanda/retool/)
+- Generate 1G1R DATs using [retool](https://github.com/unexpectedpanda/retool/)
