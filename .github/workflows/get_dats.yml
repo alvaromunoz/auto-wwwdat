@@ -199,7 +199,7 @@ jobs:
       - name: Generate retool indexes
         working-directory: retool
         run: |
-          NewItem "retool-${{ matrix.provider }}-${{ matrix.region }}" -Type "Directory"
+          New-Item "retool-${{ matrix.provider }}-${{ matrix.region }}" -Type "Directory"
           python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider }}" --output "${{ github.workspace }}\retool-${{ matrix.provider }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
 
       - name: Upload Redump DATS
