@@ -226,33 +226,33 @@ jobs:
           $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*" -Type "Directory"
           # Process each dat directory
           foreach( $datpath in $datpaths ) {
-            # Create start of xml index
-            $xml_index_filepath = "${{ github.workspace }}\" + ($datpath.Name + ".xml" -replace "^dats-")
-            Set-Content -Path $xml_index_filepath -Value '<clrmamepro>' 
-            # Process each dat file in the directory
-            $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
-            foreach( $file in $datfiles ) {
-              [XML]$xmlfile = Get-Content -Path $file.FullName
-              $dat_filename = $file.Name -replace ".dat$", ".zip" # files must be zipped!
-              $name = $xmlfile.datafile.header.name
-              $description = $xmlfile.datafile.header.description
-              $version = $xmlfile.datafile.header.version
-              $author = $xmlfile.datafile.header.author
-              # https://alvaromunoz.github.io/auto-wwwdat/dats/
-              $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/" + ($datpath.Name -replace "^dats-") + "/" + $index_filename
-              $xml_element = @"
-              <datfile>
-                <name>$name</name>
-                <description>$description</description>|
-                <version>$version</version>
-                <author>$author</author>
-                <comment>auto-wwwdat</comment>
-                <url>$url</url>
-              </datfile>
-              "@
-              Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value $xml_element
-            }
-            Add-Content -Path $xml_index_filepath -Value '</clrmamepro>' 
+          # Create start of xml index
+          $xml_index_filepath = "${{ github.workspace }}\" + ($datpath.Name + ".xml" -replace "^dats-")
+          Set-Content -Path $xml_index_filepath -Value '<clrmamepro>' 
+          # Process each dat file in the directory
+          $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
+          foreach( $file in $datfiles ) {
+          [XML]$xmlfile = Get-Content -Path $file.FullName
+          $dat_filename = $file.Name -replace ".dat$", ".zip" # files must be zipped!
+          $name = $xmlfile.datafile.header.name
+          $description = $xmlfile.datafile.header.description
+          $version = $xmlfile.datafile.header.version
+          $author = $xmlfile.datafile.header.author
+          # https://alvaromunoz.github.io/auto-wwwdat/dats/
+          $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/" + ($datpath.Name -replace "^dats-") + "/" + $index_filename
+          $xml_element = @"
+          <datfile>
+          <name>$name</name>
+          <description>$description</description>|
+          <version>$version</version>
+          <author>$author</author>
+          <comment>auto-wwwdat</comment>
+          <url>$url</url>
+          </datfile>
+          "@
+          Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value $xml_element
+          }
+          Add-Content -Path $xml_index_filepath -Value '</clrmamepro>'
           }
       
       - name: Create www dir
