@@ -271,7 +271,7 @@ jobs:
             New-Item $www_zipped_dir_path -Type "Directory"
             $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
             foreach( $file in $datfiles ) {
-              Compress-Archive -Path $file -DestinationPath ($www_zipped_dir_path + "\" + $file.Name + ".zip") -CompressionLevel "Optimal" -Force
+              Compress-Archive -Path $file.FullName -DestinationPath ($www_zipped_dir_path + "\" + $file.Name + ".zip") -CompressionLevel "Optimal" -Force
             }
           }
 
