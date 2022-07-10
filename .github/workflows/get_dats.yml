@@ -52,7 +52,7 @@ jobs:
 
           $ProgressPreference = 'SilentlyContinue'
           $nointro_download_url = "https://datomatic.no-intro.org/{0}" -f $datomatic_download_path
-          $nointro_download_dest = "./no-intro.zip"
+          $nointro_download_dest = ".\no-intro.zip"
           Invoke-WebRequest -UseBasicParsing -Uri $nointro_download_url `
             -Method "POST" `
             -WebSession $session `
@@ -79,7 +79,7 @@ jobs:
           }
           $dats_dir = New-Item -Path $temp_dir_name -ItemType Directory
                     
-          $zip_file = Get-Item -Path "./no-intro.zip"
+          $zip_file = Get-Item -Path ".\no-intro.zip"
 
           Expand-Archive -LiteralPath $zip_file.FullName -DestinationPath $dats_dir.FullName
 
@@ -106,7 +106,7 @@ jobs:
           foreach ($link in $redump_download_list) {
             
             $source = $redump_baseurl + $link.href
-            $destination = "./" + ($link.href -split "/" | Where-Object { $_ } | Select-Object -Last 1) + ".zip"
+            $destination = ".\" + ($link.href -split "/" | Where-Object { $_ } | Select-Object -Last 1) + ".zip"
             
             Invoke-WebRequest -UseBasicParsing -Uri "$source" `
               -OutFile "$destination" `
@@ -116,12 +116,12 @@ jobs:
             }    
           }
 
-          # $zip_filepath = Get-Item "./" | %{$_.FullName}
+          # $zip_filepath = Get-Item ".\" | %{$_.FullName}
 
           # Create individual dats
           $zip_files = Get-ChildItem -Path $dats_dir | Where-Object { $_.Name -match ".+\.zip" }
           foreach ( $file in $zip_files ) {
-              Expand-Archive -Path $file.FullName -DestinationPath "./"
+              Expand-Archive -Path $file.FullName -DestinationPath ".\"
           }
 
       - name: Upload Redump DATS
@@ -275,55 +275,23 @@ jobs:
             }
           }
 
-      - name: Upload XML indexes
-        uses: actions/upload-artifact@v3
-        with:
-          name: www_site
-          path: ${{ github.workspace }}/www
-          if-no-files-found: error
-          retention-days: 1
-
-  update_git:
-    name: Update GIT repo
-    runs-on: windows-latest
-    if: false
-    needs: create_xml_files
-
-    steps:
-      - name: Clean Workspace
-        uses: yumis-coconudge/clean-workspace-action@v1.0.5
-
-      - name: Checkout
+      - name: Checkout publish branch
         uses: actions/checkout@v2
         with:
           ref: publish
+          path: publish
 
-      - name: Clean DATs folders
+      - name: Move DATs to publish
+        working-directory: publish
         run: |
-          if (Test-Path -Path "docs/${{ env.DATS_DIR }}") {
-              Remove-Item "docs/${{ env.DATS_DIR }}" -Recurse
+          $dats_path = ".\docs\${{ env.DATS_DIR }}"
+          if (Test-Path -Path $dats_path) {
+              Remove-Item $dats_path -Recurse
           }
-          New-Item -Path "docs/${{ env.DATS_DIR }}" -ItemType Directory
+          Move-Item -Path "${{ github.workspace }}\www" -Destination $dats_path
 
-      - name: Get no-intro Artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: no-intro
-          path: docs/${{ env.DATS_DIR }}/no-intro
-
-      - name: Get Redump Artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: redump
-          path: docs/${{ env.DATS_DIR }}/redump
-
-      - name: Get XML Indexes Artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: XML_indexes
-          path: docs/${{ env.DATS_DIR }}
-
-      - name: Update dats on website
+      - name: Update DATs on GIT
+        working-directory: publish
         run: |
           ((Get-Content -path ".\docs\index.html" -Raw) -replace 'Last update: .+<',('Last update: {0}<' -f (Get-Date -Format "dddd MM/dd/yyyy HH:mm K"))) | Set-Content -Path ".\docs\index.html"
           git config --global user.name 'Git bot'
