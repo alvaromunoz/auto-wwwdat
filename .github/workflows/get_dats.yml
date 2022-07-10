@@ -265,7 +265,7 @@ jobs:
 
       - name: Compress Dats to www dir
         run: |
-          $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*" -Type "Directory"
+          $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*"
           foreach( $datpath in $datpaths ) {
             $www_zipped_dir_path = ("${{ github.workspace }}\www\" + ($datpath.Name -replace "^dats-"))
             New-Item $www_zipped_dir_path -Type "Directory"
