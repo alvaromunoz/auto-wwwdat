@@ -12,7 +12,7 @@ defaults:
 
 env:
   DATS_DIR: "dats"
-  WWW_URL: "alvaromunoz.github.io/auto-wwwdat"
+  WWW_URL: "https://alvaromunoz.github.io/auto-wwwdat"
 
 jobs:
   no-intro:
@@ -88,7 +88,7 @@ jobs:
       - name: Upload no-intro DATS
         uses: actions/upload-artifact@v3
         with:
-          name: no-intro
+          name: dats-no-intro
           path: ${{ env.ZIP_FILEPATH }}/*.dat
           if-no-files-found: error
           retention-days: 1
@@ -127,7 +127,7 @@ jobs:
       - name: Upload Redump DATS
         uses: actions/upload-artifact@v3
         with:
-          name: redump
+          name: dats-redump
           path: ${{ github.workspace }}/*.dat
           if-no-files-found: error
           retention-days: 1
@@ -137,9 +137,8 @@ jobs:
     runs-on: windows-latest
     needs: [no-intro, redump]
     strategy:
-      max-parallel: 1
       matrix:
-        provider: [no-intro, redump]
+        provider-dats: [dats-no-intro, dats-redump]
         region: [USA, Europe]
         include:
           - region: USA
@@ -170,8 +169,8 @@ jobs:
       - name: Get Artifacts
         uses: actions/download-artifact@v3
         with:
-          name: ${{ matrix.provider }}
-          path: ${{ matrix.provider }}
+          name: ${{ matrix.provider-dats }}
+          path: ${{ matrix.provider-dats }}
 
       - name: Create retool config files
         working-directory: retool
@@ -195,121 +194,91 @@ jobs:
           - "Homebrew"
           include:
           "@
-          Get-Content -Path "user-config.yaml"
-          Get-Content -Path "user-filters\global.yaml"          
+          # Get-Content -Path "user-config.yaml"
+          # Get-Content -Path "user-filters\global.yaml"          
 
-      - name: Generate retool indexes
+      - name: Generate Retool DATs
         working-directory: retool
         run: |
-          New-Item "retool-${{ matrix.provider }}-${{ matrix.region }}" -Type "Directory"
-          python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider }}" --output "${{ github.workspace }}\retool-${{ matrix.provider }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
+          New-Item "dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}" -Type "Directory"
+          python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider-dats }}" --output "${{ github.workspace }}\dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
 
       - name: Upload Redump DATS
         uses: actions/upload-artifact@v3
         with:
-          name: retool
-          path: "retool-${{ matrix.provider }}-${{ matrix.region }}"
+          name: "dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}"
+          path: "dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}"
           if-no-files-found: error
           retention-days: 1
 
   create_xml_files:
     name: Create index XML files
     runs-on: windows-latest
-    if: false
     needs: retool
-    strategy:
-      matrix:
-        provider: [no-intro, redump, retool]
 
     steps:
       - name: Get Artifacts
         uses: actions/download-artifact@v3
-        with:
-          name: ${{ matrix.provider }}
-          path: ${{ matrix.provider }}
  
-      - name: Create XML
-        shell: powershell # should this be in a matrix? 
+      - name: Create XML index files
         run: |
-          Set-Content -Path "raw_${{ matrix.provider }}.xml" -Value '<clrmamepro>' 
-          $datfiles = Get-ChildItem -Path "${{ matrix.provider }}" | Where-Object {$_.Name -match ".+\.dat"}
-
-          foreach( $file in $datfiles ) {
-          [XML]$xmlfile = Get-Content -Path $file.FullName
-          $index_filename = $file.Name #-replace ".dat", ".zip"  # TODO: zip files instead of raw dats
-          $name = $xmlfile.datafile.header.name
-          $description = $xmlfile.datafile.header.description
-          $version = $xmlfile.datafile.header.version
-          $author = $xmlfile.datafile.header.author
-          $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/${{ matrix.provider }}/"+$index_filename
-          $xmlelement=@"
-          <datfile>
-            <name>$name</name>
-            <description>$description</description>
-            <version>$version</version>
-            <author>$author</author>
-            <comment>Hosted on ${{ env.WWW_URL }}</comment>
-            <url>$url</url>
-          </datfile>
-          "@
-          Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value $xmlelement
+          # Get all dat directories
+          $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*" -Type "Directory"
+          # Process each dat directory
+          foreach( $datpath in $datpaths ) {
+            # Create start of xml index
+            $xml_index_filepath = "${{ github.workspace }}\" + ($datpath.Name + ".xml" -replace "^dats-")
+            Set-Content -Path $xml_index_filepath -Value '<clrmamepro>' 
+            # Process each dat file in the directory
+            $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
+            foreach( $file in $datfiles ) {
+              [XML]$xmlfile = Get-Content -Path $file.FullName
+              $dat_filename = $file.Name -replace ".dat$", ".zip" # files must be zipped!
+              $name = $xmlfile.datafile.header.name
+              $description = $xmlfile.datafile.header.description
+              $version = $xmlfile.datafile.header.version
+              $author = $xmlfile.datafile.header.author
+              # https://alvaromunoz.github.io/auto-wwwdat/dats/
+              $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/" + ($datpath.Name -replace "^dats-") + "/" + $index_filename
+              Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value @"
+              <datfile>
+                <name>$name</name>
+                <description>$description</description>|
+                <version>$version</version>
+                <author>$author</author>
+                <comment>auto-wwwdat</comment>
+                <url>$url</url>
+              </datfile>
+              "@
+            }
+            Add-Content -Path $xml_index_filepath -Value '</clrmamepro>' 
           }
-          Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value "</clrmamepro>"
-          $xml_index = Get-Item "raw_${{ matrix.provider }}.xml"
-          Write-Output "XML_FILEPATH=$xml_index" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
-          architecture: "x64"
-
-      - name: Checkout tools repo
-        uses: actions/checkout@v3
-        with:
-          repository: unexpectedpanda/retool
-          path: retool
-
-      - name: Create retool config files
-        working-directory: retool
+      
+      - name: Create www dir
         run: |
-          Set-Content -Path "user-config.yaml" -Value @"
-          ---
-          language filter:
-          - English
+          New-Item "${{ github.workspace }}\www" -Type "Directory"
 
-          region order:
-          - USA
-          - World
-
-          list prefix:
-
-          list suffix:
-          "@
-          New-Item "user-filters" -Type "Directory"
-          Set-Content -Path "user-filters\global.yaml" -Value @"
-          ---
-          exclude:
-          - "Homebrew"
-          include:
-          "@
-          Get-Content -Path "user-config.yaml"
-          Get-Content -Path "user-filters\global.yaml"          
-
-      - name: Generate retool indexes
-        if: false
-        working-directory: retool
+      - name: Move indexes to www dir
         run: |
-          python3 -m pip install bs4 lxml strictyaml
-          # TODO: implement retool use
-          python3 ".\updateclonelists.py"
-          python3 ".\retool.py" <input dat/folder> --output <output folder> -l --exclude aAbBcdDemMopPruv
+          Move-Item -Path "${{ github.workspace }}\*.xml" -Destination "www"
+
+      - name: Compress Dats to www dir
+        run: |
+          $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*" -Type "Directory"
+          foreach( $datpath in $datpaths ) {
+            $www_zipped_dir_path = ("${{ github.workspace }}\www\" + ($datpath.Name -replace "^dats-"))
+            New-Item $www_zipped_dir_path -Type "Directory"
+            $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
+            foreach( $file in $datfiles ) {
+              Compress-Archive -Path $file -DestinationPath ($www_zipped_dir_path + "\" + $file.Name + ".zip") -CompressionLevel "Optimal" -Force
+            }
+          }
 
       - name: Upload XML indexes
         uses: actions/upload-artifact@v3
         with:
-          name: XML_indexes
-          path: ${{ env.XML_FILEPATH }}
+          name: www_site
+          path: ${{ github.workspace }}/www
           if-no-files-found: error
           retention-days: 1
 
