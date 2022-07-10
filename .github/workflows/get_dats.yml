@@ -275,10 +275,10 @@ jobs:
             }
           }
 
-      - name: Checkout publish branch
+      - name: Checkout
         uses: actions/checkout@v2
         with:
-          ref: publish
+          ref: master
           path: publish
 
       - name: Move DATs to publish
