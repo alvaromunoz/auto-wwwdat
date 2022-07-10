@@ -243,7 +243,7 @@ jobs:
           $xml_element = @"
           <datfile>
           <name>$name</name>
-          <description>$description</description>|
+          <description>$description</description>
           <version>$version</version>
           <author>$author</author>
           <comment>auto-wwwdat</comment>
