@@ -281,7 +281,7 @@ jobs:
           ref: master
           path: publish
 
-      - name: Move DATs to publish
+      - name: Move www files to publish
         working-directory: publish
         run: |
           $dats_path = ".\docs\${{ env.DATS_DIR }}"
@@ -289,6 +289,22 @@ jobs:
               Remove-Item $dats_path -Recurse
           }
           Move-Item -Path "${{ github.workspace }}\www" -Destination $dats_path
+
+      - name: Update index.html
+        working-directory: publish
+        run: |
+          $top_tag = "<!--index_files_top-->"
+          $bottom_tag = "<!--index_files_bottom-->"
+          $xml_index = ""
+          $xml_files = Get-ChildItem -Path ".\*.xml"
+          foreach( $file in $xml_files ) {
+            $filename = (Get-ChildItem -Path ".\readme.md").Name
+            $xml_index += '<li><a href=dats/' + $filename + '">' + $filename + '</a></li>'
+          }
+          #update xml indexes
+          ((Get-Content -path '.\docs\index.html' -Raw) -replace ('(?s)'+$top_tag + '.+' + $bottom_tag), ($top_tag + $xml_index + $bottom_tag)) | Set-Content -Path '.\docs\index.html'
+          #update publish date
+          ((Get-Content -path '.\docs\index.html' -Raw) -replace 'Last update: .+<',('Last update: {0}<' -f (Get-Date -Format 'dddd MM/dd/yyyy HH:mm K'))) | Set-Content -Path '.\docs\index.html'
 
       - name: Update DATs on GIT
         working-directory: publish
