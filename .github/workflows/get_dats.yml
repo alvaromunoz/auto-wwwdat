@@ -299,7 +299,7 @@ jobs:
           $xml_files = Get-ChildItem -Path ".\*.xml"
           foreach( $file in $xml_files ) {
             $filename = (Get-ChildItem -Path ".\readme.md").Name
-            $xml_index += '<li><a href=dats/' + $filename + '">' + $filename + '</a></li>'
+            $xml_index += '<li><a href="dats/' + $filename + '">' + $filename + '</a></li>'
           }
           #update xml indexes
           ((Get-Content -path '.\docs\index.html' -Raw) -replace ('(?s)'+$top_tag + '.+' + $bottom_tag), ($top_tag + $xml_index + $bottom_tag)) | Set-Content -Path '.\docs\index.html'
