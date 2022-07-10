@@ -240,7 +240,7 @@ jobs:
               $author = $xmlfile.datafile.header.author
               # https://alvaromunoz.github.io/auto-wwwdat/dats/
               $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/" + ($datpath.Name -replace "^dats-") + "/" + $index_filename
-              Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value @"
+              $xml_element = @"
               <datfile>
                 <name>$name</name>
                 <description>$description</description>|
@@ -250,6 +250,7 @@ jobs:
                 <url>$url</url>
               </datfile>
               "@
+              Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value $xml_element
             }
             Add-Content -Path $xml_index_filepath -Value '</clrmamepro>' 
           }
