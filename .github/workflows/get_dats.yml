@@ -223,7 +223,7 @@ jobs:
       - name: Create XML index files
         run: |
           # Get all dat directories
-          $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*" -Type "Directory"
+          $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*"
           # Process each dat directory
           foreach( $datpath in $datpaths ) {
           # Create start of xml index
