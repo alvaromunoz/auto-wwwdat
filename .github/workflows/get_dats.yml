@@ -239,7 +239,7 @@ jobs:
           $version = $xmlfile.datafile.header.version
           $author = $xmlfile.datafile.header.author
           # https://alvaromunoz.github.io/auto-wwwdat/dats/
-          $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/" + ($datpath.Name -replace "^dats-") + "/" + $index_filename
+          $url = "${{ env.WWW_URL }}/${{ env.DATS_DIR }}/" + ($datpath.Name -replace "^dats-") + "/" + $dat_filename
           $xml_element = @"
           <datfile>
           <name>$name</name>
@@ -250,7 +250,7 @@ jobs:
           <url>$url</url>
           </datfile>
           "@
-          Add-Content -Path "raw_${{ matrix.provider }}.xml" -Value $xml_element
+          Add-Content -Path $xml_index_filepath -Value $xml_element
           }
           Add-Content -Path $xml_index_filepath -Value '</clrmamepro>'
           }
@@ -301,6 +301,7 @@ jobs:
             $filename = (Get-ChildItem -Path ".\readme.md").Name
             $xml_index += '<li><a href="dats/' + $filename + '">' + $filename + '</a></li>'
           }
+          echo "new xml index: " + $xml_index
           #update xml indexes
           ((Get-Content -path '.\docs\index.html' -Raw) -replace ('(?s)'+$top_tag + '.+' + $bottom_tag), ($top_tag + $xml_index + $bottom_tag)) | Set-Content -Path '.\docs\index.html'
           #update publish date
@@ -309,7 +310,6 @@ jobs:
       - name: Update DATs on GIT
         working-directory: publish
         run: |
-          ((Get-Content -path ".\docs\index.html" -Raw) -replace 'Last update: .+<',('Last update: {0}<' -f (Get-Date -Format "dddd MM/dd/yyyy HH:mm K"))) | Set-Content -Path ".\docs\index.html"
           git config --global user.name 'Git bot'
           git config --global user.email 'bot@noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
