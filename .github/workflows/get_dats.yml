@@ -301,7 +301,7 @@ jobs:
             $filename = (Get-ChildItem -Path ".\readme.md").Name
             $xml_index += '<li><a href="dats/' + $filename + '">' + $filename + '</a></li>'
           }
-          echo "new xml index: " + $xml_index
+          Write-Output "new xml index: " + $xml_index
           #update xml indexes
           ((Get-Content -path '.\docs\index.html' -Raw) -replace ('(?s)'+$top_tag + '.+' + $bottom_tag), ($top_tag + $xml_index + $bottom_tag)) | Set-Content -Path '.\docs\index.html'
           #update publish date
