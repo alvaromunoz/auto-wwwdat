@@ -200,7 +200,7 @@ jobs:
       - name: Generate Retool DATs
         working-directory: retool
         run: |
-          New-Item $datsdir -Type "Directory"
+          New-Item "${{ github.workspace }}\dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}" -Type "Directory"
           python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider-dats }}" --output "${{ github.workspace }}\dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
 
       - name: Upload Retool DATS
