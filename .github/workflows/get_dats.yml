@@ -306,7 +306,7 @@ jobs:
           }
           Write-Output $xml_index
           #update xml indexes
-          ((Get-Content -path '.\docs\index.html' -Raw) -replace ('(?s)' + $top_tag + '.+' + $bottom_tag), ($top_tag + $xml_index + $bottom_tag)) | Set-Content -Path '.\docs\index.html'
+          ((Get-Content -path '.\docs\index.html' -Raw) -replace ('(?s)' + $top_tag + '.*' + $bottom_tag), ($top_tag + $xml_index + $bottom_tag)) | Set-Content -Path '.\docs\index.html'
           #update publish date
           ((Get-Content -path '.\docs\index.html' -Raw) -replace 'Last update: .+<',('Last update: {0}<' -f (Get-Date -Format 'dddd MM/dd/yyyy HH:mm K'))) | Set-Content -Path '.\docs\index.html'
 
