@@ -296,7 +296,7 @@ jobs:
           $top_tag = "<!--index_files_top-->"
           $bottom_tag = "<!--index_files_bottom-->"
           $xml_index = ""
-          $xml_files = Get-ChildItem -Path ".\*.xml"
+          $xml_files = Get-ChildItem -Path ".\docs\${{ env.DATS_DIR }}\*.xml"
           foreach( $file in $xml_files ) {
             $filename = $file.Name
             $xml_index += '<li><a href="dats/' + $filename + '">' + $filename + '</a></li>'
