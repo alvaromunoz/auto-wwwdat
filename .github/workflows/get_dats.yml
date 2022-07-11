@@ -235,7 +235,7 @@ jobs:
           [XML]$xmlfile = Get-Content -Path $file
           $dat_filename = $file.Name # -replace ".dat$", ".zip"
           $name = $xmlfile.datafile.header.name
-          $description = $xmlfile.datafile.header.description
+          $description = $xmlfile.datafile.header.description -replace '( \([0-9,\-].+\))'
           $version = $xmlfile.datafile.header.version
           $author = $xmlfile.datafile.header.author
           # https://alvaromunoz.github.io/auto-wwwdat/dats/
