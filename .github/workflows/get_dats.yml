@@ -298,7 +298,7 @@ jobs:
           $xml_index = ""
           $xml_files = Get-ChildItem -Path ".\*.xml"
           foreach( $file in $xml_files ) {
-            $filename = (Get-ChildItem -Path ".\readme.md").Name
+            $filename = $file.Name
             $xml_index += '<li><a href="dats/' + $filename + '">' + $filename + '</a></li>'
           }
           Write-Output "new xml index: " + $xml_index
