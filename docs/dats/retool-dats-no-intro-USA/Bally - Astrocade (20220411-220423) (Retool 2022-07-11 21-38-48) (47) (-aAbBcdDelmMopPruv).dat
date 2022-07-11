@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Bally - Astrocade (Retool 1.15)</name>
+		<description>Bally - Astrocade (-aAbBcdDelmMopPruv) (47) (20220411-220423)</description>
+		<version>20220411-220423</version>
+		<date>2022-07-11 21-38-48</date>
+		<author>MeguCocoa, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="280 Zzzap ~ Dodgem (USA)">
+		<category>Games</category>
+		<description>280 Zzzap ~ Dodgem (USA)</description>
+		<rom crc="e4d285e5" md5="095d466bbbd595ff004379a8bfad4a9c" name="280 Zzzap ~ Dodgem (USA).bin" sha1="0de670d6f78e3011e84fefc65f70544cdad3320e" sha256="091b6fa61c79ca42f5d4afbc36ef65ee883f83a623c006e44b03bbd272b8a1b5" size="2048"/>
+	</game>
+	<game name="Amazing Maze ~ Tic-Tac-Toe (USA)">
+		<category>Games</category>
+		<description>Amazing Maze ~ Tic-Tac-Toe (USA)</description>
+		<rom crc="cd57c485" md5="b748311138c62f384f493b7b41d48317" name="Amazing Maze ~ Tic-Tac-Toe (USA).bin" sha1="8c833f077830db847caad91a3f040ac7ddcd33f8" sha256="9137a7da464606a7da21eb2cc830d72ced1138b10a3b8ee5e571acac8631c853" size="2048"/>
+	</game>
+	<game name="Astro Battle (USA)">
+		<category>Games</category>
+		<description>Astro Battle (USA)</description>
+		<rom crc="0b5298bc" md5="5147f3d59756b1143ab902bc468cd124" name="Astro Battle (USA).bin" sha1="cdf7a2a8608c3e90d0cc8a4b751276b76de72f8c" size="4096"/>
+	</game>
+	<game name="Bally Black Box (USA)">
+		<category>Games</category>
+		<description>Bally Black Box (USA)</description>
+		<rom crc="980244d8" md5="e3209131d6ac9fff68b34689bb1b743d" name="Bally Black Box (USA).bin" sha1="bfb24a437bae5d7f0b608369d082c32cfd50a410" size="8192"/>
+	</game>
+	<game name="Bally Pin (USA)">
+		<category>Games</category>
+		<description>Bally Pin (USA)</description>
+		<rom crc="3f431613" md5="e201e61df0dc72932ec273ead4feb9f2" name="Bally Pin (USA).bin" sha1="05b680777aa9639620c790f0590d96416d49bf94" size="4096"/>
+	</game>
+	<game name="Blackjack ~ Poker ~ Acey-Duecy (USA)">
+		<category>Games</category>
+		<description>Blackjack ~ Poker ~ Acey-Duecy (USA)</description>
+		<rom crc="78d45a11" md5="89fb2c1681c2bcf58dff969f346c7fd0" name="Blackjack ~ Poker ~ Acey-Duecy (USA).bin" sha1="7b92e3ad161e31926a730780d1f28015310dd7d7" size="4096"/>
+	</game>
+	<game name="Blast Droids (USA)">
+		<category>Games</category>
+		<description>Blast Droids (USA)</description>
+		<rom crc="79fe386b" md5="8a0ff74bf056414e8e0918a7c1595d79" name="Blast Droids (USA).bin" sha1="addc89e0add729f2a93cd1774f6f5c1c693e6068" size="4096"/>
+	</game>
+	<game name="Candyman (USA)">
+		<category>Games</category>
+		<description>Candyman (USA)</description>
+		<rom crc="0fc97852" md5="b8f383a388633e2738c9537259fe6f14" name="Candyman (USA).bin" sha1="c87644de2b9231d74cd8c82d612ebd5412a3d87c" size="8192"/>
+	</game>
+	<game name="Chicken (USA)">
+		<category>Games</category>
+		<description>Chicken (USA)</description>
+		<rom crc="5b946526" md5="cae0640a8fcc0c7addb54de2b4449da2" name="Chicken (USA).bin" sha1="714235b6919dcdae55f9e2a361fc1264d14aa84e" size="4096"/>
+	</game>
+	<game name="Claim Jumper (USA)">
+		<category>Games</category>
+		<description>Claim Jumper (USA)</description>
+		<rom crc="1edeae0e" md5="7108e3a351474568220594ba41a601dc" name="Claim Jumper (USA).bin" sha1="d9dc00d62b7cddd74facba39b6efdc0da1b415b0" size="8192"/>
+	</game>
+	<game name="Clowns ~ Brickyard (USA)">
+		<category>Games</category>
+		<description>Clowns ~ Brickyard (USA)</description>
+		<rom crc="28f9e502" md5="45abd4a70efda818606ff10aa9272b48" name="Clowns ~ Brickyard (USA).bin" sha1="4c1a9efcd4435f6a79dc2212c4d0d17ea753809c" size="4096"/>
+	</game>
+	<game name="Conan the Barbarian (USA)">
+		<category>Games</category>
+		<description>Conan the Barbarian (USA)</description>
+		<rom crc="8a6adbfe" md5="c4e37cbb75848f48808352bf9a1dff80" name="Conan the Barbarian (USA).bin" sha1="8b0d3125b805d57b9958b0e7a4f0e9d1a70f6353" size="8192"/>
+	</game>
+	<game name="Cosmic Raider (USA)">
+		<category>Games</category>
+		<description>Cosmic Raider (USA)</description>
+		<rom crc="2a77b3fb" md5="9b431d6bc67c66ed432827d01cbb17f9" name="Cosmic Raider (USA).bin" sha1="09ae145e3dbfd132f5130a0cbb508f4fbcf35bee" size="8192"/>
+	</game>
+	<game name="Crazy Climber (USA)">
+		<category>Games</category>
+		<description>Crazy Climber (USA)</description>
+		<rom crc="bf864c44" md5="9f02cb1b2072791019bcd83e82abd7d4" name="Crazy Climber (USA).bin" sha1="3fc71a3061ddc39788920b27ce11d0ea545e3da6" size="8187"/>
+	</game>
+	<game name="Dogpatch (USA)">
+		<category>Games</category>
+		<description>Dogpatch (USA)</description>
+		<rom crc="77bed6ba" md5="c70af94d26cbbecdda7a0dfb3551881b" name="Dogpatch (USA).bin" sha1="263e6372392bc37a2228eb455d1477dcd41d9104" size="2048"/>
+	</game>
+	<game name="Football (USA)">
+		<category>Games</category>
+		<description>Football (USA)</description>
+		<rom crc="fc8998a9" md5="d2d5e1a343d61f8fe9f34425ed66efdf" name="Football (USA).bin" sha1="1d07b45162fab5497fe0a3d4ccb1b33bfd47177a" size="4096"/>
+	</game>
+	<game name="Galactic Invasion (USA)">
+		<category>Games</category>
+		<description>Galactic Invasion (USA)</description>
+		<rom crc="ba558eb7" md5="43844cb89a92e968e38fc53f12f96c07" name="Galactic Invasion (USA).bin" sha1="939857d621715b831d558bcb2fd2f0f9e9b37676" size="4096"/>
+	</game>
+	<game name="Gate Escape, The (USA)">
+		<category>Games</category>
+		<description>Gate Escape, The (USA)</description>
+		<rom crc="d89abb30" md5="f34b964ab5b950993fd287d8401c08d0" name="Gate Escape, The (USA).bin" sha1="a9dca8ae5410a8e5d375f1a36f1ee282aadb7eda" size="8192"/>
+	</game>
+	<game name="Grand Prix ~ Demolition Derby (USA)">
+		<category>Games</category>
+		<description>Grand Prix ~ Demolition Derby (USA)</description>
+		<rom crc="7b3b7b70" md5="aaf74ec30a85bb268b729c4b8a719131" name="Grand Prix ~ Demolition Derby (USA).bin" sha1="fd133dc402b6ecbcc718ffb895a16e07979ab329" size="4096"/>
+	</game>
+	<game name="Haunted House (USA) (Part 1)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 1)</description>
+		<rom crc="6e74fb1f" md5="d7f681e68c8892a643bba6f26a9fe6d1" name="Haunted House (USA) (Part 1).bin" sha1="1b681e18be65af9a4367a272befa4e6f43859adf" size="3933"/>
+	</game>
+	<game name="Haunted House (USA) (Part 2)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 2)</description>
+		<rom crc="8a0dec01" md5="b8aa697d27f9f1688076b6d32b1be409" name="Haunted House (USA) (Part 2).bin" sha1="c2d2382bfb295dad3536328ef22df944fa33dc53" size="2051"/>
+	</game>
+	<game name="Haunted House (USA) (Part 3)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 3)</description>
+		<rom crc="6b047b28" md5="273dc80fdda1109adf37f892720e436c" name="Haunted House (USA) (Part 3).bin" sha1="5a5562730c58b9edb39a3a72c0f1cbb46f24065d" size="2021"/>
+	</game>
+	<game name="Haunted House (USA) (Part 4)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 4)</description>
+		<rom crc="839a81d4" md5="cd44aa608bccd515cf8d6e15799032b4" name="Haunted House (USA) (Part 4).bin" sha1="738d8de4065414a2720437270a12136435214c96" size="1979"/>
+	</game>
+	<game name="Haunted House (USA) (Part 5)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 5)</description>
+		<rom crc="85bc423c" md5="7d8511868daa123bd26eeb7db59304f0" name="Haunted House (USA) (Part 5).bin" sha1="09e18e73a008751df676b4493abdf3319ef5dad1" size="2045"/>
+	</game>
+	<game name="Haunted House (USA) (Part 6)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 6)</description>
+		<rom crc="95dd96d6" md5="16eff6c74b4a055179765ec8c7d72741" name="Haunted House (USA) (Part 6).bin" sha1="6072ff4a2c0b7471d6733d5bf4dcc812befbc147" size="1993"/>
+	</game>
+	<game name="Haunted House (USA) (Part 7)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 7)</description>
+		<rom crc="8af974cf" md5="5e64dac3ca833187545b21d12471822e" name="Haunted House (USA) (Part 7).bin" sha1="6a5e7e47f03653c851019ed739a3c0842ac1c44a" size="1965"/>
+	</game>
+	<game name="Haunted House (USA) (Part 8)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 8)</description>
+		<rom crc="2a6e8a19" md5="52c80f81c4e0debc9b76986f473a7da0" name="Haunted House (USA) (Part 8).bin" sha1="b23a82e9dcd30117e8dc666d775b59db145639b7" size="1857"/>
+	</game>
+	<game name="Haunted House (USA) (Part 9)">
+		<category>Games</category>
+		<description>Haunted House (USA) (Part 9)</description>
+		<rom crc="a3983f23" md5="21e0b8d5148decb8e7b4df94e4da9eed" name="Haunted House (USA) (Part 9).bin" sha1="73dbcdb24ee17cde7b5eb8ecf4d484dc82796d5a" size="1927"/>
+	</game>
+	<game name="Incredible Wizard, The (USA)">
+		<category>Games</category>
+		<description>Incredible Wizard, The (USA)</description>
+		<rom crc="1395b130" md5="6048d68aa01850cbb089bc278afc5853" name="Incredible Wizard, The (USA).bin" sha1="da366390c91e24206b5034bc525e98f2a3ce5f86" size="8192"/>
+	</game>
+	<game name="Life (USA)">
+		<category>Games</category>
+		<description>Life (USA)</description>
+		<rom crc="752d13fd" md5="6ba4ad72310ecd7a2e4017be10323fda" name="Life (USA).bin" sha1="f31cfef8dde6cd5bc030a1e0aae2655da09a2a34" size="2048"/>
+	</game>
+	<game name="Mazeman (USA)">
+		<category>Games</category>
+		<description>Mazeman (USA)</description>
+		<rom crc="565a644c" md5="e4bfe4592cae0a00ea0f9a6ac24a7bab" name="Mazeman (USA).bin" sha1="4b16f6138d4ecffe532995fa697e9e312550e88a" size="4096"/>
+	</game>
+	<game name="Ms. Candyman (USA)">
+		<category>Games</category>
+		<description>Ms. Candyman (USA)</description>
+		<rom crc="14e93a41" md5="56d74e30f89ebdb2aa80588a78ca6abb" name="Ms. Candyman (USA).bin" sha1="39cc94a350892ac57dfa144bcf5ba12973d9684b" size="4096"/>
+	</game>
+	<game name="Muncher (USA)">
+		<category>Games</category>
+		<description>Muncher (USA)</description>
+		<rom crc="e4726657" md5="6e32c8d7cc29b4ed1a032c063fe7dda4" name="Muncher (USA).bin" sha1="02f37ded48b1fb9ba0a2d7e45f5b0a85eaecb1c8" size="8192"/>
+	</game>
+	<game name="No-Die! (USA)">
+		<category>Games</category>
+		<description>No-Die! (USA)</description>
+		<rom crc="784b256a" md5="ea8b7815e6f342fe9ff91c2ed96e7ee6" name="No-Die! (USA).bin" sha1="8dd34f2428a65ac590a26b25904a96e6f04e01d2" size="8192"/>
+	</game>
+	<game name="Panzer Attack ~ Red Baron (USA)">
+		<category>Games</category>
+		<description>Panzer Attack ~ Red Baron (USA)</description>
+		<rom crc="a1c7e129" md5="04b9ede2208708933899685d1b40d1b0" name="Panzer Attack ~ Red Baron (USA).bin" sha1="e0602c7485f511d6aa29d669967b101de79ddb15" size="4096"/>
+	</game>
+	<game name="Pirate's Chase (USA)">
+		<category>Games</category>
+		<description>Pirate's Chase (USA)</description>
+		<rom crc="7b1b206a" md5="d77b87199cf1c791449692474f8eb20d" name="Pirate's Chase (USA).bin" sha1="3ad79a4381441c7f28479ad6b50c9105ca1ba7e4" size="4096"/>
+	</game>
+	<game name="Road Toad (USA)">
+		<category>Games</category>
+		<description>Road Toad (USA)</description>
+		<rom crc="f74385ee" md5="be926821d78151fe0cdc68f1b1d77ac7" name="Road Toad (USA).bin" sha1="3c7016eb90e9e2fca97f002581880f560c312db3" size="8192"/>
+	</game>
+	<game name="Sea Devil (USA)">
+		<category>Games</category>
+		<description>Sea Devil (USA)</description>
+		<rom crc="960b6f86" md5="558e10aafdd1a5dab6bf0ca9e378608c" name="Sea Devil (USA).bin" sha1="09efab90ff6a8cdea18fa0fa16dd4996c1feaa9b" size="4096"/>
+	</game>
+	<game name="Soccer (USA)">
+		<category>Games</category>
+		<description>Soccer (USA)</description>
+		<rom crc="56d28b62" md5="a59b1492a42080f596cf84501f520310" name="Soccer (USA).bin" sha1="12f1f59d79188b41b39fee40dd4f12cc236b4126" size="8192"/>
+	</game>
+	<game name="Solar Conqueror (USA)">
+		<category>Games</category>
+		<description>Solar Conqueror (USA)</description>
+		<rom crc="d15ce025" md5="f89b8b3875f1aaa2594ab9fb01ca2842" name="Solar Conqueror (USA).bin" sha1="3185285687a1b4f643329bea94cba398e1b3ed4b" size="8192"/>
+	</game>
+	<game name="Space Fortress (USA)">
+		<category>Games</category>
+		<description>Space Fortress (USA)</description>
+		<rom crc="519cc707" md5="f1dfb3bcafcae67cc42eb328ec445491" name="Space Fortress (USA).bin" sha1="d1d4527128cad5446cdd4d4f0dfa7194cb50aaef" size="4096"/>
+	</game>
+	<game name="Space Invaders (USA)">
+		<category>Games</category>
+		<description>Space Invaders (USA)</description>
+		<rom crc="52964c1f" md5="2d8d1500090e48eacf636a3ac40aeb83" name="Space Invaders (USA).bin" sha1="aecaa45ed1d74ebf882120da75c006ae502e94c1" size="4096"/>
+	</game>
+	<game name="Star Battle (USA) (Bally)">
+		<category>Games</category>
+		<description>Star Battle (USA) (Bally)</description>
+		<rom crc="d54a74c8" md5="8ab887647ee01d6e22a4ba377ad67627" name="Star Battle (USA) (Bally).bin" sha1="00f8c65ed73f6ce134c1e4e0af7c5aa91a287951" size="2048"/>
+	</game>
+	<game name="Stweek (USA)">
+		<category>Games</category>
+		<description>Stweek (USA)</description>
+		<rom crc="e4f3766a" md5="1de6fee753cb9b4820678366e0d309b0" name="Stweek (USA).bin" sha1="a8170dba7126ff6acb56686a46362bb36bebd799" size="2048"/>
+	</game>
+	<game name="Super Slope (USA)">
+		<category>Games</category>
+		<description>Super Slope (USA)</description>
+		<rom crc="df6b2304" md5="6f3aa8deb95eedd03aedcc1ce8bdeda3" name="Super Slope (USA).bin" sha1="e0793194497631f427581b951f5b0569cc7be398" size="4096"/>
+	</game>
+	<game name="Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA)">
+		<category>Games</category>
+		<description>Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA)</description>
+		<rom crc="5be548cc" md5="ad08e7a20ffc67ea7c8f069ef354eec6" name="Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA).bin" sha1="4dda98d6cf257652fd179eca137b69b67e38b8c6" size="4096"/>
+	</game>
+	<game name="War (USA)">
+		<category>Games</category>
+		<description>War (USA)</description>
+		<rom crc="c1faf1bf" md5="e2818508ea014f64d2042f5666f745ad" name="War (USA).bin" sha1="bca64e756b1f1c23a6b78d90a14541e44161371b" size="7931"/>
+	</game>
+</datafile>

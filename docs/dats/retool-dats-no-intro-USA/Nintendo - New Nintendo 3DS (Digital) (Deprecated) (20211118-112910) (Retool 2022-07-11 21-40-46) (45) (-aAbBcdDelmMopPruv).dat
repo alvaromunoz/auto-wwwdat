@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - New Nintendo 3DS (Digital) (Deprecated) (Retool 1.15)</name>
+		<description>Nintendo - New Nintendo 3DS (Digital) (Deprecated) (-aAbBcdDelmMopPruv) (45) (20211118-112910)</description>
+		<version>20211118-112910</version>
+		<date>2022-07-11 21-40-46</date>
+		<author>aci68, C. V. Reynolds, Hiccup, jimmsu, MeguCocoa, SonGoku, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Binding of Isaac - Rebirth, The (USA) (v3120) (eShop)">
+		<category>Games</category>
+		<description>Binding of Isaac - Rebirth, The (USA) (v3120) (eShop)</description>
+		<rom crc="dd66184b" md5="cbb0ae82e8482f83b6ae742a4f790b77" name="000400000f700800\00000004" sha1="bb8b3761d4c77c31bf06cc99e1a67743c550e736" size="346947584"/>
+		<rom crc="04d34e64" md5="cb80462434e157e3a73eadd2598f604d" name="000400000f700800\00000005" sha1="7f0f5c9a2ffb94a084aaf2e5351c5ffbce4645d7" size="110592"/>
+		<rom crc="d7ce9032" md5="25e864a5b3a9948f00491dc2b0823587" name="000400000f700800\tmd" sha1="95cafb54e50d4a3389a0038c77d309cd27d3466c" size="4708"/>
+	</game>
+	<game name="BlockForm (USA)">
+		<category>Games</category>
+		<description>BlockForm (USA)</description>
+		<rom crc="32ce8456" md5="899f5c959f46c5b0f5c01150f84f72a6" name="000400000f707000\00000000" sha1="428b4ff1f05bf7342ff1ef28f54a330a1a375182" size="42262528"/>
+		<rom crc="ba64b973" md5="b82df3e5d2424b23f470b50d5113e40b" name="000400000f707000\00000001" sha1="f264e36a0bbad285d44683f533aaa6432df87f61" size="49152"/>
+		<rom crc="71162761" md5="b653b088048b47c1ef5d0209000f5803" name="000400000f707000\tmd" sha1="78f8aa94d50360371257a2089768bdb625517c99" size="4708"/>
+	</game>
+	<game name="Box Up (USA)">
+		<category>Games</category>
+		<description>Box Up (USA)</description>
+		<rom crc="a485d65c" md5="8793c14b893e71072e316c632d44afa1" name="000400000f708900\00000002" sha1="71b8985cab9b7517ce746e33e1d1070f43cec21f" size="30945280"/>
+		<rom crc="fc605d01" md5="cf24d22c1c6100696227d868e5c56858" name="000400000f708900\00000003" sha1="2190f62ac1ae9f937297ea72db79dab7ff844179" size="49152"/>
+		<rom crc="01697ffb" md5="8b5a44a768ae982fe168e13b14de4c1f" name="000400000f708900\tmd" sha1="5c8a6e6b366e499dc67be76097fdfc676918f960" size="4708"/>
+	</game>
+	<game name="Breath of Fire (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Breath of Fire (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="abb1a40e" md5="ef4b9ebdb345d08df03b41c3eb0b9af8" name="000400000f705400\00000000" sha1="96d19bac52750e522ccf592b62f5603fc18956a6" size="4653056"/>
+		<rom crc="75d23a4d" md5="bf7119f1195bd2b016ce67680b7ac5e2" name="000400000f705400\00000001" sha1="53e082d51dba70aea92a370a0574bbb211b3ef2d" size="2256896"/>
+		<rom crc="c12bf7ad" md5="06dd3f81b1683653a258c09be828d6fd" name="000400000f705400\tmd" sha1="b259866a169b63c79720b6755dc427f569a510ef" size="4708"/>
+	</game>
+	<game name="Breath of Fire II (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Breath of Fire II (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="1b6b6dbd" md5="a6da71e9b7f07c27901fabcc5e04959f" name="000400000f705600\00000000" sha1="f4cf5c7f34a83e4aa399466abcc24d0f329979a1" size="6701056"/>
+		<rom crc="217fb2ff" md5="22695e2fd22a191f9d336d7168ae1842" name="000400000f705600\00000001" sha1="73f6457f72e1c757fd0c8aa022cfb2f9b6226c4a" size="2048000"/>
+		<rom crc="171bbd04" md5="af65ef78e837712656542db95c35fac7" name="000400000f705600\tmd" sha1="3042f0b818df1491586385550b953deec8c52ae1" size="4708"/>
+	</game>
+	<game name="Brick Race (USA)">
+		<category>Games</category>
+		<description>Brick Race (USA)</description>
+		<rom crc="6f2c56f3" md5="3f35e4a025c4751bc20d30f07bc32d5f" name="000400000f707200\00000000" sha1="8e93bbc6f561bff5565adfd48dbde99a2fdcd452" size="30097408"/>
+		<rom crc="c281ee8e" md5="6e296da1d0ceccb75c807f67f3f83d96" name="000400000f707200\00000001" sha1="1f94d9e2fd7a079fde944c55c072f0559f0b19ad" size="53248"/>
+		<rom crc="17c5ee7f" md5="e82e8eaaa4a6fbedbd7b55a51b8bae45" name="000400000f707200\tmd" sha1="1d85c047828e3aaefb8250eb85262f13fb995f2e" size="4708"/>
+	</game>
+	<game name="Castlevania Dracula X (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Castlevania Dracula X (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="0a4831e6" md5="6c17586ca39c1a17df1a746732803eb9" name="000400000f707d00\00000000" sha1="800e7a083f5f48e378847cec73d8a4d0575da637" size="5222400"/>
+		<rom crc="490cd314" md5="a7e896b97fb1d4276e6792bc561d3d14" name="000400000f707d00\00000001" sha1="7e9a58556c8c1921afad203d4cda073f0b88583b" size="1556480"/>
+		<rom crc="54a614e8" md5="94f0a6b53c9d4b1d5e26eafb1a34e2c6" name="000400000f707d00\tmd" sha1="d6ed6da4f4d22a5a381ef793e125ac9880d8b519" size="4708"/>
+	</game>
+	<game name="Color Cubes (USA)">
+		<category>Games</category>
+		<description>Color Cubes (USA)</description>
+		<rom crc="38592053" md5="8e5336e18acbb4085b5393fdbf633ce7" name="000400000f709a00\00000000" sha1="fe756878b1ee65e628b631e2fc465711ab4b16d1" size="41992192"/>
+		<rom crc="b4ec1538" md5="d4385e13f554bd633c2dcda6e0fc11f2" name="000400000f709a00\00000001" sha1="0d8ce8c9921f5c225a6eea5ed8c4f7ab5653086a" size="49152"/>
+		<rom crc="cdf5b9e2" md5="663813ffbc80322ec47917e7ce2719e6" name="000400000f709a00\tmd" sha1="c222951b726641457d166060389e73034e04530d" size="4708"/>
+	</game>
+	<game name="Contra III - The Alien Wars (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Contra III - The Alien Wars (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="c4ee03fb" md5="91242a67c3e9054e34633be5b755e720" name="000400000f702c00\00000000" sha1="0dd272fc9b468154a074748d9c16b9585150f541" size="4440064"/>
+		<rom crc="13fdec8a" md5="3fdc0abecfeacc6f320f23338a1784fb" name="000400000f702c00\00000001" sha1="a0ead7048ec3be8e75fbbdd56b7fa10daf75bc9f" size="1351680"/>
+		<rom crc="0b3b842e" md5="7ba0e665eb1049ca0000adb1f010440d" name="000400000f702c00\tmd" sha1="389f0cacaab95f37408cdf6fdbf4d295defed87e" size="4708"/>
+	</game>
+	<game name="Cup Critters (USA)">
+		<category>Games</category>
+		<description>Cup Critters (USA)</description>
+		<rom crc="12a75fbe" md5="6bda2278524f029a35bdabf355cfe69d" name="000400000f709000\00000000" sha1="71bd32a12ae1b2bac61bc39ba905c8583c88dd90" size="34074624"/>
+		<rom crc="7284950b" md5="b243030d083358e43e44f1e908692f26" name="000400000f709000\00000001" sha1="f802cb7f67b4850a3916349a8b89fa8f9e136b8b" size="49152"/>
+		<rom crc="4e88fd20" md5="d016d61a1da1805dd56d371f1815e828" name="000400000f709000\tmd" sha1="577561e4574c8ef1b6a39bc09d469276652ea7f2" size="4708"/>
+	</game>
+	<game name="Demon's Crest (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Demon's Crest (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="d722f2f4" md5="c2ac2b6e62bcf98d6dad38799056452a" name="000400000f706800\00000000" sha1="e92825b1a7dccfd289d92802785d4ab49315bf7b" size="5206016"/>
+		<rom crc="e8322b10" md5="541ddf6ebe8f417f28c53697075868f9" name="000400000f706800\00000001" sha1="3679b6a1495e164b8af81fe46480ff7e030041fc" size="1908736"/>
+		<rom crc="9beefa35" md5="84ae4c6848dc23d58e88da4a80f8a5d5" name="000400000f706800\tmd" sha1="b13d18b903026c26475473ebb9f4d2f03a5ed378" size="4708"/>
+	</game>
+	<game name="Donkey Kong Country (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Donkey Kong Country (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="7eac6f57" md5="118ffe5e62a79312944750e17b29d46e" name="000400000f701b00\00000000" sha1="e2584f2d14780edddbbcf35fc9bdc9abbd283a19" size="7593984"/>
+		<rom crc="56728a15" md5="b7f9c84ea4a3c3b9d509fa7fa4784f55" name="000400000f701b00\00000001" sha1="00e3f234cc92561f11b7ec10d5904b347373d65e" size="1548288"/>
+		<rom crc="347b2d8d" md5="19a6dde75cb1c104dd19c8db1f14dbf4" name="000400000f701b00\tmd" sha1="b1b015aba0e83d3aa7ca00403c127eb123ceca8d" size="4708"/>
+	</game>
+	<game name="Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="1aade1ff" md5="50211ba34c0cae8244eda7bba037744c" name="000400000f702000\00000000" sha1="01c29b3dc0b839ed632ca8d77cf9b8f29b76daad" size="8138752"/>
+		<rom crc="ac423ffe" md5="0e141520b3a9e098d236b8666814cfd4" name="000400000f702000\00000001" sha1="50ec95d05bd511d846f33c86bee793b8ad03b706" size="1847296"/>
+		<rom crc="65eaf8bc" md5="123ef1e81002ca8fed2b2ca1e74b21ec" name="000400000f702000\tmd" sha1="4407cc955066c09ebdcb9ba5d5ab0b179ec52828" size="4708"/>
+	</game>
+	<game name="Donkey Kong Country 3 - Dixie Kong's Double Trouble (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Donkey Kong Country 3 - Dixie Kong's Double Trouble (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="7a03938e" md5="a8ffafe402fda7b40637b34609d0bcd7" name="000400000f702f00\00000000" sha1="46c30259aa2c631a527b058094e96994da0d2dc1" size="8122368"/>
+		<rom crc="00d6ae0b" md5="6d984b5444ec1b46b0af5de647618035" name="000400000f702f00\00000001" sha1="ff819764fb4f497d60f640902d812469bc7a78ec" size="1880064"/>
+		<rom crc="e3fbfbed" md5="38e3dd14dd18c5f7365db3eee6eef36d" name="000400000f702f00\tmd" sha1="195342f67dd4a80fcf998d24b2c9364cbe7cf6e7" size="4708"/>
+	</game>
+	<game name="Dragon Ball Z - Super Butoden 2 (USA) (SNES) (Virtual Console) (Encrypted CIA)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Super Butoden 2 (USA) (SNES) (Virtual Console) (Encrypted CIA)</description>
+		<rom crc="530b071b" md5="6986eedd923b0fec9a02c32590e412e3" name="Dragon Ball Z - Super Butoden 2 (USA) (SNES) (Virtual Console) (Encrypted CIA).cia" sha1="129fa1ab44a2e054692887f6fde27b2b83563ef5" sha256="35d3ac87df241be36f4e0911151fb62064aeb699b782a533f73e36c39d21ffaa" size="39012672"/>
+	</game>
+	<game name="EarthBound (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>EarthBound (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="d3672cd5" md5="6748d9ef270271a44a2d27c01d44a9ae" name="000400000f701600\00000000" sha1="c7672ba697e26e44f97ffb306a8621f5a2fc5fc9" size="8597504"/>
+		<rom crc="169e0b13" md5="d5417b6ebd6510a41c159b25dcd0e578" name="000400000f701600\00000001" sha1="ceb53b7083a3932dd7565c59c844e316a578f476" size="1568768"/>
+		<rom crc="e12a3968" md5="227fc60d47322f53f8a9a6302536dd60" name="000400000f701600\tmd" sha1="168d752b87d0199217537c842d3a6ebfafe88aa6" size="4708"/>
+	</game>
+	<game name="F-Zero (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>F-Zero (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="4e5a3b38" md5="1dafe81a0dee845c06f672b04313350e" name="000400000f701900\00000000" sha1="f748c41dec2eed2c8690ebb65bb9f4f4accc9222" size="3702784"/>
+		<rom crc="f53f0cb1" md5="3ed5e9c12e4a0b0a780f26048df448ce" name="000400000f701900\00000001" sha1="c824d317f30e8477177960463611b80f59695ec5" size="1400832"/>
+		<rom crc="8bf252c0" md5="f59d0abb96d5e467122b5a2085ef4db8" name="000400000f701900\tmd" sha1="fcafdbc570e14e20deeeb14fbece830e2920a509" size="4708"/>
+	</game>
+	<game name="Final Fight (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Final Fight (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="710e3ca5" md5="24a73576f5c1a2c490ba14312d4314ce" name="000400000f703f00\00000000" sha1="53ad34de0675f3a0f2fa72b95e554086bf8187ea" size="4497408"/>
+		<rom crc="92ea7bca" md5="f76162b9b938f895d513c116d6c5b220" name="000400000f703f00\00000001" sha1="df5f723125588214e12291fb0cb250eea6722ef4" size="1220608"/>
+		<rom crc="7c4d5d4f" md5="7340cead1c4ab09123c15ee889dd1c9e" name="000400000f703f00\tmd" sha1="38b31e487bed8d74c7831e94af0c0f37d3563b24" size="4708"/>
+	</game>
+	<game name="Final Fight 2 (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Final Fight 2 (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="4aa54140" md5="277300d19b90e506e64f5c3b3221a0fd" name="000400000f704c00\00000000" sha1="5c324719879c38c0fd66a128340e8d340142a1b7" size="4608000"/>
+		<rom crc="a112767a" md5="a4dfe25b2eec59ec0250350aea740891" name="000400000f704c00\00000001" sha1="e0d54e356e12554154cf91ab7cded9d865f3a034" size="1380352"/>
+		<rom crc="7cc91cff" md5="8454602e52b30479dca43c4b40264625" name="000400000f704c00\tmd" sha1="ef5221ca9ae7b32cb25f5f13777385324f1a8fc9" size="4708"/>
+	</game>
+	<game name="Final Fight 3 (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Final Fight 3 (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="0d98bf68" md5="b83d182c783f3631fe01cf14463e4f49" name="000400000f704e00\00000000" sha1="b4b7f9ee1f7fbbbb6ab0831014dc411348b776f2" size="6602752"/>
+		<rom crc="bbb6512c" md5="9338603621cc799b6a96fd08a8440058" name="000400000f704e00\00000001" sha1="1a73c81cd5a68ae2d0d1af80d970bc76f39e9943" size="1380352"/>
+		<rom crc="73139832" md5="e75e900d16965ce23d04468562383a5f" name="000400000f704e00\tmd" sha1="1979062dadaa8bff2f68154ccb43fdd6916e8669" size="4708"/>
+	</game>
+	<game name="Futuridium EP Deluxe (USA)">
+		<category>Games</category>
+		<description>Futuridium EP Deluxe (USA)</description>
+		<rom crc="87fb3526" md5="07e101fa6ac16eff2492b45a076c7dd1" name="000400000f705c00\00000000" sha1="3f452d10437a4f47dff2b515122e47d2322755bb" size="227930112"/>
+		<rom crc="fa2859f2" md5="53eb4c3da34db71a9e64ce9ffe8a48d8" name="000400000f705c00\00000001" sha1="ef48dd9ecddbda70023dd3f4a276ae210cdb4b5c" size="520192"/>
+		<rom crc="6b02bbc2" md5="34295824f299e2403e03f255f0873c0a" name="000400000f705c00\tmd" sha1="509f70b1c038e83b3e2d47f64711fc44cc65d7c4" size="4708"/>
+	</game>
+	<game name="Galaxy Blaster (USA)">
+		<category>Games</category>
+		<description>Galaxy Blaster (USA)</description>
+		<rom crc="0d68efc1" md5="2446623fbde0735c203ba8dec6099e16" name="000400000f709400\00000000" sha1="c85b5d4022264f34d61be297c21df8fb4ca3d901" size="54116352"/>
+		<rom crc="e08f353d" md5="785d0c05f5f131ca9128060ce51f9109" name="000400000f709400\00000001" sha1="7aa18160c54b45fa3642d7cb6b7e16bfefc2b5ac" size="49152"/>
+		<rom crc="d1aa59c6" md5="28d6fd760c984a52fff1ffc35ad910a2" name="000400000f709400\tmd" sha1="363e7d2dbb3ea1238ecd5c7a8e4597a643a3acd9" size="4708"/>
+	</game>
+	<game name="Hit Ninja (USA)">
+		<category>Games</category>
+		<description>Hit Ninja (USA)</description>
+		<rom crc="bc883364" md5="834767348e6e3dd44b2f3661d8fcbb97" name="000400000f709500\00000000" sha1="7e16e4b669b0b0698df05c17c1746a834e1c5334" size="33198080"/>
+		<rom crc="cedefb37" md5="733789b1ad788fd505196b81490fa0be" name="000400000f709500\00000001" sha1="8c56e19a9c76783b83a232a13f16c6bd851efa85" size="49152"/>
+		<rom crc="6a81729e" md5="735d667ab0b3a6164531ad015aaf1931" name="000400000f709500\tmd" sha1="f84ffb76a4e222114eb8f5d6e51622e940df8f8f" size="4708"/>
+	</game>
+	<game name="Hyperlight EX (USA)">
+		<category>Games</category>
+		<description>Hyperlight EX (USA)</description>
+		<rom crc="d4ac81be" md5="8bedde92a9d898477eba7ed96eb6e484" name="000400000f707f00\00000003" sha1="dd45212c9f7cfbc2ea46bafa47bec01417d9ced3" size="290816"/>
+		<rom crc="ca21a9a2" md5="759d44152301bc91111e7153128468e8" name="000400000f707f00\00000004" sha1="87885548ef47caa9e208644cc007027e9b797b7f" size="80519168"/>
+		<rom crc="ff2bf533" md5="d4c36e60dbea86e20014e46c73edad48" name="000400000f707f00\tmd" sha1="8085070ed55ae5f3850793126418c6cd72b94cfa" size="4708"/>
+	</game>
+	<game name="Legend of Zelda, The - A Link to the Past (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - A Link to the Past (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="a4e08643" md5="28e90b31546f70df0dfdb1d18364dd6f" name="000400000f701000\00000000" sha1="8d499c45aac03d1858eb44796bfd0b7fef4d8529" size="4268032"/>
+		<rom crc="d6bd796e" md5="f30906872d5d3a73a2e5cdd92009414c" name="000400000f701000\00000001" sha1="40719245535d3b360e4d6cdc7265f93462937556" size="1761280"/>
+		<rom crc="112b0d64" md5="c7f46d5976bf14aa66b1470e7796a04e" name="000400000f701000\tmd" sha1="71b7727aac829378d7562c7478602976e1742af7" size="4708"/>
+	</game>
+	<game name="Legend of the Mystical Ninja, The (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Legend of the Mystical Ninja, The (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="0d6f3f07" md5="19bed1ee57d20f627ba4cf34b114a354" name="000400000f703700\00000000" sha1="b4560f4b4597e66df78b08f10d1d45aab26e4b1f" size="4329472"/>
+		<rom crc="4601060a" md5="44b20bd877ee764433768dd81188adf1" name="000400000f703700\00000001" sha1="42eda1f2643d2821e03ce8eca80a4c7c1d3a2886" size="1519616"/>
+		<rom crc="b6d3661b" md5="2c5125d4b996b973f3057dcefbb7297a" name="000400000f703700\tmd" sha1="d31b5a8bd562f6a87d3fd361e96be1f6dcd50e79" size="4708"/>
+	</game>
+	<game name="Mega Man 7 (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Mega Man 7 (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="16ff49ec" md5="89a2b72d8a36466f1d77e8fc10d5ca4d" name="000400000f702800\00000000" sha1="64fe78855ae17a822bb67a978dc4080b3af8d3ff" size="5185536"/>
+		<rom crc="ac0a1de1" md5="243f5371391ab694b333a3f46ddfb43f" name="000400000f702800\00000001" sha1="34e2c54c3711375aef658353a69dfe4ac62d26d4" size="1888256"/>
+		<rom crc="3bb2993d" md5="649e3bcc57b05601508e4b9339ffdde1" name="000400000f702800\tmd" sha1="c2362152a335c64273dd3dc373af561a9f321750" size="4708"/>
+	</game>
+	<game name="Mega Man X (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Mega Man X (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="ac1bc442" md5="789d4a3885df37389ad4a2885c002c07" name="000400000f702600\00000000" sha1="768459a1fd678d8a45d266cb294b1c75420a8d29" size="4808704"/>
+		<rom crc="377b59d5" md5="8f0d243de4462d5ffc47e4338ab1ee2b" name="000400000f702600\00000001" sha1="6cf3a02a59d4076c6aa609e3f9f201c35aad7831" size="1507328"/>
+		<rom crc="30396fe0" md5="4067df40fcea1f5a3ea64cc08548cbb2" name="000400000f702600\tmd" sha1="069f5d4ae5b24ecfe7e40fc3cc14807a84e41cdc" size="4708"/>
+	</game>
+	<game name="Mega Man X2 (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Mega Man X2 (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="6499e876" md5="d16868d4b0a5c604e5dabfc7ff381df5" name="000400000f703300\00000000" sha1="99530673019cf42577145e27938a4bf1332ec3e2" size="4894720"/>
+		<rom crc="beb06307" md5="078a0ad5d68b207d14f079d2bee578b8" name="000400000f703300\00000002" sha1="99fa09fafcbb2b35a64a5b6e9975283c444dd0a5" size="1777664"/>
+		<rom crc="53181d03" md5="f3c18a86454727f91102a44ff8592bc0" name="000400000f703300\tmd" sha1="500346dba8658fb1e2e7dc28808618f2da552acb" size="4708"/>
+	</game>
+	<game name="Mega Man X3 (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Mega Man X3 (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="6c19750f" md5="6f5d2c6d80cb14ab04ac5bc075b51b44" name="000400000f704a00\00000000" sha1="3f4e82f8f7d9a9760dab63c042f59119449b5dc3" size="5210112"/>
+		<rom crc="aa51e74b" md5="a7d1d0e660d9fd1f63adf971e7fb6695" name="000400000f704a00\00000001" sha1="d4b32825ec12174db7f4a0cc2349e388a47c02a3" size="2187264"/>
+		<rom crc="fd067d35" md5="9a12abb86136ef252ca22b971e6e4119" name="000400000f704a00\tmd" sha1="172929176b8d6ef1efc3938500109a3bc235a834" size="4708"/>
+	</game>
+	<game name="Pilotwings (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Pilotwings (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="d6072dba" md5="48e6fbd0425693c38c848634f7054f77" name="000400000f702200\00000000" sha1="77e5501ccc376b609bf5292fb39e7c3a67caae44" size="3719168"/>
+		<rom crc="05f5dbbf" md5="d9f25201408200b5c06c99479c1d4a8c" name="000400000f702200\00000001" sha1="728006d40415b6222aea56c3233cce592b91cb47" size="1544192"/>
+		<rom crc="08c0c479" md5="0ba26b5d0b342138a0b3867f22453235" name="000400000f702200\tmd" sha1="fa46e2b2c8706622b4f0f8b0ca1c69cb868314e6" size="4708"/>
+	</game>
+	<game name="Pirate Pop Plus (USA)">
+		<category>Games</category>
+		<description>Pirate Pop Plus (USA)</description>
+		<rom crc="221c30ba" md5="08e0399dce7027e622d5dc092791e5ef" name="000400000f708600\00000000" sha1="cc0904dc6deb36e0cc6a7023d1c879040b195aa5" size="77774848"/>
+		<rom crc="c720af1c" md5="4f233f54fef6b7becb42aebfa7cbb849" name="000400000f708600\00000001" sha1="1193a79f42e89dbd0fac6ab73c8b4120c234d1a0" size="1478656"/>
+		<rom crc="c9bdab28" md5="a44b62f7b203acdd4fccae7b8de9e5ad" name="000400000f708600\tmd" sha1="7a609447283bb28e082e692af74a7a61049456a7" size="4708"/>
+	</game>
+	<game name="Pixel Hunter (USA)">
+		<category>Games</category>
+		<description>Pixel Hunter (USA)</description>
+		<rom crc="268a8301" md5="1094e657a09b5941384efe506cc1dcbd" name="000400000f707800\00000001" sha1="8c7fb8b3d3a23d5fd1bf37c1b06b045a08f1bfa7" size="40960"/>
+		<rom crc="1c4f004b" md5="89e1b2361287dbfdc959c6c21d57b044" name="000400000f707800\00000002" sha1="e4337793c482e04c69565d5f3ad1430dc633d94f" size="124358656"/>
+		<rom crc="703a43f3" md5="fddca2788d2bca1edad4c03593b4f023" name="000400000f707800\tmd" sha1="f0ab4da64a0b4f764ba7fcf4dfec7bb713ad927d" size="4708"/>
+	</game>
+	<game name="Shoot the Ball (USA)">
+		<category>Games</category>
+		<description>Shoot the Ball (USA)</description>
+		<rom crc="597e692c" md5="98ce0eedd1e7055e9e4264690d89b2dd" name="000400000f708800\00000000" sha1="b4a0996206f6c997ead92cee68e9f2d5a5ccda92" size="30113792"/>
+		<rom crc="51d26fad" md5="bffc02f4123649dc9235066c260801f7" name="000400000f708800\00000001" sha1="54c6462b1b48c6889a0328a30e3b72ab0d277a02" size="49152"/>
+		<rom crc="e8dc016b" md5="9aa8c8d42b5037bfc6cbaddb4c0100c2" name="000400000f708800\tmd" sha1="7df99d40d0dd78bbd4d7d6b2d80258ced3327d26" size="4708"/>
+	</game>
+	<game name="Street Fighter Alpha 2 (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Street Fighter Alpha 2 (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="ea084a04" md5="e93411fdccd597283173c8df4a4f028b" name="000400000f704300\00000000" sha1="927fd20e921c1204e18097d0539833b418000d10" size="14163968"/>
+		<rom crc="3652bbaf" md5="1324bf37b4602eec313a71a03c880672" name="000400000f704300\00000001" sha1="dcc201e2059526b70cad54ef3074c24f52ae8e3d" size="3805184"/>
+		<rom crc="4283982b" md5="2014c3b09fe1eb309f17638409fe3968" name="000400000f704300\tmd" sha1="0f30d6c9bdd342d452e1a3759ce23c88bfad5191" size="4708"/>
+	</game>
+	<game name="Street Fighter II Turbo - Hyper Fighting (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Street Fighter II Turbo - Hyper Fighting (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="8119e255" md5="30fce70dfee016d7d454e3b6ebdd015d" name="000400000f704100\00000000" sha1="da1ca0ea286adfe12cc8a7677aabede7938fe3e7" size="6479872"/>
+		<rom crc="2ddebc25" md5="f3dc4ca5c3c717476f6ae621c53e69ab" name="000400000f704100\00000001" sha1="976141e290687bb054ba8f06ff3248e65f2f15f1" size="1822720"/>
+		<rom crc="f8fd3e5f" md5="11e1c57fc750521ceb7c8e9ba1cebe40" name="000400000f704100\tmd" sha1="4495f05d7b87d35082fc7b695b69d8927717bfce" size="4708"/>
+	</game>
+	<game name="Super Castlevania IV (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Super Castlevania IV (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="32e191e2" md5="6460e24a09787ea155e52ca5c320e082" name="000400000f703500\00000000" sha1="1527f2de76e1a59e133688aa609caefd14bfb23a" size="4206592"/>
+		<rom crc="8b795275" md5="f8cdf6ee96e30b3c3468890f5dadcd22" name="000400000f703500\00000002" sha1="a6a7ac85f34ee5f2c2bca4f08db567644f42466a" size="1445888"/>
+		<rom crc="b0d43eef" md5="fc2da45f0ee50b1ac40a2b8e446ef6b0" name="000400000f703500\tmd" sha1="be43c65aec4d76767486cfbfa5cfab2f4d7ea82f" size="4708"/>
+	</game>
+	<game name="Super Ghouls'n Ghosts (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Super Ghouls'n Ghosts (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="75c324b5" md5="6942bdefdc9a647085817d28d91eef20" name="000400000f702a00\00000000" sha1="847e20fa874188bc2d67928f43da5a84139905ce" size="4296704"/>
+		<rom crc="ef9bdfba" md5="9934847b463a4880093f0bf80fd32991" name="000400000f702a00\00000001" sha1="1973179bbdabfd7486d1b236c25a51fde3ca184c" size="1286144"/>
+		<rom crc="7eb867c5" md5="46b277b027eea232c556d7eaff83f8ec" name="000400000f702a00\tmd" sha1="48852e3b44e619dee232fe0834a6c04bdbd9fb90" size="4708"/>
+	</game>
+	<game name="Super Mario Kart (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Super Mario Kart (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="39ef9721" md5="ec14ea9ebeca9a523e4f94b881a188f5" name="000400000f701400\00000000" sha1="c450c0e6283de93110b679584d25ce6b4c0432db" size="3747840"/>
+		<rom crc="0c8e6c4c" md5="f2335024e93278a8147560eaea377bab" name="000400000f701400\00000001" sha1="246a9119838c6f2e9383a90f108bb32174cb8911" size="1671168"/>
+		<rom crc="9525738f" md5="0a368999639fc13b5aa56e0acbebd0a9" name="000400000f701400\tmd" sha1="98a15e9bc67463150d46423ef29aa3c6845e3446" size="4708"/>
+	</game>
+	<game name="Super Mario World (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Super Mario World (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="f53094d4" md5="6b98379dd9dc4bb5244ac88b8fb742ad" name="000400000f700e00\00000000" sha1="1e76720fb800560d11d193e0c3e9af8119a056d9" size="3731456"/>
+		<rom crc="268f58fe" md5="2a9051e54bef34596f798238b5294227" name="000400000f700e00\00000001" sha1="8f4511824dbfdaa5036725b4ed9daf3308aedff3" size="1769472"/>
+		<rom crc="7b6015fd" md5="dfc33e7d4edfd3770b1cf098d59089ab" name="000400000f700e00\tmd" sha1="1751ea6dade2adcd100377da65f5c8431fc340b3" size="4708"/>
+	</game>
+	<game name="Super Metroid (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Super Metroid (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="a9470853" md5="1a340e2c56dabd4dc6c74c6ccffd4eba" name="000400000f701200\00000000" sha1="e5f4620c6259e13a8b2b34c8f1509ed51e784458" size="7880704"/>
+		<rom crc="dc7e9c17" md5="6503ab8413d85baaf024e0088181b16c" name="000400000f701200\00000002" sha1="0e6968f5a40e1c1701551cd804c5a055141950a7" size="1933312"/>
+		<rom crc="2d4e2c8b" md5="d40fb10ca36d930701f5a7ebf569c4c6" name="000400000f701200\tmd" sha1="5f67a78d66b4eab5e48ad21ead1fe8ad02201be9" size="4708"/>
+	</game>
+	<game name="Super Punch-Out!! (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Super Punch-Out!! (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="ba25f9f9" md5="a5854ac20c9699e47707de5299bb4758" name="000400000f702400\00000000" sha1="c4701dc948ead02f429c330e4a64d43e584eb065" size="6164480"/>
+		<rom crc="eba767eb" md5="371a4651cc71ad83b970df5e02c7e865" name="000400000f702400\00000001" sha1="d02fdef003da28ed0e182697061a8dc90bb55a2d" size="1564672"/>
+		<rom crc="6fef62c4" md5="bf2c8bfe2893ba58e30cf785380bfc2c" name="000400000f702400\tmd" sha1="fdd417834d60933602c54ec4285e0bd1090f3547" size="4708"/>
+	</game>
+	<game name="Super Street Fighter II - The New Challengers (USA, Europe) (SNES) (Virtual Console)">
+		<category>Games</category>
+		<description>Super Street Fighter II - The New Challengers (USA, Europe) (SNES) (Virtual Console)</description>
+		<rom crc="29b5663b" md5="16660fad049e65c50ec14ab63546483d" name="000400000f703100\00000000" sha1="1c41dbc7ef6c6d2b2bce180282008a976e34dcb7" size="8761344"/>
+		<rom crc="a7e00e02" md5="48fdb158bcdcfb4843c19538b2b152bc" name="000400000f703100\00000001" sha1="3afb7c12e2724e558cbfde64c715942c4a30538c" size="2138112"/>
+		<rom crc="2dc48d0e" md5="2bfd60a9416685be20dc7c3d4f79adc6" name="000400000f703100\tmd" sha1="f1468ec7fb468f7a52fad2627042f98f6518b063" size="4708"/>
+	</game>
+	<game name="Wind-up Knight 2 (USA)">
+		<category>Games</category>
+		<description>Wind-up Knight 2 (USA)</description>
+		<rom crc="e34c6049" md5="4e7c795b2515ddab5c91c45d17bcdfba" name="000400000f702d00\00000000" sha1="192c83d3779b7a28636ba9f8b98f530ade64410b" size="397328384"/>
+		<rom crc="3717fdaf" md5="1af51caf92005e6457dc2dd5bd5eb3db" name="000400000f702d00\00000001" sha1="9817612d6f9db5ee68b3462f2713f2ee0b590305" size="1003520"/>
+		<rom crc="243d6ce8" md5="5815e48ed8aae875306c606d00c637a3" name="000400000f702d00\tmd" sha1="61db8912942e5a1d1f5d7ddf5044105047f93efd" size="4708"/>
+	</game>
+	<game name="Xenoblade Chronicles 3D (USA) (En,Fr,Es) (v2080)">
+		<category>Games</category>
+		<description>Xenoblade Chronicles 3D (USA) (En,Fr,Es) (v2080)</description>
+		<rom crc="04740c90" md5="ac0f4432db3d2061a8a0882f3b205286" name="000400000f700100\00000001" sha1="73d138c85cc4af96d3fc7f01d08517d65e0ea633" size="1937408"/>
+		<rom crc="0f39853b" md5="92b6e17b20a34730cd60b8764bea5e01" name="000400000f700100\00000002" sha1="de8c74bc1532c49f5ca7f3fc377dfec2ab7263cc" size="3776274432"/>
+		<rom crc="26cdcd28" md5="163de912a3a83b071e2a0d0d66e5fa71" name="000400000f700100\tmd" sha1="b2dffb63cbc16d9aeb456dae66a43e16fa28302c" size="4708"/>
+	</game>
+</datafile>

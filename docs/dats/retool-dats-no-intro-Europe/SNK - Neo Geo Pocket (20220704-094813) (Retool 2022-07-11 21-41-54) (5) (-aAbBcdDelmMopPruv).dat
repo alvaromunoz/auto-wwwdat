@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>SNK - Neo Geo Pocket (Retool 1.15)</name>
+		<description>SNK - Neo Geo Pocket (-aAbBcdDelmMopPruv) (5) (20220704-094813)</description>
+		<version>20220704-094813</version>
+		<date>2022-07-11 21-41-54</date>
+		<author>BigFred, BitLooter, Hiccup, omonim2007, sCZther, SonGoku, xuom2, xxxddd &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)">
+		<category>Games</category>
+		<description>Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)</description>
+		<rom crc="caa3a827" md5="68ee2d5be4c81348bc499fc29819fd2d" name="Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp" sha1="d5a53c1b18626909b58fc73740d8c566357a7812" sha256="5f03b0289f7ba60feaf747c4db28974e058614dcfa060bbed5472cbd3aff4d1d" size="1048576"/>
+	</game>
+	<game name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+		<category>Games</category>
+		<description>King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+		<rom crc="dceb7e11" md5="347d0ef33c889cc826d214caf8475ae0" name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" sha1="4a7adbcccb05b6047a38bb861523cbae7d956bfa" sha256="82e897347b4c4717d88cbf8d494dfa5c448a505060102815ecd5c7ae5564d911" size="2097152"/>
+	</game>
+	<game name="Neo Geo Cup '98 (Japan, Europe) (En,Ja)">
+		<category>Games</category>
+		<description>Neo Geo Cup '98 (Japan, Europe) (En,Ja)</description>
+		<rom crc="33add5bd" md5="30efe4f72d4678ffb97b885b1b7c3da1" name="Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp" sha1="445743119c65a6765a0bdc849a12e9038192840c" sha256="b9394e92dc0215cafcc0087c0e26d0efafb49b5f5f899ede6ac4410072276ded" size="1048576"/>
+	</game>
+	<game name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)">
+		<category>Games</category>
+		<description>Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)</description>
+		<rom crc="4b1eed05" md5="58308b9bdf0b90b632ac4d3655a81f6d" name="Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp" sha1="67826f4c8e488938f7e1b26e331f79ebf0aa2565" sha256="7c6980005ddacf7bd767a60e922cc3ac7488fd1233ef996366d4c97094da9573" size="524288"/>
+	</game>
+	<game name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+		<category>Games</category>
+		<description>Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
+		<rom crc="32e4696a" md5="d13f954b2f1c703bdf857837c24e332e" name="Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" sha1="2c6adfa69e7aeada7d4198b373436eee35b70d01" sha256="7ff8599e6cd07e613fb46876d864653d6835a6ff60d851ebd131f508f94e11da" size="2097152"/>
+	</game>
+</datafile>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Non-Redump - Sega - Dreamcast (Retool 1.15)</name>
+		<description>Non-Redump - Sega - Dreamcast (-aAbBcdDelmMopPruv) (2) (20220708-144032)</description>
+		<version>20220708-144032</version>
+		<date>2022-07-11 21-41-43</date>
+		<author>Hiccup, MeguCocoa, Seventy7 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Half-Life (Europe) (White Label Promo) (Video)">
+		<category>Games</category>
+		<description>Half-Life (Europe) (White Label Promo) (Video)</description>
+		<rom crc="b3397c10" md5="ab61e5a0bd3149f98e19d329e26bfc5e" name="Half-Life (Video) (Europe) (White Label Promo).gdi" sha1="8e263d53a84c0d6a56eef26170c6cf5d87128163" sha256="7b9d09a1bed74d0885cae1caddca20f1e89860dc05b77d78c13e3448e63e115e" size="88"/>
+		<rom crc="b0be0264" md5="3f790fb01866d279307941830572cfd7" name="track01.bin" sha1="34d5d439bd38894766a2430a9ad2cc819329b6c6" sha256="525adb999521cb6415a2474a9c5eb18841a6fac63af010e7f5643aeca11cd95a" size="2032128"/>
+		<rom crc="6e9cf8d8" md5="0c7620dda4708369b16185846f5187d1" name="track02.raw" sha1="846f56b8d9f2e3aacbca2ee7df1f0d24d0bc707f" sha256="ac725afb211e2113a02e1c7a84ac7385b30ceffc6a3b062dc8d28273a285315f" size="1764000"/>
+		<rom crc="06619bba" md5="115994716730ada64c0a7a895317241c" name="track03.bin" sha1="647533845cf43b4d07411819d3233d9b60dda557" sha256="e5622e96166536deec7e205b30ecd4f2cad8a4670de402c020fb72e14f9202e2" size="1185760800"/>
+	</game>
+	<game name="Xeno Crisis (World)">
+		<category>Games</category>
+		<description>Xeno Crisis (World)</description>
+		<rom crc="cd042b76" md5="d030d46da88110cc317c32c30729572e" name="XenoCrisis_DC_CDI_v1_0_0.zip" sha1="af558770aa984bfa18e2eec51471133cb363438b" sha256="dc31c0920b20a5e16ebf083b51c46b4a714c1813bcdb1158b55703368af60d91" size="516469997"/>
+		<rom crc="94691a6b" md5="243971ffe999778ccb95576475ab41c7" name="XenoCrisis_DC_CHD_v1_0_0.zip" sha1="a23510402c02db8e243407dfd625fe1de0d167ff" sha256="cc0ea23b7dece52ca2ad03555fa26111ca2e781662a852a918d46749ea2ef864" size="387536395"/>
+		<rom crc="3ffa3e27" md5="5b4e2d4181ebe8cb7af1eef5f5142d0f" name="XenoCrisis_DC_Covers.zip" sha1="2d7d1edeb82fa3d9af19f9124d81bf8502985a2f" sha256="fb7ccf8ad721fecb2ad9830ab52b5b52bfca4ce5e2f755c167672aa09963a02a" size="4672397"/>
+		<rom crc="8c65ca8b" md5="fab91782fd56cf7e2f243d877e96f250" name="XenoCrisis_DC_GDI_v1_0_0.zip" sha1="039ec30f2359c5e4036e44e3033d426ea18c4e64" sha256="375ab09bc2f3e7e062c4dbee7ca4230b38eddf924ef40754b22ba89588d2c90d" size="516983897"/>
+		<rom crc="e9bd753e" md5="0106207a0ac71d541df343fc91629a1d" name="XenoCrisis_DC_Manual.pdf" sha1="e8065fa7682f15234b05d790570f849547e9a813" sha256="012c7dd53988616a4eb040baf0fa491d42ae46e17b94b407bba3e26087ece36c" size="3138823"/>
+	</game>
+</datafile>
