@@ -13,5 +13,4 @@ Following instructions from https://mamedev.emulab.it/clrmamepro/docs/wwwprofile
 - Create clrmamepro wwwprofile xml file from dats
 - Publish on github pages
 - Cron job at 8:00 UTC every day
-- Zip DATs
 - Generate 1G1R DATs using [retool](https://github.com/unexpectedpanda/retool/)
