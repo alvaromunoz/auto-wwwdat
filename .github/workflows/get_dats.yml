@@ -230,9 +230,9 @@ jobs:
           $xml_index_filepath = "${{ github.workspace }}\" + ($datpath.Name + ".xml" -replace "^dats-")
           Set-Content -Path $xml_index_filepath -Value '<clrmamepro>' 
           # Process each dat file in the directory
-          $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
+          $datfiles = Get-ChildItem -Path ($datpath + '\*.dat')
           foreach( $file in $datfiles ) {
-          [XML]$xmlfile = Get-Content -Path $file.FullName
+          [XML]$xmlfile = Get-Content -Path $file
           $dat_filename = $file.Name # -replace ".dat$", ".zip"
           $name = $xmlfile.datafile.header.name
           $description = $xmlfile.datafile.header.description
