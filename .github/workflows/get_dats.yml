@@ -200,8 +200,14 @@ jobs:
       - name: Generate Retool DATs
         working-directory: retool
         run: |
-          New-Item "dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}" -Type "Directory"
-          python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider-dats }}" --output "${{ github.workspace }}\dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
+          $datsdir = "dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}"
+          New-Item $datsdir -Type "Directory"
+          python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider-dats }}" --output ("${{ github.workspace }}\" + $datsdir) -l --exclude aAbBcdDemMopPruv
+          $datfiles = Get-ChildItem -Path ("${{ github.workspace }}\" + $datsdir + "\*.dat")
+          foreach( $datfile in $datfiles )
+          {
+            Rename-Item -Path $datfile -NewName ($datfile.Name -replace '( \(-.+\))')
+          }
 
       - name: Upload Redump DATS
         uses: actions/upload-artifact@v3
