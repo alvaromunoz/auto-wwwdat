@@ -1,0 +1,494 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>APF - Imagination Machine (Retool 1.15)</name>
+		<description>APF - Imagination Machine (-aAbBcdDelmMopPruv) (96) (20220416-042756)</description>
+		<version>20220416-042756</version>
+		<date>2022-07-11 15-10-11</date>
+		<author>MeguCocoa, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="16K Letter Writer (USA)">
+		<category>Games</category>
+		<description>16K Letter Writer (USA)</description>
+		<rom crc="d1ca5e2d" md5="72cd62fb8d2dcc1a4bc11c2a177a972b" name="16K Letter Writer (USA).wav" sha1="4c844e54836d4f1de0bf4d653860c5c20444d304" sha256="0cc5cba29c0952d5193b45868db60d19e6490d6a6ca49cc545b3e276f44b668e" size="1743020"/>
+	</game>
+	<game name="40 Track Initialization Program (USA)">
+		<category>Games</category>
+		<description>40 Track Initialization Program (USA)</description>
+		<rom crc="5b729323" md5="670ea07f9a30245d5731fa858c21a87b" name="40 Track Initialization Program (USA).wav" sha1="fe7510d16f21d76d28a31b83099248b440c759bc" size="1056684"/>
+	</game>
+	<game name="APF Man (USA)">
+		<category>Games</category>
+		<description>APF Man (USA)</description>
+		<rom crc="748df00d" md5="eaddc5a59235b96eaa3d2a66077bcbe3" name="APF Man (USA).wav" sha1="01c70f9090f1d32a5b2493cfb70ba58574b92896" size="1075884"/>
+	</game>
+	<game name="Adventure in Murder, An (USA)">
+		<category>Games</category>
+		<description>Adventure in Murder, An (USA)</description>
+		<rom crc="5fbd2aed" md5="781a25818214e73bfd688a06081f4a58" name="Adventure in Murder, An (USA).wav" sha1="aca54da042c60b96fd7288f6a5df54d7239757c8" sha256="90cab2618e05f03f6a6fd6d041ca63ccbcfc15c7653e963fdbc6de360eb9fad1" size="2030598"/>
+	</game>
+	<game name="Alpha Centurion (USA)">
+		<category>Games</category>
+		<description>Alpha Centurion (USA)</description>
+		<rom crc="1ac5af69" md5="30e1b5f5f38b0c43d4daf1c7d44eaae7" name="Alpha Centurion (USA).wav" sha1="d174a8bb9c739210e294fed005feabeb95b8c50d" size="1735100"/>
+	</game>
+	<game name="Alpha-bit (USA)">
+		<category>Games</category>
+		<description>Alpha-bit (USA)</description>
+		<rom crc="f7eb904d" md5="7198b6b14abe8fa90ce6c14f9ff7e0ed" name="Alpha-bit (USA).wav" sha1="19dfca668cc5c54af0278553f5600ba3e8bdd9ee" size="1750444"/>
+	</game>
+	<game name="Alpine Skiing (USA)">
+		<category>Games</category>
+		<description>Alpine Skiing (USA)</description>
+		<rom crc="1980dd7a" md5="f0370c531f40bc80eb7fa3c2c21e3c73" name="Alpine Skiing (USA).wav" sha1="d919ae9c2cc90867321086fb7163353e5010a431" size="1004972"/>
+	</game>
+	<game name="Artist and Easel (USA)">
+		<category>Games</category>
+		<description>Artist and Easel (USA)</description>
+		<rom crc="268b1b70" md5="9da3ca2d9db708a1ca02662f52c23588" name="Artist and Easel (USA).wav" sha1="587050373ea8582ffcd25214a734f47d89e35ce2" sha256="0ea593610766b13e76fe280b069909f7bd2a3d26219a0ccfcd7672120f6d697c" size="3580144"/>
+	</game>
+	<game name="Asteroids (USA)">
+		<category>Games</category>
+		<description>Asteroids (USA)</description>
+		<rom crc="89564571" md5="4c362f3f8c6f4c4d1d68d71dc72a2994" name="Asteroids (USA).wav" sha1="f71d83afce14586ac507f74f2e2b82338ac02b4c" size="1039532"/>
+	</game>
+	<game name="Astroid Patrol (USA)">
+		<category>Games</category>
+		<description>Astroid Patrol (USA)</description>
+		<rom crc="426ee685" md5="d5ac87031516ed5a7bdbdeb50c26daee" name="Astroid Patrol (USA).wav" sha1="5d6ee999b1868bb23686fb4a5fb6503e107a3bd1" size="906668"/>
+	</game>
+	<game name="BASIC Line Renumbering Program (USA) (v2.3)">
+		<category>Games</category>
+		<description>BASIC Line Renumbering Program (USA) (v2.3)</description>
+		<rom crc="d46bfbd5" md5="a74a143f58505d98fe202f973b758efe" name="BASIC Line Renumbering Program (USA) (v2.3).wav" sha1="7aba4ab227b838492b3c61f36fd149d6dd64ef10" size="1183404"/>
+	</game>
+	<game name="BASIC Tutor (USA) (Tape 1)">
+		<category>Games</category>
+		<description>BASIC Tutor (USA) (Tape 1)</description>
+		<rom crc="c712ccae" md5="621fcc84bac6f4fd75a0619a288936be" name="BASIC Tutor (USA) (Tape 1).wav" sha1="8aec7bc57edd9eac64c5b866d61c3522507ebcf2" sha256="28f7be887886472446b39f2877ddb07d27d6bed5dc4e4d8289fe54ffc2067b4e" size="41412556"/>
+	</game>
+	<game name="BASIC Tutor (USA) (Tape 2)">
+		<category>Games</category>
+		<description>Educational</description>
+		<rom crc="969a7c6d" md5="aa0e809e4cdf1a678a0139e801103970" name="BASIC Tutor (USA) (Tape 2).wav" sha1="95aae528297016c8a01af537b4747cac838b110b" sha256="80b92fc976089929eb0ccb18d3d5d613ac3a0a5257be4dbd28dd39652ee2e768" size="29458552"/>
+	</game>
+	<game name="Baja (USA)">
+		<category>Games</category>
+		<description>Baja (USA)</description>
+		<rom crc="45d6e690" md5="35a6d432eaffbcb7d9d48e61ec4d0c62" name="Baja (USA).wav" sha1="090462adcb96c2525e7f3ecd981902b815eab5e7" size="1009324"/>
+	</game>
+	<game name="Basic Trace (USA)">
+		<category>Games</category>
+		<description>Basic Trace (USA)</description>
+		<rom crc="f5ab7059" md5="1cae290462e2d90a0ba3816781982634" name="Basic Trace (USA).wav" sha1="43c90cfe44ec866e14ca9d520f6122419ddc1446" size="983724"/>
+	</game>
+	<game name="Battle Zone (USA)">
+		<category>Games</category>
+		<description>Battle Zone (USA)</description>
+		<rom crc="83f8b84d" md5="006176a66dddbd6ac4642b49e8c6e47b" name="Battle Zone (USA).wav" sha1="d22e8ea1326fd12448d4ddc547e6496459789c36" size="961708"/>
+	</game>
+	<game name="Bi-Plane Rescue (USA)">
+		<category>Games</category>
+		<description>Bi-Plane Rescue (USA)</description>
+		<rom crc="f1dbccb6" md5="c546caa977ef1108d862606ba4518b81" name="Bi-Plane Rescue (USA).wav" sha1="b73651da4b73b170cc7e68e8076f9977febf0854" size="1007788"/>
+	</game>
+	<game name="Boxing (USA)">
+		<category>Games</category>
+		<description>Boxing (USA)</description>
+		<rom crc="881ab481" md5="f8a3aa4daedf9985dfdc76b8b5654502" name="Boxing (USA).wav" sha1="c9e1b34dab520c763c14af7e7203761c6ba9a567" size="1288876"/>
+	</game>
+	<game name="Burger Man (USA)">
+		<category>Games</category>
+		<description>Burger Man (USA)</description>
+		<rom crc="a263bd55" md5="2e41bc39ba6c98fd91219cfd7376bc19" name="Burger Man (USA).wav" sha1="212a77dac4a0533bf7f9bf67eae51a313dbdbdfe" size="1181612"/>
+	</game>
+	<game name="Centipeed (USA)">
+		<category>Games</category>
+		<description>Centipeed (USA)</description>
+		<rom crc="0cc4b9ae" md5="02a1d02990360b52fdb22a3c6a2034eb" name="Centipeed (USA).wav" sha1="b02402b99cefa0692cc4d37d7a3e5a62f6a85e82" size="1089452"/>
+	</game>
+	<game name="Choplifter (USA)">
+		<category>Games</category>
+		<description>Choplifter (USA)</description>
+		<rom crc="d42f556c" md5="4632b3d8b66c1d048198a44340790efc" name="Choplifter (USA).wav" sha1="4c67a68ba328709bca14a9df724f57c2916e1468" size="1050796"/>
+	</game>
+	<game name="Chopper Interceptor (USA)">
+		<category>Games</category>
+		<description>Chopper Interceptor (USA)</description>
+		<rom crc="be8d0f60" md5="74689dc329d3179e7ac37a740118807a" name="Chopper Interceptor (USA).wav" sha1="8012bd1a1454526951f26ad3339044ebc932467b" size="1069484"/>
+	</game>
+	<game name="Concentration (USA)">
+		<category>Games</category>
+		<description>Concentration (USA)</description>
+		<rom crc="eafe98f5" md5="214d52dd4aa7251759d5d85fd5af1163" name="Concentration (USA).wav" sha1="c065c228d361e25b3074d94d9977acddf09c4249" size="1073188"/>
+	</game>
+	<game name="Copy Cat (USA)">
+		<category>Games</category>
+		<description>Copy Cat (USA)</description>
+		<rom crc="f4854e40" md5="efc052c74bc5daff69be5a16babd1fc6" name="Copy Cat (USA).wav" sha1="ef78ccb2dc2552be3026a5b309afe8877b718e96" size="961964"/>
+	</game>
+	<game name="Death Tank (USA)">
+		<category>Games</category>
+		<description>Death Tank (USA)</description>
+		<rom crc="e9ed81f0" md5="af478cc6b388b63aa20b77b01f6f378e" name="Death Tank (USA).wav" sha1="a357ec0e0acc06008570428f28a68cdb01cd4acb" size="1038252"/>
+	</game>
+	<game name="Defender (USA) (MR's)">
+		<category>Games</category>
+		<description>Defender (USA) (MR's)</description>
+		<rom crc="ac655b82" md5="dd7097a5af1462e43d7fd6783aded4ef" name="Defender (USA) (MR's).wav" sha1="cfba2b58c3d2090467218505293c2b753b4ae377" size="1013676"/>
+	</game>
+	<game name="Defender (USA) (York 10 Computerware)">
+		<category>Games</category>
+		<description>Defender (USA) (York 10 Computerware)</description>
+		<rom crc="9a614370" md5="da82d4e25a8024a14763fc996e812b26" name="Defender (USA) (York 10 Computerware).wav" sha1="9e626a3e32da1a5d2149c7c07b9554532857550f" size="1158572"/>
+	</game>
+	<game name="Demo (USA)">
+		<category>Games</category>
+		<description>Demo (USA)</description>
+		<rom crc="9dc09935" md5="d445922bee9d6bef5fec1d41a9d9760a" name="Demo (USA).wav" sha1="6ae8511a79cb62c1a8c61243b3b830fca8e47255" sha256="3167ac40b65b33f63f99a33236ad47bd5319ceff9dca3a25f885caab4be8c287" size="1202476"/>
+	</game>
+	<game name="Depth Charge!! (USA)">
+		<category>Games</category>
+		<description>Depth Charge!! (USA)</description>
+		<rom crc="aecaabf0" md5="0c40c9853d2f4d9d5c8b7064a31d4704" name="Depth Charge!! (USA).wav" sha1="095bab2792175e17c1fe0bd0f2bd23b82fcdd676" size="1067180"/>
+	</game>
+	<game name="Disk Modification Program (USA)">
+		<category>Games</category>
+		<description>Disk Modification Program (USA)</description>
+		<rom crc="8fd9a616" md5="7f69d4b25d9c77d7a09bfff0c7e1a808" name="Disk Modification Program (USA).wav" sha1="96eee304a5a64a1d42c12dfcfee600578d81e1b5" size="1083308"/>
+	</game>
+	<game name="Disk Test (USA)">
+		<category>Games</category>
+		<description>Disk Test (USA)</description>
+		<rom crc="79ef0a19" md5="5bd24e7db3d27daec180644494a0b075" name="Disk Test (USA).wav" sha1="9052bcd301c26c1aad8039c5066cfe3e1b32829c" size="1268736"/>
+	</game>
+	<game name="Donki-Kong (USA)">
+		<category>Games</category>
+		<description>Donki-Kong (USA)</description>
+		<rom crc="941cb740" md5="1f5e8cb1c85b9978525b5e4ce8f42e99" name="Donki-Kong (USA).wav" sha1="53cd0e2e0655c0a02654581a5d101952694dc3f3" size="1214636"/>
+	</game>
+	<game name="Donki-Kong II (USA)">
+		<category>Games</category>
+		<description>Donki-Kong II (USA)</description>
+		<rom crc="2428fdf1" md5="0ff179c27181f549e24b2a5a7d3c74c9" name="Donki-Kong II (USA).wav" sha1="393bb1a136ffa6afcd846b9ca588f2cc6950e0c9" size="1993004"/>
+	</game>
+	<game name="Donki-Kong Jr. (USA)">
+		<category>Games</category>
+		<description>Donki-Kong Jr. (USA)</description>
+		<rom crc="ba1c0f50" md5="53523e0a525dd890cb12325059ebdb84" name="Donki-Kong Jr. (USA).wav" sha1="afbeeec2ee6da4b6fe1fe70c6689b3937ca2001a" size="972972"/>
+	</game>
+	<game name="Draw Draw (USA)">
+		<category>Games</category>
+		<description>Draw Draw (USA)</description>
+		<rom crc="9542e1b3" md5="6c20d38311a97acb54e9d50fee9a0487" name="Draw Draw (USA).wav" sha1="476183d19adccdb3e47d8efdad5784fb044a39e2" size="1102508"/>
+	</game>
+	<game name="Dungeon Treasure (USA)">
+		<category>Games</category>
+		<description>Dungeon Treasure (USA)</description>
+		<rom crc="1cf4b27a" md5="52447b13a065a44028d220b6b6a11e3e" name="Dungeon Treasure (USA).wav" sha1="249bf24c3a50884d09368d661241ce14374ac9be" size="1055148"/>
+	</game>
+	<game name="E.T. (USA)">
+		<category>Games</category>
+		<description>E.T. (USA)</description>
+		<rom crc="13ed31b4" md5="4360ba49d92c853c3d29d6e70b159008" name="E.T. (USA).wav" sha1="097a916acc88f27c75560a3d8736a28a98a8fca9" size="1045164"/>
+	</game>
+	<game name="Electronic Billboard (USA)">
+		<category>Games</category>
+		<description>Electronic Billboard (USA)</description>
+		<rom crc="79d80e2d" md5="742c49ae26aa2b1af9848beba35e18cf" name="Electronic Billboard (USA).wav" sha1="08bc1e907ce7082041c475ed7bf91d792282d9ab" size="1323044"/>
+	</game>
+	<game name="Escape!!! (USA)">
+		<category>Games</category>
+		<description>Escape!!! (USA)</description>
+		<rom crc="07d54612" md5="1902cd559190cf7a4fcb72a965e473c9" name="Escape!!! (USA).wav" sha1="866eba13c2cd0d051e927362b1d20b938107b1f2" size="1271980"/>
+	</game>
+	<game name="Excape Mommies Tumb (USA)">
+		<category>Games</category>
+		<description>Excape Mommies Tumb (USA)</description>
+		<rom crc="abf7fd14" md5="ea81fee797137b1104ab55eb86659446" name="Excape Mommies Tumb (USA).wav" sha1="2ab25b82a6c9373f5561b698d20ba4ddf2c825bd" size="1034156"/>
+	</game>
+	<game name="Ferzerx (USA)">
+		<category>Games</category>
+		<description>Ferzerx (USA)</description>
+		<rom crc="0b90827a" md5="eaa70370c42c060f244542f459fd2da6" name="Ferzerx (USA).wav" sha1="9685d8d437bae8101c44da9ab5c0da8c056cfdd1" size="1503848"/>
+	</game>
+	<game name="Fire! (USA)">
+		<category>Games</category>
+		<description>Fire! (USA)</description>
+		<rom crc="516c170b" md5="5ce9655c02ab111c89d6610afcdf8a30" name="Fire! (USA).wav" sha1="d8a7937fd947c1dc76e87909ee87fca5c3485b85" size="1056172"/>
+	</game>
+	<game name="Fooseball! (USA)">
+		<category>Games</category>
+		<description>Fooseball! (USA)</description>
+		<rom crc="471f4623" md5="1a9db250da2b7ebe5b3617c4db128608" name="Fooseball! (USA).wav" sha1="99a65036eb1c9ccb9e648beb3af8b535b4b08b35" size="1167276"/>
+	</game>
+	<game name="Frogger (USA)">
+		<category>Games</category>
+		<description>Frogger (USA)</description>
+		<rom crc="5daf7f16" md5="9a455b035e6e8e33f825bff13b5311a4" name="Frogger (USA).wav" sha1="b0929f68c54f78ece0c7a3611c168647385ccfc0" size="1050796"/>
+	</game>
+	<game name="Gondola Pitts ~ Saucer Shoot (USA)">
+		<category>Games</category>
+		<description>Gondola Pitts ~ Saucer Shoot (USA)</description>
+		<rom crc="94d89b01" md5="8b3513f7cf90a78b3585d4587c3c04d2" name="Gondola Pitts ~ Saucer Shoot (USA).wav" sha1="6e7441b143c4dec1f6795e4d710dcfe45c61edaf" sha256="fe218dfd6efb457de3878af4d7c48ab169ecff1d8405af9dc1f5a8df9a6afccb" size="2550572"/>
+	</game>
+	<game name="Graphics Helper (USA)">
+		<category>Games</category>
+		<description>Graphics Helper (USA)</description>
+		<rom crc="d8160190" md5="6d2d431171caf0039456ce1513cf6872" name="Graphics Helper (USA).wav" sha1="9e2f4a91aabf442191495085fd4dc05daafc1454" size="1162156"/>
+	</game>
+	<game name="Graphics Tablet (USA)">
+		<category>Games</category>
+		<description>Graphics Tablet (USA)</description>
+		<rom crc="7550af5a" md5="da614036f423f4571fb0921ad79f52cd" name="Graphics Tablet (USA).wav" sha1="4a0a6e8f0c818c29f12f8867af1c7ee9af8f09ba" size="1210540"/>
+	</game>
+	<game name="Grayskull (USA)">
+		<category>Games</category>
+		<description>Grayskull (USA)</description>
+		<rom crc="977a672d" md5="e990d6de3eb8fa9cc96e0396d84a7f14" name="Grayskull (USA).wav" sha1="d35924b4b64d085a1b9e122d34ed2bcff6310898" size="2033578"/>
+	</game>
+	<game name="Head-Hunter (USA)">
+		<category>Games</category>
+		<description>Head-Hunter (USA)</description>
+		<rom crc="f510ddc7" md5="c1b436002052082ff3ac9e9320cf80a5" name="Head-Hunter (USA).wav" sha1="f83f55a8534571ba7a227b221772870d5a7decd0" size="1388952"/>
+	</game>
+	<game name="Heart Attack (USA)">
+		<category>Games</category>
+		<description>Heart Attack (USA)</description>
+		<rom crc="95d1da13" md5="1935476ff6f4561c67dc1679c10d8be1" name="Heart Attack (USA).wav" sha1="e204cfaede58ef9df5d13b9162318a419191a28a" size="1147052"/>
+	</game>
+	<game name="Hi-res Plot (USA)">
+		<category>Games</category>
+		<description>Hi-res Plot (USA)</description>
+		<rom crc="cfb5a4ed" md5="720f0e333fa2225ed469255ed02be64c" name="Hi-res Plot (USA).wav" sha1="466deacb1d28ab9bd62ac8401b10c2899d6633ad" size="997036"/>
+	</game>
+	<game name="IM-1 in a Million Club Newsletter Tape 4 (USA)">
+		<category>Games</category>
+		<description>IM-1 in a Million Club Newsletter Tape 4 (USA)</description>
+		<rom crc="6b0f57f0" md5="e9da563b4378b7d7666ee8435c2a7f85" name="IM-1 in a Million Club Newsletter Tape 4 (USA).wav" sha1="fc5673baa591dab4e18f4d2c34e13fd1f896ccf5" sha256="42a5a3cd59df640c62512549c63d96bcf5a3153a63aaa99235e0bad868e0e341" size="5163564"/>
+	</game>
+	<game name="IM-1 in a Million Club Newsletter Tape 9 (USA)">
+		<category>Games</category>
+		<description>IM-1 in a Million Club Newsletter Tape 9 (USA)</description>
+		<rom crc="55ec9fd7" md5="c9edfe6c098188141bc8ae07cf947238" name="IM-1 in a Million Club Newsletter Tape 9 (USA).wav" sha1="c1ffc604183ce81d51c12143414ca44665cc3817" sha256="3386e0b4787f6183159bf6f6364329f744dd870e95a530a41d8c9eeab9250e06" size="5218092"/>
+	</game>
+	<game name="Lo-res Plot (USA)">
+		<category>Games</category>
+		<description>Lo-res Plot (USA)</description>
+		<rom crc="1e0a5894" md5="942c595246790acb9f54642f6f53f065" name="Lo-res Plot (USA).wav" sha1="54464ff325787478eca7bed1118350c37c8144a2" size="983980"/>
+	</game>
+	<game name="Lord Logic-Locks (USA)">
+		<category>Games</category>
+		<description>Lord Logic-Locks (USA)</description>
+		<rom crc="17793917" md5="f8ec8cf70870d6b24788d004377e5638" name="Lord Logic-Locks (USA).wav" sha1="84df70d73adb5ab04b2730362b3d3cfe1ab492f5" size="1042092"/>
+	</game>
+	<game name="MAE (USA)">
+		<category>Games</category>
+		<description>MAE (USA)</description>
+		<rom crc="29c99097" md5="b1b4319db0895d38c8d8b93fa6500178" name="MAE (USA).wav" sha1="b749f5d7a394f030001ec6e35882a6bb93a6dca0" size="5422378"/>
+	</game>
+	<game name="Maze (USA)">
+		<category>Games</category>
+		<description>Maze (USA)</description>
+		<rom crc="cdaa77d5" md5="a9705164ca9ea8429345d2960d74126e" name="Maze (USA).wav" sha1="993f9b676e028186847208312af97aea1bea6a14" size="1112748"/>
+	</game>
+	<game name="Mimic My Music (USA)">
+		<category>Games</category>
+		<description>Mimic My Music (USA)</description>
+		<rom crc="99595de5" md5="efdfd4c48e8817be91f4ea5bb4da347a" name="Mimic My Music (USA).wav" sha1="c3628b1dae626e46da6697c17d9c07251faea99a" size="1036204"/>
+	</game>
+	<game name="Minotaur - A Game of Fantasy and Adventure (USA)">
+		<category>Games</category>
+		<description>Minotaur - A Game of Fantasy and Adventure (USA)</description>
+		<rom crc="de2ac0a7" md5="16da71ea2b849751a7971b455a3f18c0" name="Minotaur - A Game of Fantasy and Adventure (USA).wav" sha1="aaa79e082076bbffed958d9b61bf181f150ac883" size="1082868"/>
+	</game>
+	<game name="Mission - Improbable - Operation 'Alpha' (USA)">
+		<category>Games</category>
+		<description>Mission - Improbable - Operation 'Alpha' (USA)</description>
+		<rom crc="29a0d823" md5="6ffb974665e9c7749902b2d70736acbb" name="Mission - Improbable - Operation 'Alpha' (USA).wav" sha1="75e7b305f2004af57fa9b1347c3e2f12cb68d525" size="10269596"/>
+	</game>
+	<game name="Mission - Improbable - Operation Bravo (USA)">
+		<category>Games</category>
+		<description>Mission - Improbable - Operation Bravo (USA)</description>
+		<rom crc="cbe6c418" md5="181ef01b1387cee36a4e1c532c7755ba" name="Mission - Improbable - Operation Bravo (USA).wav" sha1="1565f15ffd3b1c5fb1d4df2e522e7ffce082acdf" size="1372972"/>
+	</game>
+	<game name="Music Composer Player Piano (USA)">
+		<category>Games</category>
+		<description>Music Composer Player Piano (USA)</description>
+		<rom crc="c7507a6c" md5="e7e06a4ac9d8d2e18d149c22ea424542" name="Music Composer Player Piano (USA).wav" sha1="e5681cd13d79730c7f3118d451c0efa697899fde" size="3403952"/>
+	</game>
+	<game name="Mystry Mansion (USA)">
+		<category>Games</category>
+		<description>Mystry Mansion (USA)</description>
+		<rom crc="2fc4c320" md5="da188239a36b95669b925c84afb4235f" name="Mystry Mansion (USA).wav" sha1="2c4eaef013f1d501accb6ec34bcec6b27995e229" size="1070054"/>
+	</game>
+	<game name="Pak-Man (USA)">
+		<category>Games</category>
+		<description>Pak-Man (USA)</description>
+		<rom crc="ea2e7f8f" md5="8756c861c457fa3a332224a039637aaf" name="Pak-Man (USA).wav" sha1="a68f2d69ce5670485c0f9a65ed1bdfa64499fed2" size="1267116"/>
+	</game>
+	<game name="Pinball Wiz (USA)">
+		<category>Games</category>
+		<description>Pinball Wiz (USA)</description>
+		<rom crc="f028bfc9" md5="c3fcc4d50b1deb0131cb761808bd00ae" name="Pinball Wiz (USA).wav" sha1="cfc24963a37a4e6a2e65a7b71806f0329a3efb4f" size="1732970"/>
+	</game>
+	<game name="Planet Atack (USA)">
+		<category>Games</category>
+		<description>Planet Atack (USA)</description>
+		<rom crc="ac2c4bd8" md5="5ad8cda154388d4075f86d2d711402c4" name="Planet Atack (USA).wav" sha1="e42f49ec42d9c831f6eb43546e54568de11f9802" size="956076"/>
+	</game>
+	<game name="Rattler (USA)">
+		<category>Games</category>
+		<description>Rattler (USA)</description>
+		<rom crc="e69724fa" md5="d9a711ca104b717680d414cf78c4372a" name="Rattler (USA).wav" sha1="a997ecd76f164dd4762a5cde6cfb3a3192f47dc7" size="1199276"/>
+	</game>
+	<game name="Recollection (USA)">
+		<category>Games</category>
+		<description>Recollection (USA)</description>
+		<rom crc="02020981" md5="1036369df677f0627e13c3b04283098a" name="Recollection (USA).wav" sha1="0d83fff9da0ef86f52352238910a5a5f4ae97fc5" size="1076652"/>
+	</game>
+	<game name="Renumber (USA)">
+		<category>Games</category>
+		<description>Renumber (USA)</description>
+		<rom crc="83a60951" md5="07a12a954eee643fd2c66809ad7433b1" name="Renumber (USA).wav" sha1="e62769ffb7f85bd7948508f35f0a5d04c612c00d" size="1035948"/>
+	</game>
+	<game name="Road Runner (USA)">
+		<category>Games</category>
+		<description>Road Runner (USA)</description>
+		<rom crc="dcdd8fbd" md5="e508dd5f1af95699dccb64010939e9a7" name="Road Runner (USA).wav" sha1="cbe17a0848fdff532fc9e8419b59732a3a8c9992" size="1027884"/>
+	</game>
+	<game name="Run Around (USA)">
+		<category>Games</category>
+		<description>Run Around (USA)</description>
+		<rom crc="4a758098" md5="ae814aa24094e8cb2a222f4ae520323d" name="Run Around (USA).wav" sha1="46dea87e682d3df86cd970b9d0702005370a8c38" size="1010604"/>
+	</game>
+	<game name="SY-40 Disassembler (USA)">
+		<category>Games</category>
+		<description>SY-40 Disassembler (USA)</description>
+		<rom crc="601088a8" md5="580abada5bc1035d24af6d8fdd17bc29" name="SY-40 Disassembler (USA).wav" sha1="ce364a5e7544239b5167c70e5575568e225ab0bc" size="1729574"/>
+	</game>
+	<game name="SY-50 Diagnostics (USA)">
+		<category>Games</category>
+		<description>SY-50 Diagnostics (USA)</description>
+		<rom crc="0b3f3d4e" md5="c0d40812a705927a025a9ff0b17c0646" name="SY-50 Diagnostics (USA).wav" sha1="9185dc1801d50538b636e9fe5a071fc40425a9ec" size="3598780"/>
+	</game>
+	<game name="Safari in Africa (USA)">
+		<category>Games</category>
+		<description>Safari in Africa (USA)</description>
+		<rom crc="4025fe24" md5="6da0a830c89918a684322c84f7a17f3d" name="Safari in Africa (USA).wav" sha1="184c3751a99fcbcb15b1b4b769d74de0fb867592" size="1751482"/>
+	</game>
+	<game name="Sailing (USA)">
+		<category>Games</category>
+		<description>Sailing (USA)</description>
+		<rom crc="5113726f" md5="1aa6a41e067f75abe53d1e77ac4e8390" name="Sailing (USA).wav" sha1="210b76a4ef4945ed8a70c9d203f336953a31cd2d" size="999340"/>
+	</game>
+	<game name="Sky Diver (USA)">
+		<category>Games</category>
+		<description>Sky Diver (USA)</description>
+		<rom crc="0f396e8b" md5="a4656bf24d6250b7283d9da78e041d96" name="Sky Diver (USA).wav" sha1="91b9425b1c7cb96020850b5c79eb24a8c97d9502" size="1000108"/>
+	</game>
+	<game name="Solar Wars! (USA)">
+		<category>Games</category>
+		<description>Solar Wars! (USA)</description>
+		<rom crc="6b1ad7f1" md5="d7b66b1104b039ce643ab0da7dad07a2" name="Solar Wars! (USA).wav" sha1="22fcc8b21279fad381b4357fb81df44ec8f9e680" size="2183084"/>
+	</game>
+	<game name="Sound Effects Demo Program (USA)">
+		<category>Games</category>
+		<description>Sound Effects Demo Program (USA)</description>
+		<rom crc="30e5ae25" md5="cfc172d042fb9e8ff5f40bb4d9f859b5" name="Sound Effects Demo Program (USA).wav" sha1="051306fd38482b36eaba75792ba01ce09da10ad2" sha256="d3461375a77bda332fc04595310e65ac34d84b8dc32088ec3bec936af59ed352" size="1219510"/>
+	</game>
+	<game name="Space Destroyers (USA)">
+		<category>Games</category>
+		<description>Space Destroyers (USA)</description>
+		<rom crc="aa380a7f" md5="c3be1830fec7dc9a33ca6906dcd9bdab" name="Space Destroyers (USA).wav" sha1="2defa25ccac8fbbf594b2238d5f97bdf6188f312" size="1672014"/>
+	</game>
+	<game name="Space Shuttle (USA)">
+		<category>Games</category>
+		<description>Space Shuttle (USA)</description>
+		<rom crc="66a43b5a" md5="0974094a3953a6dd68e904b9a3773574" name="Space Shuttle (USA).wav" sha1="1644bc35920e81876de630feb59d4ab761b87563" size="1759916"/>
+	</game>
+	<game name="Star Battle (USA)">
+		<category>Games</category>
+		<description>Star Battle (USA)</description>
+		<rom crc="2b5853b5" md5="40770e8ebf268ac57d3554204d09ec5c" name="Star Battle (USA).wav" sha1="1f80dc16bf4d988fce82074e5f44d2075f3a7a43" size="1126572"/>
+	</game>
+	<game name="Star Castle (USA)">
+		<category>Games</category>
+		<description>Star Castle (USA)</description>
+		<rom crc="be300f87" md5="911b2c51232c38dd2780e30666ad6341" name="Star Castle (USA).wav" sha1="02b65e64bfa6b6e5779bed28163035def10f663f" size="1021100"/>
+	</game>
+	<game name="Star Ship (USA)">
+		<category>Games</category>
+		<description>Star Ship (USA)</description>
+		<rom crc="5b36c175" md5="4161f3ae9ebbf292e796c386ed16af46" name="Star Ship (USA).wav" sha1="287af2d590b308437b31a8ab71b8d827c7a6255e" size="1064200"/>
+	</game>
+	<game name="Star Trex (USA)">
+		<category>Games</category>
+		<description>Star Trex (USA)</description>
+		<rom crc="d8989166" md5="ad793a5acdacf2697c4709dfff270ba9" name="Star Trex (USA).wav" sha1="3a71d7899c72d08e7ce15c4f12c03f8777b5664d" size="2250738"/>
+	</game>
+	<game name="Super 21 ~ Space Hunt (USA)">
+		<category>Games</category>
+		<description>Super 21 ~ Space Hunt (USA)</description>
+		<rom crc="c937f096" md5="b6dba36b60d4191992bb3bbe776a1ccf" name="Super 21 ~ Space Hunt (USA).wav" sha1="9652b6478cf554062d6d6e6e8fb558873a8097f2" sha256="81863f8ed3c2b4f44549a80e03157e6b05fbbe0201ecc185423bb1df2ed75ca8" size="2496414"/>
+	</game>
+	<game name="Super Frog! (USA)">
+		<category>Games</category>
+		<description>Super Frog! (USA)</description>
+		<rom crc="30080597" md5="d120db7354f8bafe2da12200a5fff7d6" name="Super Frog! (USA).wav" sha1="349731435e305a117e9ad44b762f9ae852d0e81a" size="1244332"/>
+	</game>
+	<game name="Theft at the Art Museum (USA)">
+		<category>Games</category>
+		<description>Theft at the Art Museum (USA)</description>
+		<rom crc="e4e408e6" md5="d63b93fa2890171091fcf0f21bbd791f" name="Theft at the Art Museum (USA).wav" sha1="b944b36ebc8b6ef9abdb1d560bc30418796e2e8d" size="1106348"/>
+	</game>
+	<game name="Thief (USA)">
+		<category>Games</category>
+		<description>Thief (USA)</description>
+		<rom crc="df0cb1b5" md5="8d407843441ea9918061a5036450befd" name="Thief (USA).wav" sha1="b1933b1a7e923e57547b0abab3d1ce99f3628d4b" size="988972"/>
+	</game>
+	<game name="Three for One - Space War ~ Air Fortress ~ Squeeze Play (USA)">
+		<category>Games</category>
+		<description>Three for One - Space War ~ Air Fortress ~ Squeeze Play (USA)</description>
+		<rom crc="a5abc06d" md5="572ca3b7877139c9e0a749bd7cb67317" name="Three for One - Space War ~ Air Fortress ~ Squeeze Play (USA).wav" sha1="e21a0276ccdbf07dbc84b61a79dcf1d494b2b293" sha256="cc84f9a69ff14dedfa1690e3129e37f26cc8a847c1ca939fb29aea9dfabf8d75" size="4647596"/>
+	</game>
+	<game name="Transport ~ 15 Matches (USA)">
+		<category>Games</category>
+		<description>Transport ~ 15 Matches (USA)</description>
+		<rom crc="5673884c" md5="eb982fd543c6d4415e4c5cfc6f962419" name="Transport ~ 15 Matches (USA).wav" sha1="538ea35a11ce95243da6cb6bf568b8f840bbe40d" sha256="c3fd439ada59f31999f5189ac050c3eb6cee9dca3f5c9f830c6fc3561f30e510" size="3680094"/>
+	</game>
+	<game name="Treasure Hunt (USA)">
+		<category>Games</category>
+		<description>Treasure Hunt (USA)</description>
+		<rom crc="7a3cbeb9" md5="d9c616b6a7de5b18c82715e91d77e96f" name="Treasure Hunt (USA).wav" sha1="3661cf83211758cb6c5827169c077b17953924ef" size="1079468"/>
+	</game>
+	<game name="Tronn (USA)">
+		<category>Games</category>
+		<description>Tronn (USA)</description>
+		<rom crc="69971170" md5="b731dbfe978f1c39668d3dcdaad93929" name="Tronn (USA).wav" sha1="45f0342cc55ceab089a3dfe6260da6ab4c505319" size="921452"/>
+	</game>
+	<game name="Turbo (USA)">
+		<category>Games</category>
+		<description>Turbo (USA)</description>
+		<rom crc="6b7dd4b4" md5="f4e923c5287ff476035ce184a255ee26" name="Turbo (USA).wav" sha1="d572934ed4752d78d527714f57944a81e3114eae" size="1019052"/>
+	</game>
+	<game name="U-Bet (USA)">
+		<category>Games</category>
+		<description>U-Bet (USA)</description>
+		<rom crc="c93dd547" md5="24fbd27941cea253a690a4077d8a07c5" name="U-Bet (USA).wav" sha1="795b321ca67a36a63c5cf58cb42433c316366f73" size="1092076"/>
+	</game>
+	<game name="Wall Street Cartel (USA)">
+		<category>Games</category>
+		<description>Wall Street Cartel (USA)</description>
+		<rom crc="7fdef1c7" md5="8f884e5c8f30cf8b290aaa45ed021971" name="Wall Street Cartel (USA).wav" sha1="ada3b0fa518cd71c8522b391685562b0dedb5899" size="1125804"/>
+	</game>
+	<game name="Zap (USA)">
+		<category>Games</category>
+		<description>Zap (USA)</description>
+		<rom crc="6828de41" md5="f67e7d9163aa6a250e701e0c82b8d2f4" name="Zap (USA).wav" sha1="3f2e43c96a473c95e219e5605db682fdf4e574af" size="1558316"/>
+	</game>
+</datafile>

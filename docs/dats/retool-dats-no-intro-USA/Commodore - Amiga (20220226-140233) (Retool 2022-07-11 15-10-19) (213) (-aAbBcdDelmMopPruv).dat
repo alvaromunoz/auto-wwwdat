@@ -1,0 +1,1190 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore - Amiga (Retool 1.15)</name>
+		<description>Commodore - Amiga (-aAbBcdDelmMopPruv) (213) (20220226-140233)</description>
+		<version>20220226-140233</version>
+		<date>2022-07-11 15-10-19</date>
+		<author>C. V. Reynolds, Connie, FakeShemp, Gefflon, Hiccup, Money_114, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="4x4 Off-Road Racing (USA)">
+		<category>Games</category>
+		<description>4x4 Off-Road Racing (USA)</description>
+		<rom crc="b4fb58f9" md5="88a091995dfe707e1048d7e784ba2bc7" name="4x4 Off-Road Racing (USA).ipf" sha1="3b01d5c25e4ca4f75ba66e5b19f51cdd7be050c7" size="1049612"/>
+	</game>
+	<game name="ABC Monday Night Football (USA) (v1.1)">
+		<category>Games</category>
+		<description>ABC Monday Night Football (USA) (v1.1)</description>
+		<rom crc="439f5327" md5="83cd70a07c5e2196d7b036adbdca8281" name="ABC Monday Night Football (USA) (v1.1) (Disk 1).ipf" sha1="61a245dabade655ca568147936f4c8371e4ae12f" size="1049612"/>
+		<rom crc="abaa6906" md5="ed3bf7d60d976b27ad76cd6b5cc7a729" name="ABC Monday Night Football (USA) (v1.1) (Disk 2).ipf" sha1="93e2caee956ae53681d903ed811121c385312cbd" size="1049612"/>
+		<rom crc="7ea9ea59" md5="5f3dd8d3091aa70826279da41ff7df2a" name="ABC Monday Night Football (USA) (v1.1) (Disk 3).ipf" sha1="c166cc25849cec325d3f901e90611511705dbe4d" size="1049612"/>
+	</game>
+	<game name="Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0)">
+		<category>Games</category>
+		<description>Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0)</description>
+		<rom crc="a6d451da" md5="215e828f5d89cd9eaf912a7d8a62d103" name="Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 1).ipf" sha1="259261f6a1113ea35e3d7cce340763a6ba049e95" size="1049612"/>
+		<rom crc="820a5c05" md5="ad89256e2f2a4bb07240d756f359df0b" name="Advanced Dungeons &amp; Dragons - DragonStrike - DragonLance Dragon Combat Simulator (USA) (v1.0) (Disk 2).ipf" sha1="a6c7d1286e4045a626c353bdefaac4294c9f23a8" size="1049612"/>
+	</game>
+	<game name="Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00)">
+		<category>Games</category>
+		<description>Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00)</description>
+		<rom crc="20f8afa1" md5="3d48dcce3f00cc15578900bfba0496e6" name="Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk A).ipf" sha1="6f0e840931e7cd786f7ce1868e75c3f0602037be" size="1049612"/>
+		<rom crc="a9b44ae4" md5="aba007d4001467fa88d58ddc7d73a21b" name="Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk B).ipf" sha1="5df3f5a8800fff190e7cd4308b72d8872d440181" size="1049612"/>
+		<rom crc="f044a150" md5="43642b143409826f63d4ea34d838a151" name="Advanced Dungeons &amp; Dragons - Treasures of the Savage Frontier - A Savage Frontier Fantasy Role-Playing Epic, Vol.II (USA) (v1.00) (Disk C).ipf" sha1="db5d4f2878af631a2bac994ef1fced490b409452" size="1049612"/>
+	</game>
+	<game name="Adventure Construction Set (USA)">
+		<category>Games</category>
+		<description>Adventure Construction Set (USA)</description>
+		<rom crc="90e56ce8" md5="af2bea4a86d53a011b2f8b270e9f771b" name="Adventure Construction Set (USA).ipf" sha1="d08d9bf5b7871ce7278af664ebb5cdd55f688daf" size="1049180"/>
+	</game>
+	<game name="Afterburner (USA) (Budget - The Hit Squad)">
+		<category>Games</category>
+		<description>Afterburner (USA) (Budget - The Hit Squad)</description>
+		<rom crc="90d3062a" md5="1dac909ed8e0066a794f867c33840293" name="Afterburner (USA) (Budget - The Hit Squad).ipf" sha1="09769431859c6ebae221da0611b24ede0068bdbc" size="930752"/>
+	</game>
+	<game name="Agony (USA)">
+		<category>Games</category>
+		<description>Agony (USA)</description>
+		<rom crc="fb4e9779" md5="c03abaaae90ef6eb367324cf169ad6a2" name="Agony (USA) (Disk 1).ipf" sha1="c24944cace286a5f1f6a0dfda00ce82a75854493" size="754353"/>
+		<rom crc="ebf30007" md5="440e05f8c8a60008c37e5e1bc41233c3" name="Agony (USA) (Disk 2).ipf" sha1="a657aba532dad910c64bd9ea74b0fd14c3657912" size="1072214"/>
+		<rom crc="a9f36f85" md5="afc89379e2e8671736d31f409865c455" name="Agony (USA) (Disk 3).ipf" sha1="bc65ae4142f1cb692d8afcda6cab96e8bfd86e1f" size="1052559"/>
+	</game>
+	<game name="Air Support (USA)">
+		<category>Games</category>
+		<description>Air Support (USA)</description>
+		<rom crc="c8f36af7" md5="2e9348ad1f27d28947d8623368e701d6" name="Air Support (USA) (Disk 1).ipf" sha1="35d16444241eafc1ab23215d5830597b82146b16" size="1005402"/>
+		<rom crc="f6b2bb82" md5="782f8280e4afa0dac274e4af9a721d5f" name="Air Support (USA) (Disk 2).ipf" sha1="797cda698a515131e351966bd7818388142714c7" size="861428"/>
+	</game>
+	<game name="Alien Fires 2199 AD (USA)">
+		<category>Games</category>
+		<description>Alien Fires 2199 AD (USA)</description>
+		<rom crc="0c0b9506" md5="036c2c530e99c340b2dda4dc18b67aff" name="Alien Fires 2199 AD (USA) (Disk 1).ipf" sha1="f054ad7736245e0bbe3af4da7e07689e0cd994ef" size="1049180"/>
+		<rom crc="94419bd0" md5="7071d02da13b96964f0193e0b7dab003" name="Alien Fires 2199 AD (USA) (Disk 2).ipf" sha1="15c6b03cb08b07268b964742ad142209622c87b1" size="1049180"/>
+	</game>
+	<game name="Alien Syndrome (USA)">
+		<category>Games</category>
+		<description>Alien Syndrome (USA)</description>
+		<rom crc="dd7a5adf" md5="5589df9b9eac286dfdc588978f916c7c" name="Alien Syndrome (USA).ipf" sha1="c81d893730b8ed2388e8bc0591c853b61bbe43a8" size="1049180"/>
+	</game>
+	<game name="Alien Syndrome (USA) (Budget - Mindscape)">
+		<category>Games</category>
+		<description>Alien Syndrome (USA) (Budget - Mindscape)</description>
+		<rom crc="f93565cf" md5="f5d82417250ceb99af06f7a0ff19a6e9" name="Alien Syndrome (USA) (Budget - Mindscape).ipf" sha1="761286db0980a39a50d3731eee961f3bbe89d490" size="1049612"/>
+	</game>
+	<game name="Amiga Karate (USA)">
+		<category>Games</category>
+		<description>Amiga Karate (USA)</description>
+		<rom crc="d3e995d2" md5="179be83a15463567a06a4dd0917421ee" name="Amiga Karate (USA).ipf" sha1="af88eef79e01459d35fb88d548951772fc4c076d" size="1049180"/>
+	</game>
+	<game name="Aquaventura (USA)">
+		<category>Games</category>
+		<description>Aquaventura (USA)</description>
+		<rom crc="e8b88b36" md5="e6aa66783b45782537e4ccb8aecf0b62" name="Aquaventura (USA) (Disk 1).ipf" sha1="6bce85b69945c8d33e6409bff352cf24ff083bda" size="1009294"/>
+		<rom crc="8e8a0501" md5="7f007456646e98c8df19d071d6c85029" name="Aquaventura (USA) (Disk 2).ipf" sha1="ee60b6265a86959f267d4767fdeeb5f32e2a6c10" size="1010230"/>
+	</game>
+	<game name="Archipelagos (USA)">
+		<category>Games</category>
+		<description>Archipelagos (USA)</description>
+		<rom crc="57c6ce00" md5="09142fa559bfb1a2b0f1cbd50caf2949" name="Archipelagos (USA).ipf" sha1="ddec59fd61133e3edbbb613a097b3be8b5fa22b1" size="885924"/>
+	</game>
+	<game name="Archon - The Light and the Dark (USA)">
+		<category>Games</category>
+		<description>Archon - The Light and the Dark (USA)</description>
+		<rom crc="3c61b6d7" md5="3adf042384e7885ffea867a513c1b877" name="Archon - The Light and the Dark (USA).ipf" sha1="8da35f79c869decb54bf2bce85491e2b703522f1" size="1049332"/>
+	</game>
+	<game name="Archon II - Adept (USA)">
+		<category>Games</category>
+		<description>Archon II - Adept (USA)</description>
+		<rom crc="980f1e80" md5="58a2a91fb70e7660fd1641f69fba981a" name="Archon II - Adept (USA).ipf" sha1="f18dee098b5d44094b4d9f957601ace67ad2b4e1" size="1049180"/>
+	</game>
+	<game name="Arctic Fox (USA)">
+		<category>Games</category>
+		<description>Arctic Fox (USA)</description>
+		<rom crc="1728a1f4" md5="b938970868cba690b51a21a68e4fcd82" name="Arctic Fox (USA).ipf" sha1="27053397af35c754862d8090d115d5b76cd528b3" size="1049645"/>
+	</game>
+	<game name="Arena (USA)">
+		<category>Games</category>
+		<description>Arena (USA)</description>
+		<rom crc="aec91043" md5="745b38aa2fdb283a6bbeafa1fe3bd69c" name="Arena (USA).ipf" sha1="f41ec6f5f4e44d257899ee93acebedaef7244734" size="804232"/>
+	</game>
+	<game name="Arkanoid (USA) (v1.05 1988-03-31)">
+		<category>Games</category>
+		<description>Arkanoid (USA) (v1.05 1988-03-31)</description>
+		<rom crc="4cd3b062" md5="4a21f120bb52953203128bb0d8696d98" name="Arkanoid (USA) (v1.05 1988-03-31).ipf" sha1="198ab3c83f34aa7432a7a2be091f12e7c688da4b" size="381330"/>
+	</game>
+	<game name="Arkanoid (USA) (v1.05 3.31.88) (AmigaDOS)">
+		<category>Games</category>
+		<description>Arkanoid (USA) (v1.05 3.31.88) (AmigaDOS)</description>
+		<rom crc="c31a2e4e" md5="5520a367ad284f349ffb8298daca948d" name="Arkanoid (USA) (v1.05 3.31.88) (AmigaDOS).ipf" sha1="62891686cfd06e437c9e20f3b50276231b0723ac" size="1049180"/>
+	</game>
+	<game name="Arthur - The Quest for Excalibur (USA) (r54)">
+		<category>Games</category>
+		<description>Arthur - The Quest for Excalibur (USA) (r54)</description>
+		<rom crc="86245427" md5="ecee28600650fa3a9a95ef9721e76bf2" name="Arthur - The Quest for Excalibur (USA) (r54).ipf" sha1="54cf8f890de193fc5a0cd5fbf3adf83d2a93ac8f" size="1049612"/>
+	</game>
+	<game name="Atomino (USA) (En,Fr,It)">
+		<category>Games</category>
+		<description>Atomino (USA) (En,Fr,It)</description>
+		<rom crc="56757b9b" md5="6b4c0e8f30293f1ec6f5bc04b2e92ec2" name="Atomino (USA) (En,Fr,It).ipf" sha1="33072c2ee292fa883141efff356e36923ca59e9e" size="1049612"/>
+	</game>
+	<game name="Axe of Rage (USA)">
+		<category>Games</category>
+		<description>Axe of Rage (USA)</description>
+		<rom crc="a66d3e63" md5="fd8d09d6fac4743a046bc54c95e46df3" name="Axe of Rage (USA) (Disk 1).ipf" sha1="65d0d16000a3b2959d9fdd93adb40935578a7603" size="1049612"/>
+		<rom crc="d037d9b1" md5="0da35803a460f6bcae50159e4f8ed088" name="Axe of Rage (USA) (Disk 2).ipf" sha1="f58634fc9cd0ef0c779c12a9a4d81b4dfd53088d" size="1049612"/>
+	</game>
+	<game name="Back to the Future Part III (USA)">
+		<category>Games</category>
+		<description>Back to the Future Part III (USA)</description>
+		<rom crc="28080496" md5="36f3d3a17434bacb654fff90f847ac89" name="Back to the Future Part III (USA) (Disk 1).ipf" sha1="6e4973f446f082a65ded5f89b70c12c73ebca248" size="955854"/>
+		<rom crc="302b8e96" md5="132f149064757e38f7419c0da85aa3fc" name="Back to the Future Part III (USA) (Disk 2).ipf" sha1="2af0bb4fa437f0a7f9dc0959e73af74b2d3f101d" size="513742"/>
+	</game>
+	<game name="Bad Dudes (USA)">
+		<category>Games</category>
+		<description>Bad Dudes (USA)</description>
+		<rom crc="0729eaf6" md5="fea64d4fac8d220171cdb43fd6670f63" name="Bad Dudes (USA).ipf" sha1="3e59f74b72b354c355a6a1e959472ddeac1f3c81" size="1049612"/>
+	</game>
+	<game name="Balance of Power - Geopolitics in the Nuclear Age (USA)">
+		<category>Games</category>
+		<description>Balance of Power - Geopolitics in the Nuclear Age (USA)</description>
+		<rom crc="9ae7d938" md5="5bd9032d9c563dff92e2e19983ec235e" name="Balance of Power - Geopolitics in the Nuclear Age (USA).ipf" sha1="6e02392c67de800c39349d95fc4abd8e142fd94b" size="1049612"/>
+	</game>
+	<game name="Bard's Tale, The - Tales of the Unknown (USA)">
+		<category>Games</category>
+		<description>Bard's Tale, The - Tales of the Unknown (USA)</description>
+		<rom crc="d1331b11" md5="be21a336aa6fd518188ff47e86726985" name="Bard's Tale, The - Tales of the Unknown (USA).ipf" sha1="da9b0d352d9687af3abd21737acdf2252a5fd870" size="1049612"/>
+	</game>
+	<game name="Battle Command (USA)">
+		<category>Games</category>
+		<description>Battle Command (USA)</description>
+		<rom crc="ea2546e9" md5="cb7b12d0a51042dd2bd4f2b5a0f61750" name="Battle Command (USA).ipf" sha1="aa1f2aaa4bb23338a63f37ddd0b264ff5dd124dc" size="1049612"/>
+	</game>
+	<game name="Battle Squadron - The Destruction of the Barrax Empire! (USA)">
+		<category>Games</category>
+		<description>Battle Squadron - The Destruction of the Barrax Empire! (USA)</description>
+		<rom crc="3f0616bf" md5="9c4ec436d4ffe6f303a76b9ed27e86cb" name="Battle Squadron - The Destruction of the Barrax Empire! (USA).ipf" sha1="f5fb4f64a7f8d3723a1e6f93996ff553a79bccdc" size="1009748"/>
+	</game>
+	<game name="BattleTech - The Crescent Hawk's Inception (USA) (v2.3)">
+		<category>Games</category>
+		<description>BattleTech - The Crescent Hawk's Inception (USA) (v2.3)</description>
+		<rom crc="349c6328" md5="6859006b727bc494ac66ca6b91c21967" name="BattleTech - The Crescent Hawk's Inception (USA) (v2.3).ipf" sha1="a69840e8984a754c84091f068cc34c0fd1cde6c9" size="1049612"/>
+	</game>
+	<game name="Battlestorm (USA)">
+		<category>Games</category>
+		<description>Battlestorm (USA)</description>
+		<rom crc="1d4cd728" md5="2b301dfd9dfdeed9cc660a9fbb3f3020" name="Battlestorm (USA).ipf" sha1="c5f4ee8c961214bce2600f9ea8b87ed7045a62cd" size="1049612"/>
+	</game>
+	<game name="Bermuda Project (USA)">
+		<category>Games</category>
+		<description>Bermuda Project (USA)</description>
+		<rom crc="ca622d30" md5="15f8009edde7eacee1002a388c577fb3" name="Bermuda Project (USA).ipf" sha1="9c4717e150b0129f41937ab42bec4ab92f4df568" size="1049946"/>
+	</game>
+	<game name="Better Dead Than Alien (USA)">
+		<category>Games</category>
+		<description>Better Dead Than Alien (USA)</description>
+		<rom crc="92819c9c" md5="a289c2814b45ef160e8a116607e5f590" name="Better Dead Than Alien (USA).ipf" sha1="e6dfe95838750b6a2405012999ef2cedc9fb4798" size="1049768"/>
+	</game>
+	<game name="Beyond Zork - The Coconut of Quendor (USA) (r57)">
+		<category>Games</category>
+		<description>Beyond Zork - The Coconut of Quendor (USA) (r57)</description>
+		<rom crc="38af6a75" md5="f5fa4d619129f55d5776b9eeca370dfa" name="Beyond Zork - The Coconut of Quendor (USA) (r57).ipf" sha1="b8d4357768e09dfdec8ed56ef99cbb0ce5b90a7a" size="1049612"/>
+	</game>
+	<game name="Bionic Commando (USA)">
+		<category>Games</category>
+		<description>Bionic Commando (USA)</description>
+		<rom crc="ca9935fb" md5="59f63062a6f639bcbbeedbf09b1c0f68" name="Bionic Commando (USA).ipf" sha1="f733b96a9c2aa550ff50adc774787d205ba82604" size="1049612"/>
+	</game>
+	<game name="Blue Angels - Formation Flight Simulation (USA)">
+		<category>Games</category>
+		<description>Blue Angels - Formation Flight Simulation (USA)</description>
+		<rom crc="06e1925b" md5="1026ca4731188063cda202c9590a8d36" name="Blue Angels - Formation Flight Simulation (USA).ipf" sha1="2f91b23853b680556f2deac9dc38a3335b0f53d9" size="1049612"/>
+	</game>
+	<game name="Bo Jackson Baseball (USA)">
+		<category>Games</category>
+		<description>Bo Jackson Baseball (USA)</description>
+		<rom crc="2b1971ae" md5="761333197c8884c7c5910a1810faf4c6" name="Bo Jackson Baseball (USA) (Disk 1).ipf" sha1="17ddd0d5aef092af22ff021f1cd03881c55899b2" size="1049612"/>
+		<rom crc="273a7f65" md5="4f718851b5f41494946b8f792d1ca9a2" name="Bo Jackson Baseball (USA) (Disk 2).ipf" sha1="81c466a96555032bf50bbcc0866563340f86c1c8" size="1049612"/>
+	</game>
+	<game name="Boot, Das (USA)">
+		<category>Games</category>
+		<description>Boot, Das (USA)</description>
+		<rom crc="a21a9f75" md5="fb3f7672b4d7a4c46343616788ba938c" name="Boot, Das (USA) (Disk 1).ipf" sha1="a4ee6ba109873214865cd4b151d406d61c7f6c25" size="1049612"/>
+		<rom crc="d7f895e2" md5="156686cf93f366a9105737d6cac0f0e5" name="Boot, Das (USA) (Disk 2).ipf" sha1="cdf17ca83c7411878f3d4a6039729ec739b07cee" size="1049612"/>
+	</game>
+	<game name="Brataccas (USA)">
+		<category>Games</category>
+		<description>Brataccas (USA)</description>
+		<rom crc="a2c4c0bd" md5="7314f55b0aacaf56e2f7a9ed0f4978e2" name="Brataccas (USA).ipf" sha1="729666d1591ea95af0b18b56fd7e1b5af24364e2" size="359458"/>
+	</game>
+	<game name="Breach (USA)">
+		<category>Games</category>
+		<description>Breach (USA)</description>
+		<rom crc="dabc1b5a" md5="834501efbf12371af9380aa72fb4e3bf" name="Breach (USA).ipf" sha1="ab6554621103472e317da2598010e771984eb938" size="1049612"/>
+	</game>
+	<game name="Bubble Bobble (USA)">
+		<category>Games</category>
+		<description>Bubble Bobble (USA)</description>
+		<rom crc="6db9c287" md5="1f1d4ad4fc330ba4a69d86b8891498d4" name="Bubble Bobble (USA).ipf" sha1="26509459e01a6ac68a3492f041ebab7bf56eb1d8" size="1049304"/>
+	</game>
+	<game name="Buck Rogers - Countdown to Doomsday - Science Fiction Role-Playing Computer Game, Vol.I (USA) (v1.0)">
+		<category>Games</category>
+		<description>Buck Rogers - Countdown to Doomsday - Science Fiction Role-Playing Computer Game, Vol.I (USA) (v1.0)</description>
+		<rom crc="93f0905b" md5="e3f65c162550bfdff347883908c38b8a" name="Buck Rogers - Countdown to Doomsday - Science Fiction Role-Playing Computer Game, Vol.I (USA) (v1.0) (Disk 1).ipf" sha1="ea6e27e071b0c5655002fd9c8fe93d12f7d2c7b8" size="1049612"/>
+		<rom crc="1b8eecd5" md5="b7a0f90aed6a7d632b8b677b94109aeb" name="Buck Rogers - Countdown to Doomsday - Science Fiction Role-Playing Computer Game, Vol.I (USA) (v1.0) (Disk 2).ipf" sha1="4894d2bfd9043e1151b03a2ca341095208c43ace" size="1049612"/>
+	</game>
+	<game name="Bureaucracy (USA) (r86)">
+		<category>Games</category>
+		<description>Bureaucracy (USA) (r86)</description>
+		<rom crc="066c5c07" md5="10ea9d26df894e13cae433aef9f94e57" name="Bureaucracy (USA) (r86).ipf" sha1="727a4cc329b050c6fd157970a895993b8eabc9a0" size="1049612"/>
+	</game>
+	<game name="Captain Blood (USA)">
+		<category>Games</category>
+		<description>Captain Blood (USA)</description>
+		<rom crc="4ce516ef" md5="49f258f8d5a99e7e0324abd5ec5f9ead" name="Captain Blood (USA).ipf" sha1="0445a536f192fa21753b5e149e58a9413b587d10" size="1049612"/>
+	</game>
+	<game name="Carthage (USA)">
+		<category>Games</category>
+		<description>Carthage (USA)</description>
+		<rom crc="dac2c89a" md5="dc2e1f9259d72ef13c00e48041de7516" name="Carthage (USA) (Disk 1).ipf" sha1="ac2a7befa51889863194e472716514b46de853cb" size="681514"/>
+		<rom crc="bbe4017c" md5="327000403ac3c8df6754ace0b920fe27" name="Carthage (USA) (Disk 2).ipf" sha1="9666058cacc50d498a1134566d7351efffc679b2" size="1017382"/>
+	</game>
+	<game name="Castle of Dr. Brain (USA) (v1.0)">
+		<category>Games</category>
+		<description>Castle of Dr. Brain (USA) (v1.0)</description>
+		<rom crc="10a78722" md5="c53a84bdf9dbe9cd866dd64f0fb86506" name="Castle of Dr. Brain (USA) (v1.0) (Disk 1).ipf" sha1="b0985029c980afd77ee5254b142b5ee502a9feb0" size="1049612"/>
+		<rom crc="7b2084ef" md5="b7aff2b4f894228bda8a09092f6326e8" name="Castle of Dr. Brain (USA) (v1.0) (Disk 2).ipf" sha1="8fa8bae86ba865134d2277fc76b844c52f1ef33f" size="1049612"/>
+		<rom crc="cba0e635" md5="7a3592b25a36a5c71207b13d9101c8b8" name="Castle of Dr. Brain (USA) (v1.0) (Disk 3).ipf" sha1="60e0c0ab408da0ea0cdb9a73efb3220f4c954c23" size="1049612"/>
+		<rom crc="3dce3684" md5="12fc8b29471ac2fa5b00577dcbfe4982" name="Castle of Dr. Brain (USA) (v1.0) (Startup, Dual Play Disk).ipf" sha1="9b6175def3cf2b4ab352e41a0b6f57d30f8c6115" size="1049612"/>
+	</game>
+	<game name="Centurion - Defender of Rome (USA)">
+		<category>Games</category>
+		<description>Centurion - Defender of Rome (USA)</description>
+		<rom crc="488f297f" md5="338f3a35e65bb11832aa25f270177f13" name="Centurion - Defender of Rome (USA) (Disk 1).ipf" sha1="f13f8ae9723d11fd32d27139c260fbcbf0aaf00e" size="1049612"/>
+		<rom crc="69805cb7" md5="ba47a69c0523ec42fb0a767322aaadd5" name="Centurion - Defender of Rome (USA) (Disk 2).ipf" sha1="e9bf2e716c53b08e984c68294d460b24cbf5acf6" size="1049612"/>
+	</game>
+	<game name="Chamber of the Sci-Mutant Priestess (USA)">
+		<category>Games</category>
+		<description>Chamber of the Sci-Mutant Priestess (USA)</description>
+		<rom crc="51ea1aa8" md5="de1d3ce736e0675256138ec1457871d2" name="Chamber of the Sci-Mutant Priestess (USA).ipf" sha1="8699d3e24f03a5a8f16c2a0b7130959d7dda7580" size="1049856"/>
+	</game>
+	<game name="Chessmaster 2100 (USA) (v1.2)">
+		<category>Games</category>
+		<description>Chessmaster 2100 (USA) (v1.2)</description>
+		<rom crc="f98a0c53" md5="faab68d1f4e215d7b170258b4de132a1" name="Chessmaster 2100 (USA) (v1.2) (Disk 1).ipf" sha1="195f48d846526be5dac9c57101489f0219f90ff1" size="1049612"/>
+		<rom crc="cbcf1485" md5="2887826ab4e5ef08947d680cfe6b7043" name="Chessmaster 2100 (USA) (v1.2) (Disk 2).ipf" sha1="228088eb39e37ddd979621d76bece440fe329acb" size="1049612"/>
+	</game>
+	<game name="Chip's Challenge (USA)">
+		<category>Games</category>
+		<description>Chip's Challenge (USA)</description>
+		<rom crc="0dd28c4c" md5="4b49c58556a836b5d24a843c1fd1baaa" name="Chip's Challenge (USA).ipf" sha1="957b457f82fb8dfeb4916efc74a86ec24c3d967b" size="1049612"/>
+	</game>
+	<game name="Clue - Master Detective (USA)">
+		<category>Games</category>
+		<description>Clue - Master Detective (USA)</description>
+		<rom crc="85daeb0c" md5="32286c49e058f9fe38c45bcf1802da1e" name="Clue - Master Detective (USA).ipf" sha1="81b4ce4d13fc8e0639783191086d8454efb44cc3" size="1049612"/>
+	</game>
+	<game name="Combat Course (USA) (v1.4)">
+		<category>Games</category>
+		<description>Combat Course (USA) (v1.4)</description>
+		<rom crc="1b9b1157" md5="9107f03d35e79127d8d88331093d4e52" name="Combat Course (USA) (v1.4).ipf" sha1="c88ec5a430a858e2d5c75d7d53edb75d13ab1774" size="1049612"/>
+	</game>
+	<game name="Computer Third Reich (USA)">
+		<category>Games</category>
+		<description>Computer Third Reich (USA)</description>
+		<rom crc="34ec9609" md5="c18777acedb5d426bcd846498d200e70" name="Computer Third Reich (USA).ipf" sha1="4e92ff33e0e3b53c34dd16ba6f9348cd573b98f5" size="1049612"/>
+	</game>
+	<game name="Conflict - Middle East - Arab-Israeli Wars - 1973-x (USA)">
+		<category>Games</category>
+		<description>Conflict - Middle East - Arab-Israeli Wars - 1973-x (USA)</description>
+		<rom crc="6d5f8f19" md5="59489045316d8caaaf2a5a303f915ad1" name="Conflict - Middle East - Arab-Israeli Wars - 1973-x (USA) (Game Disk).ipf" sha1="f50cb8284ad93f2c14543bef04d615f408757127" size="1049612"/>
+	</game>
+	<game name="Cosmic Relief (USA)">
+		<category>Games</category>
+		<description>Cosmic Relief (USA)</description>
+		<rom crc="0c41fb5e" md5="82feac1fbba17fd77ed6dbe72c7012da" name="Cosmic Relief (USA).ipf" sha1="03a7390e756bd93cef0e9a2fc22f0ae6e9cf02be" size="1049612"/>
+	</game>
+	<game name="Crash Garrett (USA)">
+		<category>Games</category>
+		<description>Crash Garrett (USA)</description>
+		<rom crc="f6af271b" md5="a7c69cdb7b26baa5bc4ee055a134426e" name="Crash Garrett (USA).ipf" sha1="f35c25e21cfc6e99771afad6c9d611d2ce66bcc8" size="1049612"/>
+	</game>
+	<game name="Damocles - Mercenary II (USA)">
+		<category>Games</category>
+		<description>Damocles - Mercenary II (USA)</description>
+		<rom crc="5ad5f2b6" md5="c855a02557026c165d3659548015b4c0" name="Damocles - Mercenary II (USA).ipf" sha1="ee85d909703539310b7f66a6bdaae007f03bb2f0" size="1008558"/>
+	</game>
+	<game name="Dark Castle (USA)">
+		<category>Games</category>
+		<description>Dark Castle (USA)</description>
+		<rom crc="1080d0a5" md5="e9cebe6bd55b3bb221c0b3cd704aa7a9" name="Dark Castle (USA) (Disk 1).ipf" sha1="792ac06cb8f382fba9cc25d768e7769ed3c7c581" size="1049612"/>
+		<rom crc="5e3954f6" md5="d3b8d16e8fe1baab841e1a44cc0facac" name="Dark Castle (USA) (Disk 2).ipf" sha1="66f58b0e54aff9d736f14ee066089239c464eaee" size="1049612"/>
+	</game>
+	<game name="Dark Side (USA)">
+		<category>Games</category>
+		<description>Dark Side (USA)</description>
+		<rom crc="2c0b4a9a" md5="50a099495604ecfcdd75aa40ea5f7d4c" name="Dark Side (USA).ipf" sha1="da4b304be1fa4af9c05fafc767a4f6eeb27b6ecc" size="1049612"/>
+	</game>
+	<game name="Death Bringer (USA)">
+		<category>Games</category>
+		<description>Death Bringer (USA)</description>
+		<rom crc="9e1a02e9" md5="f16d73e6161107dd6bd1f10fdd8786b9" name="Death Bringer (USA) (Disk 1).ipf" sha1="5d95cccc7d032bd517c3b41a7f16c89aefca1861" size="1049612"/>
+		<rom crc="93a70768" md5="60439ef86f17204988aab41adfc38d56" name="Death Bringer (USA) (Disk 2).ipf" sha1="8672ae9b802d2fd9d9744c5774c87f3c145178bc" size="1049612"/>
+	</game>
+	<game name="Deep Space (USA) (v1.00a)">
+		<category>Games</category>
+		<description>Deep Space (USA) (v1.00a)</description>
+		<rom crc="37fbddef" md5="0d031bc812873cd2f95d670342229165" name="Deep Space (USA) (v1.00a).ipf" sha1="ed9c84eecae5f468763a9b25dafa34e4c3ecbb66" size="688204"/>
+	</game>
+	<game name="Defender of the Crown (USA)">
+		<category>Games</category>
+		<description>Defender of the Crown (USA)</description>
+		<rom crc="2cae58a6" md5="4b8deed56d42a8ce4eaf62e0b2155649" name="Defender of the Crown (USA) (Disk 1).ipf" sha1="25d77b98e907b430048f486364d7c36e449ff92b" size="1049180"/>
+		<rom crc="734ef389" md5="e24cd8a5179b3d78c88128386404442f" name="Defender of the Crown (USA) (Disk 2).ipf" sha1="ed4617741e80edf49b168faf5cc21650ced85191" size="1049180"/>
+	</game>
+	<game name="Deja Vu - A Nightmare Comes True! (USA)">
+		<category>Games</category>
+		<description>Deja Vu - A Nightmare Comes True! (USA)</description>
+		<rom crc="fa3f3f67" md5="5bad281639227e590f468f9ae9151d0c" name="Deja Vu - A Nightmare Comes True! (USA).ipf" sha1="36fc509d2eb95574eea6d9653793db9de458134d" size="1049612"/>
+	</game>
+	<game name="Demon's Winter (USA) (v1.0)">
+		<category>Games</category>
+		<description>Demon's Winter (USA) (v1.0)</description>
+		<rom crc="9ea1c0ba" md5="5fb9da29ee5bbee6d7abac885b39e384" name="Demon's Winter (USA) (v1.0).ipf" sha1="d5b757b524ca35b84ca44ca7a7a9539151f023d5" size="1049612"/>
+	</game>
+	<game name="Double Dragon II - The Revenge (USA) (v4.16ecs)">
+		<category>Games</category>
+		<description>Double Dragon II - The Revenge (USA) (v4.16ecs)</description>
+		<rom crc="95eb1637" md5="207248ad533d9aef97bd18215bb614b1" name="Double Dragon II - The Revenge (USA) (v4.16ecs).ipf" sha1="4cf20614e681ccfd35ce6349011d13716af49e31" size="1003982"/>
+	</game>
+	<game name="Dr. Doom's Revenge! (USA)">
+		<category>Games</category>
+		<description>Dr. Doom's Revenge! (USA)</description>
+		<rom crc="854318cf" md5="891c39c5b8e19c8d519583845796e3e1" name="Dr. Doom's Revenge! (USA) (Disk 1).ipf" sha1="fbd0c8af24a70b95bf5d0bd59cac7bfad3d16a93" size="1049612"/>
+		<rom crc="9194e6de" md5="cb239dd98506a6b98fd5ffbdb4a0ed72" name="Dr. Doom's Revenge! (USA) (Disk 2).ipf" sha1="d757a5ed60f6801f439c0ea9bece1cca7e6bad22" size="1049612"/>
+	</game>
+	<game name="Dragon Lord (USA)">
+		<category>Games</category>
+		<description>Dragon Lord (USA)</description>
+		<rom crc="daa21742" md5="edcb2e05348bfb1c5a63327f9497ce40" name="Dragon Lord (USA) (Disk 1).ipf" sha1="0cc72e99e6ac97fe75421a41ee061fce36c1b66d" size="1049612"/>
+		<rom crc="b6129aa2" md5="57ea84c92e9d44cc565cff26532784c0" name="Dragon Lord (USA) (Disk 2).ipf" sha1="93fe09b9342c8e607f114e4200382581e755700b" size="1049612"/>
+	</game>
+	<game name="Drakkhen (USA) (v1.1)">
+		<category>Games</category>
+		<description>Drakkhen (USA) (v1.1)</description>
+		<rom crc="9308c555" md5="210844ae9b707f7b8186b366270ebfb1" name="Drakkhen (USA) (v1.1) (Disk 1).ipf" sha1="5a009692058a950e36bb808b2b97347b1fb75b51" size="1049856"/>
+		<rom crc="469bbdbc" md5="95c24aac4fd8bb622da0ed3cad404eca" name="Drakkhen (USA) (v1.1) (Disk 2).ipf" sha1="7da8e733d3eb048e315f5ee6f4faeee8710c91cc" size="1049612"/>
+	</game>
+	<game name="Ebonstar (USA)">
+		<category>Games</category>
+		<description>Ebonstar (USA)</description>
+		<rom crc="f15c3120" md5="b75d6594ad554ea4946a405674563696" name="Ebonstar (USA).ipf" sha1="db441fec69714a72341870526af8b5c02e2a8b89" size="1049612"/>
+	</game>
+	<game name="F-19 Stealth Fighter (USA)">
+		<category>Games</category>
+		<description>F-19 Stealth Fighter (USA)</description>
+		<rom crc="b7fc4a26" md5="7febcb06482288d7212025a9f9abccaf" name="F-19 Stealth Fighter (USA) (Disk A).ipf" sha1="b24418adcce00d1f3ed6dff0e00523c2b8eea0af" size="635230"/>
+		<rom crc="41f5bb3f" md5="742682a88cad0393e7ebce19c7b79a14" name="F-19 Stealth Fighter (USA) (Disk B).ipf" sha1="1efef6fece0fd9ec6d6f70181f3966e314b16895" size="639132"/>
+		<rom crc="caf024b7" md5="12738cec67028189e11507f4a37ab825" name="F-19 Stealth Fighter (USA) (Disk C).ipf" sha1="25bdab7dc4e43abbec47f0235f4386f78742a5f2" size="685698"/>
+	</game>
+	<game name="Falcon (USA) (v1.1)">
+		<category>Games</category>
+		<description>Falcon (USA) (v1.1)</description>
+		<rom crc="39015fb7" md5="db64ae44679de21b2b80dc1ed1b1e705" name="Falcon (USA) (v1.1) (Disk 1).ipf" sha1="205520da132dd42db280dd6803e7b7da769baf25" size="1049612"/>
+		<rom crc="4a809543" md5="c12c06f32632cfb427245eb42d41a2c4" name="Falcon (USA) (v1.1) (Disk 2).ipf" sha1="f181b37bf0947f6e588e45d27819ddd31a99f594" size="1049612"/>
+	</game>
+	<game name="Falcon Mission Disk - Operation Counterstrike (USA) (Addon)">
+		<category>Games</category>
+		<description>Falcon Mission Disk - Operation Counterstrike (USA) (Addon)</description>
+		<rom crc="35613454" md5="dba3df3b411fc5d3506b006f238530e0" name="Falcon Mission Disk - Operation Counterstrike (USA) (Addon).ipf" sha1="607a71bef0d0b9ccd71bd0cf5a688d53514620e5" size="1049612"/>
+	</game>
+	<game name="Falcon Mission Disk - Operation Firefight (USA) (Addon)">
+		<category>Games</category>
+		<description>Falcon Mission Disk - Operation Firefight (USA) (Addon)</description>
+		<rom crc="77071cfa" md5="96ed0d872fe2ee91d2ed56addb9b7582" name="Falcon Mission Disk - Operation Firefight (USA) (Addon).ipf" sha1="37ec4fb3260553673dc2a40c3537cc585c38b81b" size="1049612"/>
+	</game>
+	<game name="Fantastic Voyage (USA, Europe)">
+		<category>Games</category>
+		<description>Fantastic Voyage (USA, Europe)</description>
+		<rom crc="7e12f5b2" md5="2f7718ea82e1da44f06c376a7964c823" name="Fantastic Voyage (USA, Europe) (Disk 1).ipf" sha1="384824cd12004d592ec0112b5ae5bc0c778260a8" size="1010270"/>
+		<rom crc="2eb66dd2" md5="ffd04d2a35a2154940d30f08d80c0970" name="Fantastic Voyage (USA, Europe) (Disk 2).ipf" sha1="e41fd12c26bf5763f28d9a90ffdc17b90c515994" size="1010270"/>
+	</game>
+	<game name="Federation (USA)">
+		<category>Games</category>
+		<description>Federation (USA)</description>
+		<rom crc="2202b383" md5="c83190d9611c35c6c43d92329bc22784" name="Federation (USA).ipf" sha1="b8c2841cbb5e68a755e0d90c5326c06d87182f9d" size="996160"/>
+	</game>
+	<game name="Fighter Duel Pro (USA)">
+		<category>Games</category>
+		<description>Fighter Duel Pro (USA)</description>
+		<rom crc="b4162998" md5="518d85e03a36d0bc47f9bcbd4402a066" name="Fighter Duel Pro (USA) (Disk 1).ipf" sha1="161cfc85e420f1fa4b778c1d02826d0dfcaa8d0d" size="1049612"/>
+		<rom crc="3cba7e6b" md5="9cf8424a8737914fcb59740bbb00d47b" name="Fighter Duel Pro (USA) (Disk 2).ipf" sha1="ced7ad21cbc01166ab0da958bd39f202dc8d7e05" size="1049612"/>
+		<rom crc="13276427" md5="5956d71344af25a41fcec0a689bb7773" name="Fighter Duel Pro (USA) (Disk 3).ipf" sha1="62dea0594008645187af0b5e2d28b2f4cdd3badf" size="1049612"/>
+	</game>
+	<game name="Final Assault (USA)">
+		<category>Games</category>
+		<description>Final Assault (USA)</description>
+		<rom crc="eb601d57" md5="49dae42a195c9f78a740f6c2c45c49ca" name="Final Assault (USA).ipf" sha1="0b8f0c6e500909445fb5306dd0cb3329843c98ef" size="1049612"/>
+	</game>
+	<game name="FireZone (USA)">
+		<category>Games</category>
+		<description>FireZone (USA)</description>
+		<rom crc="0e6e5296" md5="fddd9fe1ff241a0291823bbd85540031" name="FireZone (USA).ipf" sha1="59b8cd82e8d025da0be3bf3858be3ce94294d864" size="1049612"/>
+	</game>
+	<game name="Flight Simulator II (USA) (v1.0)">
+		<category>Games</category>
+		<description>Flight Simulator II (USA) (v1.0)</description>
+		<rom crc="5b753b25" md5="8f1965e20d9d4c26f3979e9a1236eb82" name="Flight Simulator II (USA) (v1.0).ipf" sha1="880f02f9477e7608e98bf79b24bcb2a7c590f268" size="1043166"/>
+	</game>
+	<game name="Four Crystals of Trazere, The (USA)">
+		<category>Games</category>
+		<description>Four Crystals of Trazere, The (USA)</description>
+		<rom crc="59acad4d" md5="6f056dbbc851be7ccca6b0d615c28d6d" name="Four Crystals of Trazere, The (USA) (Disk 1).ipf" sha1="5e113edca30b56956063428b4fb33327e1b0bf7d" size="1049304"/>
+		<rom crc="2fc9a110" md5="61d65186e6b1cb880f98320f81a61ab3" name="Four Crystals of Trazere, The (USA) (Disk 2).ipf" sha1="dc8eebbec8b6672542f794cc8e278b21ddc74b54" size="1049304"/>
+	</game>
+	<game name="Full Metal Planete (USA)">
+		<category>Games</category>
+		<description>Full Metal Planete (USA)</description>
+		<rom crc="926e321e" md5="edd03f4b1107152db3856a4a09cc2a34" name="Full Metal Planete (USA).ipf" sha1="5c29f4ac099b1f65fed4842830118f514aaa3d6f" size="1049612"/>
+	</game>
+	<game name="Future Wars - Time Travellers (USA)">
+		<category>Games</category>
+		<description>Future Wars - Time Travellers (USA)</description>
+		<rom crc="ea7e2d90" md5="a0ea735c6970285cc3efc60ca4faa4b9" name="Future Wars - Time Travellers (USA) (Disk 1).ipf" sha1="58002d0517447ca7b407c7d8208b8ba1bcfd21e3" size="1049612"/>
+		<rom crc="320b3c64" md5="5f1d82681706d4a8f31c54b9fc0d5f38" name="Future Wars - Time Travellers (USA) (Disk 2).ipf" sha1="d44ebe32861caedd7617eeee843e9356ea2b7edc" size="1049612"/>
+	</game>
+	<game name="GFL Championship Football (USA)">
+		<category>Games</category>
+		<description>GFL Championship Football (USA)</description>
+		<rom crc="c649c514" md5="72c25ea68ffeb7848bba5f93d7ffcb2f" name="GFL Championship Football (USA).ipf" sha1="4188f8f6b64b91a4b29fbc0b1ed585e86c88d3c3" size="1047541"/>
+	</game>
+	<game name="Ghostbusters II (USA)">
+		<category>Games</category>
+		<description>Ghostbusters II (USA)</description>
+		<rom crc="e60542fc" md5="419657cbe045fd6ea452ee1bc53fec66" name="Ghostbusters II (USA) (Disk A).ipf" sha1="822e7b55933ac35d21ebd10fd16799e036f63ee2" size="1049946"/>
+		<rom crc="a608c427" md5="441d91a02b82b38451f949266c6618cc" name="Ghostbusters II (USA) (Disk B).ipf" sha1="f11021250ed41860d5fe1468e02e580cb9f8eefe" size="1049946"/>
+	</game>
+	<game name="Global Commander (USA)">
+		<category>Games</category>
+		<description>Global Commander (USA)</description>
+		<rom crc="08ad2f4c" md5="2e122fafecdfde8becc0a3eaee06c881" name="Global Commander (USA).ipf" sha1="3ef69c0a6e9230e302700354db22e01a821799d8" size="1049612"/>
+	</game>
+	<game name="Gunship (USA) (v832.03)">
+		<category>Games</category>
+		<description>Gunship (USA) (v832.03)</description>
+		<rom crc="e562916a" md5="0042d5b34542c7f42eb1620c1d40e063" name="Gunship (USA) (v832.03).ipf" sha1="be40b0ceb3931f2ff592f41cd1c4608b8c49d7bb" size="1049612"/>
+	</game>
+	<game name="Hacker (USA)">
+		<category>Games</category>
+		<description>Hacker (USA)</description>
+		<rom crc="1afd9c47" md5="787531eccd8e3d2fd17cd3ec7bcdeb5d" name="Hacker (USA).ipf" sha1="88dc69d5f030375a46beaf139d7c0eb83aa7f235" size="1048837"/>
+	</game>
+	<game name="HardBall II (USA)">
+		<category>Games</category>
+		<description>HardBall II (USA)</description>
+		<rom crc="7c302ac2" md5="c61cace195773435d1ed013a9f9142e3" name="HardBall II (USA).ipf" sha1="e01de8ead0c38c20852414626b145144be01e35b" size="1049612"/>
+	</game>
+	<game name="Hare Raising Havoc (USA)">
+		<category>Games</category>
+		<description>Hare Raising Havoc (USA)</description>
+		<rom crc="c69724e0" md5="5cd4b79ca74cc9015643bae3121c345b" name="Hare Raising Havoc (USA) (Disk 1).ipf" sha1="8e4c90abac8286c6f6c23a1406ca9d4d26ccdbb0" size="1049612"/>
+		<rom crc="b5304f76" md5="22c0da1d541f339756942cf0458923c9" name="Hare Raising Havoc (USA) (Disk 2).ipf" sha1="98c5771438cff207f3245aaa426d82880ec7d91a" size="1049612"/>
+		<rom crc="7078d9c3" md5="a22b3c9ae2337c4330dccb43ec015275" name="Hare Raising Havoc (USA) (Disk 3).ipf" sha1="022b8b78e46bdde111e1c7d8727e9ecb2ead730d" size="1049612"/>
+		<rom crc="8c8764a3" md5="e7820f9357be9d0ac713d7332a402e55" name="Hare Raising Havoc (USA) (Disk 4).ipf" sha1="22d25acc946b46e7bbd957534147cab796c6e3c7" size="1049612"/>
+		<rom crc="4cfdb16f" md5="08ddfc91cad764e696705f590c564bdf" name="Hare Raising Havoc (USA) (Disk 5).ipf" sha1="4176735d950abd0ff1bcd2be58e26fe580e398aa" size="1049612"/>
+		<rom crc="f74881bd" md5="c98dcb1946e10a655e570213df677871" name="Hare Raising Havoc (USA) (Disk 6).ipf" sha1="5c6359631a32cf02d8c2b4557eaa9c038e5630c7" size="1049612"/>
+	</game>
+	<game name="Harrier Combat Simulator (USA)">
+		<category>Games</category>
+		<description>Harrier Combat Simulator (USA)</description>
+		<rom crc="bcb2dc50" md5="d6cafa602a8bcb9cc124bd48b25fbb92" name="Harrier Combat Simulator (USA).ipf" sha1="f319cd23a021f80ba73fda00034ebc0f851afac1" size="1049612"/>
+	</game>
+	<game name="Hollywood Hijinx (USA) (r37)">
+		<category>Games</category>
+		<description>Hollywood Hijinx (USA) (r37)</description>
+		<rom crc="1624d67d" md5="e222243338d479712e7d2fa62cec11c9" name="Hollywood Hijinx (USA) (r37).ipf" sha1="67c4b71cd7f2adae03db046c48969129654d9ec2" size="1049612"/>
+	</game>
+	<game name="Hostage - Rescue Mission (USA)">
+		<category>Games</category>
+		<description>Hostage - Rescue Mission (USA)</description>
+		<rom crc="47b8c585" md5="663b905bbbc6b0101341142e776dbb2b" name="Hostage - Rescue Mission (USA).ipf" sha1="71cddffc7dd2bba46dbb84fbce2fa003b08dcd68" size="1049612"/>
+	</game>
+	<game name="Hoverforce (USA)">
+		<category>Games</category>
+		<description>Hoverforce (USA)</description>
+		<rom crc="98329ef7" md5="a2d661097cf6f3807089408193697c07" name="Hoverforce (USA).ipf" sha1="fde729c708d6a893ae28685d8bb4780a391b5be8" size="1049612"/>
+	</game>
+	<game name="Hybris (USA) (v0.95)">
+		<category>Games</category>
+		<description>Hybris (USA) (v0.95)</description>
+		<rom crc="d06a3c76" md5="fc6f7d3ff4fc37e0878dee30dfb4595d" name="Hybris (USA) (v0.95).ipf" sha1="2bc71fcc3cb6af489e19acd0b783c6874809276e" size="872886"/>
+	</game>
+	<game name="Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89)">
+		<category>Games</category>
+		<description>Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89)</description>
+		<rom crc="92980941" md5="87c0f43cbfbb4db159535101ff8c4ec0" name="Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 1).ipf" sha1="f757062784ee3bc21a5296924fe75ee10aef7f6e" size="1049612"/>
+		<rom crc="454fa936" md5="f718759c8b9069dafba8072ccb2d666c" name="Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 2).ipf" sha1="f26732b6be2f7ed9c77ab6ccad8a0e12dbc317b7" size="1049612"/>
+		<rom crc="bab92e8f" md5="9b1744f13c9c4c5891df7f8eb8206a96" name="Indiana Jones and the Last Crusade - The Graphic Adventure (USA) (v1.4 10.4.89) (Disk 3).ipf" sha1="b714d269d3b31a6f4206c0696af00fb7623fe16a" size="1049612"/>
+	</game>
+	<game name="Infidel (USA) (r22)">
+		<category>Games</category>
+		<description>Infidel (USA) (r22)</description>
+		<rom crc="6fe0a105" md5="79a60b5f964680ea2ed9c3b649c6e4d7" name="Infidel (USA) (r22).ipf" sha1="c7d78d9433a69017d30ef831d42dec114101d2cc" size="1049612"/>
+	</game>
+	<game name="Jack Nicklaus' Unlimited Golf &amp; Course Design (USA)">
+		<category>Games</category>
+		<description>Jack Nicklaus' Unlimited Golf &amp; Course Design (USA)</description>
+		<rom crc="43eb1b2d" md5="a450cb5f2fff42335e3e7ac393b9c2a3" name="Jack Nicklaus' Unlimited Golf &amp; Course Design (USA) (Unlimited Course Design - Bear's Track).ipf" sha1="07b57d490db925f65b80411236afd66ec6088ee0" size="1049612"/>
+		<rom crc="f0f4a067" md5="e10a3f4d5b7852053a27858327b05f3f" name="Jack Nicklaus' Unlimited Golf &amp; Course Design (USA) (Unlimited Golf - Muirfield).ipf" sha1="ef5727e64329f670652c9e459780ed2380d09945" size="1049612"/>
+	</game>
+	<game name="James Bond - The Stealth Affair (USA)">
+		<category>Games</category>
+		<description>James Bond - The Stealth Affair (USA)</description>
+		<rom crc="c7a2b6f5" md5="dc3f0e8877ceefea31700e3b4d1fd527" name="James Bond - The Stealth Affair (USA) (Disk 1).ipf" sha1="6a6b2c5c06ddd52030655aec537902ad6c146940" size="1049612"/>
+		<rom crc="97d87c77" md5="d398792d1c43992eda499178d85fa657" name="James Bond - The Stealth Affair (USA) (Disk 2).ipf" sha1="c74be6246b65cec19e43d40df8055a3aff1232af" size="1049612"/>
+		<rom crc="e4c9d40d" md5="160c78d893281141aace919db8000325" name="James Bond - The Stealth Affair (USA) (Disk 3).ipf" sha1="7690abb9410a2cfa5f791fa58c1f803d9a0047ba" size="1049612"/>
+	</game>
+	<game name="Joan of Arc - Siege and the Sword (USA) (v1.0)">
+		<category>Games</category>
+		<description>Joan of Arc - Siege and the Sword (USA) (v1.0)</description>
+		<rom crc="07a35a6b" md5="3caec629ab9f95fb0ffda972b84a305b" name="Joan of Arc - Siege and the Sword (USA) (v1.0) (Disk 1).ipf" sha1="a90905abd798c0eb609a88fa6d0c0156083e3594" size="1049612"/>
+		<rom crc="9617f735" md5="34766a8e5e4da7588932fecbbf1a4933" name="Joan of Arc - Siege and the Sword (USA) (v1.0) (Disk 2).ipf" sha1="d716184e8d2c43b9d8d60f39c1af117d09492117" size="1049612"/>
+	</game>
+	<game name="Keef the Thief - A Boy and His Lockpick (USA)">
+		<category>Games</category>
+		<description>Keef the Thief - A Boy and His Lockpick (USA)</description>
+		<rom crc="713745aa" md5="a517bbdcd3a525edfcd0d5d4594f3549" name="Keef the Thief - A Boy and His Lockpick (USA) (Disk 1).ipf" sha1="36c150a2954fdf37d3d34460b1a5658ed465af20" size="1049612"/>
+		<rom crc="d0a8478f" md5="00b4155da027c48fdd9868da20a2524e" name="Keef the Thief - A Boy and His Lockpick (USA) (Disk 2).ipf" sha1="a40713d4f27cd9e7fd25e5510aad1d4763d7cbe1" size="1049612"/>
+	</game>
+	<game name="Khalaan (USA)">
+		<category>Games</category>
+		<description>Khalaan (USA)</description>
+		<rom crc="8aadd758" md5="45d52137595f5464688c58ca4680dfa3" name="Khalaan (USA) (Disk A).ipf" sha1="da4c07d7a1fc5c62cc584fe9cb581852fb82d1b5" size="1049180"/>
+		<rom crc="1322bd1f" md5="16eb61a2f0e5356d0a3ecd1f8e3d95b1" name="Khalaan (USA) (Disk B).ipf" sha1="4f2cf64f8fb7480c8be00bc8f4de7dd1cb5e1de3" size="1049180"/>
+	</game>
+	<game name="Killing Cloud, The (USA)">
+		<category>Games</category>
+		<description>Killing Cloud, The (USA)</description>
+		<rom crc="8d4de9a0" md5="8cd4fcb3cd2f055b3015cd96b368fd25" name="Killing Cloud, The (USA) (Disk A).ipf" sha1="00ac147db056d33d88b24c42c564bc81993902dd" size="919894"/>
+		<rom crc="2de65866" md5="ff7cd791b052cd9073f950833969710f" name="Killing Cloud, The (USA) (Disk B).ipf" sha1="fdca4d855f833f88ab9e77d79053af7dd03586d7" size="918252"/>
+	</game>
+	<game name="Kristal, The (USA)">
+		<category>Games</category>
+		<description>Kristal, The (USA)</description>
+		<rom crc="4848e183" md5="59b73eb99c27647692c1fb1b1fae5306" name="Kristal, The (USA) (Disk 1).ipf" sha1="5b587945fabba56868859896f3d6a240890b6004" size="1049612"/>
+		<rom crc="8c9a8a39" md5="ac22068c1698eb82bef27a7742a5f6a5" name="Kristal, The (USA) (Disk 2).ipf" sha1="cc0cf1874504a587d666db2e8e17efbccc3376ba" size="1049612"/>
+		<rom crc="18c7442d" md5="2139b7ba11e18cc202f33fe85d569eca" name="Kristal, The (USA) (Disk 3).ipf" sha1="d248226342b6138ccd514bfc51268da1ee62b48a" size="1049612"/>
+		<rom crc="38cfbc44" md5="a4eb39857c90c84ba1c0f651c294b4f4" name="Kristal, The (USA) (Disk 4).ipf" sha1="0c6f0feba000d64367159e248b2eff2675ba5f4f" size="1049612"/>
+	</game>
+	<game name="Laser Squad (USA)">
+		<category>Games</category>
+		<description>Laser Squad (USA)</description>
+		<rom crc="c5a6f150" md5="ea06a79309b94047b61517d725716890" name="Laser Squad (USA).ipf" sha1="b4fb08955c04a001a3104262e194448480f9b83b" size="1049612"/>
+	</game>
+	<game name="Leander (USA)">
+		<category>Games</category>
+		<description>Leander (USA)</description>
+		<rom crc="6f04fc2c" md5="13fbec5e0ccd1625b4e8e13c335cbe39" name="Leander (USA) (Disk 1).ipf" sha1="30dd5b02a85c4c4923a4fa143c6328313cbcc39f" size="1010230"/>
+		<rom crc="143595e0" md5="bc6e586c3a7bac52d8d2633ccf1d3b8c" name="Leander (USA) (Disk 2).ipf" sha1="0da2b034c1d61816ffaa6d5598e56f4bc1cfa64f" size="1003784"/>
+		<rom crc="a753ab04" md5="433aef78a7a0dd094ddbd545b7ac502a" name="Leander (USA) (Disk 3).ipf" sha1="2a55fbf272d8d7371f6fd960ee21f86f574a382e" size="1003784"/>
+	</game>
+	<game name="Legend of Faerghail (USA) (v2.0e 1990-10-17)">
+		<category>Games</category>
+		<description>Legend of Faerghail (USA) (v2.0e 1990-10-17)</description>
+		<rom crc="661af6ef" md5="82aad579b4743ea4f4f1bfceb5129c11" name="Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 0).ipf" sha1="069dd4a20c20b3fec44c5d35240757ee77aea3fd" size="1049180"/>
+		<rom crc="8f8119c3" md5="b8d670567f7af13d254757a8a6daafae" name="Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 1).ipf" sha1="f8a8564ebaed9c025914b5e05578305902b2343d" size="1049180"/>
+		<rom crc="6b7cd588" md5="38e99021d21eb293c827f2f2ac311760" name="Legend of Faerghail (USA) (v2.0e 1990-10-17) (Disk 2).ipf" sha1="e92479d442444ecfa655117b53fba2d0389ff7df" size="1049180"/>
+	</game>
+	<game name="Lemmings (USA)">
+		<category>Games</category>
+		<description>Lemmings (USA)</description>
+		<rom crc="28c50902" md5="4fe4baa6a2441c5664110f107e1d296d" name="Lemmings (USA) (Disk 1).ipf" sha1="7f3b7b56e5656cca8ff70d55067cabb94b9ac2bd" size="1010320"/>
+		<rom crc="23da460e" md5="5ce57aadf4a5e08f4c9ea3fe2503ef55" name="Lemmings (USA) (Disk 2).ipf" sha1="fbe1603df9e6bd1400e30d7dde8b62c47009b919" size="997736"/>
+	</game>
+	<game name="Lemmings 2 - The Tribes (USA)">
+		<category>Games</category>
+		<description>Lemmings 2 - The Tribes (USA)</description>
+		<rom crc="ea01ef89" md5="7182e6c3bcaea65eb324744b1282328f" name="Lemmings 2 - The Tribes (USA) (Disk 1).ipf" sha1="8ea69942031e057fc3f73fdbc142da0400cd413d" size="1049612"/>
+		<rom crc="1e87b4e1" md5="7adad868b3102837304ee3c31001b13e" name="Lemmings 2 - The Tribes (USA) (Disk 2).ipf" sha1="d2003c8254ded19ccac96c9fedfa2316fc836a10" size="1049612"/>
+		<rom crc="d69e6262" md5="83753a0d5c667ecea235bd78fda74a29" name="Lemmings 2 - The Tribes (USA) (Disk 3).ipf" sha1="f62160250b9b58031d2fceb0600236e70607199d" size="1049304"/>
+	</game>
+	<game name="Leonardo (USA)">
+		<category>Games</category>
+		<description>Leonardo (USA)</description>
+		<rom crc="645f2635" md5="fe89d915fa1b5f5e906a9e65d7e73728" name="Leonardo (USA).ipf" sha1="df304394beb80986cb10d116cbd118049e32c82b" size="972894"/>
+	</game>
+	<game name="Links - The Challenge of Golf (USA) (v1.50)">
+		<category>Games</category>
+		<description>Links - The Challenge of Golf (USA) (v1.50)</description>
+		<rom crc="7d956ada" md5="6d20a0f81ddd3b77e817e44605677a39" name="Links - The Challenge of Golf (USA) (v1.50) (Disk 1).ipf" sha1="6200091b82ca917c5ff3780868b4f1435c38af77" size="1049612"/>
+		<rom crc="20a98a0b" md5="0c92434320bee678832b1053c04c57df" name="Links - The Challenge of Golf (USA) (v1.50) (Disk 2).ipf" sha1="17b36590db48d2d1d9e0ddf2401f4025c31a4218" size="1049612"/>
+		<rom crc="5af8317d" md5="75450e887e6223a21644bfbdb6af836a" name="Links - The Challenge of Golf (USA) (v1.50) (Disk 3).ipf" sha1="da415e1e9718ab4994aa881f5c4d3abf19700ca3" size="1049612"/>
+	</game>
+	<game name="Little Computer People (USA)">
+		<category>Games</category>
+		<description>Little Computer People (USA)</description>
+		<rom crc="0b27d4f5" md5="acea6a644c00a9baea1ee99e59f8ffa3" name="Little Computer People (USA).ipf" sha1="539e0a374091e7abd890a2f8faaa106075bcb35a" size="1049816"/>
+	</game>
+	<game name="Lords of the Rising Sun (USA)">
+		<category>Games</category>
+		<description>Lords of the Rising Sun (USA)</description>
+		<rom crc="2d309dc1" md5="0f028b5f2c6ee8c0646d2ba3b9539127" name="Lords of the Rising Sun (USA) (Disk 1).ipf" sha1="3c7637f07714be9ed6d1375c027ca147c0dad917" size="1049612"/>
+		<rom crc="50842c63" md5="367fe66b24449ac39ca92dc3a5520e6c" name="Lords of the Rising Sun (USA) (Disk 2).ipf" sha1="666d61bcbb56511fa7a89c8804a6eee148b40101" size="1049612"/>
+	</game>
+	<game name="Lost Patrol (USA)">
+		<category>Games</category>
+		<description>Lost Patrol (USA)</description>
+		<rom crc="49870cb6" md5="1d6cd96e6240cef632496e85ce0213b1" name="Lost Patrol (USA) (Disk 1).ipf" sha1="2e6bfdf54a19be9de1bfc5707954f4d9dc8a2525" size="1049304"/>
+		<rom crc="2fae7299" md5="fc8bf6fcd24613c1b8b386fdddf12fd7" name="Lost Patrol (USA) (Disk 2).ipf" sha1="2bc3828d14423550e7435d15b6893c1f58ce75d0" size="1049612"/>
+	</game>
+	<game name="Lost Treasures of Infocom, The (USA)">
+		<category>Games</category>
+		<description>Lost Treasures of Infocom, The (USA)</description>
+		<rom crc="bd569ad6" md5="1c46e9d3d0d2fe1eb2f81d1b5a5d587d" name="Lost Treasures of Infocom, The (USA) (Disk 1).ipf" sha1="8c4dd108439c72d8a1308d8f2ccb542e3e31af55" size="1049612"/>
+		<rom crc="b69dabef" md5="14b81d9793c1c3592ed92729baa4b59d" name="Lost Treasures of Infocom, The (USA) (Disk 2).ipf" sha1="cb116c0654ed467d99431c89058f5ac4041cefdb" size="1049612"/>
+		<rom crc="24199557" md5="a89ca1a8f62b9cbd91d128510af775df" name="Lost Treasures of Infocom, The (USA) (Disk 3).ipf" sha1="3954e1a115d2c12467eaf36122b6f1e0d24869f7" size="1049612"/>
+		<rom crc="5b53bea5" md5="70c630e00b7b9744b39a7e5205657dd5" name="Lost Treasures of Infocom, The (USA) (Disk 4).ipf" sha1="3ffdb8c092e63300217d48fb08cd98d00f3933cb" size="1049612"/>
+		<rom crc="05cb0337" md5="28c82c41e3b5f7cc33bbb54e433dd52e" name="Lost Treasures of Infocom, The (USA) (Disk 5).ipf" sha1="b8c55ce014fefe0b2f47626750fa814d88499841" size="1049612"/>
+		<rom crc="423c0ddc" md5="f733e238ceb9bc1c38b221afd642775f" name="Lost Treasures of Infocom, The (USA) (Disk 6).ipf" sha1="6ee0b77270ae50f271620a7b706ec15179bb3b90" size="1049612"/>
+	</game>
+	<game name="Lurking Horror, The (USA) (r221)">
+		<category>Games</category>
+		<description>Lurking Horror, The (USA) (r221)</description>
+		<rom crc="86f4e3d0" md5="61ced6a3e3d380c8490c86171a3fb5d2" name="Lurking Horror, The (USA) (r221).ipf" sha1="31ae074d7266543dffe34322a3dca6dba7675436" size="1049612"/>
+	</game>
+	<game name="Manhunter 2 - San Francisco (USA) (v3.06)">
+		<category>Games</category>
+		<description>Manhunter 2 - San Francisco (USA) (v3.06)</description>
+		<rom crc="0293fab8" md5="f15614bd8f24b627276bffb80822ffe4" name="Manhunter 2 - San Francisco (USA) (v3.06) (Disk 1).ipf" sha1="21ab5a09e7ca9dd51c144d5745afb14b17a4e88f" size="1049612"/>
+		<rom crc="1f0bc6bb" md5="2a9d9ae0a0a62163bbf4338a8f169756" name="Manhunter 2 - San Francisco (USA) (v3.06) (Disk 2).ipf" sha1="5855777c7b3e5bbe7ea7376d2e70410e601a246f" size="1049612"/>
+		<rom crc="7d7c83e6" md5="5ff0de3e1e627ade4784f2f4eeb507f2" name="Manhunter 2 - San Francisco (USA) (v3.06) (Disk 3).ipf" sha1="8e76c40f3438ec0bcc25c9378655e4a631437dd4" size="1049612"/>
+	</game>
+	<game name="Millenium - Return to Earth (USA)">
+		<category>Games</category>
+		<description>Millenium - Return to Earth (USA)</description>
+		<rom crc="3bc0995a" md5="d64cc4dded9036dab32a928ced7e09c2" name="Millenium - Return to Earth (USA).ipf" sha1="4d78fcfc6adeceafbea4d8b59df7d84d10aee892" size="1049612"/>
+	</game>
+	<game name="Mind Forever Voyaging, A (USA) (r79)">
+		<category>Games</category>
+		<description>Mind Forever Voyaging, A (USA) (r79)</description>
+		<rom crc="2ccef174" md5="d8fabf84e7f2a347b2ad9eff97b1640e" name="Mind Forever Voyaging, A (USA) (r79).ipf" sha1="b0de873725285b4e4d9d958c91554a7583f66c79" size="1049612"/>
+	</game>
+	<game name="Mind Walker (USA)">
+		<category>Games</category>
+		<description>Mind Walker (USA)</description>
+		<rom crc="4cd40863" md5="46518041062ad5478de8a62b5ef52a36" name="Mind Walker (USA).ipf" sha1="20ad12bec981e74d98339b8390cd4eb70a4383ec" size="1049180"/>
+	</game>
+	<game name="Moebius - The Orb of Celestial Harmony (USA)">
+		<category>Games</category>
+		<description>Moebius - The Orb of Celestial Harmony (USA)</description>
+		<rom crc="a5ff18c9" md5="92009a2b67ba5e41d9a6a1b374aee3b0" name="Moebius - The Orb of Celestial Harmony (USA).ipf" sha1="0c1c6d8ca3af8e9b24c453aa16b3f6d54c7810e8" size="1049816"/>
+	</game>
+	<game name="Monkey Business (USA)">
+		<category>Games</category>
+		<description>Monkey Business (USA)</description>
+		<rom crc="133b18f6" md5="c0dab9b5da558677b549318cf5a8c783" name="Monkey Business (USA).ipf" sha1="55ed20085b8edd097689e4b07b74c652736bfef7" sha256="9ca0f35f03e2a03c34d01cb05d5cddd576c3b5d90cf5d365ce1fc1ba0ea56053" size="268782"/>
+	</game>
+	<game name="Monty Python's Flying Circus (USA)">
+		<category>Games</category>
+		<description>Monty Python's Flying Circus (USA)</description>
+		<rom crc="a0bc8f94" md5="66bc8b66014d10eb7d12feba8e0ac4b0" name="Monty Python's Flying Circus (USA).ipf" sha1="179491027d1fccd1e721d6d59cbbd7ca2c0b2a06" size="1049612"/>
+	</game>
+	<game name="Moonmist (USA) (r4)">
+		<category>Games</category>
+		<description>Moonmist (USA) (r4)</description>
+		<rom crc="c9897433" md5="b58b46c2243cc200068da7cec536d125" name="Moonmist (USA) (r4).ipf" sha1="a646fa0ac067dcccbe8b59cdbdeff2b2ffee5ece" size="1049612"/>
+	</game>
+	<game name="New York Warriors (USA) (1MB)">
+		<category>Games</category>
+		<description>New York Warriors (USA) (1MB)</description>
+		<rom crc="29f734b4" md5="0628c5a1a5df84c33c92c609d06c7769" name="New York Warriors (USA) (1MB) (Disk 1).ipf" sha1="3663645904bc46969c099f304a5af9651bacf283" size="1046732"/>
+		<rom crc="7985af96" md5="a112165386cb4b9d99e4fa81fe4488a4" name="New York Warriors (USA) (1MB) (Disk 2).ipf" sha1="fd8cbbb232df732f960e8d9758a364d6bc290222" size="1046732"/>
+	</game>
+	<game name="Nightdawn (USA)">
+		<category>Games</category>
+		<description>Nightdawn (USA)</description>
+		<rom crc="81529ed1" md5="781d2bc099732677b449fc82509dfb3f" name="Nightdawn (USA).ipf" sha1="f59bbfe98137fbc0907e83b34ec94814cf3fdc98" size="904446"/>
+	</game>
+	<game name="Nord and Bert Couldn't Make Head or Tail of It (USA) (r19)">
+		<category>Games</category>
+		<description>Nord and Bert Couldn't Make Head or Tail of It (USA) (r19)</description>
+		<rom crc="c8261a3c" md5="12a4e1f036e14bda838c011924687e61" name="Nord and Bert Couldn't Make Head or Tail of It (USA) (r19).ipf" sha1="87e7a9f8b8e6fbf9777ca666ed063d47e698becb" size="1049612"/>
+	</game>
+	<game name="North &amp; South (USA)">
+		<category>Games</category>
+		<description>North &amp; South (USA)</description>
+		<rom crc="d1704a90" md5="bc34166a8bd1289783f6e2fec0ad0f23" name="North &amp; South (USA).ipf" sha1="1ebd1f548922886d979957ca30ae2e1bd8d71a9f" size="1049612"/>
+	</game>
+	<game name="Nuclear War (USA)">
+		<category>Games</category>
+		<description>Nuclear War (USA)</description>
+		<rom crc="3c0796b0" md5="080aeace6e0a9a8f70739b6690e0ce15" name="Nuclear War (USA) (Disk 1).ipf" sha1="e5d12483efe5e37756ed8b42cbdbcfb8e23e54b4" size="1043233"/>
+		<rom crc="637105ca" md5="68910390cb539df1d0d8b83568231a64" name="Nuclear War (USA) (Disk 2).ipf" sha1="ee4f2c6d2f3378387d4ef8d6eac731cd6f64b222" size="1049612"/>
+	</game>
+	<game name="Ogre (USA)">
+		<category>Games</category>
+		<description>Ogre (USA)</description>
+		<rom crc="2e2d1b19" md5="071ab44ea71e2f9d6d8366d50c01ebd2" name="Ogre (USA).ipf" sha1="f83982b0d5053564e13a1f0b4e2179a6e7802903" size="1043219"/>
+	</game>
+	<game name="Oh No! More Lemmings (USA) (Addon)">
+		<category>Games</category>
+		<description>Oh No! More Lemmings (USA) (Addon)</description>
+		<rom crc="5534ee29" md5="49fa657f891f9c9dc4c2c7025e636718" name="Oh No! More Lemmings (USA) (Addon).ipf" sha1="2787f5e5d4d12dc5e597018d0a208d2e5a1e06d9" size="1004614"/>
+	</game>
+	<game name="One-on-One (USA)">
+		<category>Games</category>
+		<description>One-on-One (USA)</description>
+		<rom crc="d3bd2ab5" md5="c96eeaad8c7e294a46cb85574797cc44" name="One-on-One (USA).ipf" sha1="62ff2f0c148792da5d3c35c008349e2ca99cd936" size="1048900"/>
+	</game>
+	<game name="Ork (USA)">
+		<category>Games</category>
+		<description>Ork (USA)</description>
+		<rom crc="2d3f9a8c" md5="d06c1bfd4229738168cf72034d0f8ae7" name="Ork (USA) (Disk 1).ipf" sha1="208889a6147db1bf91bfecad6006e74a189074ea" size="232070"/>
+		<rom crc="bb4bedc4" md5="ba83bcd10e20b6bcd8909dc99f575e33" name="Ork (USA) (Disk 2).ipf" sha1="bcb1166139b07ba6c71d4702030fe2bbdc7e1ce1" size="998556"/>
+	</game>
+	<game name="Out of This World (USA)">
+		<category>Games</category>
+		<description>Out of This World (USA)</description>
+		<rom crc="ad188415" md5="0c9b4a95bec856617fd1a610d6b4b7cc" name="Out of This World (USA) (Disk 1).ipf" sha1="12efe873adea3a1c801d31c3b245d6601536cd7f" size="1049612"/>
+		<rom crc="173c6837" md5="450f8e9cede99fb243912b07fc13a2c1" name="Out of This World (USA) (Disk 2).ipf" sha1="f1d314dd081862178d2cc0c262e3021c3854971b" size="1049612"/>
+	</game>
+	<game name="OutRun (USA) (1988)">
+		<category>Games</category>
+		<description>OutRun (USA) (1988)</description>
+		<rom crc="5223892b" md5="13fa579ceb42010f93c0cbf28142dbfa" name="OutRun (USA) (1988).ipf" sha1="0d28b0ced9008030c4f15379f2137fdc9c1d4785" size="792950"/>
+	</game>
+	<game name="Over the Net (USA)">
+		<category>Games</category>
+		<description>Over the Net (USA)</description>
+		<rom crc="7fcbc438" md5="fea4211f7963de6df959aa634bb11a35" name="Over the Net (USA).ipf" sha1="ee82d07d9d32270075313f86726bb32e615cd835" size="1049180"/>
+	</game>
+	<game name="Peter Beardsley's International Football (USA)">
+		<category>Games</category>
+		<description>Peter Beardsley's International Football (USA)</description>
+		<rom crc="e0d84780" md5="fe6a0b55c9656ff5d96eb7882e69d5de" name="Peter Beardsley's International Football (USA).ipf" sha1="1cb684a001daf52dd84cf907e48567239db121df" size="1049180"/>
+	</game>
+	<game name="Pinball Fantasies (USA) (AGA)">
+		<category>Games</category>
+		<description>Pinball Fantasies (USA) (AGA)</description>
+		<rom crc="cd554f84" md5="b62172719a647d6fe715ea6a0c433f2c" name="Pinball Fantasies (USA) (AGA) (Disk 1).ipf" sha1="232440a7a92854a011557b722d9715d8f256f97b" size="1049612"/>
+		<rom crc="a676fc1b" md5="0242561e185a10f351c77834b3d64e1b" name="Pinball Fantasies (USA) (AGA) (Disk 2).ipf" sha1="7a337f1ce90eb42783d74159552e7226461858c7" size="1049612"/>
+		<rom crc="3c2e31fb" md5="93eb950b45f55aeb9f01233adb30fafd" name="Pinball Fantasies (USA) (AGA) (Disk 3).ipf" sha1="3a4ba2ee0c01246fbab938aa4ecc790cfbdc69f9" size="1049612"/>
+		<rom crc="4f4bfe3a" md5="8831d9e9948c58589f303d8b739ca0e9" name="Pinball Fantasies (USA) (AGA) (Disk 4).ipf" sha1="3b320636e0e884b8b8f6800e8ac46f95ec6a28aa" size="1049612"/>
+	</game>
+	<game name="Platoon (USA)">
+		<category>Games</category>
+		<description>Platoon (USA)</description>
+		<rom crc="3a86c881" md5="6409c585e15efbd0bb35c596c12e3cb4" name="Platoon (USA).ipf" sha1="f36edb9c2a6783838e160d7c9891509c5d66c451" size="1049612"/>
+	</game>
+	<game name="Plutos (USA)">
+		<category>Games</category>
+		<description>Plutos (USA)</description>
+		<rom crc="122d59dc" md5="e268a39c5ca3c56b184ee02380f5b643" name="Plutos (USA).ipf" sha1="8c3f6107b17db66e696eef85b4dc22d85b7a1ead" size="1049612"/>
+	</game>
+	<game name="Police Quest - In Pursuit of the Death Angel (USA) (v2.0B 2.22.89)">
+		<category>Games</category>
+		<description>Police Quest - In Pursuit of the Death Angel (USA) (v2.0B 2.22.89)</description>
+		<rom crc="2a3d47c1" md5="4a65ce3ccc5134933d2a2f697160c1d5" name="Police Quest - In Pursuit of the Death Angel (USA) (v2.0B 2.22.89).ipf" sha1="db435f73d45844cc4e26bd55eb2ffe518b36f2a7" size="1049612"/>
+	</game>
+	<game name="Police Quest 3 - The Kindred (USA) (v1.000)">
+		<category>Games</category>
+		<description>Police Quest 3 - The Kindred (USA) (v1.000)</description>
+		<rom crc="ad6533b9" md5="51c4a34645308654d619d5ac4bb14b22" name="Police Quest 3 - The Kindred (USA) (v1.000) (Disk 1).ipf" sha1="ae6b24f0da7da46737568b23d0faa08b37dc627e" size="1049612"/>
+		<rom crc="d9d3106c" md5="6379b37648baa42e2611cfd035988c68" name="Police Quest 3 - The Kindred (USA) (v1.000) (Disk 2).ipf" sha1="cf77703ffec9f5f2d0114f342cdda825bea7410d" size="1049612"/>
+		<rom crc="5e5528fb" md5="5138aff0f89c092b7f30b179ba78f837" name="Police Quest 3 - The Kindred (USA) (v1.000) (Disk 3).ipf" sha1="bed8cabb92edb9870f4f4a35ce3e83e8daa93633" size="1049612"/>
+		<rom crc="5da19ae2" md5="064948c3f2b2aec4ea54c48590ba45df" name="Police Quest 3 - The Kindred (USA) (v1.000) (Disk 4).ipf" sha1="d3b47226d9ed6ebc058d21d828cb374c740cfd16" size="1049612"/>
+		<rom crc="aae3f3cb" md5="896ef70e990ddc26b08a5db57b5753e9" name="Police Quest 3 - The Kindred (USA) (v1.000) (Startup, Dual Play).ipf" sha1="6f7d1ac3b2e43417769f3b3079e43a3daebfb6c0" size="1049612"/>
+	</game>
+	<game name="Populous (USA)">
+		<category>Games</category>
+		<description>Populous (USA)</description>
+		<rom crc="800fd54d" md5="df20ccdd4b873e9025e3b1e45ff544d9" name="Populous (USA).ipf" sha1="d1499ddc6f33c3b24734b9cba4e534c3d5ab67d4" size="1049304"/>
+	</game>
+	<game name="Portal (USA)">
+		<category>Games</category>
+		<description>Portal (USA)</description>
+		<rom crc="bdac479a" md5="a42a65791644dd0af6badbb514aaccc4" name="Portal (USA) (Disk 1).ipf" sha1="2362a54974e70ff0fcceb20772a375dbe0ca51c7" size="1049816"/>
+		<rom crc="10081e2c" md5="263ab3dae112f1fe6eaafde2bad2e530" name="Portal (USA) (Disk 2).ipf" sha1="2c1ea772d9a56593bcdd278de36876777ac2e967" size="1049612"/>
+		<rom crc="916b6cd5" md5="782bd968c788470599181a8c300950bb" name="Portal (USA) (Disk 3).ipf" sha1="c804f78c08ad327f43ff5aea602c1cf19b27a38c" size="1049612"/>
+	</game>
+	<game name="Powerstyx (USA)">
+		<category>Games</category>
+		<description>Powerstyx (USA)</description>
+		<rom crc="48b9c3d9" md5="6de3b75d93724737be3da566bcb5cf32" name="Powerstyx (USA).ipf" sha1="5eef8ba00c5773814b634087bf779819184d3288" size="825881"/>
+	</game>
+	<game name="Prince of Persia (USA)">
+		<category>Games</category>
+		<description>Prince of Persia (USA)</description>
+		<rom crc="1dafcd27" md5="d0e367312413fcd2e491d1f1e652ad11" name="Prince of Persia (USA).ipf" sha1="0470db19ed0336f999c7d1d4aecc87b22cef1834" size="978728"/>
+	</game>
+	<game name="Purple Saturn Day (USA)">
+		<category>Games</category>
+		<description>Purple Saturn Day (USA)</description>
+		<rom crc="88d8de09" md5="d23fc2b88b30192d4a4a74f65a327f5f" name="Purple Saturn Day (USA).ipf" sha1="18567db404ec35134121115ee8447700af76d7b9" size="1049612"/>
+	</game>
+	<game name="QIX (USA)">
+		<category>Games</category>
+		<description>QIX (USA)</description>
+		<rom crc="38c18b97" md5="4b691bcbc5c43f551a2f5c3bc6c3c68a" name="QIX (USA).ipf" sha1="6f7f801f930ae7db1af508ce7a5dbc6f59031f81" size="1049304"/>
+	</game>
+	<game name="R-C Aerochopper (USA) (v1.1)">
+		<category>Games</category>
+		<description>R-C Aerochopper (USA) (v1.1)</description>
+		<rom crc="c1ad2a97" md5="d698d1b67cad5d0c8403cf05d42739c8" name="R-C Aerochopper (USA) (v1.1).ipf" sha1="37cc499d376b76841be65bf9dd3a3aa45ed73ee6" size="1049612"/>
+	</game>
+	<game name="Rambo III (USA)">
+		<category>Games</category>
+		<description>Rambo III (USA)</description>
+		<rom crc="f3c6e3b2" md5="59e17020f3d407bc42f196e078057635" name="Rambo III (USA).ipf" sha1="fe1a595bf29dd6e4eeef0e90cbbdcfa96cff13fe" size="1048872"/>
+	</game>
+	<game name="Rampage (USA)">
+		<category>Games</category>
+		<description>Rampage (USA)</description>
+		<rom crc="e94209fd" md5="e21c1b6e47ee3c90bd6879efce0ac6ff" name="Rampage (USA).ipf" sha1="19658c4635ba2d28ffa0e67b1b799c2dad7cf9a8" size="1049816"/>
+	</game>
+	<game name="Reach for the Stars - The Conquest of the Galaxy (USA) (v3.0)">
+		<category>Games</category>
+		<description>Reach for the Stars - The Conquest of the Galaxy (USA) (v3.0)</description>
+		<rom crc="7c22b138" md5="13e670f038e211a105c305c58c4c5eba" name="Reach for the Stars - The Conquest of the Galaxy (USA) (v3.0).ipf" sha1="1960f20613a292882c2b4c74efbf01a43bff4532" size="1049612"/>
+	</game>
+	<game name="Red Lightning (USA)">
+		<category>Games</category>
+		<description>Red Lightning (USA)</description>
+		<rom crc="97ca4c95" md5="83c9385d4b14d0f0acc6b2e2feeef7e3" name="Red Lightning (USA).ipf" sha1="586426b63c199894a25cb3d4cc1bbbeae9d2c411" size="1049612"/>
+	</game>
+	<game name="RoboCop 3D (USA)">
+		<category>Games</category>
+		<description>RoboCop 3D (USA)</description>
+		<rom crc="f2cc94d1" md5="f3fbb743c496e567ba0addcc8895b105" name="RoboCop 3D (USA) (Disk 1).ipf" sha1="a6ad27a73d27a2d0dc96b9b7085cd9aada3cddb6" size="1049612"/>
+		<rom crc="74ee0a39" md5="d4bf1b8d79d48c87d87e2216ec796409" name="RoboCop 3D (USA) (Disk 2).ipf" sha1="06c1c683b1752a33cf4f020b410eb799674c2dae" size="1049612"/>
+		<rom crc="598d5146" md5="432df05e75c623ddd82676d899d50072" name="RoboCop 3D (USA) (Disk 3).ipf" sha1="a7496b9b3c2873689f557ed183e85d4e6ed26872" size="1049612"/>
+	</game>
+	<game name="Rules of Engagement (USA) (v1.03 10.14.91)">
+		<category>Games</category>
+		<description>Rules of Engagement (USA) (v1.03 10.14.91)</description>
+		<rom crc="d67e2126" md5="e2eaf0eef65b6c839a438a087f7145aa" name="Rules of Engagement (USA) (v1.03 10.14.91) (Disk 1).ipf" sha1="83887dd00bc19fde7dd2a5fdf920f1070563de90" size="1049612"/>
+		<rom crc="38af1e31" md5="e77d6f97190d985110bea30c1b845175" name="Rules of Engagement (USA) (v1.03 10.14.91) (Disk 2).ipf" sha1="bc75dbf01efa339a8312ba5267b486c48b3ae449" size="1049612"/>
+	</game>
+	<game name="S.D.I. (USA)">
+		<category>Games</category>
+		<description>S.D.I. (USA)</description>
+		<rom crc="5e40d037" md5="325a1081e55d4fbf47580259b696d034" name="S.D.I. (USA).ipf" sha1="4e6942f6dd8900bcaff8771fecedf4ca327d4c91" size="1049612"/>
+	</game>
+	<game name="Saddam Hussein Game, The (USA)">
+		<category>Games</category>
+		<description>Saddam Hussein Game, The (USA)</description>
+		<rom crc="9e4e31c4" md5="861a5800c94ff84f1b22c1048d7e4678" name="Saddam Hussein Game, The (USA).ipf" sha1="29fffaa9dba8c7e6b65a740401818bea1b452d45" size="1049612"/>
+	</game>
+	<game name="Seven Cities of Gold (USA)">
+		<category>Games</category>
+		<description>Seven Cities of Gold (USA)</description>
+		<rom crc="1af4c91f" md5="e2c8ad4b8a34f00a71593737b7327ebf" name="Seven Cities of Gold (USA).ipf" sha1="51589d85ea698013c2b42754a8ca48e41991a438" size="1048899"/>
+	</game>
+	<game name="Shadow of the Beast III (USA)">
+		<category>Games</category>
+		<description>Shadow of the Beast III (USA)</description>
+		<rom crc="3ebbad53" md5="0c79a73d5569dd3fc816cba3aea795e6" name="Shadow of the Beast III (USA) (Disk 1).ipf" sha1="8ab058a391d3d654ddeec8e36b9640a8a22014a6" size="1004614"/>
+		<rom crc="8ae83f07" md5="7e102b82003dfdc62619df5004fe0db7" name="Shadow of the Beast III (USA) (Disk 2).ipf" sha1="88d6cc44e19be9399d22661ee831206ac3524a10" size="998168"/>
+		<rom crc="a1cff45d" md5="d5c6d39612e2744863737440580675c2" name="Shadow of the Beast III (USA) (Disk 3).ipf" sha1="e80055dd70f629b955d3fa83429ed57be4c4d72a" size="1010000"/>
+	</game>
+	<game name="Shanghai (USA)">
+		<category>Games</category>
+		<description>Shanghai (USA)</description>
+		<rom crc="77f653fb" md5="949370da30b914272a65451f8a607da1" name="Shanghai (USA).ipf" sha1="76a92edd1e99ed2a8cec307b602f8c35309b8b12" size="1049816"/>
+	</game>
+	<game name="Shinobi (USA)">
+		<category>Games</category>
+		<description>Shinobi (USA)</description>
+		<rom crc="ad53d3e7" md5="95f95ee0c2b0e7e6bd489b5e4f4a15f6" name="Shinobi (USA).ipf" sha1="d372311c876be7c60d7e128f150b850b1cedfd18" size="1049180"/>
+	</game>
+	<game name="Silent Service II (USA) (v1.01)">
+		<category>Games</category>
+		<description>Silent Service II (USA) (v1.01)</description>
+		<rom crc="3063d5a2" md5="316017eb6140691f0e01e58d4c700463" name="Silent Service II (USA) (v1.01) (Disk A).ipf" sha1="aeaef4aa59b7cf3d4086d13616a4faaf4c70aeee" size="1049612"/>
+		<rom crc="56bcaa0f" md5="6bac723e6622a1526a1ca5fba51f0085" name="Silent Service II (USA) (v1.01) (Disk B).ipf" sha1="b84226e0e7c104227e7fb5da7f9f9c7272daf030" size="1049612"/>
+	</game>
+	<game name="Silicon Dreams (USA)">
+		<category>Games</category>
+		<description>Silicon Dreams (USA)</description>
+		<rom crc="900386f7" md5="fa7db522c76acc417da456871dc52973" name="Silicon Dreams (USA).ipf" sha1="d8241cd12c0c85b297762a431e400718ec064f08" size="1049612"/>
+	</game>
+	<game name="SimCity (USA) (v1.2)">
+		<category>Games</category>
+		<description>SimCity (USA) (v1.2)</description>
+		<rom crc="23d20dc8" md5="cef7be73932ef8857889a6d8805781f4" name="SimCity (USA) (v1.2).ipf" sha1="fea4ee73a00bfd798be464a06dd18c86bbf123a8" size="1049612"/>
+	</game>
+	<game name="SimCity - Architecture 1 - Future Cities (USA) (v1.00)">
+		<category>Games</category>
+		<description>SimCity - Architecture 1 - Future Cities (USA) (v1.00)</description>
+		<rom crc="a86ccc29" md5="a679ff66741f096735f6332ecbc00538" name="SimCity - Architecture 1 - Future Cities (USA) (v1.00).ipf" sha1="0ed23aa499241e54a577ae68e54215923dd470c0" size="1049612"/>
+	</game>
+	<game name="SimCity - Architecture 2 - Ancient Cities (USA) (v1.00)">
+		<category>Games</category>
+		<description>SimCity - Architecture 2 - Ancient Cities (USA) (v1.00)</description>
+		<rom crc="c71b5cc7" md5="e0f8e977f32f45e97bd1ff9269d07a04" name="SimCity - Architecture 2 - Ancient Cities (USA) (v1.00).ipf" sha1="433f7d9d25a0867d03277cdcc77110f9d2ce2a6a" size="1049612"/>
+	</game>
+	<game name="SimCity - Terrain Editor (USA) (v1.0)">
+		<category>Games</category>
+		<description>SimCity - Terrain Editor (USA) (v1.0)</description>
+		<rom crc="1a054b91" md5="2f5eb4acb2dbdc4f63b7a9d9bf6c8199" name="SimCity - Terrain Editor (USA) (v1.0).ipf" sha1="3e2a1d66f3f852389ae45f8c6ec582be0f59c337" size="1049612"/>
+	</game>
+	<game name="Sinbad and the Throne of the Falcon (USA)">
+		<category>Games</category>
+		<description>Sinbad and the Throne of the Falcon (USA)</description>
+		<rom crc="e38a091a" md5="5eae5bf12576adc14cb2831889c85a77" name="Sinbad and the Throne of the Falcon (USA) (Disk 1).ipf" sha1="bbe5a7ac07d1ee7af7796a86c933b29c97e3cd32" size="1049180"/>
+		<rom crc="56fdb64c" md5="403c5e8c7dd3dae1be839d3540100768" name="Sinbad and the Throne of the Falcon (USA) (Disk 2).ipf" sha1="bd77c747008d4aba0f3a08904f740a4b28eee2e2" size="1049180"/>
+	</game>
+	<game name="Skyfox (USA)">
+		<category>Games</category>
+		<description>Skyfox (USA)</description>
+		<rom crc="eed5d53f" md5="27d7639ca51f3c6fc1da9d8389898649" name="Skyfox (USA).ipf" sha1="f8ab908202cbf86ff52196d4f367ad3fa5afcb9b" size="1049213"/>
+	</game>
+	<game name="Skyfox (USA) (HLS)">
+		<category>Games</category>
+		<description>Skyfox (USA) (HLS)</description>
+		<rom crc="6f03c6f8" md5="e3252335493f4605f98904a7edcdc983" name="Skyfox (USA) (HLS).ipf" sha1="9fd32858aa8c6e57921272956e96049b1a4d329d" size="1049612"/>
+	</game>
+	<game name="Slaygon (USA) (v1.1)">
+		<category>Games</category>
+		<description>Slaygon (USA) (v1.1)</description>
+		<rom crc="4a7f69ce" md5="104657c48b5f7b05018481ad5cad2ccb" name="Slaygon (USA) (v1.1).ipf" sha1="741d7bd4d9ec99aa4360ed8a6a7422c919408f18" size="1049612"/>
+	</game>
+	<game name="Solitaire's Journey (USA)">
+		<category>Games</category>
+		<description>Solitaire's Journey (USA)</description>
+		<rom crc="b1645386" md5="df5f6d7f87e5d3616fb179ce7cadd3b7" name="Solitaire's Journey (USA) (Disk 1).ipf" sha1="91c48f3f62acf720ca14750a7a6169a09090b65b" size="1049612"/>
+		<rom crc="51a4dbe8" md5="2d66c92e44d34f03f85976fc43d2d1da" name="Solitaire's Journey (USA) (Disk 2).ipf" sha1="91d62d6ed2692de1a029dfa3049162c1ce6227ee" size="1049612"/>
+	</game>
+	<game name="Space Quest Chapter 1 - The Sarien Encounter (USA) (v1.2) (HLS)">
+		<category>Games</category>
+		<description>Space Quest Chapter 1 - The Sarien Encounter (USA) (v1.2) (HLS)</description>
+		<rom crc="cfa13c9a" md5="e80d2a5f69f33195a71e2599b435d4f2" name="Space Quest Chapter 1 - The Sarien Encounter (USA) (v1.2) (HLS).ipf" sha1="d887ca541e53bd71c0566d36ac9b04b6d5932580" size="1049612"/>
+	</game>
+	<game name="Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000)">
+		<category>Games</category>
+		<description>Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000)</description>
+		<rom crc="85bc8aef" md5="fba26b47fa4d2b37d6616128b66a4aba" name="Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 1).ipf" sha1="38fb99db9b660d03ab7b18ce49bde2b5e3537f1d" size="1049612"/>
+		<rom crc="6ca66500" md5="54b8ddeefce2f1001016ffa1fc48d201" name="Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 2).ipf" sha1="06ff0fd160877c67a83a9883758bea6a9b8b124a" size="1049612"/>
+		<rom crc="f198fa13" md5="f3c39c53a26d3916b56a42c697232b05" name="Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 3).ipf" sha1="f194e9ea3d8a171ef0f166f4396f9213ae764a04" size="1049612"/>
+		<rom crc="9fd2ba4a" md5="003ba337ff7a759e58bab7856ebab457" name="Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 4).ipf" sha1="78ff27fb34e554e7fdc5a63c0f4c5c921468a557" size="1049612"/>
+		<rom crc="308913b0" md5="9a73f6cde7eab16933994004e6c6c47f" name="Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 5).ipf" sha1="8e4e836a6432201cdf5ba1faeaef61f7dfb9b81b" size="1049612"/>
+		<rom crc="231a85c5" md5="c35b46413f2743d2f03694cbb1dac753" name="Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 6).ipf" sha1="a5dfb331f1d1529905959d3c89920f2493c23b59" size="1049612"/>
+		<rom crc="68bbdbf8" md5="ad7acf8b44aec2c4da548d47ddac2b59" name="Space Quest IV - Roger Wilco and the Time Rippers (USA) (v1.000) (Disk 7).ipf" sha1="cf614f802f07cc77a91eb6620f0d2851b518d5e4" size="1049612"/>
+	</game>
+	<game name="Space Station Oblivion (USA)">
+		<category>Games</category>
+		<description>Space Station Oblivion (USA)</description>
+		<rom crc="0c6c7acf" md5="735baccd76581c0aa7e977af9ef4626a" name="Space Station Oblivion (USA).ipf" sha1="4431047b7bc67573a7d8193b1d47aa30ae0f657e" size="1049612"/>
+	</game>
+	<game name="SpaceCutter (USA)">
+		<category>Games</category>
+		<description>SpaceCutter (USA)</description>
+		<rom crc="effd5e89" md5="f7f3e47601ebebce5965db2810b57407" name="SpaceCutter (USA).ipf" sha1="6d89a88e69e0d8b2799b7f25ed833d1422f8d1a0" size="1049612"/>
+	</game>
+	<game name="Spacewrecked - 14 Billion Light Years From Earth (USA)">
+		<category>Games</category>
+		<description>Spacewrecked - 14 Billion Light Years From Earth (USA)</description>
+		<rom crc="93eaf483" md5="17fe12356c4949e6e6314b9cbcab494c" name="Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 1).ipf" sha1="b587fe62b55d8deb7214653743582d70026529df" size="1049612"/>
+		<rom crc="4fb9ca39" md5="8e6094555437232e2cc0ac6c0fd428cb" name="Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 2).ipf" sha1="28eb7b52d88bd98d37616799d6c110dcd6c5cab6" size="1049612"/>
+		<rom crc="9f587879" md5="bbab281821fea5ca3ae3304655c4ae81" name="Spacewrecked - 14 Billion Light Years From Earth (USA) (Disk 3).ipf" sha1="4e3ed16faf9661f30a9e6904e4f7605c6c05332e" size="1049612"/>
+	</game>
+	<game name="Speedball (USA) (v1.05)">
+		<category>Games</category>
+		<description>Speedball (USA) (v1.05)</description>
+		<rom crc="1fe14e18" md5="0592a50f586f503c2313e736ee2697f5" name="Speedball (USA) (v1.05).ipf" sha1="808fc5b2d580015296d0accc3549bfe284b49b11" size="973846"/>
+	</game>
+	<game name="Speedball 2 - Brutal Deluxe (USA)">
+		<category>Games</category>
+		<description>Speedball 2 - Brutal Deluxe (USA)</description>
+		<rom crc="64013f0b" md5="8ff1600fd86b2ee0a851326c896a619a" name="Speedball 2 - Brutal Deluxe (USA).ipf" sha1="f57e16b6794043b1a811158d6dc635f344160847" size="1049612"/>
+	</game>
+	<game name="Spirit of Excalibur (USA)">
+		<category>Games</category>
+		<description>Spirit of Excalibur (USA)</description>
+		<rom crc="bffe6442" md5="3cd3c2aa3335d51e06cbb90bde21248e" name="Spirit of Excalibur (USA) (Disk 1).ipf" sha1="a355a082e456324ea51b86709b35bcbcf6eb5443" size="1049612"/>
+		<rom crc="5dbe5512" md5="1386f62161e0b796f2142f0ab18e388f" name="Spirit of Excalibur (USA) (Disk 2).ipf" sha1="41e3231e612fa85346a660b29bd978488688ff39" size="1049612"/>
+	</game>
+	<game name="Starcross (USA) (r17)">
+		<category>Games</category>
+		<description>Starcross (USA) (r17)</description>
+		<rom crc="15f2e1e8" md5="65cadbabddb4bd3ac162826026822a10" name="Starcross (USA) (r17).ipf" sha1="eb19f65f52dbb4b8f5b05eddaf782213afe31e1e" size="1049612"/>
+	</game>
+	<game name="Stationfall (USA) (r107)">
+		<category>Games</category>
+		<description>Stationfall (USA) (r107)</description>
+		<rom crc="5aa9096e" md5="aa0c668f098ccef2f7884bd25aa831cc" name="Stationfall (USA) (r107).ipf" sha1="2d5dce15f182478d1076737b009f762a766fdac0" size="1049612"/>
+	</game>
+	<game name="Stellar 7 (USA)">
+		<category>Games</category>
+		<description>Stellar 7 (USA)</description>
+		<rom crc="5889e167" md5="440688bb8fb4739fa5efa7260f35b116" name="Stellar 7 (USA) (Disk 1).ipf" sha1="7bed902e6325ddd4063ccc18c7553733b882de8e" size="1049612"/>
+		<rom crc="08c308f2" md5="9c10ce467646f79dcd6eb9c77cba7694" name="Stellar 7 (USA) (Disk 2).ipf" sha1="86647acae4703680285ea4891c89322bf0e1457e" size="1049612"/>
+		<rom crc="5deb583f" md5="f232a7d6e60b7d764dfbb17294e45f85" name="Stellar 7 (USA) (Disk 3).ipf" sha1="7112a12d1170d02a0d04ef110022913bb88d75a6" size="1049612"/>
+	</game>
+	<game name="Stellar Crusade (USA)">
+		<category>Games</category>
+		<description>Stellar Crusade (USA)</description>
+		<rom crc="129b0d58" md5="f7c5cb29233ae458575d407b130dfd64" name="Stellar Crusade (USA) (Game Disk).ipf" sha1="9c8e29112cbbd2fd0e3b87f154db7abc75093234" size="1049612"/>
+		<rom crc="30e43e51" md5="a74c912578f673e24f5885094af762a0" name="Stellar Crusade (USA) (Scenario Disk).ipf" sha1="bcffbabdac1b00e34e14282c6c877421780e6d55" size="1049612"/>
+	</game>
+	<game name="Street Sports Basketball (USA)">
+		<category>Games</category>
+		<description>Street Sports Basketball (USA)</description>
+		<rom crc="a33134de" md5="42a52d10152afd789701d329d8a01f51" name="Street Sports Basketball (USA).ipf" sha1="34b51f89053f20eaf7ea5ebbb6e5df19c234f6a5" size="1049180"/>
+	</game>
+	<game name="Strike Aces (USA)">
+		<category>Games</category>
+		<description>Strike Aces (USA)</description>
+		<rom crc="e13a1e60" md5="2ec7a53547527fde8128346fb5e36201" name="Strike Aces (USA) (Disk 1).ipf" sha1="3ebf13494512a0d4f845f0222010c7601512d6ce" size="1049612"/>
+		<rom crc="58c8eace" md5="f0a866204836686862fb20ce1d05c71a" name="Strike Aces (USA) (Disk 2).ipf" sha1="072c033c07d083c6f55ac2dd7063cfadb0df1522" size="1049612"/>
+	</game>
+	<game name="Stunt Track Racer (USA)">
+		<category>Games</category>
+		<description>Stunt Track Racer (USA)</description>
+		<rom crc="03e6ddc9" md5="13069b5d5cc95f7b5ae4d88db6fae89d" name="Stunt Track Racer (USA).ipf" sha1="670eb6ef293dec4f46226bd3df070a01863ff691" size="1049946"/>
+	</game>
+	<game name="Sub Battle Simulator (USA)">
+		<category>Games</category>
+		<description>Sub Battle Simulator (USA)</description>
+		<rom crc="6ad8c8cb" md5="4f765ee0c7e545f3f2516a7c7f32c4f7" name="Sub Battle Simulator (USA).ipf" sha1="375cb54682dde1f339b7f49b9c10c267a704ea0f" size="1049612"/>
+	</game>
+	<game name="Suspect (USA)">
+		<category>Games</category>
+		<description>Suspect (USA)</description>
+		<rom crc="6b7cdae5" md5="6a0e9ea2829a597521b5406ac90ed6f8" name="Suspect (USA).ipf" sha1="ce8e0e8b0e62943e2069a7da96eba494a98b340b" size="1049612"/>
+	</game>
+	<game name="Suspended (USA) (r8)">
+		<category>Games</category>
+		<description>Suspended (USA) (r8)</description>
+		<rom crc="dee8d85e" md5="30dcda1b84c69b7493dfa14c1f478c28" name="Suspended (USA) (r8).ipf" sha1="ecaf2fa92f04559a8c455c3146068d8813b256b4" size="1049612"/>
+	</game>
+	<game name="Terran Envoy (USA)">
+		<category>Games</category>
+		<description>Terran Envoy (USA)</description>
+		<rom crc="366cdf2e" md5="0fd2e58df3ab0dfa057d30908435963a" name="Terran Envoy (USA).ipf" sha1="dfe97e24980379c39877c77b29f971efef34ffca" size="1049612"/>
+	</game>
+	<game name="Theme Park Mystery (USA)">
+		<category>Games</category>
+		<description>Theme Park Mystery (USA)</description>
+		<rom crc="e1f9b7e4" md5="b2faa1caa8d44728b9c038d1b6575beb" name="Theme Park Mystery (USA).ipf" sha1="3ff41ec0b213b85503b7d75cf953559e8051cf66" size="1049612"/>
+	</game>
+	<game name="Three Stooges, The (USA)">
+		<category>Games</category>
+		<description>Three Stooges, The (USA)</description>
+		<rom crc="bca82b88" md5="e9c8727a24ddcefe378b2ff08193fb93" name="Three Stooges, The (USA) (Disk 1).ipf" sha1="ecb62dddafa1c9a2789fd1d67ed225b9d44c5c1f" size="1049612"/>
+		<rom crc="be6d0116" md5="1bb8cc191c38bb3a69876520e07f394b" name="Three Stooges, The (USA) (Disk 2).ipf" sha1="f6afbebceda7f6ecaa02a8cfbe07f27b2573bcad" size="1049612"/>
+	</game>
+	<game name="Thunder Blade (USA) (Budget - Kixx)">
+		<category>Games</category>
+		<description>Thunder Blade (USA) (Budget - Kixx)</description>
+		<rom crc="7e225f93" md5="5fe6bc30ed3fad2c636ed0870e3f732b" name="Thunder Blade (USA) (Budget - Kixx).ipf" sha1="a0341255da9c7a459d807918795f46f17e891222" size="831056"/>
+	</game>
+	<game name="Thunderhawk AH-73M (USA)">
+		<category>Games</category>
+		<description>Thunderhawk AH-73M (USA)</description>
+		<rom crc="937be9f2" md5="3a7c565869498467c5291650bd090e49" name="Thunderhawk AH-73M (USA) (Disk 1).ipf" sha1="2c6eff7d53798b7d8f66f77746f7b80e11412b26" size="927818"/>
+		<rom crc="bb1a360d" md5="e0213f97391e48036371e40e676153e3" name="Thunderhawk AH-73M (USA) (Disk 2).ipf" sha1="da3501da94292b9127c315b128712aadc46940fc" size="921372"/>
+	</game>
+	<game name="Total Eclipse (USA)">
+		<category>Games</category>
+		<description>Total Eclipse (USA)</description>
+		<rom crc="bb046e51" md5="fa6b8e7002be519e0de21d60fb05301c" name="Total Eclipse (USA).ipf" sha1="9f2064e7a36f80155eba65a191cfd36ec5b017c5" size="1049612"/>
+	</game>
+	<game name="Tower Toppler (USA)">
+		<category>Games</category>
+		<description>Tower Toppler (USA)</description>
+		<rom crc="33ec9cd6" md5="75a628a7560a184bac93693787c26d23" name="Tower Toppler (USA).ipf" sha1="de209bfdddfb86c4e68b115daff6e697c451b203" size="1049612"/>
+	</game>
+	<game name="Turrican (USA)">
+		<category>Games</category>
+		<description>Turrican (USA)</description>
+		<rom crc="7821fc9e" md5="37f3d195f0450f1aeb5f9f72c9f90c51" name="Turrican (USA).ipf" sha1="f557cb53f22788d63e2fd395c512b8bc00378688" size="1060581"/>
+	</game>
+	<game name="Twilight Zone, The (USA)">
+		<category>Games</category>
+		<description>Twilight Zone, The (USA)</description>
+		<rom crc="7f20f611" md5="0526630eaa7cbc11ad9469b61ef97b9c" name="Twilight Zone, The (USA) (Picture Disk).ipf" sha1="3e589dd14c44808eeb46a2505b69393ee34ff4ae" size="1049612"/>
+		<rom crc="e138e539" md5="2973f6260164e450ddb292b6061b23e6" name="Twilight Zone, The (USA) (Program Disk).ipf" sha1="1d06495a748c10ceddfaf5c76c76a71ed3f1bc3c" size="1049612"/>
+	</game>
+	<game name="Typhoon Thompson in Search for the Sea Child (USA)">
+		<category>Games</category>
+		<description>Typhoon Thompson in Search for the Sea Child (USA)</description>
+		<rom crc="f8e847a1" md5="9c4a2805c77402610ad48c4f3cd591c3" name="Typhoon Thompson in Search for the Sea Child (USA).ipf" sha1="a83930bd21c7ed9d35db2235b44f7c3626d1c00a" size="978728"/>
+	</game>
+	<game name="Ultima IV - Quest of the Avatar (USA)">
+		<category>Games</category>
+		<description>Ultima IV - Quest of the Avatar (USA)</description>
+		<rom crc="6f347041" md5="ff173f5447dfbd87076d856acc04c581" name="Ultima IV - Quest of the Avatar (USA).ipf" sha1="bd2a8b6f7fbe6836abe9d4cabd8fba4fe407eb58" size="1049816"/>
+	</game>
+	<game name="Universe 3 (USA)">
+		<category>Games</category>
+		<description>Universe 3 (USA)</description>
+		<rom crc="4593598c" md5="e7dc8888abf6e5a53acb75fab7c44cde" name="Universe 3 (USA) (Disk 1).ipf" sha1="27ebb2c0592194833e5f899b09eb73366130a9fc" size="1049612"/>
+		<rom crc="9ae0cd28" md5="5649534f12dd56c525390f29593e67dd" name="Universe 3 (USA) (Disk 2).ipf" sha1="5620bb4a1de54c28023994f65ef1a7af72ef9417" size="1049612"/>
+	</game>
+	<game name="Unreal (USA)">
+		<category>Games</category>
+		<description>Unreal (USA)</description>
+		<rom crc="3cc81139" md5="9e5e36d2c991c9b3945c81abb1478162" name="Unreal (USA) (Disk 1).ipf" sha1="eb1bdca45e3bb3b1c8a93b2d5eea8afdeb3d685e" size="1045594"/>
+		<rom crc="cd7a4915" md5="1efbe786cb3f537e1e509a60a756714b" name="Unreal (USA) (Disk 2).ipf" sha1="d1e546e12374c469b30508da7a77a1651bc958ce" size="978281"/>
+		<rom crc="e711a379" md5="fbe0f1956f8e9a2c49980906f377b889" name="Unreal (USA) (Disk 3).ipf" sha1="e9e9825a038bc5fdedddb100f3bd0120a716f174" size="1005650"/>
+	</game>
+	<game name="Vortex (USA)">
+		<category>Games</category>
+		<description>Vortex (USA)</description>
+		<rom crc="a340684c" md5="4337b10f8400f22ea55cd815f7a15367" name="Vortex (USA).ipf" sha1="f8887c5c7b3b5eb709a636692b169fd7eab959cd" size="1002432"/>
+	</game>
+	<game name="Wargame Construction Set (USA)">
+		<category>Games</category>
+		<description>Wargame Construction Set (USA)</description>
+		<rom crc="d0e958c7" md5="0e8902029392c30ed37e6462eecbacbe" name="Wargame Construction Set (USA).ipf" sha1="e2c1fc548cbd109bd0221590dfd5a6906ad213a9" size="1049612"/>
+	</game>
+	<game name="Warlock (USA)">
+		<category>Games</category>
+		<description>Warlock (USA)</description>
+		<rom crc="17ff805b" md5="39d2945a1d4a7c1fb7c7f3fa68f3ef03" name="Warlock (USA).ipf" sha1="84cd4065f10d23ab94a59bfaa21c6e958a73570a" size="1049612"/>
+	</game>
+	<game name="Where in the World is Carmen Sandiego (USA) (v1.1)">
+		<category>Games</category>
+		<description>Where in the World is Carmen Sandiego (USA) (v1.1)</description>
+		<rom crc="38320a25" md5="a6ef16f16b50c1e075010371db225b1d" name="Where in the World is Carmen Sandiego (USA) (v1.1).ipf" sha1="06b1b3ee35fbb72f8a7da73aebe08ebc4b677fdf" size="1049180"/>
+	</game>
+	<game name="Windwalker (USA)">
+		<category>Games</category>
+		<description>Windwalker (USA)</description>
+		<rom crc="2d0baf2a" md5="711af3621dd4a2438c88f4d3e84e6c69" name="Windwalker (USA).ipf" sha1="b7a2fc27f85f29d3ae2c81f930ae1d839a0652cc" size="1049612"/>
+	</game>
+	<game name="Winter Challenge - World Class Competition (USA)">
+		<category>Games</category>
+		<description>Winter Challenge - World Class Competition (USA)</description>
+		<rom crc="088f85c5" md5="d003537386975001d8c18677465a5528" name="Winter Challenge - World Class Competition (USA).ipf" sha1="32fad4f1bb36ecff2267c67c923cb166b04e54b3" size="1049612"/>
+	</game>
+	<game name="Witness (USA) (r22)">
+		<category>Games</category>
+		<description>Witness (USA) (r22)</description>
+		<rom crc="6815c0e4" md5="f8a2d8e21f0f58305e0f4ef11c716f6e" name="Witness (USA) (r22).ipf" sha1="67a26d28d6445e07ddcf50f792cf88e8fba5442d" size="1049612"/>
+	</game>
+	<game name="World Games (USA)">
+		<category>Games</category>
+		<description>World Games (USA)</description>
+		<rom crc="eee3a1c2" md5="a82e78d3d62dd65ccd8823b75c65a5b5" name="World Games (USA).ipf" sha1="c6de59acfd6d74ed85a6490c3b269cf818df03a3" size="1049612"/>
+	</game>
+	<game name="Zany Golf (USA)">
+		<category>Games</category>
+		<description>Zany Golf (USA)</description>
+		<rom crc="08a873af" md5="5e44b3605eeee0c9003dee4827ed4335" name="Zany Golf (USA).ipf" sha1="c7ef75e2aacc5e29c57dd04134d2bf3418ff0667" size="1049612"/>
+	</game>
+	<game name="Zork Trilogy (USA) (Zork I r88, II v48, III r17)">
+		<category>Games</category>
+		<description>Zork Trilogy (USA) (Zork I r88, II v48, III r17)</description>
+		<rom crc="c8a7d3ea" md5="4fe618af7bfe212d19eaa32c8ee3d6ac" name="Zork Trilogy (USA) (Zork I r88, II v48, III r17).ipf" sha1="ad0ebccc64990fbcaf15d4afdb1eb3190cf79ccb" size="1049612"/>
+	</game>
+	<game name="Zork Zero - The Revenge of Megaboz (USA) (r366)">
+		<category>Games</category>
+		<description>Zork Zero - The Revenge of Megaboz (USA) (r366)</description>
+		<rom crc="66d4370d" md5="98be0c407290c71d5a3f32730e66f909" name="Zork Zero - The Revenge of Megaboz (USA) (r366).ipf" sha1="db43ec7573a4d726460fb2f4b9566ac41da64957" size="1049612"/>
+	</game>
+</datafile>

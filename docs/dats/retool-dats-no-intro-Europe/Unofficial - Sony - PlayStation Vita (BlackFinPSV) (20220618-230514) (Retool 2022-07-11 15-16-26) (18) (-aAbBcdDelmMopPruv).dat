@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Unofficial - Sony - PlayStation Vita (BlackFinPSV) (Retool 1.15)</name>
+		<description>Unofficial - Sony - PlayStation Vita (BlackFinPSV) (-aAbBcdDelmMopPruv) (18) (20220618-230514)</description>
+		<version>20220618-230514</version>
+		<date>2022-07-11 15-16-26</date>
+		<author>Bumpfi, Densetsu, diego-rbb, foxe, Gefflon, Hiccup, jimmsu, norkmetnoil577, SonGoku, Whovian9369, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Dungeon Hunter - Alliance (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Games</category>
+		<description>Dungeon Hunter - Alliance (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom crc="ade3d4b3" md5="d3d359735df8df5e083168f1d079188e" name="Dungeon Hunter - Alliance (Europe) (En,Fr,De,Es,It,Nl).psv" sha1="511f4c8010e6055dd1b5d098677de69d2b63a8f3" size="1958739968"/>
+	</game>
+	<game name="Everybody's Golf (Europe) (En,Fr,De,It)">
+		<category>Games</category>
+		<description>Everybody's Golf (Europe) (En,Fr,De,It)</description>
+		<rom crc="2c2e083d" md5="24ab58bc4a9d5d80599ce50dc085d388" name="Everybody's Golf (Europe) (En,Fr,De,It).psv" sha1="10807b01587a2133df14f086e44a3a6ec3d255a3" size="1958739968"/>
+	</game>
+	<game name="Invizimals - The Alliance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+		<category>Games</category>
+		<description>Invizimals - The Alliance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<rom crc="d343f05c" md5="df4efcfa67a973e351c286eb6e05a935" name="Invizimals - The Alliance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" sha1="89826a9e5275e642d597a63c4092699ec355b777" size="1958739968"/>
+	</game>
+	<game name="Invizimals - The Resistance (Europe)">
+		<category>Games</category>
+		<description>Invizimals - The Resistance (Europe)</description>
+		<rom crc="12376a61" md5="4efb6ee7c9950fd2f1fa1b51ce046580" name="Invizimals - The Resistance (Europe).psv" sha1="85512b25d384cd5e6fdf89262e11e7a0a928fa46" size="1958739968"/>
+	</game>
+	<game name="LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)">
+		<category>Games</category>
+		<description>LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<rom crc="47a09a4f" md5="e3f4a17a59c0649a294410b453d8c949" name="LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).psv" sha1="bad8cb615fe964202fb050ba98eaadee12d746de" size="1958739968"/>
+	</game>
+	<game name="LEGO Batman 2 - DC Super Heroes (Europe)">
+		<category>Games</category>
+		<description>LEGO Batman 2 - DC Super Heroes (Europe)</description>
+		<rom crc="33d4a884" md5="972d11b78b09d4c7a7ba6afd68137172" name="LEGO Batman 2 - DC Super Heroes (Europe).psv" sha1="081149c3ebee2828909ea5fcd51ba78747bc988e" size="1958739968"/>
+	</game>
+	<game name="LEGO Movie Videogame, The (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)">
+		<category>Games</category>
+		<description>LEGO Movie Videogame, The (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+		<rom crc="50e54169" md5="d39e045fec2765c58422d3de71e33012" name="LEGO Movie Videogame, The (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).psv" sha1="9722c2581477648ffb5eda6425a78aaea13be664" size="1958739968"/>
+	</game>
+	<game name="Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+		<category>Games</category>
+		<description>Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<rom crc="87a271f7" md5="d938e258c07f4946316763e03d4a7d37" name="Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" sha1="24f4cebfcfc731dce5ac5de6e214fb5b59f61d2f" size="1958739968"/>
+	</game>
+	<game name="LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru)">
+		<category>Games</category>
+		<description>LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru)</description>
+		<rom crc="4f24073d" md5="a661e38764e6cb873cb88cdc0b70a29e" name="LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru).psv" sha1="305ecfac840f6493c69bbec9ebcaf6ea4fb10911" size="1958739968"/>
+	</game>
+	<game name="Lumines - Electronic Symphony (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Lumines - Electronic Symphony (Europe) (En,Fr,De,Es,It)</description>
+		<rom crc="7dfce565" md5="b064c08b1fedcd4ea9753aee58432540" name="Lumines - Electronic Symphony (Europe) (En,Fr,De,Es,It).psv" sha1="b6a6651d9147139b1df6960419ff4dcff60e5c7a" size="1958739968"/>
+	</game>
+	<game name="Michael Jackson - The Experience HD (Europe)">
+		<category>Games</category>
+		<description>Michael Jackson - The Experience HD (Europe)</description>
+		<rom crc="63a56b5a" md5="9aee1c9bd5b8d703b217a5d83316704b" name="Michael Jackson - The Experience HD (Europe).psv" sha1="9c3627e7cc798e7f38d03accbbd2491354d2b61e" size="1958739968"/>
+	</game>
+	<game name="ModNation Racers - Road Trip (Europe) (En,Fr,De,Es,It,Ru)">
+		<category>Games</category>
+		<description>ModNation Racers - Road Trip (Europe) (En,Fr,De,Es,It,Ru)</description>
+		<rom crc="0d8e27d9" md5="638dd9847332006ba143d021fbe5875c" name="ModNation Racers - Road Trip (Europe) (En,Fr,De,Es,It,Ru).psv" sha1="c3e46b6576a03047a34b12279c726667200b9842" size="1958739968"/>
+	</game>
+	<game name="Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El)">
+		<category>Games</category>
+		<description>Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El)</description>
+		<rom crc="6a0a6920" md5="c7bf67510a31dd786b7c526d8e986c2a" name="Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El).psv" sha1="bac87c417e3d62a70db8ba1f7ee4dc0bb9829280" size="1958739968"/>
+	</game>
+	<game name="Reality Fighters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+		<category>Games</category>
+		<description>Reality Fighters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<rom crc="cb7c16e7" md5="0c122683318d577975453ccaef3a6371" name="Reality Fighters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" sha1="a4e0f47bc79fae717bfaab6b4c5b28acb66b1f6f" size="1958739968"/>
+	</game>
+	<game name="Resistance - Burning Skies (Europe) (Fr,De,It)">
+		<category>Games</category>
+		<description>Resistance - Burning Skies (Europe) (Fr,De,It)</description>
+		<rom crc="0bbb0585" md5="8dda26b3e1495d378d44d8f980a48860" name="Resistance - Burning Skies (Europe) (Fr,De,It).psv" sha1="8ef27bf414b1d6dd236a7d6fcd818a2a947529f1" size="3959422976"/>
+	</game>
+	<game name="Tearaway (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Tearaway (Europe) (En,Fr,De,Es,It)</description>
+		<rom crc="f20bd447" md5="54576ed80d04cadb77f6b90b53438401" name="Tearaway (Europe) (En,Fr,De,Es,It).psv" sha1="3c989a611fe63aef11172649b3a817e62465b8e8" size="1958739968"/>
+	</game>
+	<game name="Tetris Ultimate (Europe) (En,Fr,De,Es,It,Ru)">
+		<category>Games</category>
+		<description>Tetris Ultimate (Europe) (En,Fr,De,Es,It,Ru)</description>
+		<rom crc="29e1bde9" md5="f3204145cc58c5e736f3d5f11861c808" name="Tetris Ultimate (Europe) (En,Fr,De,Es,It,Ru).psv" sha1="34539af3dd466566e33094df73a4990cb4ef48fd" size="3959422976"/>
+	</game>
+	<game name="WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+		<category>Games</category>
+		<description>WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<rom crc="227a1e25" md5="726d777711b1b1b0755da2cc18083d13" name="WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).psv" sha1="2b0b8c4fb567cecbb65ae8dd9d6f8f37baedf5c5" size="1958739968"/>
+	</game>
+</datafile>

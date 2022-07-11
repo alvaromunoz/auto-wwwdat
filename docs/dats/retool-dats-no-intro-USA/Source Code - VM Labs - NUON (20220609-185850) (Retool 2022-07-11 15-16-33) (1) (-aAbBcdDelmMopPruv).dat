@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Source Code - VM Labs - NUON (Retool 1.15)</name>
+		<description>Source Code - VM Labs - NUON (-aAbBcdDelmMopPruv) (1) (20220609-185850)</description>
+		<version>20220609-185850</version>
+		<date>2022-07-11 15-16-33</date>
+		<author>NovaAurora &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="NUON Software Development Kit 2 (World)">
+		<category>Games</category>
+		<description>NUON Software Development Kit 2 (World)</description>
+		<rom crc="912cb2a9" md5="c58e733e93bb085a1743da6426318645" name="sdk2.zip" sha1="1abf7cba45a17c17af73e9a5b0f7ebb215ac9d88" size="32876406"/>
+	</game>
+</datafile>

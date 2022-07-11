@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>IBM - PC and Compatibles (Digital) (Misc) (Hentai) (Retool 1.15)</name>
+		<description>IBM - PC and Compatibles (Digital) (Misc) (Hentai) (-aAbBcdDelmMopPruv) (4) (20220630-031810)</description>
+		<version>20220630-031810</version>
+		<date>2022-07-11 15-10-38</date>
+		<author>MeguCocoa &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Don't Stop the Camera! Hidden Desires of a Young Wife (World) (En) (Windows)">
+		<category>Games</category>
+		<description>Don't Stop the Camera! Hidden Desires of a Young Wife (World) (En) (Windows)</description>
+		<rom crc="3e439652" md5="38f82d15ee53f1675d54a8d07e5d1729" name="Don't Stop the Camera! Hidden Desires of a Young Wife (World) (En) (Windows).zip" sha1="971e49718c42b90773bc93fc6276bc4dabd4bcd2" sha256="e5fd157b9d87f5dc55b3467c5fb37198da670d564ec91514fd5cb65000636ceb" size="370071045"/>
+	</game>
+	<game name="Invisible Man's Stealth NTR, The - Convincing and Inseminating the New Announcer with an Invisible Boner (World) (En) (Windows)">
+		<category>Games</category>
+		<description>Invisible Man's Stealth NTR, The - Convincing and Inseminating the New Announcer with an Invisible Boner (World) (En) (Windows)</description>
+		<rom crc="4503c3fa" md5="609226164be68ce8e42ca9eab3ecad39" name="Invisible Man's Stealth NTR, The - Convincing and Inseminating the New Announcer with an Invisible Boner (World) (En) (Windows).zip" sha1="3f20eb98eeb1bf6bcad318f5da61bbad4138d065" sha256="23ed08b4d5d8b302cbb4886ae770da3839f2ab1568620571604926b1d6655bf1" size="456891123"/>
+	</game>
+	<game name="Take Me in and I'll Love and Serve You - Sweet and Sexy Life with a Demi-human Girl (World) (En) (Windows)">
+		<category>Games</category>
+		<description>Take Me in and I'll Love and Serve You - Sweet and Sexy Life with a Demi-human Girl (World) (En) (Windows)</description>
+		<rom crc="ae8a75f0" md5="ba1f817518dbfab20b2fb7b1c26de987" name="Take Me in and I'll Love and Serve You - Sweet and Sexy Life with a Demi-human Girl (World) (En) (Windows).zip" sha1="fa4f657c85bad11325c54e4c26409a4658788446" sha256="0b4010dde106d969bed60fa542b4d48c6224af313b27264043e185709de365ac" size="593400469"/>
+	</game>
+	<game name="Venus Blood - Chimera (World) (v1.03) (English Patched)">
+		<category>Games</category>
+		<description>Venus Blood - Chimera (World) (v1.03) (English Patched)</description>
+		<rom crc="6ca2cabf" md5="50f5c5dddb9e54567784c4f684f4bdba" name="Venus Blood - Chimera (World) (v1.03) (English Patched).zip" sha1="a3f9068a3ba8b0e6dfb8051d375f17ef3b4c7417" sha256="a35a6995d1cd1925dd8484e5acc955164d4162a7fe25eefe88778f45218122cb" size="1512710842"/>
+	</game>
+</datafile>

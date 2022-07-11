@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Acorn - Archimedes (Protected) (Retool 1.15)</name>
+		<description>Acorn - Archimedes (Protected) (-aAbBcdDelmMopPruv) (1) (20220708-014042)</description>
+		<version>20220708-014042</version>
+		<date>2022-07-11 15-10-44</date>
+		<author>MeguCocoa &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Ballarena (Europe) (F1023101)">
+		<category>Games</category>
+		<description>Ballarena (Europe) (F1023101)</description>
+		<rom crc="0049306a" md5="1b1aff400f9ca691390954a70189f317" name="Ballarena (Europe) (F1023101).jfd" sha1="2141750c859033e6730d22b27ff68c29e6a61f47" sha256="3c00ee2248821c4aa72a980521c6de8159ab07839d42ed2a1fb5ff7ff515f5c0" size="283699"/>
+	</game>
+</datafile>

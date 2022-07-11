@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Google - Android (Samsung Galaxy Apps) (Retool 1.15)</name>
+		<description>Google - Android (Samsung Galaxy Apps) (-aAbBcdDelmMopPruv) (3) (20220226-023805)</description>
+		<version>20220226-023805</version>
+		<date>2022-07-11 15-10-27</date>
+		<author>Arctic Circle System, Hiccup &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Game Launcher (World) (v6.0.03.1)">
+		<category>Games</category>
+		<description>Game Launcher (World) (v6.0.03.1)</description>
+		<rom crc="73b86441" md5="1a4905fe53fe2c97268433e4fa561499" name="Game Launcher (World) (v6.0.03.1).apk" sha1="7fc56ec6a0a21c359d1679c29086fa1843d28c3c" sha256="221f3159f15a6dcbca0b9f3220daa07b54a121ff11744cb77ecc645267c0dbec" size="24165397"/>
+	</game>
+	<game name="Game Optimizing Service (World) (v3.1.24)">
+		<category>Games</category>
+		<description>Game Optimizing Service (World) (v3.1.24)</description>
+		<rom crc="de560c27" md5="1d7d1ad0b5843a1f9158421605a0d91f" name="Game Optimizing Service (World) (v3.1.24).apk" sha1="fd78a0019bc88e4de04f2300e122e221b9acc417" sha256="d9fca240e6094186e66b3c3dec9c3cefcac9177c0a0e0ca622fe3c976752869f" size="4171277"/>
+	</game>
+	<game name="Pokemon GO (USA) (v0.229.1)">
+		<category>Games</category>
+		<description>Pokemon GO (USA) (v0.229.1)</description>
+		<rom crc="d5afae21" md5="5e829a67ac62830a1059b40b76d91631" name="Pokemon GO (USA) (v0.229.1).apk" sha1="2f16cb7a11e8b33bfbe2b1d681ea2fec79f8ddb0" sha256="3f23848482df4316c254b727c66d518fa2d02aa64d7cf3c4ca3cfd2339216da4" size="127984472"/>
+	</game>
+</datafile>

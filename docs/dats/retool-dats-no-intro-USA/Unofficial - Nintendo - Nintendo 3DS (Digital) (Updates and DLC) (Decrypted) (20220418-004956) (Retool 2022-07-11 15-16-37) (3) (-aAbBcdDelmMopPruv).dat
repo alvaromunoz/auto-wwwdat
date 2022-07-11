@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted) (Retool 1.15)</name>
+		<description>Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted) (-aAbBcdDelmMopPruv) (3) (20220418-004956)</description>
+		<version>20220418-004956</version>
+		<date>2022-07-11 15-16-37</date>
+		<author>Gefflon, Hiccup, u53r123, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Shovel Knight - Treasure Trove (USA) (v4.1, v5200) (Update)">
+		<category>Games</category>
+		<description>Shovel Knight - Treasure Trove (USA) (v4.1, v5200) (Update)</description>
+		<rom crc="0979c5d1" md5="5d933935324363107d4bdac6106a7f3d" name="Shovel Knight - Treasure Trove (USA) (v4.1, v5200) (Update).cia" sha1="c87e4afd373738e501d758d9514e0db4e75ffad0" size="180089856"/>
+	</game>
+	<game name="Shovel Knight - Treasure Trove (eShop version) (USA) (v4.0A, v7280) (Embedded Update)">
+		<category>Games</category>
+		<description>Shovel Knight - Treasure Trove (eShop version) (USA) (v4.0A, v7280) (Embedded Update)</description>
+		<rom crc="b2c82273" md5="87f3b8725f0659603229af74682aed54" name="Shovel Knight - Treasure Trove (eShop version) (USA) (v4.0A, v7280) (Embedded Update).cia" sha1="0ba103429c1036d32c6138dc5b10010be9ab3236" size="247419904"/>
+	</game>
+	<game name="[MIA] Yo-Kai Watch 3 (USA) (v1.2) (Update)">
+		<category>Games</category>
+		<description>[MIA] Yo-Kai Watch 3 (USA) (v1.2) (Update)</description>
+		<rom crc="c09af07b" md5="74e9327ba8f9786a851d0b52ef4e6baf" mia="yes" name="Yo-Kai Watch 3 (USA) (v1.2) (Update).cia" sha1="b6d2c35ec1b4c865ff4fef5d430587204b1332bc" size="968098816"/>
+	</game>
+</datafile>
