@@ -233,7 +233,7 @@ jobs:
           $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
           foreach( $file in $datfiles ) {
           [XML]$xmlfile = Get-Content -Path $file.FullName
-          $dat_filename = $file.Name -replace ".dat$", ".zip" # files must be zipped!
+          $dat_filename = $file.Name # -replace ".dat$", ".zip"
           $name = $xmlfile.datafile.header.name
           $description = $xmlfile.datafile.header.description
           $version = $xmlfile.datafile.header.version
