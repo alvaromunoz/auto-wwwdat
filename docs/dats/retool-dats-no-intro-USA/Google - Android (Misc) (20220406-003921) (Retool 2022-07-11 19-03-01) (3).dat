@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Google - Android (Misc) (Retool 1.15)</name>
+		<description>Google - Android (Misc) (-aAbBcdDelmMopPruv) (3) (20220406-003921)</description>
+		<version>20220406-003921</version>
+		<date>2022-07-11 19-03-01</date>
+		<author>Arctic Circle System, FakeShemp, Hiccup, MeguCocoa &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Nemuri no Sister (World) (En,Ja,Zh) (DLsite)">
+		<category>Games</category>
+		<description>Nemuri no Sister (World) (En,Ja,Zh) (DLsite)</description>
+		<rom crc="311413e5" md5="f71df58b6633d42e125f1956948ef753" name="app-release.apk" sha1="12c5063d3698424662a75bc7d8c9530704bb1410" sha256="cc39e94d6c78899f3979ba546e844fd905d12370fc91aaaacd1dcfd46d8d3487" size="27803935"/>
+	</game>
+	<game name="Poker Hands (World) (v0.24.0)">
+		<category>Games</category>
+		<description>Poker Hands (World) (v0.24.0)</description>
+		<rom crc="feff4564" md5="5261a07e2b455e9b3858cb2b4cb98129" name="pokerhands.apk" sha1="77a9ff43a9a57dce7e93b6004798bfb0f71c59a2" sha256="a24895db48f144e799799a460b721581b09cbde8933aa4b3aff2e3dc12b912e4" size="72210486"/>
+	</game>
+	<game name="Solitaire Go (World) (v0.18.0)">
+		<category>Games</category>
+		<description>Solitaire Go (World) (v0.18.0)</description>
+		<rom crc="c1067114" md5="663f6d420b9452ca788595e95f998ee8" name="solitairego!.apk" sha1="82af76d40b4ef108c05ff2d45e068a0d7717b5bb" sha256="0549b515e78c5eda7b8f5677db03c677ffdeb586c397254534ae9a94362716d1" size="80969469"/>
+	</game>
+</datafile>

@@ -1,0 +1,2169 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony - PlayStation Vita (PSN) (Updates) (Retool 1.15)</name>
+		<description>Sony - PlayStation Vita (PSN) (Updates) (-aAbBcdDelmMopPruv) (431) (20211231-145913)</description>
+		<version>20211231-145913</version>
+		<date>2022-07-11 19-06-40</date>
+		<author>Landcross, norkmetnoil577 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="10 Second Ninja X (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>10 Second Ninja X (Europe) (v1.01) (Update)</description>
+		<rom crc="79bd56c6" md5="822307de27aea05f15d39e9170e8ab7d" name="EP4395-PCSB00963_00-G000000000000885-A0101-V0100-855429117516fb616c1ee0979a074b6080c13561-PE.pkg" sha1="4ad2bbfa7450ee8a9b12af88fdf241ba4118c688" size="214397120"/>
+	</game>
+	<game name="A-Men (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>A-Men (Europe) (v1.01) (Update)</description>
+		<rom crc="69222700" md5="f21995f28a5d48e7df330b0d7bc75b5a" name="EP4176-PCSB00056_00-000000000000AMEN-A0101-V0107-ec44828b33d23d335ed3f6565cd6c14ee60b7ce9-PE.pkg" sha1="7f4b2738bd4ab82da20d6e1a74ec5fd1087b0dd4" size="277204928"/>
+	</game>
+	<game name="Accel World vs. Sword Art Online (Europe) (v2.03) (Patch)">
+		<category>Games</category>
+		<description>Accel World vs. Sword Art Online (Europe) (v2.03) (Patch)</description>
+		<rom crc="045c37d9" md5="4bd203ea9f3daed69e3ee35a79769fda" name="EP0700-PCSB01101_00-AWVSSAOMT0000000-A0203-V0100-64fee704a71358d26fa894cf036173e702735ea6-SP-PE.pkg" sha1="49396d99e4ccc735392faf0dac25af67540e4905" size="356744864"/>
+	</game>
+	<game name="Accel World vs. Sword Art Online (Europe) (v2.03) (Update)">
+		<category>Games</category>
+		<description>Accel World vs. Sword Art Online (Europe) (v2.03) (Update)</description>
+		<rom crc="f0197a3e" md5="e38bd92c652bcc5a174ad831984ea5e4" name="EP0700-PCSB01101_00-AWVSSAOMT0000000-A0203-V0100-5f2a8837fef71bde39b7087e961503d65e1ccd94-PE.pkg" sha1="7dae1e17fde6cc9e026b9be71b6e1166e0c1cbce" size="535100304"/>
+	</game>
+	<game name="Active Neurons (Europe) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko,Ru) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Active Neurons (Europe) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko,Ru) (v1.01) (Update)</description>
+		<rom crc="5afaf186" md5="d99b005dcf0c76888200203a206e32cc" name="EP1661-PCSB01412_00-G000000000001322-A0101-V0100-683d771c46bc8dfec14fa266e127c2eef19ce398-PE.pkg" sha1="fe77a892a51dc9ddd7fb6028d145e04a7d3faa8a" size="22553952"/>
+	</game>
+	<game name="Active Soccer 2 DX (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Active Soccer 2 DX (Europe) (v1.04) (Update)</description>
+		<rom crc="94697a05" md5="36cc6be2d32077ff910cf3e790fcb50a" name="EP8940-PCSB01008_00-ACTIVESOCCER2DXX-A0104-V0100-ff6268fa65b641ff096a6877ea8fa845d982a582-PE.pkg" sha1="5da9a862befa4a29aa75db2d0139c7ed2eb34da4" sha256="a4da8ae7a70929b52f5cf06f4ba0c83e8d6126564c90243ff2e5ccce96dc3609" size="32617568"/>
+	</game>
+	<game name="Age of Zombies (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Age of Zombies (Europe) (v1.02) (Update)</description>
+		<rom crc="8701a60e" md5="5cc3ff7154efc237a43befcc0466f322" name="EP2087-PCSB00412_00-AOZ0000000000000-A0102-V0100-dd45b12f3eda163c93af23e82055e235ea36bbb4-PE.pkg" sha1="8cba369ec6dbf403e1dc1dfb905b52209c8ad202" size="1188656"/>
+	</game>
+	<game name="Alone with You (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Alone with You (Europe) (v1.03) (Update)</description>
+		<rom crc="9eedf16c" md5="47241e95346823ee81f86a062967a4bb" name="EP4538-PCSB00964_00-3ALONEWITHYOUPSV-A0103-V0100-d44ac6f8a0e2bd1eb02759297f02f3e046dd4c6a-PE.pkg" sha1="5c71a8528cf16e2c3b23e55a02bad3b9aaad9fce" size="188122816"/>
+	</game>
+	<game name="Alteric (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Alteric (Europe) (v1.01) (Update)</description>
+		<rom crc="c6184ebc" md5="790d4931c73468a1e11e70a160e63a49" name="EP1661-PCSB01187_00-G000000000001100-A0101-V0100-a924c49a4b32c6035410767dd9e6d193cd507f9b-PE.pkg" sha1="62a6e98d737d3e87c59cdea91ca56a154817e68d" sha256="2af2ae64f5e6516e436a77b78dca58946834f157dbbc86246fcbc418adab64d8" size="46025344"/>
+	</game>
+	<game name="Assassin's Creed Chronicles (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Assassin's Creed Chronicles (Europe) (v1.01) (Update)</description>
+		<rom crc="ae31890b" md5="a8fb22990c6ed0513599e0e9d67474ea" name="EP0001-PCSB00792_00-ACCVITA000000001-A0101-V0100-2992c8f64c73c51ca9252326e0e963a41476c3c3-PE.pkg" sha1="3e759215c0c6c0e0330c986f21d03f7446ebc5c6" size="523555568"/>
+	</game>
+	<game name="Assassin's Creed III - Liberation (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Assassin's Creed III - Liberation (Europe) (v1.02) (Update)</description>
+		<rom crc="e3312990" md5="950344a5392330974fa3a8cc9e5e2658" name="EP0001-PCSB00074_00-AC3LIBERATION575-A0102-V0100-fb6270cc52738aa5307a962451a055cf1b027b3f-PE.pkg" sha1="c901cb8b713df027a06f92a4fa0c163a807fdc2f" size="18002448"/>
+	</game>
+	<game name="Atari Flashback Classics (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Atari Flashback Classics (Europe) (v1.04) (Update)</description>
+		<rom crc="afa9f5b9" md5="b15e8e0b54e3e88fcb1d5b984b406807" name="EP0182-PCSB01303_00-FLASHBACKCLASSIC-A0104-V0100-b8bd947af4d36e31ae18d799f1d41cb198c5cf40-PE.pkg" sha1="24e907af99a1ab2f2c32167d4207cb002806ae67" sha256="bb9d89cc9ad80b88ef213ba0c45a3f0952f712a68c675c1a3a8c5672cfc30bc9" size="2095968"/>
+	</game>
+	<game name="Atelier Firis - The Alchemist and the Mysterious Journey (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Atelier Firis - The Alchemist and the Mysterious Journey (Europe) (v1.01) (Update)</description>
+		<rom crc="7fe3b251" md5="6eedf1e3319d22180dbdf00269a587cc" name="EP4108-PCSB01087_00-FIRISMASTER00000-A0101-V0100-cdcf740c9a85b67095ec4ef5dd2c01642d5e2810-PE.pkg" sha1="c8da65418f0928de909ff918fcc864772977e74b" size="406829664"/>
+	</game>
+	<game name="Atelier Sophie - The Alchemist of the Mysterious Book (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Atelier Sophie - The Alchemist of the Mysterious Book (Europe) (v1.01) (Update)</description>
+		<rom crc="b11babf0" md5="ad95709d083ce527a8d43079519df469" name="EP4108-PCSB00973_00-SOPHIE00MASTER00-A0101-V0100-6ef54c405d0a4b3ca7f49082868c13bf8fa5e4e7-PE.pkg" sha1="02ab29b1e0b4f3ff759f110ee186a2e0e1fbff8a" size="40277168"/>
+	</game>
+	<game name="Awesome Pea (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Awesome Pea (Europe) (v1.01) (Update)</description>
+		<rom crc="6d3d975e" md5="2cee3bbd8a6cfa5d75125cb2aad3ec78" name="EP1661-PCSB01324_00-G000000000001234-A0101-V0100-e60ee95f83e1203a995f9ed622746889a7795a97-PE.pkg" sha1="29d9c385193dfc4de532805a51d38bbeedc8701f" sha256="70b4b8bbf3e15d12a484363cd7c2af55a1e75f327ee4e2ed8ec5da04645263e1" size="24158000"/>
+	</game>
+	<game name="Azkend 2 - The World Beneath (Europe) (v1.03) (Patch)">
+		<category>Games</category>
+		<description>Azkend 2 - The World Beneath (Europe) (v1.03) (Patch)</description>
+		<rom crc="19e3ddd5" md5="9ec143fffc260eb21fd5311b94ecfb5e" name="EP4403-PCSB00399_00-AZKEND2000000000-A0103-V0100-e2b0e5dee2e3ffa509a8d483e743b45f700cbb68-SP-PE.pkg" sha1="b599adce29a9cfdd630f5a14880e9a6f2f325c24" size="58527184"/>
+	</game>
+	<game name="Azkend 2 - The World Beneath (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Azkend 2 - The World Beneath (Europe) (v1.03) (Update)</description>
+		<rom crc="6b7354ec" md5="306a9865ffe2505a6f81a43ad7f03488" name="EP4403-PCSB00399_00-AZKEND2000000000-A0103-V0100-5558e4535e3383ed76794527d95a21269907b959-PE.pkg" sha1="8a20421d44b19afb4c3fbe974bda2fbf952be014" size="59501520"/>
+	</game>
+	<game name="Baboon! (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Baboon! (Europe) (v1.02) (Update)</description>
+		<rom crc="a4ad855b" md5="981deed9938b1fb6eb1b6049be994f98" name="EP4506-PCSB00569_00-G000000000000509-A0102-V0105-9591f062b8fcb4abcf47978bd0a3c3823145bc4c-PE.pkg" sha1="24c742dd912cb1c2458ad53c8668d1018b818251" size="95813120"/>
+	</game>
+	<game name="Bard's Gold (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Bard's Gold (Europe) (v1.01) (Update)</description>
+		<rom crc="ea262ad8" md5="47394698fa9554279df8887c83664849" name="EP1612-PCSB00998_00-BARDSGOLDGAME000-A0101-V0100-ec828907ec6860102a37563d6d79c60262dd90bd-PE.pkg" sha1="2bff79ad74cf78eca2b53bdd0020c111f843eb63" size="13067408"/>
+	</game>
+	<game name="Bard's Tale, The - Remastered and Resnarkled (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Bard's Tale, The - Remastered and Resnarkled (Europe) (v1.03) (Update)</description>
+		<rom crc="b9b7180e" md5="710af00fbc40ce6975e7c3d16292d288" name="EP2028-PCSB01041_00-THEBARDSTALERNRD-A0103-V0100-48db26bba9868ce3f9c83df931929ff4ebd2b53b-PE.pkg" sha1="3f6d07548d5580bc154ded167a1a18034b5831ec" sha256="88ce173e509b3bc5fe6b45f3da6249e47b67c873a0256e735bf4438915320e59" size="4784080"/>
+	</game>
+	<game name="Batman - Arkham Origins Blackgate (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Batman - Arkham Origins Blackgate (Europe) (v1.01) (Update)</description>
+		<rom crc="322a5d39" md5="ece224e1a3a2dcaf33ca871e6f9ef28a" name="EP1018-PCSB00353_00-0000F10RLS029319-A0101-V0100-949eb0b13c83129950c6e161c028b7e288656f5c-PE.pkg" sha1="469625499c22b5b680a351a29ceda761855a70c7" size="8673152"/>
+	</game>
+	<game name="Big Sky Infinity (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Big Sky Infinity (Europe) (v1.02) (Update)</description>
+		<rom crc="fc7b6bf5" md5="ff5b8dd5e80806d2fd0bc1005908d237" name="EP4337-PCSB00168_00-UBIGSKYINF000001-A0102-V0100-a0233b9e344a9bba57d15580ad2d479d40dbfbdf-PE.pkg" sha1="9ad881a4659ba7f14e98a52952e954bdd218621c" size="27436832"/>
+	</game>
+	<game name="Binding of Isaac, The - Rebirth (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Binding of Isaac, The - Rebirth (Europe) (v1.05) (Update)</description>
+		<rom crc="d3ce372e" md5="e3fc4a5beb96f6e0950d1cd1fc91131b" name="EP2103-PCSB00676_00-BINDINGOFISAACPV-A0105-V0100-e82b519073c81f7eac49b455642c2d4bc02f9b07-PE.pkg" sha1="b7c6f25f667c66cc1e46fa88c14ad42e0a46aa8f" size="42559024"/>
+	</game>
+	<game name="Bit.Trip, The (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Bit.Trip, The (Europe) (v1.01) (Update)</description>
+		<rom crc="d1d71c64" md5="dd31c6dca7cae4d70269913853ccc62c" name="EP2148-PCSB00820_00-THEBITTRIP000000-A0101-V0101-8dbe289eebcbb7285b5c1b55357b9b969e933a23-PE.pkg" sha1="176ff458654d949b266508bae28efdbe5f7e9bb9" size="109598656"/>
+	</game>
+	<game name="Blast 'Em Bunnies (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Blast 'Em Bunnies (Europe) (v1.01) (Update)</description>
+		<rom crc="6da156ec" md5="cf6710cacba05cf24def42686dfcb965" name="EP4352-PCSB00420_00-NNBLASTBUNNIESEU-A0101-V0100-41913c998afc905c4faf8f07748f9ea5f21bd776-PE.pkg" sha1="68300d661f56ade7cfa61bd70d0a9d9908988441" size="14599104"/>
+	</game>
+	<game name="Bloodstained - Curse of the Moon (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Bloodstained - Curse of the Moon (Europe) (v1.01) (Update)</description>
+		<rom crc="3d62dd7a" md5="addfbeb50c8f67ffa5449e4e3f02f1c7" name="EP1095-PCSB01250_00-COTMVITAPPEU0000-A0101-V0100-fd2b1e3fb376731e20d18c724eed058943c4903f-PE.pkg" sha1="1e5956a1f6bab16c54e874f9bffc8b10dc8f2668" sha256="f21dc72e5e820f0415d353fa9703738c82915d82d9338a081d6790d920ce3b78" size="4523248"/>
+	</game>
+	<game name="Bodycheck (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Bodycheck (Europe) (v1.02) (Update)</description>
+		<rom crc="0f286ce3" md5="795e311170259f495a760908c83e89b6" name="EP8916-PCSB01028_00-G000000000000945-A0102-V0100-f8dc4b86ad9b1d5d30bed7666a03da645ae6cac4-PE.pkg" sha1="6d5a96a48676c93226e3389bf0bf5483e37fd97e" sha256="f305907aaa4408c60bbe5fe7e779598ad8d6da5d4261b810aa525ce1c76f0d77" size="378477984"/>
+	</game>
+	<game name="Borderlands 2 (Europe) (En,Fr,De) (v1.07) (Patch)">
+		<category>Games</category>
+		<description>Borderlands 2 (Europe) (En,Fr,De) (v1.07) (Patch)</description>
+		<rom crc="1d57c877" md5="19a50d4a53b44b983f1e9424ad5ed0b8" name="EP9000-PCSF00570_00-BORDERLANDS2PSV1-A0107-V0100-ded7df18495e5639243439ff73b7dda4524ab60c-SP-PE.pkg" sha1="0dc8488b95c0a2da53f0a04aa76f1688ce879ef4" size="41261952"/>
+	</game>
+	<game name="Borderlands 2 (Europe) (En,Fr,De) (v1.07) (Update)">
+		<category>Games</category>
+		<description>Borderlands 2 (Europe) (En,Fr,De) (v1.07) (Update)</description>
+		<rom crc="ddc66237" md5="229c708d1ff7e0591e738bedaffd1c0b" name="EP9000-PCSF00570_00-BORDERLANDS2PSV1-A0107-V0100-f26b411122250d655c0a53ffdbe7bc80fda634b2-PE.pkg" sha1="19299c4125baad61b8c229c2a682eac123f3b7f4" size="329550880"/>
+	</game>
+	<game name="Boy and His Blob, A (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Boy and His Blob, A (Europe) (v1.01) (Update)</description>
+		<rom crc="5b9e24d4" md5="47bbc38fd49200f1b04839ccfe21b07c" name="EP1012-PCSB00811_00-BOYANDBLOBVITA00-A0101-V0100-0e60b11b50d789987e3fc87ab9d68956d3d92344-PE.pkg" sha1="2ada8e46be97ff9f52b4dd206594766e95856d38" size="5415568"/>
+	</game>
+	<game name="BreakQuest - Extra Evolution (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>BreakQuest - Extra Evolution (Europe) (v1.01) (Update)</description>
+		<rom crc="d0226667" md5="ab6deae2a09c4cf96fbe371db7a195cd" name="EP4101-PCSB00265_00-BREAKQUESTPSVITA-A0101-V0100-d0c8eb452443522df21ba34d638a66c481cd1a5d-PE.pkg" sha1="3709a7393135d8c7997000ef12c2652895931c96" size="2867056"/>
+	</game>
+	<game name="Broken Sword 5 - The Serpent's Curse - Episode 1 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Broken Sword 5 - The Serpent's Curse - Episode 1 (Europe) (v1.01) (Update)</description>
+		<rom crc="281bfb9d" md5="2fd7cbe9201467716434837ae8cfcf32" name="EP4456-PCSB00483_00-BROKENSWORD5P1EN-A0101-V0101-d3c16f0b2edbfff7b2ab20507a8ca06986e1e769-PE.pkg" sha1="ab43133944daeaa16a665995cb667f85d1c85f19" size="790182048"/>
+	</game>
+	<game name="Bucket Knight (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Bucket Knight (Europe) (v1.01) (Update)</description>
+		<rom crc="186e1f00" md5="a4e0ee35df86cff317ea30bf1f952eda" name="EP1661-PCSB01420_00-G000000000001330-A0101-V0100-8666c76d84bfdf3248ef9cbb0d0bbb35d17f846a-PE.pkg" sha1="f893efdb5882733a45d9a590366d33a87ebc2803" size="24259488"/>
+	</game>
+	<game name="Burly Men at Sea (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Burly Men at Sea (Europe) (v1.02) (Update)</description>
+		<rom crc="b99fddaf" md5="307d0e8fed018fb989c8f121d00093a3" name="EP1698-PCSB01169_00-BURLYMENATSEA000-A0102-V0100-1811024339f0dbcb81e9fed465b6253600619d40-PE.pkg" sha1="52ad9b42842b01804ea246fe05f415eb6f6f4e63" size="67439552"/>
+	</game>
+	<game name="Call of Duty - Black Ops - Declassified (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Call of Duty - Black Ops - Declassified (Europe) (v1.02) (Update)</description>
+		<rom crc="5c103d6f" md5="1d8091443be7265bfe162e42735d1b5d" name="EP0002-PCSB00213_00-DECLASSIFIEDEU01-A0102-V0100-ad0bb6acf02db655eb3520724e01b419338c7956-PE.pkg" sha1="6eb8102dacbd7a35f1c2c756fbc017ed9ab8ab64" size="430560240"/>
+	</game>
+	<game name="CastleStorm (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>CastleStorm (Europe) (v1.01) (Update)</description>
+		<rom crc="a376eb46" md5="38cdbb1afbe33192d8d4bd15f89c5de7" name="EP4042-PCSB00111_00-CASTLESTORM00001-A0101-V0100-2c24659dd6a9b85f25d641039995be56082a2a92-PE.pkg" sha1="5dfb563cb192a9764e5f255440e037836131f2f6" size="5686160"/>
+	</game>
+	<game name="Chaos;Child (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Chaos;Child (Europe) (v1.01) (Update)</description>
+		<rom crc="b07b3bad" md5="d22ac2894bfdbe4c5f92d4b600faf36e" name="EP4293-PCSB01075_00-CHAOSCHILDPSVEU0-A0101-V0100-1fa1a7ee16dc865b9d84e32133614f843f389ef6-PE.pkg" sha1="6dcc6180ba702d102e4854591b3f96df0e01c595" size="572872672"/>
+	</game>
+	<game name="Chasm (Europe) (v1.06) (Update)">
+		<category>Games</category>
+		<description>Chasm (Europe) (v1.06) (Update)</description>
+		<rom crc="d5268ae9" md5="06dda31b285e52fe25e20acea7266acf" name="EP2756-PCSB01121_00-CHASM0000000SIEE-A0106-V0100-85d9fa6e57236ad38f92e009c2d21b6c38b8ea71-PE.pkg" sha1="7b5f8735ab243679c6c9c2c3395ce2a1478a5c2f" size="57944960"/>
+	</game>
+	<game name="Chronovolt (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Chronovolt (Europe) (v1.03) (Update)</description>
+		<rom crc="a09143f6" md5="fc68fbf22c8edda58465cbfe523eade6" name="EP4093-PCSB00102_00-CHRONOVOLT000000-A0103-V0100-50e165a4844d30283afd1634a1a5012a1ea6a344-PE.pkg" sha1="7e8766d562fce58b284c70dfb822a85756502476" size="3059728"/>
+	</game>
+	<game name="Citizens of Earth (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Citizens of Earth (Europe) (v1.02) (Update)</description>
+		<rom crc="0e9aa2a0" md5="1e291145ea29bbbe529b153fcf0aa552" name="EP0005-PCSB00599_00-CITIZENSEARTHVIT-A0102-V0100-67f93b245fa8e18a2bf0c818c3aa9afedc01de60-PE.pkg" sha1="b4162345839c707344bdaf41bb0d557bba90643f" size="1818307648"/>
+	</game>
+	<game name="Claire - Extended Cut (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Claire - Extended Cut (Europe) (v1.05) (Update)</description>
+		<rom crc="f83a09bf" md5="dfb6b25118c5862f94db0d1e5e11873d" name="EP0310-PCSB00993_00-CLAIREEXTENDEDCU-A0105-V0100-46f9283016232d8d547d3b91a8c53253329fa1d7-PE.pkg" sha1="1855b4eec289386cd5d50cb64a9c7ef3adbfcd31" size="193590256"/>
+	</game>
+	<game name="Cliff Diving (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Cliff Diving (Europe) (v1.01) (Update)</description>
+		<rom crc="f3544cde" md5="b406ad4a656ae5aa32f6f8fbd1fdf2e8" name="EP9000-PCSF00033_00-ARSCLIFFDIVING00-A0101-V0101-96b8e4b3433365154e9cff278d67418a6c278d99-PE.pkg" sha1="bffdff80df7d5412d6b17b50a29c122063d79a4b" size="48062144"/>
+	</game>
+	<game name="Coconut Dodge Revitalised (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Coconut Dodge Revitalised (Europe) (v1.01) (Update)</description>
+		<rom crc="5008771d" md5="e0454f5ea859faee961208f14cb35e0d" name="EP4143-PCSB00303_00-COCONUTDODGEVITA-A0101-V0100-375d09df7fdd0ecfa381ec65f2c95668e620daf1-PE.pkg" sha1="18699cfae6f43606e80f4df506fbae621fef7992" size="2254656"/>
+	</game>
+	<game name="Color Guardians (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Color Guardians (Europe) (v1.02) (Update)</description>
+		<rom crc="1e09c6c1" md5="a3bc87f7d252c075c6acf8c22d86da05" name="EP0836-PCSB00768_00-FPLCGMAINGAME101-A0102-V0100-b52cdf7b65ec1150a795293e67561d38f52a4c9c-PE.pkg" sha1="8df6c27dd57479e930426741ed9c97961d2b0dab" size="694049872"/>
+	</game>
+	<game name="Color Slayer (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Color Slayer (Europe) (v1.01) (Update)</description>
+		<rom crc="6aeb44ce" md5="c066df58630c6b1074ae37ee01263413" name="EP0662-PCSB01389_00-COLORSLAYERPSVEU-A0101-V0101-bf2b6082d57e17636415ef9f081140d3bffe7baa-PE.pkg" sha1="3fd80f719b9f76a9365cce3ebea9863d865a6af3" size="37859728"/>
+	</game>
+	<game name="Conga Master Go (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Conga Master Go (Europe) (v1.02) (Update)</description>
+		<rom crc="1d5e2a54" md5="e8ed0371eded965416c52769c7fa556b" name="EP3540-PCSB01368_00-G000000000001278-A0102-V0100-9feea7a57d727134d81e83f0d1565485ef9adf17-PE.pkg" sha1="961dbd3490cfcbef8835bc943bcb511aee49cdc7" size="28828336"/>
+	</game>
+	<game name="Corpse Party - Blood Drive (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Corpse Party - Blood Drive (Europe) (v1.01) (Update)</description>
+		<rom crc="0b0e7ee8" md5="55f56e066ce50aa2d106fd54f1203f28" name="EP4492-PCSB00822_00-CPVOL4BLOODDRIVE-A0101-V0100-0b2cf07841789398d50b43485d0870c200b96281-PE.pkg" sha1="2914c32df718195c0c6f0fadd4cdd1d6517f45f2" size="10097552"/>
+	</game>
+	<game name="Cosmic Star Heroine (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Cosmic Star Heroine (Europe) (v1.01) (Update)</description>
+		<rom crc="c72de0c7" md5="caa08584a8d1d00e3f1fbeda59f111b0" name="EP0704-PCSB01224_00-ZEBOYDCSHFG00001-A0101-V0100-2c34f5b22726ca6df5df87e4bcd0a14761f4f36d-PE.pkg" sha1="bcabee254a324da714971a783305ec9d0d5197de" sha256="bdd3c711958c8c5145be5a5b741a8ef06698707f96913bb9b08cd140e8ec0581" size="23802688"/>
+	</game>
+	<game name="Count Lucanor, The (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Count Lucanor, The (Europe) (v1.01) (Update)</description>
+		<rom crc="67278ac4" md5="a63ca66cb5a88475d93e369585f91246" name="EP1121-PCSB01131_00-THECOUNTLUCANORM-A0101-V0100-0ed7d85896e67c8716f555dce680044ada2b7d2d-PE.pkg" sha1="2c45c792c2383dea4980db99efa246bd7556a372" sha256="60ec4ec8d635cda277d2353c90c3fc06eadbe411bd1cefbfff46d8dc567cc493" size="94801040"/>
+	</game>
+	<game name="Crossovers by POWGI (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Crossovers by POWGI (Europe) (v1.01) (Update)</description>
+		<rom crc="7f19626b" md5="8e523cff0d1390927b04ae68a99ea4ee" name="EP3597-PCSB01331_00-G000000000001241-A0101-V0100-3edf9db27be0f8664decd12db04afe1bd94ab95a-PE.pkg" sha1="37c8ee2c7d35530a4f9635dd1096733f3ceb97e6" size="22132384"/>
+	</game>
+	<game name="Crunchyroll (Europe) (v1.29) (Update)">
+		<category>Games</category>
+		<description>Crunchyroll (Europe) (v1.29) (Update)</description>
+		<rom crc="055c9383" md5="aa2b38ec27360f49fa1de9a1991c86e8" name="EP8805-PCSB00809_00-20150410XCRUNCHY-A0129-V0100-622b7d351228dfdbf1544ac42db74522656595f5-PE.pkg" sha1="d127cd5ebf48c875fed981317b4e30388a2e3961" sha256="fa9e581ea5a870435bbb2cc451db7f72fc64cd46442ddda9b6180757661dd745" size="12280816"/>
+	</game>
+	<game name="Crypt of the NecroDancer (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Crypt of the NecroDancer (Europe) (v1.04) (Update)</description>
+		<rom crc="3b639276" md5="80dfb433d39b1174b8a1d48da69a13fb" name="EP1156-PCSB00919_00-CRYPTNECRODANCER-A0104-V0100-91e0cd2235439d3666bb7ac067cd2922f29acfc8-PE.pkg" sha1="c58c6eb894093e3df93fbfbc12c3f1f2c7bf98a2" sha256="f5affdfc97193e864d43053651537bb4cd5ce701a43ab592886fd6456aa473ee" size="382210016"/>
+	</game>
+	<game name="Damascus Gear - Operation Tokyo (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Damascus Gear - Operation Tokyo (Europe) (v1.01) (Update)</description>
+		<rom crc="ab58a5ca" md5="4dc72829ba4d077409b5b89fdcb1139a" name="EP0036-PCSB00704_00-DGEARZERO0000000-A0101-V0101-5f8f2b43a7fa05cc7f36254bf1cbb8b591519358-PE.pkg" sha1="9f102bbb849e2638e2f14031c300218a4557e856" size="220914544"/>
+	</game>
+	<game name="Danganronpa V3 - Killing Harmony (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Danganronpa V3 - Killing Harmony (Europe) (v1.01) (Update)</description>
+		<rom crc="532b3148" md5="01c03e9a89b223797ac8204da7d278d6" name="EP1063-PCSB01127_00-DANGANV3VITA0000-A0101-V0100-1ae619d9d0f567a9e71d1c8ef960abae5a661906-PE.pkg" sha1="02e86b91f67e0b01cb2b7edababcccfc2251895c" size="120103728"/>
+	</game>
+	<game name="Darius Burst Chronicle Saviors (Europe) (v1.11) (Patch)">
+		<category>Games</category>
+		<description>Darius Burst Chronicle Saviors (Europe) (v1.11) (Patch)</description>
+		<rom crc="ca2e5c10" md5="6d133b95fc685346eff422f641a0eace" name="EP1052-PCSB00880_00-DARIUSBURSTCS0EU-A0111-V0100-3d002f19560ea0c98a7a0bf902af7902462d8782-SP-PE.pkg" sha1="ece5c3896fe6c0defe7a55705f3244aaf2ff9fde" size="18640688"/>
+	</game>
+	<game name="Darius Burst Chronicle Saviors (Europe) (v1.11) (Update)">
+		<category>Games</category>
+		<description>Darius Burst Chronicle Saviors (Europe) (v1.11) (Update)</description>
+		<rom crc="38712cd1" md5="a4918369028ec09cb0952c6fc9ae979b" name="EP1052-PCSB00880_00-DARIUSBURSTCS0EU-A0111-V0100-e22c3759ddef70e004896c43397e7bcfff2d9547-PE.pkg" sha1="a3c65c9da34773d62d72f1d8c389ac2d088e7945" size="539217216"/>
+	</game>
+	<game name="Darkest Dungeon (Europe) (v1.17) (Patch)">
+		<category>Games</category>
+		<description>Darkest Dungeon (Europe) (v1.17) (Patch)</description>
+		<rom crc="0a12d20d" md5="08ccec3a94a2554af124de9d5f279ab4" name="EP2483-PCSB01017_00-RHSDDPSV00000001-A0117-V0101-76396203233f858757016c2581f90318069214b1-SP-PE.pkg" sha1="08b40f7cc6d0ffbf198c310ceb7af722ecfbc35e" size="304141584"/>
+	</game>
+	<game name="Darkest Dungeon (Europe) (v1.17) (Update)">
+		<category>Games</category>
+		<description>Darkest Dungeon (Europe) (v1.17) (Update)</description>
+		<rom crc="b377bcb9" md5="4bd2d874d21611d4f6336a337e2110d3" name="EP2483-PCSB01017_00-RHSDDPSV00000001-A0117-V0101-c3dd2930e2c891fa38f7820d207ec605573877a6-PE.pkg" sha1="050f6e6c7ca4bb9c2bba25fd9eb753137205c656" size="1166162672"/>
+	</game>
+	<game name="Day of the Tentacle Remastered (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Day of the Tentacle Remastered (Europe) (v1.02) (Update)</description>
+		<rom crc="6f0a52ac" md5="16f4747ec90d918db2916da9bcd150a0" name="EP2154-PCSB00747_00-DAYOFTHETENTACLE-A0102-V0100-160ba283b802e8cb0312ecf185094af98e5def80-PE.pkg" sha1="a859e88d4d15e60f2c4669db48c14500066821a5" size="284820928"/>
+	</game>
+	<game name="Dead Nation (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dead Nation (Europe) (v1.01) (Update)</description>
+		<rom crc="28dc0242" md5="e345b3a333157a0ce795858ea4c30abf" name="EP9000-PCSF00427_00-DEADNATIONGAME01-A0101-V0100-784586375ed3469e3b8756f2e434f8d93542bb29-PE.pkg" sha1="4ae0f4438596aa98b5afab9cfadc6c1722455c96" size="11401776"/>
+	</game>
+	<game name="Dead or Alive 5 Plus (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dead or Alive 5 Plus (Europe) (v1.01) (Update)</description>
+		<rom crc="7a087e69" md5="2bae3794366eb69a26dd5cb413971484" name="EP4108-PCSB00296_00-DEADORALIVE5PLUS-A0101-V0101-4a04b341ce0073a7e943289ba4a0b2d76ade6803-PE.pkg" sha1="3df06f68d62dc61b755f87576186ac4c11c2b097" size="22056928"/>
+	</game>
+	<game name="Deadbolt (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Deadbolt (Europe) (v1.02) (Update)</description>
+		<rom crc="c9a1fc20" md5="a25d8e3b85545d405fb8f6f39e63cf11" name="EP0338-PCSB01023_00-DEADBOLT00000000-A0102-V0100-f459353abafe3cc5f5672318ddaee0a28afe54b8-PE.pkg" sha1="698e39b48583e0294381b4c806270d46fb40564c" sha256="2617e7cd3a12503ecce15d1675a5d0fe6d29f48644529cf1d26c5e1aef97e872" size="1605120"/>
+	</game>
+	<game name="Deception IV - The Nightmare Princess (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Deception IV - The Nightmare Princess (Europe) (v1.02) (Patch)</description>
+		<rom crc="70f8870c" md5="0753663844992f97ef899e316ae054f1" name="EP4108-PCSB00829_00-DECEPTIONNP00000-A0102-V0100-090699e63e2148897944f6164f4f1149ae44b5d1-SP-PE.pkg" sha1="026e3f138412ccc6b9e84e463c49b418114f9a61" size="5339520"/>
+	</game>
+	<game name="Deception IV - The Nightmare Princess (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Deception IV - The Nightmare Princess (Europe) (v1.02) (Update)</description>
+		<rom crc="2adbb146" md5="23225d639f4ac14b03a05b7f62f89290" name="EP4108-PCSB00829_00-DECEPTIONNP00000-A0102-V0100-010291a222044698c910bda60c3a3f3359288bcb-PE.pkg" sha1="e56e9110f03921d843f76169affcd8fbf6e135d8" size="282896608"/>
+	</game>
+	<game name="Deep Ones (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Deep Ones (Europe) (v1.01) (Update)</description>
+		<rom crc="77a8d266" md5="92c031597f530a07d648b7f2a8afd85c" name="EP1661-PCSB01212_00-G000000000001125-A0101-V0100-61a96331e93e13b257ab1f711eec1802815c8bf8-PE.pkg" sha1="1640a6d109eb65a2bebffc740308d68fa7ec38de" sha256="deb8af30f31abd9cd648b44aba26da1e172a4faada5be61627ca7944ce6bacae" size="167180144"/>
+	</game>
+	<game name="Deer God, The (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Deer God, The (Europe) (v1.02) (Update)</description>
+		<rom crc="2d284f91" md5="0db80159459ece0153952c71efc79c7d" name="EP1191-PCSB01070_00-THEDEERGODVITA00-A0102-V0100-06c1764aa08d022e91ecf0d599ac6893798b6075-PE.pkg" sha1="066f428b900808267500ce708be418dcb0d07186" size="188449040"/>
+	</game>
+	<game name="Delta Strike - First Assault (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Delta Strike - First Assault (Europe) (v1.01) (Update)</description>
+		<rom crc="34fb9c2a" md5="bff66f4159977581e2a75c0acded2768" name="EP1972-PCSB00997_00-00DELTA0STRIKE00-A0101-V0100-723e848c587ea32b15e3df8e0fbcf4d88e085d26-PE.pkg" sha1="9c1cc9366c5dc3fb150a0d3f0a0a0b5a81dfed36" size="81172272"/>
+	</game>
+	<game name="Demetrios - The Big Cynical Adventure (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Demetrios - The Big Cynical Adventure (Europe) (v1.01) (Update)</description>
+		<rom crc="977c7477" md5="0cec9f365ca7a37465571f8cc9b45600" name="EP1762-PCSB01036_00-DEMETRIOS0000000-A0101-V0100-30cc8dd6ffec1ddb5803b517309cd5195c3ef64e-PE.pkg" sha1="bc03b6e618812dc20864d821a0a5c6e915196082" size="40696736"/>
+	</game>
+	<game name="Demon Gaze II (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Demon Gaze II (Europe) (v1.01) (Update)</description>
+		<rom crc="ea043716" md5="b6abddff71640025826a52e8982e25de" name="EP1063-PCSB01150_00-DEMONGAZEPSV2017-A0101-V0100-98fa37bc131fb884dd9496bc1f34a6160d413bfc-PE.pkg" sha1="88b4e7f8e0d1933728bd5bca50a712c213d3eb68" size="203137312"/>
+	</game>
+	<game name="Destiny of Spirits (Europe) (v1.12) (Update)">
+		<category>Games</category>
+		<description>Destiny of Spirits (Europe) (v1.12) (Update)</description>
+		<rom crc="b525a9eb" md5="efbe9beaa96fe54bba37dee67dda212c" name="EP9000-PCSF00543_00-DESTINYOFSPIRITS-A0112-V0100-6ba3fa446fe33c40f0c2b0c3a0c5760850d71253-PE.pkg" sha1="364cb435519bfa0efcd6885ff89cc6730a596f6a" size="351936064"/>
+	</game>
+	<game name="Dex (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dex (Europe) (v1.01) (Update)</description>
+		<rom crc="a1e8b202" md5="bacc033ca7fc083200b320163eba42f9" name="EP1160-PCSB00953_00-G000000000000875-A0101-V0100-606ec67da58ebf4ab0363864aa9eb32a07ac24fa-PE.pkg" sha1="beba88a3aa6e173217c4c5f9ac1fce8bca50e2c1" size="824877536"/>
+	</game>
+	<game name="Digimon Story Cyber Sleuth (Europe) (v1.06) (Update)">
+		<category>Games</category>
+		<description>Digimon Story Cyber Sleuth (Europe) (v1.06) (Update)</description>
+		<rom crc="5cff23ac" md5="c090a5386cf3a1cefec01fe945310eb5" name="EP0700-PCSB00861_00-DSCYBERSLEUTH001-A0106-V0100-980be9eec565891642d680b246ace1957e1e43bd-PE.pkg" sha1="6ee8cd432a9596b8f0e354afe369181345ff25f8" size="141937792"/>
+	</game>
+	<game name="Digimon Story Cyber Sleuth - Hacker's Memory (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Digimon Story Cyber Sleuth - Hacker's Memory (Europe) (v1.05) (Update)</description>
+		<rom crc="df308aa3" md5="43790847c4b9b811831f352102742eda" name="EP0700-PCSB01183_00-DSHACKERSMEMORY1-A0105-V0100-16659251ab0d8a4637adb4ebeff3cb9c7ba97d28-PE.pkg" sha1="53abb8ec62fc163fd2ea3ab5b0bffa727f2f3d41" sha256="4d57177ffb6401e10b3b2c668556335e8b193264fc4abbc08456f653ad654320" size="110055696"/>
+	</game>
+	<game name="Dino Dini's Kick Off (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Dino Dini's Kick Off (Europe) (v1.03) (Update)</description>
+		<rom crc="589f6d9e" md5="17c78560d64c3adbc972bbfe6929c211" name="EP4489-PCSB00895_00-G000000000000817-A0103-V0100-6216c3c426d0a055b7fc171667e1f1cc3271c3ec-PE.pkg" sha1="d29ddf3db32eb25cbe6c6f8c7fcba81746179b67" size="37203696"/>
+	</game>
+	<game name="Disgaea 3 - Absence of Detention (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Disgaea 3 - Absence of Detention (Europe) (v1.01) (Update)</description>
+		<rom crc="55e62406" md5="f77358d911adc4139b5d11e968137bbe" name="EP1063-PCSB00098_00-DISGAEA3RE000000-A0101-V0101-c1dff3f536b1d5ed7366cddef1cec992322df1df-PE.pkg" sha1="70c40cc7dd2ac2ffeb8a04e62f5c283f691f2c66" size="2096176"/>
+	</game>
+	<game name="Disgaea 4 - A Promise Revisited (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Disgaea 4 - A Promise Revisited (Europe) (v1.01) (Update)</description>
+		<rom crc="6fc828c3" md5="055a7457b9da8cb49a93ef7507ab4cbf" name="EP1063-PCSB00455_00-DISGAEA4R0000000-A0101-V0100-8e48bd6b76f47031fbeba8683e0a2bed9ee575e2-PE.pkg" sha1="c7d6905f2b6ec9e7208d15e414db1f0f07f68a62" size="270538624"/>
+	</game>
+	<game name="Disney Infinity 2.0 (Europe) (En,Fr,Es) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Disney Infinity 2.0 (Europe) (En,Fr,Es) (v1.01) (Update)</description>
+		<rom crc="6d41997a" md5="331852437f358f6efea0ca04b0de8661" name="EP1006-PCSB00698_00-0000000004140236-A0101-V0100-d7b2e5bdaed7c27221024d3a5d27cba32a173fa7-PE.pkg" sha1="10c11a20aea4d5a8ed195e8c748c7925a26a2ec7" size="23150752"/>
+	</game>
+	<game name="Divekick (Europe) (v1.08) (Patch)">
+		<category>Games</category>
+		<description>Divekick (Europe) (v1.08) (Patch)</description>
+		<rom crc="26589ede" md5="1b6e163a5d48c0a0043047fc37b00558" name="EP4411-PCSB00373_00-DIVEKICKPSV00001-A0108-V0100-c2e3fca844171ddf39faa85b6d67e7ea146cba2f-SP-PE.pkg" sha1="aab72754f6f7b4d9c05fb8faaf093e8f14db972e" size="339867264"/>
+	</game>
+	<game name="Divekick (Europe) (v1.08) (Update)">
+		<category>Games</category>
+		<description>Divekick (Europe) (v1.08) (Update)</description>
+		<rom crc="a11d1f70" md5="8215bfc48e1db08f4a64adc0fc528080" name="EP4411-PCSB00373_00-DIVEKICKPSV00001-A0108-V0100-525b42967b6d88ae0d685e16a52db88de8e72203-PE.pkg" sha1="b3320a48eb69af009b6e015f48d852a212ea2a82" size="548170000"/>
+	</game>
+	<game name="Doki-Doki Universe (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Doki-Doki Universe (Europe) (v1.02) (Update)</description>
+		<rom crc="ac4ddce0" md5="8123b7746e60e8bfa56f37798f8011e6" name="EP9000-PCSF00379_00-DDU0000000000000-A0102-V0100-a8c09950cca19889a0ce4080970d536f8ef7f03d-PE.pkg" sha1="b1a26d0d4664b87361a82d64c254c1718a3705be" size="50651456"/>
+	</game>
+	<game name="Downwell (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Downwell (Europe) (v1.01) (Update)</description>
+		<rom crc="5105ec65" md5="9667e579742b5e602b5a38914a518d80" name="EP3643-PCSB00952_00-DOWNWELLEUPV0001-A0101-V0100-fe947a6c3d4c19b1bd517a584381b4e81a4c3f0a-PE.pkg" sha1="22f8bc71cc0236810f2d02a55bbf29633a66481b" size="314064"/>
+	</game>
+	<game name="Dragon Ball Z - Battle of Z (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dragon Ball Z - Battle of Z (Europe) (v1.01) (Update)</description>
+		<rom crc="7d4f2f68" md5="9e9c27b09129a5f0308194f791bd2760" name="EP0700-PCSB00396_00-PRODUCTPACKAGE01-A0101-V0100-bde23d20546d1ba233a23bc32f310dc2f1079968-PE.pkg" sha1="7c16fbdef239b9b5fd3693ce5a3127ae2c6a3edd" size="10219072"/>
+	</game>
+	<game name="Dragon Sinker (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dragon Sinker (Europe) (v1.01) (Update)</description>
+		<rom crc="5544bc0c" md5="bf7c038fe4c2df8d9a2f23dcd225a75f" name="EP2363-PCSB01238_00-G000000000001150-A0101-V0100-9489ca847f68ba5b7683c0414c2cf299861b3930-PE.pkg" sha1="393525c6e9cf21faa2ebd5fe4248034939658d59" sha256="44cf325201d1afb9d2f9ab5bae7c2edbed35252cf9af30796bb003f7d2953343" size="22810368"/>
+	</game>
+	<game name="Dragon's Crown (Europe) (v1.09) (Update)">
+		<category>Games</category>
+		<description>Dragon's Crown (Europe) (v1.09) (Update)</description>
+		<rom crc="297cf934" md5="6b91aab5c7702baca85f05e24b0b52e7" name="EP1063-PCSB00408_00-DRAGONSCROWN0001-A0109-V0100-76bffb4f626f11a02126474692cc4ee61ea682cf-PE.pkg" sha1="96e18524bc0675300b94b7fb74f07b5692acbbf2" sha256="95fa6f99212e6468b68ecd1b372e6566aaacb9e9fe68ac616060a38ab5eafb0f" size="39939136"/>
+	</game>
+	<game name="Dragons Online (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dragons Online (Europe) (v1.01) (Update)</description>
+		<rom crc="df6010ce" md5="7aca0a5a93c5fa18be6360a585975a29" name="EP8949-PCSB01124_00-G000000000001039-A0101-V0100-280fb2c1425ce24dcca3e53644bce14ddc3681d2-PE.pkg" sha1="2daf27548871f47daa799a24b9ff4865ac4ba851" size="68462176"/>
+	</game>
+	<game name="Draw Slasher (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Draw Slasher (Europe) (v1.02) (Update)</description>
+		<rom crc="ef3fd396" md5="85c08bdaa0ea2fc519990a8731f6c842" name="EP4396-PCSB00229_00-DRAWSLASHEREU001-A0102-V0101-8d13018d3095d705f3ff9fb18311894ba57b2fa3-PE.pkg" sha1="1f804117692867c8a9fed97b3b8eb9dbc47d56c9" size="1228720"/>
+	</game>
+	<game name="Drowning (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Drowning (Europe) (v1.01) (Update)</description>
+		<rom crc="85e76ec1" md5="7f0bbdb77691842e925b9b7ebc6e8917" name="EP1661-PCSB01322_00-G000000000001232-A0101-V0100-3a706451391cdc61a3967bd8e36a2aee6e0fb4d4-PE.pkg" sha1="c98ce56ff34e1dba6ab842fde982ce93372af71e" sha256="79b5af500035b879d3eb27e8b0a3193f631da37610ce70e9dfa20db9859b0b01" size="73128384"/>
+	</game>
+	<game name="Duke Nukem 3D - Megaton Edition (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Duke Nukem 3D - Megaton Edition (Europe) (v1.01) (Update)</description>
+		<rom crc="a401b470" md5="322fb946b02bebed776a8dafa0775f97" name="EP3643-PCSB00437_00-DUKE3DHDEUVITA00-A0101-V0100-1f773bee885f8cdacad32352f5330090da286372-PE.pkg" sha1="e30ac2a2489641294045c06541a3310b2bf6bdcd" size="4541952"/>
+	</game>
+	<game name="Dungeon Punks (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dungeon Punks (Europe) (v1.01) (Update)</description>
+		<rom crc="a62419df" md5="510762fd2d32589413369b90b6c2c70b" name="EP0873-PCSB01010_00-DUNGEONPUNKS0004-A0101-V0100-296f4030201264e3538a19a09ad5017db1f0d5f9-PE.pkg" sha1="c86b703d996fb2f9c95760aeecf9f53915b325b1" size="22708640"/>
+	</game>
+	<game name="Dustforce (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dustforce (Europe) (v1.01) (Update)</description>
+		<rom crc="95f04512" md5="81d7b6e68542c7a41790bea4cf6d9d7b" name="EP0102-PCSB00433_00-DUSTFORCEVITASKU-A0101-V0100-649d791b177520bfe7dc06cd5678e458c2def190-PE.pkg" sha1="66854d72524ef7e4050f5ad5d14b32a95588f7a2" size="68750912"/>
+	</game>
+	<game name="Dynasty Warriors 8 - Empires (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dynasty Warriors 8 - Empires (Europe) (v1.01) (Update)</description>
+		<rom crc="304b7559" md5="1e7cb29ab6e655de4eab34a6d9004e4e" name="EP4108-PCSB00871_00-SM7EMPGAMEEU0000-A0101-V0100-3527162c7e7fbc8b079442180f3b8193dd9644ca-PE.pkg" sha1="2c49a20411abb67cc1a0983fac9474e9731ce38d" size="11778672"/>
+	</game>
+	<game name="Dynasty Warriors 8 - Empires - Free Alliances Version (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dynasty Warriors 8 - Empires - Free Alliances Version (Europe) (v1.01) (Update)</description>
+		<rom crc="924b80ae" md5="af4d6e5617d2f408fee72db4fd28a5d9" name="EP4108-PCSB00892_00-SM7EMPCOOPEU0000-A0101-V0100-c089f7b949e903244aeb8205ce8594584385e1ea-PE.pkg" sha1="62cf9678bd2dce02510686f1adbddf1566217468" size="11783984"/>
+	</game>
+	<game name="Dynasty Warriors 8 - Xtreme Legends Complete Edition (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dynasty Warriors 8 - Xtreme Legends Complete Edition (Europe) (v1.01) (Update)</description>
+		<rom crc="5aa0b20d" md5="e35d4ca6598fb5d4baa50786a1998fab" name="EP4108-PCSB00509_00-DW8WXLGAMEEU0000-A0101-V0100-d012716dcc7d24cefad7610200a56b218a368de3-PE.pkg" sha1="8bf0f147ada320c955fd9e689c77193da79e9628" size="49757392"/>
+	</game>
+	<game name="Dynasty Warriors NEXT (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Dynasty Warriors NEXT (Europe) (v1.01) (Update)</description>
+		<rom crc="5118008c" md5="753cb1d06876f431559ef9c6e671c520" name="EP4108-PCSB00089_00-DWNEXT0000000000-A0101-V0100-feea39a3a7bc7fc0f7b2135c2e821535c2c93da9-PE.pkg" sha1="bce4425e86f4d18cdba75fb0b6e11847a75d57bd" size="2143200"/>
+	</game>
+	<game name="Ecolibrium (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Ecolibrium (Europe) (v1.03) (Update)</description>
+		<rom crc="b2858951" md5="1308dc403d6a4b2d64659ccbc65e6c59" name="EP9000-PCSF00092_00-ECOLIBRIUMR00137-A0103-V0100-21ed5fe1589c87479921394497437fa8c577097e-PE.pkg" sha1="823d3349d6f01aab18244446175ece02a882b7f7" size="71286912"/>
+	</game>
+	<game name="Entwined (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Entwined (Europe) (v1.01) (Update)</description>
+		<rom crc="1b88a900" md5="7846ff5a009096ac8c43ee1beebecc79" name="EP9000-PCSF00578_00-ETWVITA000000000-A0101-V0100-ae1705d93f5c4d2843f0d5ff28e5043e0b2a5b10-PE.pkg" sha1="6c6cf22840e8338bf5c7957c529c116780e29b29" size="18857264"/>
+	</game>
+	<game name="Escape Plan (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Escape Plan (Europe) (v1.04) (Update)</description>
+		<rom crc="db31c0e4" md5="3055216726be015f80ba4e170cc8f66b" name="EP9000-PCSF00023_00-ESCPGAMEMASTEREU-A0104-V0100-65d8a9d4c7ae9d2194345dde9efc021e77de3f46-PE.pkg" sha1="fe694e4eed48e14890023a6dc877d321dfdbc63f" size="1522840992"/>
+	</game>
+	<game name="EscapeVektor (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>EscapeVektor (Europe) (v1.01) (Update)</description>
+		<rom crc="06a35d4a" md5="ce749203a15b106e6d108fa6955e9c76" name="EP4352-PCSB00186_00-NNESCAPEVEKTOREU-A0101-V0100-4c8cec84538c20f5c9ceab054ab0517582c45075-PE.pkg" sha1="10b399dfe312f4e344a2f02177c540d5668ab03f" size="3142368"/>
+	</game>
+	<game name="Everybody's Golf (Europe) (v1.09) (Update)">
+		<category>Games</category>
+		<description>Everybody's Golf (Europe) (v1.09) (Update)</description>
+		<rom crc="13107f6f" md5="9ba3bc17aa780fef854d56d4acda0676" name="EP9000-PCSF00006_00-0011223344556677-A0109-V0100-42f29094f4ac7bfc1a6ba90189f0bb1502684e6a-PE.pkg" sha1="370a56fa8af0537abc6121306c3f7639c5966c25" size="592095184"/>
+	</game>
+	<game name="Exile's End (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Exile's End (Europe) (v1.01) (Update)</description>
+		<rom crc="ebe8bbbf" md5="0fbfe6052ba8cdf1f5ecff14643d8397" name="EP1023-PCSB01021_00-0000000000000000-A0101-V0101-0a8bd1573e57862e668e4feff58e51d3416fbdc5-PE.pkg" sha1="0a40d2a4f91c47abf04585937a9331a8b460b045" size="87610992"/>
+	</game>
+	<game name="Explosive Jake (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Tr) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Explosive Jake (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Tr) (v1.01) (Update)</description>
+		<rom crc="190e30eb" md5="447f4a4fde49f6396429fde45384c54a" name="EP1661-PCSB01419_00-G000000000001329-A0101-V0100-e8064e4b24b4d74b6decbf11f8b3b585190cb35f-PE.pkg" sha1="e9be5c51c1b0d670ab6963cee67ce1a4a7e6c891" size="21821632"/>
+	</game>
+	<game name="FIFA 13 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>FIFA 13 (Europe) (v1.01) (Update)</description>
+		<rom crc="9cc66ae8" md5="ea978d2d46dd4a5a249baf22d8121e0d" name="EP0006-PCSB00170_00-FIFAVITA20130001-A0101-V0100-a02dd2d3755af3b56e1a020f2d36a47f5ca048c4-PE.pkg" sha1="7e06500a04ba8c109bfe3f3811acf3249b016dc5" size="20447472"/>
+	</game>
+	<game name="Facebook (Europe) (v1.06) (Update)">
+		<category>Games</category>
+		<description>Facebook (Europe) (v1.06) (Update)</description>
+		<rom crc="c9715d99" md5="1b998d4a5ee44be4a1866cfbdc09f952" name="EP9000-PCSF00044_00-FB0EU0FULL000100-A0106-V0100-a5c6c727afcd5e2d9c950e7caadd06f0f318a4b0-PE.pkg" sha1="c9e049ec923bebc421b3d697e7d24c551a76e0e0" size="14277440"/>
+	</game>
+	<game name="Factotum90 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Factotum90 (Europe) (v1.01) (Update)</description>
+		<rom crc="871a3489" md5="7e584cbf0c852fbce2396583346d6104" name="EP0995-PCSB01164_00-G000000000001077-A0101-V0100-d93fe25eaad13b1ce8d680f1c87c759fb81c0c36-PE.pkg" sha1="556c1ec6db9910764898eebc80e9a9651c14d923" size="26249264"/>
+	</game>
+	<game name="Fallen Legion - Flames of Rebellion (Europe) (v1.09) (Update)">
+		<category>Games</category>
+		<description>Fallen Legion - Flames of Rebellion (Europe) (v1.09) (Update)</description>
+		<rom crc="c7e091f8" md5="483ee4e56b89cff3af77913851b404ab" name="EP0701-PCSB01136_00-G000000000001050-A0109-V0101-6999c693272eb16ed28eae9e4a12b70dcc39fb04-PE.pkg" sha1="47230dec424572140a1a65295467fab4345d76db" sha256="844b3c06676a1ec63500377e6a0ed60ef9fa74bbef94ab2e6b327e972488d05a" size="1205747440"/>
+	</game>
+	<game name="Fast Striker (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Fast Striker (Europe) (v1.01) (Update)</description>
+		<rom crc="50055bd1" md5="4d88181d887e0bf46b58c7e4cd12e1c7" name="EP2005-PCSB01300_00-FASTSTRIKER00000-A0101-V0100-2f8f8ed5dd01d54d2e518f84a3ab87b1c3e4ccdf-PE.pkg" sha1="1a06c202f1c3b3ca8f4ef2b83bebb44d97f8fd46" sha256="889f00e2e90721f0deeee01dd465e36a869d5932af0c62a069e679270526d85e" size="1058416"/>
+	</game>
+	<game name="Fat Princess - Piece of Cake (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Fat Princess - Piece of Cake (Europe) (v1.03) (Update)</description>
+		<rom crc="0bb3a6b5" md5="d525063097334a1283397a5c28b549fe" name="EP9000-PCSF00612_00-FATPRINCESSPOC00-A0103-V0100-69d1735eccd71933c1a9c370e4737e2c7a63d4ea-PE.pkg" sha1="7197b99a0640c775704547f2cdf699a51db775c2" size="64304272"/>
+	</game>
+	<game name="Fate-Extella (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Fate-Extella (Europe) (v1.01) (Update)</description>
+		<rom crc="adc4129f" md5="9b5d3408b755ffa7ea954efe9712c400" name="EP4492-PCSB01030_00-FATEEXTELLA00000-A0101-V0100-24978b96e34034b2e3dca29aa7c4a2e920dfe364-PE.pkg" sha1="bdc1be96d05ab0fb78f4370c8d66224504e8022c" size="9244016"/>
+	</game>
+	<game name="Fate-Extella Link (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Fate-Extella Link (Europe) (v1.01) (Update)</description>
+		<rom crc="99074f7f" md5="4be77bcbb9b1847041a9241a7eeb23c7" name="EP4492-PCSB01243_00-FATEEXTELLALINKS-A0101-V0100-ac30a37c67e68dec1cc1e9c4602443853d7373b4-PE.pkg" sha1="4a02a27ced4ef028059b3d19d8cd648297ae8b20" sha256="fff610832108745a83dcb67958ef991564ce9004864a3ca62b8a22eec1942c53" size="106594496"/>
+	</game>
+	<game name="Final Horizon (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Final Horizon (Europe) (v1.01) (Update)</description>
+		<rom crc="447f516f" md5="c6d21a86639ea68965f253dd5b9f7f51" name="EP4168-PCSB00523_00-FINALHORIZONVITA-A0101-V0100-186dc677ee714f2b1b05b1d38c9b5355cd78749f-PE.pkg" sha1="1e878ff77e2c0a9b033a74fa9a747e0737c7a2cd" size="1216880"/>
+	</game>
+	<game name="Flickr (Europe) (v1.20) (Update)">
+		<category>Games</category>
+		<description>Flickr (Europe) (v1.20) (Update)</description>
+		<rom crc="38796c23" md5="c163b4c0931c72feb351a34e08ba673a" name="EP9000-PCSF00122_00-0000000000000000-A0120-V0100-c51d0124e5b1ad077857aed307670c11961ee7e9-PE.pkg" sha1="f63f2b9ff1fa4f1b7b1d82c7d37b45a56bdb8860" size="7478928"/>
+	</game>
+	<game name="Foosball 2012 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Foosball 2012 (Europe) (v1.01) (Update)</description>
+		<rom crc="5e0f5ba1" md5="939476f1dabc19e42b757f9ad27bd1e4" name="EP4151-PCSB00160_00-FOOSBALL2012VITA-A0101-V0100-5f45d79825c568386e1376e3d9ed06a546e36e53-PE.pkg" sha1="054f6334bfb67669ba51e69bc19e08d33dff2ab1" size="663424"/>
+	</game>
+	<game name="Football Game (Europe) (En,Fr,De,Es) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Football Game (Europe) (En,Fr,De,Es) (v1.01) (Update)</description>
+		<rom crc="c31be59b" md5="1a682b3dcbfc9e5abf69e952b28979c4" name="EP0896-PCSB01408_00-RATAFOOTBALLGAME-A0101-V0100-ded67ac7221547dab53f7d6df88dafa854d74dc5-PE.pkg" sha1="0d71090396d756225b41c4c47a827d2063480836" size="1925008"/>
+	</game>
+	<game name="Football Manager Classic 2014 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Football Manager Classic 2014 (Europe) (v1.01) (Update)</description>
+		<rom crc="5bc2be95" md5="f293129df4ec8b87a886b5f9b783dfd5" name="EP0177-PCSB00357_00-FOOTBALLMANAGERA-A0101-V0101-82750d787da4f351f2d2516783a3eb489c24f495-PE.pkg" sha1="af8c6e4cdcdfd99028799d04121bb68dd15369c3" size="80311632"/>
+	</game>
+	<game name="Forma.8 (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Forma.8 (Europe) (v1.03) (Update)</description>
+		<rom crc="44e0cab9" md5="a67c476c3e8b083263df3f0068d682c3" name="EP4487-PCSB00527_00-G000000000000470-A0103-V0100-dcc768eccb8c733cba7e81ca96a8c9dfdb643bdc-PE.pkg" sha1="af5c3605869e17095971308b983aac2f3b01ef43" size="78012688"/>
+	</game>
+	<game name="Foursquare (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Foursquare (Europe) (v1.02) (Update)</description>
+		<rom crc="3b9ef82f" md5="d0b5833cc6f6a10581df9ebb488ca09a" name="EP9000-PCSF00090_00-ZZZZZZZZZZZZZZZZ-A0102-V0100-70c62ab40058abd89eb58140585416df2ca062a1-PE.pkg" sha1="1661e9a5684b3b6a794bcd3cd9fc1f24b577a802" size="5108336"/>
+	</game>
+	<game name="Freedom Wars (Europe) (v1.22) (Patch)">
+		<category>Games</category>
+		<description>Freedom Wars (Europe) (v1.22) (Patch)</description>
+		<rom crc="b64e704d" md5="7f000c85922bdd3feabed62a15b4f53a" name="EP9000-PCSF00446_00-FWGAME0000000000-A0122-V0100-f3eebda1af50c8d1f44bb6fb34dd16513b1cf2bd-SP-PE.pkg" sha1="38cd2d5566cd70ae80a2443d43915287820117af" size="14470736"/>
+	</game>
+	<game name="Freedom Wars (Europe) (v1.22) (Update)">
+		<category>Games</category>
+		<description>Freedom Wars (Europe) (v1.22) (Update)</description>
+		<rom crc="89fc93de" md5="48224b63723300cb5e7532746607ae6d" name="EP9000-PCSF00446_00-FWGAME0000000000-A0122-V0100-d280391c9c261a029830d1276d206c89826f7225-PE.pkg" sha1="4b3f292cd9fa2c631eacfdf7632cd4abea5eb329" size="159411360"/>
+	</game>
+	<game name="Frobisher Says! (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Frobisher Says! (Europe) (v1.01) (Update)</description>
+		<rom crc="951a497b" md5="c86fc2f5c8ca74a9a285a1a26df14e7b" name="EP9000-PCSF00043_00-FROBISHERSAYS001-A0101-V0101-0674d7c78e44c32239c7b64475f1a8b0cea5f772-PE.pkg" sha1="04069aa1d9e4ef4272398d51aeb890ee63aaabe0" size="59397584"/>
+	</game>
+	<game name="Frozen Synapse Prime (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Frozen Synapse Prime (Europe) (v1.02) (Update)</description>
+		<rom crc="6367ad21" md5="5ecc3274de64601b02775e05a5da4d0d" name="EP4415-PCSB00323_00-FROZENSYNAPSE000-A0102-V0100-0231d2383fd9d4c92ff7cc0dfe6e871c9515060c-PE.pkg" sha1="9dadd3863a3ce250a1c82a9a09ac7161e6d6e3f6" size="9056080"/>
+	</game>
+	<game name="Full Throttle Remastered (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Full Throttle Remastered (Europe) (v1.01) (Update)</description>
+		<rom crc="ffb128a6" md5="3ac9a3154739aadc7c1cc7c978d26bdc" name="EP2154-PCSB01053_00-FULLTHROTTLEVTUS-A0101-V0100-2130d53a1d68881751bfae7f34b81de7b05943de-PE.pkg" sha1="137714193d218d4802cc87370ec1333a73a9b249" size="986092992"/>
+	</game>
+	<game name="FullBlast (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>FullBlast (Europe) (v1.01) (Update)</description>
+		<rom crc="9258e0d8" md5="500998128c0bf8ee636d0e1996791320" name="EP0896-PCSB01247_00-RATALAGFULLBLAST-A0101-V0100-d57658ac84a1bd9b21f02e1893d1c5328304530b-PE.pkg" sha1="5679063c9e48bb194a1cf9c0cce74dd1d4c146df" sha256="2ef9360f25d7334fa744a4d4da5a01c4410a2242954e345560e5a7644e044559" size="102960576"/>
+	</game>
+	<game name="Futuridium EP Deluxe (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Futuridium EP Deluxe (Europe) (v1.01) (Update)</description>
+		<rom crc="d4a84b47" md5="bc1d0a5fd23d84eb42faa68f62c41fcc" name="EP4487-PCSB00528_00-FUTURIDIUMEPDEUR-A0101-V0100-4632ac50133eeb637147aa81e2698e7fdf548986-PE.pkg" sha1="009f5bee679f45dcc8dea646f53677da2d4168ed" size="256876976"/>
+	</game>
+	<game name="Gal Gun - Double Peace (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Gal Gun - Double Peace (Europe) (v1.02) (Patch)</description>
+		<rom crc="f048de9c" md5="d35501fabfd07777d08f0e1221c141fa" name="EP4293-PCSB00956_00-GALGUNWAPP000000-A0102-V0100-81ce013b0c1463176f27c125279805809f375ab4-SP-PE.pkg" sha1="8fe1b1192e78d0b2c1bab578b21df71e73dda264" size="178417264"/>
+	</game>
+	<game name="Gal Gun - Double Peace (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Gal Gun - Double Peace (Europe) (v1.02) (Update)</description>
+		<rom crc="21170bb0" md5="9098a8c8b645e4ad84e0a81093ee1a8f" name="EP4293-PCSB00956_00-GALGUNWAPP000000-A0102-V0100-12d62470216ff4282944cac3c8f71ffccff2552a-PE.pkg" sha1="5e14b160e29d399261247e7f76038783d7c467af" size="193351280"/>
+	</game>
+	<game name="Garou - Mark of the Wolves (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Garou - Mark of the Wolves (Europe) (v1.03) (Update)</description>
+		<rom crc="688c5afd" md5="4b75c6f1303539b73d4263d88ca6b37c" name="EP0576-PCSB01020_00-GAROU00000000PSV-A0103-V0100-fb7ecd3d97ea75c8276beade259d9b18077902bd-PE.pkg" sha1="e49867431d03bfe18f75fd5b885d53de8f55c13c" size="7256992"/>
+	</game>
+	<game name="GemSmashers 3D (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>GemSmashers 3D (Europe) (v1.01) (Update)</description>
+		<rom crc="408379c0" md5="a5b91a0e57337de1417df8367558047a" name="EP4358-PCSB00965_00-GEMSMASHERS3D000-A0101-V0100-ecdd3c845a6a92bd6b3c454f3a4bd639860cd0a0-PE.pkg" sha1="03b8cca48878d0e2687cce0318d355d6cd0893e7" size="1565008"/>
+	</game>
+	<game name="Ghoulboy - Dark Sword of Goblin (Europe) (En,Ja,Es,Zh,Ko,Tr) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Ghoulboy - Dark Sword of Goblin (Europe) (En,Ja,Es,Zh,Ko,Tr) (v1.02) (Update)</description>
+		<rom crc="9c3175a5" md5="c43eab0d8960cec2a9802d3a59ad47cb" name="EP3540-PCSB01378_00-G000000000001288-A0102-V0100-75be2af1904d8ab53732ecdfe92a2af69635e327-PE.pkg" sha1="17580fb773b49938085a825be88a615ce50b9d3e" size="83913888"/>
+	</game>
+	<game name="God Eater Resurrection (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>God Eater Resurrection (Europe) (v1.01) (Update)</description>
+		<rom crc="36002f62" md5="6b893c179a5aa9b603daca56321d1825" name="EP0700-PCSB00874_00-DOWNLOADABLEGAME-A0101-V0100-bbd516e4df45c52f071745ac5124bc0c74012672-PE.pkg" sha1="71b51bb0bbbee1558afa18565f27d24445d72cc0" size="16091760"/>
+	</game>
+	<game name="God Wars - Future Past (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>God Wars - Future Past (Europe) (v1.04) (Update)</description>
+		<rom crc="d95734c6" md5="b85dc68363c3411bf3dce3bb120588bd" name="EP1063-PCSB01073_00-GODWARSFUTURE001-A0104-V0100-e82df9f92bc284de14886ac6ef5746e1a54efb1e-PE.pkg" sha1="ea2036eaac59b51f719fadd9d92e085eabfaa4c6" sha256="1055cea06aba8f2a93d799b6155b5efcfdc8c52ee569b2d8a7f324a3c58a335e" size="1626014256"/>
+	</game>
+	<game name="Grand Theft Auto - iFruit (Europe) (v1.26) (Update)">
+		<category>Games</category>
+		<description>Grand Theft Auto - iFruit (Europe) (v1.26) (Update)</description>
+		<rom crc="444890c2" md5="67d3e2e9c319d1d83cbef02b7ec34b15" name="EP1004-PCSB00444_00-GTAVIFRUITAPP000-A0126-V0100-79749f791989e3b52625c542e049501b34b0dea0-PE.pkg" sha1="4fbe315658e49ecf691fc791f731552e7ec483fd" size="85633920"/>
+	</game>
+	<game name="Gravity Crash Ultra (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Gravity Crash Ultra (Europe) (v1.01) (Update)</description>
+		<rom crc="ede405eb" md5="3f5daf59f0874d178e15e4301a1b002a" name="EP4470-PCSB00525_00-JAWGCULTRASCEE01-A0101-V0100-d63b67a7a6ec00dbba0a0ed30c2a102a3d8f14d2-PE.pkg" sha1="e31870fa0d050d56524bd2fbdce12b688595a5c3" size="2426976"/>
+	</game>
+	<game name="Grim Fandango Remastered (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Grim Fandango Remastered (Europe) (v1.03) (Update)</description>
+		<rom crc="41b6be98" md5="d499a452f4cf5ca917aacf8407943bd6" name="EP2154-PCSB00731_00-GRIMFANDANGOPSVI-A0103-V0101-ba0c3f8c0945c960d7c295601fa21a388c13b13d-PE.pkg" sha1="117c746fb83f40b8c68e7dcfe89f33d1307a75a0" size="30271088"/>
+	</game>
+	<game name="Guacamelee! (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Guacamelee! (Europe) (v1.03) (Update)</description>
+		<rom crc="a87d4b0e" md5="8d3fa0228953ed568188f6a0a7a73c28" name="EP2145-PCSB00189_00-GUACAMELEE000000-A0103-V0101-431c50e466803c41d5f88035791160eaf4ce0d57-PE.pkg" sha1="2ad312cdaa5e94f485d491f68a142bad9d32187a" size="77928368"/>
+	</game>
+	<game name="Hatoful Boyfriend (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hatoful Boyfriend (Europe) (v1.01) (Update)</description>
+		<rom crc="59408c2c" md5="2ac7af77c0a6d9b407bcce0b04e38615" name="EP3643-PCSB00735_00-HATOFULBOYFNDPSV-A0101-V0100-cc13c7f916bc8ed646aa42a1a5aaa65978611d52-PE.pkg" sha1="82647b0665e46fe9231370b99a192d3287b081af" size="20845952"/>
+	</game>
+	<game name="Hatoful Boyfriend - Holiday Star (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hatoful Boyfriend - Holiday Star (Europe) (v1.01) (Update)</description>
+		<rom crc="196eb8fc" md5="99c4c6b07f04968ed43069bdf1097212" name="EP3643-PCSB00851_00-HATOFULBFNPSV000-A0101-V0100-f5751e6170a69c25c5aef59bf2700fd463924b33-PE.pkg" sha1="8f55d0985507f6d49930aa5071581f58df932039" size="1524102816"/>
+	</game>
+	<game name="Helldivers (Europe) (v7.01) (Patch)">
+		<category>Games</category>
+		<description>Helldivers (Europe) (v7.01) (Patch)</description>
+		<rom crc="562b2fa4" md5="4b54efcc675504d3f96c9a9017c6a48d" name="EP9000-PCSF00465_00-HELLDIVERSSCEE00-A0701-V0100-087620a3d7f9fa35c06e01caf5d74cf3059509c2-SP-PE.pkg" sha1="9ab991a7e523de6c7508f2d534842e1443e37c92" size="11375360"/>
+	</game>
+	<game name="Helldivers (Europe) (v7.01) (Update)">
+		<category>Games</category>
+		<description>Helldivers (Europe) (v7.01) (Update)</description>
+		<rom crc="d33f86c9" md5="17f94227216a45d0636b57f8a99806b0" name="EP9000-PCSF00465_00-HELLDIVERSSCEE00-A0701-V0100-461e21733e4918b50d6fe8daadb031ea2f1b1cf1-PE.pkg" sha1="f6809e3d5118f8d6de33625ed887952d15f5a013" size="1804185392"/>
+	</game>
+	<game name="Hitman GO - Definitive Edition (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hitman GO - Definitive Edition (Europe) (v1.01) (Update)</description>
+		<rom crc="b859cd41" md5="f4f901bf8c9bc5f487b399601aecddbc" name="EP0082-PCSB00922_00-HITMANGOPSVSQENM-A0101-V0100-8d65dea8a5ec88860d18df82e7b528678ccd2e37-PE.pkg" sha1="b3e16b5bd6f2e29df09a77a9d71a6494d478dd70" size="367311328"/>
+	</game>
+	<game name="Hohokum (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hohokum (Europe) (v1.01) (Update)</description>
+		<rom crc="f8387e6f" md5="69b8232d6222f976b0c793eb181795fc" name="EP9000-PCSF00430_00-HOHOKUMGAME00001-A0101-V0100-2096b0988cb83f34a1b1b8f8ce3b95cc7d8a12e5-PE.pkg" sha1="775e06db360b4f77b21c9c027380eca32dc64340" size="4499968"/>
+	</game>
+	<game name="Home - A Unique Horror Adventure (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Home - A Unique Horror Adventure (Europe) (v1.02) (Update)</description>
+		<rom crc="bfddedd5" md5="3dc85eb6044a3d19d39ce63771099c0b" name="EP4538-PCSB00687_00-000000000HOMEPSV-A0102-V0101-8dbb0b48df2d71ae35394574b3d6a92acf1910dd-PE.pkg" sha1="bce097e088953b41fce211264757824097310384" size="47809952"/>
+	</game>
+	<game name="Hotline Miami (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hotline Miami (Europe) (v1.01) (Update)</description>
+		<rom crc="d9335de2" md5="dc60d37e93b504b71ed00d5cb5e1d08e" name="EP3643-PCSB00318_00-HOTLINEMIAMI0000-A0101-V0101-073b9170ceece484eeb7cc36f052c1609ddd3cf5-PE.pkg" sha1="a62d2e6b8cdb34997ee3b1bf116d7a6d58d66fdb" size="7613168"/>
+	</game>
+	<game name="Hotline Miami 2 - Wrong Number (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hotline Miami 2 - Wrong Number (Europe) (v1.01) (Update)</description>
+		<rom crc="d88fce5f" md5="119cb966345233d98ebf6dd8a7d41d81" name="EP3643-PCSB00511_00-HOTLINEMIAMI2000-A0101-V0100-c5bc77dc70f3726ce25393914676dbf28e6b700f-PE.pkg" sha1="329599b445c1a242c155b57d64623f52e473613a" size="27204592"/>
+	</game>
+	<game name="Hungry Giraffe (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hungry Giraffe (Europe) (v1.01) (Update)</description>
+		<rom crc="51ed0725" md5="e6d40fcb52f90fd0e64a0238bd800ce7" name="EP4132-PCSB00246_00-HUNGRYGIRAFFE000-A0101-V0100-447cf105fa6633fab13315bc750d3916c60c8031-PE.pkg" sha1="d4e169bf0f8a50d2bbe958d3b3142b7dd29857a8" size="6606000"/>
+	</game>
+	<game name="Hungry Horde, The (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Hungry Horde, The (Europe) (v1.02) (Update)</description>
+		<rom crc="f004c868" md5="1c5fb9b4d5189a7fc1143f440a448d2e" name="EP9000-PCSF00501_00-THEHUNGRYHORDE01-A0102-V0101-39523a541070928275912d6f9611a79f37d54346-PE.pkg" sha1="d8052a3aaa582a76f2b7134dbb3e46395785a652" size="219281344"/>
+	</game>
+	<game name="Hustle Kings (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hustle Kings (Europe) (v1.01) (Update)</description>
+		<rom crc="009f3eec" md5="5060031b80832d6aee2ec19484a3fb71" name="EP9000-PCSF00010_00-UHUSTLEKIN000001-A0101-V0101-6a8ea5360ae157b40226c9f3abf44a9ac56f219c-PE.pkg" sha1="64c076c476301c09bf2f81fa92fcfd077760c8de" size="14002848"/>
+	</game>
+	<game name="Hyperdimension Neptunia Re;Birth1 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hyperdimension Neptunia Re;Birth1 (Europe) (v1.01) (Update)</description>
+		<rom crc="fd6096fc" md5="5f365cf11a1ba0c540426ed59926916e" name="EP0031-PCSB00579_00-NEPTUNEREBIRTH01-A0101-V0100-6307ff2c321f1435f5368e76cdf7a4c39cca30de-PE.pkg" sha1="c20ba050ec54d6167d34d207313f7293977be8eb" size="11993568"/>
+	</game>
+	<game name="Hyperdimension Neptunia Re;Birth2 - Sisters Generation (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Hyperdimension Neptunia Re;Birth2 - Sisters Generation (Europe) (v1.01) (Update)</description>
+		<rom crc="9eb68023" md5="31c8505b8d8a1bc45e3adca7834456b1" name="EP0031-PCSB00626_00-NEPTUNEREBIRTH02-A0101-V0100-be268566578e96ec744b23be53938aab432c0aa6-PE.pkg" sha1="1668e8b2386eb7d19a5236112fb56368a9b07e6f" size="3802992"/>
+	</game>
+	<game name="I Am the Hero (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>I Am the Hero (Europe) (v1.01) (Update)</description>
+		<rom crc="79fd6379" md5="78a30e385d440ce23e98e7f91f4899d5" name="EP0896-PCSB01201_00-RATAG0IAMTHEHERO-A0101-V0100-ccd4004f81f633d1a4388be5b2280fd6b4cc62d0-PE.pkg" sha1="82f8427fdec31cdaaafd783d8141f4a469341d2c" sha256="f8b9b9e8d53a613bd6ffc5809261050802e8e6706e3c46a0eecd94bf55446938" size="60132448"/>
+	</game>
+	<game name="Iconoclasts (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Iconoclasts (Europe) (v1.04) (Update)</description>
+		<rom crc="6e0a6729" md5="04e3a680d410bdd01df2b77949599165" name="EP1268-PCSB01192_00-ICONOCLASTS00000-A0104-V0100-4ef89faea7d8de934df1e55d150b975c08d665c9-PE.pkg" sha1="02bdea27a4fe17a3fc933c1e79a22ca531af98a1" sha256="63d521c4f20c33190191e254898217033f0e707fad535f270e602bbf4e81d545" size="211925488"/>
+	</game>
+	<game name="Indoor Sports World (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Indoor Sports World (Europe) (v1.01) (Update)</description>
+		<rom crc="bfc29836" md5="67c7c16c069c2d898d6fb7294d4c5ece" name="EP4090-PCSB00436_00-ISPORTSWORLDPSDB-A0101-V0100-7b264461ab6c93ed50dc6a8e6696cdaf4255976b-PE.pkg" sha1="5f21cf28e4fd51aa53677f0dca05ff994ab29bbb" size="7574256"/>
+	</game>
+	<game name="Injustice - Gods Among Us Ultimate Edition (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Injustice - Gods Among Us Ultimate Edition (Europe) (v1.01) (Update)</description>
+		<rom crc="8b90e4c2" md5="43b65c18535e65168ee71405a1ad4e99" name="EP1018-PCSB00356_00-0000000000000000-A0101-V0101-3f312f996f302d0742edb2195c49e61d1a401385-PE.pkg" sha1="a56e046f9af0c9d8cc241c52287c8f44e1bd50f7" size="10328720"/>
+	</game>
+	<game name="InkSplosion (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>InkSplosion (Europe) (v1.01) (Update)</description>
+		<rom crc="55456c00" md5="dbe3fde11500669c4ab1f82ab96a079f" name="EP0896-PCSB01230_00-RATAGINKSPLOSION-A0101-V0101-64d24fd955eeae69a4ebaed961ac6aa5b245ed89-PE.pkg" sha1="d1269414b3166a6be075edc7c0a7d4920a51f36f" sha256="784931e0adbce902dba6583f7abd6ff769ee8b95b4ab5998b5b8b4e9dec88cde" size="90892816"/>
+	</game>
+	<game name="Invizimals - The Alliance (Europe) (En,Ru) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Invizimals - The Alliance (Europe) (En,Ru) (v1.02) (Update)</description>
+		<rom crc="14fc1a0e" md5="7c21414e582f260840b51a0679131d14" name="EP9000-PCSF00164_00-INVIZIMALS4000EU-A0102-V0100-58a68115efbde78eabbbb3d7e6d36a1799273ebb-PE.pkg" sha1="5abfab975bdc648b52e3d91244e77cdd2dbcd34b" size="34998400"/>
+	</game>
+	<game name="Invokers Tournament (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Invokers Tournament (Europe) (v1.04) (Update)</description>
+		<rom crc="32d469ee" md5="b261145221fc634f904c26e7165acb1b" name="EP4128-PCSB00595_00-G000000000000533-A0104-V0100-c28449804d687a7a484f686016892ec07f3abab9-PE.pkg" sha1="a92bc2af43e21ee9c4b7fd883337e292a1888f12" size="17654944"/>
+	</game>
+	<game name="Jak and Daxter Trilogy, The (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Jak and Daxter Trilogy, The (Europe) (v1.01) (Update)</description>
+		<rom crc="b69222a2" md5="24d3237752ea28a06bb816ee1804d55e" name="EP9000-PCSF00247_00-000JAKCOLLECTION-A0101-V0100-4714ae3163ef35a1c11c6068884d67a79d57201f-PE.pkg" sha1="f515cf45967ffabef26a194ea58bef4fbe66bfbf" size="21962992"/>
+	</game>
+	<game name="Jet Set Radio (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Jet Set Radio (Europe) (v1.01) (Update)</description>
+		<rom crc="ae2fc2d3" md5="d940b1054a0d946fe8adbaaba44a3736" name="EP0177-PCSB00136_00-JETSETRADIODEMO0-A0101-V0100-aacb5872c8bfcdf8d2285a0e1a76da69657f0fa9-PE.pkg" sha1="63f4f125cc5dff1a0b648d4ee80fff6b6544a292" size="123438160"/>
+	</game>
+	<game name="Jetpack Joyride (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Jetpack Joyride (Europe) (v1.02) (Update)</description>
+		<rom crc="c59b62ae" md5="7d0cb0be8d2057096c5410c138bfe2ec" name="EP4249-PCSB00244_00-JETPACKJOYRIDE00-A0102-V0101-8448c9941d37224a44e657ee3791983c01aa6155-PE.pkg" sha1="2254f6ca52302891fd19f5e339c0a791646db9d0" size="4757584"/>
+	</game>
+	<game name="Jetpack Joyride Deluxe (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Jetpack Joyride Deluxe (Europe) (v1.02) (Patch)</description>
+		<rom crc="d147592d" md5="37674c8c4532551623e00bc6533bc33f" name="EP4249-PCSB00664_00-JETPACKJOYRIDE17-A0102-V0100-9d3399283e1e1612a9e45538f8214f7303ed31f9-SP-PE.pkg" sha1="1a71dff16af8c365ae3e754446b2d3ed6fb23720" size="26625200"/>
+	</game>
+	<game name="Jetpack Joyride Deluxe (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Jetpack Joyride Deluxe (Europe) (v1.02) (Update)</description>
+		<rom crc="ca388778" md5="4f6de07418cd606d11243cfeca77bafc" name="EP4249-PCSB00664_00-JETPACKJOYRIDE17-A0102-V0100-4f222098f427e1daafb38fbbf441fc42bec0fbfd-PE.pkg" sha1="3acee0d73b1d6920693d5a539bab8c841dad2158" size="26793120"/>
+	</game>
+	<game name="Joe Danger (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Joe Danger (Europe) (v1.01) (Update)</description>
+		<rom crc="a53d5fd6" md5="044522c1d64de17ea3d92ab25cf36bf8" name="EP2034-PCSB00475_00-JOEDANGER1VITA01-A0101-V0101-18cd37d876669a9123692e8ece70a61fae363ff1-PE.pkg" sha1="d70a1bdcb1a66b788eea5187706714df3078f9a1" size="5211904"/>
+	</game>
+	<game name="Kick &amp; Fennick (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Kick &amp; Fennick (Europe) (v1.01) (Update)</description>
+		<rom crc="8ea68f22" md5="1a0ac5cf7e106fd2bc6af6ae3b742ceb" name="EP4499-PCSB00611_00-KICKANDFENNICKEU-A0101-V0100-1dddaa2eabf5fad0a7f8ea55d818ed3007f56d7b-PE.pkg" sha1="7c1cb61809333af8069b2fe9484ac5867ca5fe4e" size="86122032"/>
+	</game>
+	<game name="Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt) (v1.12) (Patch)">
+		<category>Games</category>
+		<description>Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt) (v1.12) (Patch)</description>
+		<rom crc="04c01d09" md5="967694ba71c5f42782ccc8aaf28b40cc" name="EP9000-PCSF00243_00-KZV0000000000000-A0112-V0100-3409cac81e2cfd768981dd620c0aec6575ee17c5-SP-PE.pkg" sha1="9e4bf2e2d5810567e4e14a4ebef455b30aebfa08" size="8705440"/>
+	</game>
+	<game name="Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt) (v1.12) (Update)">
+		<category>Games</category>
+		<description>Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt) (v1.12) (Update)</description>
+		<rom crc="9545df2a" md5="9eb0444134c584e5273629278e17c915" name="EP9000-PCSF00243_00-KZV0000000000000-A0112-V0100-ba776edac287d843170a0008d957ff17bd1468aa-PE.pkg" sha1="3dacb68350363234f7626025b5f6e2ae6fa291f3" size="563188784"/>
+	</game>
+	<game name="King of Fighters '97, The - Global Match (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>King of Fighters '97, The - Global Match (Europe) (v1.02) (Update)</description>
+		<rom crc="e9ab699c" md5="a099fd407186d9f5cf93133f92d5d0e7" name="EP0576-PCSB01218_00-KOF97GLOBALMATCH-A0102-V0100-fcdc441df3ffe3d90e1c459efca0c8097e309d0b-PE.pkg" sha1="b180e2526c920e9561aa119cbcceb088f262b6ac" sha256="9ea5f6d20cadacba28580238bad4f56a4aec86225a5713689f55da0004a44d9d" size="5222672"/>
+	</game>
+	<game name="LEGO Batman 3 - Beyond Gotham (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>LEGO Batman 3 - Beyond Gotham (Europe) (v1.01) (Update)</description>
+		<rom crc="7ec6c7af" md5="641f4de333ede266f8a1a8999c70490b" name="EP1018-PCSB00563_00-LEGOBATMANTHREE0-A0101-V0100-774f9a5eb27c4738f21e6b663998423b57930dcb-PE.pkg" sha1="4e666aed8bd43686475e8f1057f685fe12531407" size="3657568"/>
+	</game>
+	<game name="LEGO Ninjago - Nindroids (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>LEGO Ninjago - Nindroids (Europe) (v1.01) (Update)</description>
+		<rom crc="6f0fab60" md5="616b5b65219293e17e55f685d4c8bab6" name="EP1018-PCSB00500_00-LEGONINJAGO00000-A0101-V0100-dcdf2db046d3db847c88dffaaf5c52cb2c67cfbd-PE.pkg" sha1="9419ee52ae86b3305561483c3ea34166c7b2e870" size="210484128"/>
+	</game>
+	<game name="LEGO The Hobbit (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>LEGO The Hobbit (Europe) (v1.02) (Update)</description>
+		<rom crc="e647de8f" md5="16b794590370fb9d4310b86b26851c51" name="EP1018-PCSB00503_00-LEGOHOBBIT000000-A0102-V0100-4ce2f917188bd4675f08d9f35af54fe72e2ae207-PE.pkg" sha1="2686fa1187c2e96963d25161cbb8565b47c24ba5" size="3859056"/>
+	</game>
+	<game name="LEGO The Lord of the Rings (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>LEGO The Lord of the Rings (Europe) (v1.01) (Update)</description>
+		<rom crc="9902b519" md5="f1f1f4e28bac9f40dcf82256062125b4" name="EP1018-PCSB00125_00-LEGOLORDOFTHERNG-A0101-V0100-779114441f6d73a463ee2c26f6e69a2c5c76cfce-PE.pkg" sha1="697e4cf510fcd82679cc8e949bc7b4193a866b32" size="1499696"/>
+	</game>
+	<game name="La-Mulana EX (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>La-Mulana EX (Europe) (v1.01) (Update)</description>
+		<rom crc="985c6e8b" md5="b45b1d3c0e18a7b7341a7115555e3168" name="EP4034-PCSB00694_00-G000000000000627-A0101-V0101-f5197252e40549a43e9139bcaf94b8a7bada546e-PE.pkg" sha1="d7549d6cdb0a67671ab21eec6ff1d06f3a2e55d6" size="3412656"/>
+	</game>
+	<game name="Last Blade 2, The (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Last Blade 2, The (Europe) (v1.04) (Update)</description>
+		<rom crc="68dad455" md5="d1460b33d3913f8539b8b2b5d2b681f5" name="EP0576-PCSB00927_00-LASTBLADE2000PSV-A0104-V0100-490c1f8b06b4e898becb2450c415707fcd96c4dc-PE.pkg" sha1="9fbabdb1efcfa4170a00c162ee4d283a464e7963" size="2502848"/>
+	</game>
+	<game name="League of Evil (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>League of Evil (Europe) (v1.01) (Update)</description>
+		<rom crc="421b0169" md5="ff44ee3b1d2b0520f46901dc1b7da841" name="EP0896-PCSB01113_00-RATAG0LEAGUEOFEV-A0101-V0101-153c06b0b1656060d112c5ae3c50674b61c74c3d-PE.pkg" sha1="d2a865c4e44dc2b12811919d9dfa1f705304bd3c" sha256="920cfe73057b5a589303d64c6db4fdfab292fa629021fead32eba9adbebdef8e" size="566624"/>
+	</game>
+	<game name="Legend of Heroes, The - Trails of Cold Steel (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Legend of Heroes, The - Trails of Cold Steel (Europe) (v1.01) (Update)</description>
+		<rom crc="2a5d7d3d" md5="6d4fe66f70aabf6a189c9f0d87aaf0bf" name="EP1063-PCSB00866_00-G000000000000788-A0101-V0100-91857bcd9a4c80a2e5a22f0504b34ca71167a7cf-PE.pkg" sha1="acc888f02b95fe2e94c0e3cfe4cab7dfe9076ef6" size="10848192"/>
+	</game>
+	<game name="Letter Quest Remastered (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Letter Quest Remastered (Europe) (v1.01) (Update)</description>
+		<rom crc="1b2d9063" md5="706b65e2d4e1de0971b093c05127bfb0" name="EP8925-PCSB00879_00-LETTERQUESTPSV0E-A0101-V0100-d94ad6086e35eb00c7ea500174eb4d51cd26c463-PE.pkg" sha1="5f8f861ce78fb4c44883e5c38af4dc2aaa47854f" size="91050176"/>
+	</game>
+	<game name="Lichtspeer (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Lichtspeer (Europe) (v1.02) (Update)</description>
+		<rom crc="43b14a19" md5="7389035d729829d073af5f1bc71f509e" name="EP2627-PCSB01047_00-LICHTSPEERGAME00-A0102-V0100-1aff0bfc902629738eb364dde9809add172fcc70-PE.pkg" sha1="22f7a8d797cd5af220a2d2ce73c42102178730a1" size="132920528"/>
+	</game>
+	<game name="Licky the Lucky Lizard Lives Again (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Licky the Lucky Lizard Lives Again (Europe) (v1.05) (Update)</description>
+		<rom crc="2e6587df" md5="e7907ca945e0f5c98de732c406086bdc" name="EP2917-PCSB01154_00-LICKYLIZARD00005-A0105-V0100-f56c6357cf69576fb7097e5d0dd95c2cf1219c63-PE.pkg" sha1="994a821de7f7d8b244e478055e9c1cf731b0cd4e" size="32392816"/>
+	</game>
+	<game name="Little Deviants (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Little Deviants (Europe) (v1.01) (Update)</description>
+		<rom crc="eefbcd29" md5="404791e699fd103141fb89a38cc822a2" name="EP9000-PCSF00017_00-LITTLEDEVIANTS00-A0101-V0100-ae9a345c0b37b04538ff5ab4cde43ef3adff372b-PE.pkg" sha1="30bfb4bf2161e66d17f9f2c81e4d904aa276870b" size="49228816"/>
+	</game>
+	<game name="LittleBigPlanet (Europe) (v1.22) (Update)">
+		<category>Games</category>
+		<description>LittleBigPlanet (Europe) (v1.22) (Update)</description>
+		<rom crc="2b3f87e2" md5="4391fe6afbfe50c4d2262a38d42293ee" name="EP9000-PCSF00021_00-LITTLEBIGPLANETV-A0122-V0100-88e3b1c1474746f94a18adc02348613cef919b59-PE.pkg" sha1="407b3936dee54e95656d20b752e2f722de8a444f" size="345336288"/>
+	</game>
+	<game name="LittleBigPlanet Marvel Super Hero Edition (Europe) (v1.22) (Update)">
+		<category>Games</category>
+		<description>LittleBigPlanet Marvel Super Hero Edition (Europe) (v1.22) (Update)</description>
+		<rom crc="261dcd8b" md5="0a8b8ddda37787925c8cbcaf65300ce5" name="EP9000-PCSF00516_00-LBPVITAGOTY00000-A0122-V0100-8164cbf927aea7701bc2a5e96b40b43bac8636ff-PE.pkg" sha1="0afb1f50d96882cb2c5dc182895fa752b2808aab" size="329616976"/>
+	</game>
+	<game name="Live from PlayStation (Europe) (v2.01) (Update)">
+		<category>Games</category>
+		<description>Live from PlayStation (Europe) (v2.01) (Update)</description>
+		<rom crc="fe1fbb27" md5="56ee333020037093ff5609f5821165ce" name="EP9000-PCSF00658_00-LFPS000000000000-A0201-V0100-c65a6168d7ca9a59ef282723bff3f4034655cfbb-PE.pkg" sha1="4c034b8972fd83e44d46354f0b176f9ef7fdb592" size="5376752"/>
+	</game>
+	<game name="LiveTweet (Europe) (v2.10) (Update)">
+		<category>Games</category>
+		<description>LiveTweet (Europe) (v2.10) (Update)</description>
+		<rom crc="0744abf9" md5="a1d2c904a0b38c7e1a4446fae4fd3db2" name="EP9000-PCSF00123_00-0000000000000000-A0210-V0100-ed09b284e9008a92d222b9d4546ac6ff44398770-PE.pkg" sha1="402a72775cfdafb61135edd0e8e3f6a47f99c76d" size="3836192"/>
+	</game>
+	<game name="Lost Child, The (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Lost Child, The (Europe) (v1.02) (Update)</description>
+		<rom crc="11440319" md5="d51ecafbf0dbb48eb78e25bdfbebab76" name="EP1063-PCSB01194_00-THELOSTCHILD0000-A0102-V0100-5a07a191e0fe1a4fd6c23e51071645d31ef9c7ff-PE.pkg" sha1="aff207cd42434bd2682dbd272d512119ab500bf4" sha256="2344216432a1d704601a1373681a4cb6a50b22925d905cdb6b2c164961b88155" size="497645648"/>
+	</game>
+	<game name="Lumines - Electronic Symphony (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Lumines - Electronic Symphony (Europe) (v1.02) (Update)</description>
+		<rom crc="5125a929" md5="0b6181a448fe85a4307303636ed662e1" name="EP0001-PCSB00061_00-LUMINESELECTROSY-A0102-V0100-b55bdd54be1a73097640bae3e889d158f1c41446-PE.pkg" sha1="1635eb09637bce34272f5fa7651a28cb2f88a967" size="8572512"/>
+	</game>
+	<game name="Lumo (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Lumo (Europe) (v1.05) (Update)</description>
+		<rom crc="dfed8607" md5="ef59141456580a9f3711f7fb20e94de1" name="EP4034-PCSB00939_00-LUMO000000000000-A0105-V0100-c14e5cb7a508974f18408f45fb35b83beedf35cb-PE.pkg" sha1="eff9c91a38ced1d9e1dcf329755904499ddfd84a" size="230908880"/>
+	</game>
+	<game name="Men's Room Mayhem (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Men's Room Mayhem (Europe) (v1.01) (Update)</description>
+		<rom crc="cb380556" md5="c82cc1a270b24a11b8580d947782af34" name="EP4337-PCSB00313_00-MENSROOM00000002-A0101-V0100-290b336ecc475d5223395489d41081b818e128e3-PE.pkg" sha1="cd61655232b039b791fcd3ac7f2b3d0559400da9" size="2808608"/>
+	</game>
+	<game name="Mercenary Kings - Reloaded Edition (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Mercenary Kings - Reloaded Edition (Europe) (v1.04) (Update)</description>
+		<rom crc="3ad947f6" md5="c0e4cc47ec4c06d9737b7af7f06fc3e7" name="EP2114-PCSB01135_00-MERCENARYKINGS00-A0104-V0100-babc77b11eb1982983f57c933c4812aca900df4e-PE.pkg" sha1="1ae83df63ef1a312176e418b815a6848cdab0591" sha256="cb8dfb8bd20588dfe940da8b25d63a5597f48251afc848887f101cc8e5fffb67" size="102819024"/>
+	</game>
+	<game name="Metagal (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Metagal (Europe) (v1.01) (Update)</description>
+		<rom crc="8220c5ab" md5="89abb6d4c264562449f8199c9220b2e9" name="EP0896-PCSB01109_00-RATAGAME0METAGAL-A0101-V0100-5dbe45e8abd893038c7942e60d5cfcf2b5bec83d-PE.pkg" sha1="eb736001f1b6653216b2ff34e6993d5b4286baf7" sha256="ec55bf463290de7599006c18fc39535f6d2daefda88ed652b853889ea6cdffeb" size="46680000"/>
+	</game>
+	<game name="Metal Slug 3 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Metal Slug 3 (Europe) (v1.01) (Update)</description>
+		<rom crc="0c7228da" md5="91a97fb72cbd33927bb012021914f4aa" name="EP0576-PCSB00772_00-METALSLUG3000000-A0101-V0100-efa4b7d43e89bf2718869406c19da157fff65fc9-PE.pkg" sha1="fc474e1b427705cfdc74d392667c1a21447438ec" size="1993952"/>
+	</game>
+	<game name="Metrico (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Metrico (Europe) (v1.01) (Update)</description>
+		<rom crc="1ba22a6a" md5="283a2c7592ba45d8575dcef9accb17d5" name="EP2116-PCSB00616_00-METRICO8VITA8EU8-A0101-V0100-74afb731e429060ce32f0c5986ad4d7a2faecee6-PE.pkg" sha1="dd3eebec8fc7c78bd79e58a7f59c635a08225e90" size="637733328"/>
+	</game>
+	<game name="Metropolis - Lux Obscura (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Metropolis - Lux Obscura (Europe) (v1.03) (Update)</description>
+		<rom crc="c70c4a34" md5="93ee1648698d88dc93976680a23f0292" name="EP1661-PCSB01214_00-G000000000001127-A0103-V0100-0e1d0c51b818727e5fa84f1249a1b5df5a69d33a-PE.pkg" sha1="1fa1733d686c2368848b30cddb28f1ac0ceefcb8" sha256="6faf77ce61581a424136a2e1e6384859f6ff0cea406dc878225fd3730c3542e7" size="33199008"/>
+	</game>
+	<game name="Minecraft - PlayStation Vita Edition (Europe) (v1.84) (Patch)">
+		<category>Games</category>
+		<description>Minecraft - PlayStation Vita Edition (Europe) (v1.84) (Patch)</description>
+		<rom crc="67e3d431" md5="9749180df47ab3bcb66ff96555f44408" name="EP4433-PCSB00560_00-MINECRAFTVIT0000-A0184-V0100-06c21e0ea0811ad1dcbf4add59b58bab5bf017c3-SP-PE.pkg" sha1="d49bda1c9aceb7ac3a200e17678372fae170c6ea" size="11379600"/>
+	</game>
+	<game name="Minecraft - PlayStation Vita Edition (Europe) (v1.84) (Update)">
+		<category>Games</category>
+		<description>Minecraft - PlayStation Vita Edition (Europe) (v1.84) (Update)</description>
+		<rom crc="e2bf0c2b" md5="48cab0a6bceed8e372697e33044a55b9" name="EP4433-PCSB00560_00-MINECRAFTVIT0000-A0184-V0100-0f1618f5c960fa6a782617663a16b574aefb23f3-PE.pkg" sha1="05a5a177a68ba7e61f375fb09e3e0869e3464fb7" size="1274276208"/>
+	</game>
+	<game name="Minutes (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Minutes (Europe) (v1.01) (Update)</description>
+		<rom crc="d5038cdb" md5="c8cff24eb485e1aa471740173dc4258f" name="EP4477-PCSB00544_00-MINUTESEU0000001-A0101-V0100-232b27d1d9313644bcbcbaf707549ae13b871ada-PE.pkg" sha1="959fa841fa9731affefbb31f1d1be6df70d39787" size="4064704"/>
+	</game>
+	<game name="Mobile Suit Gundam - Extreme VS-Force (Europe) (v1.04) (Patch)">
+		<category>Games</category>
+		<description>Mobile Suit Gundam - Extreme VS-Force (Europe) (v1.04) (Patch)</description>
+		<rom crc="6d2705d4" md5="1b296e3e715343d086ab2b0657021a3a" name="EP0700-PCSB00983_00-VSTA000000000000-A0104-V0100-2fcf313407708f9dccfdf9828a132aa8d0f2279c-SP-PE.pkg" sha1="f9e570766c656e5c6f4aecdb4c8e7ef28dcb694b" size="96496448"/>
+	</game>
+	<game name="Mobile Suit Gundam - Extreme VS-Force (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Mobile Suit Gundam - Extreme VS-Force (Europe) (v1.04) (Update)</description>
+		<rom crc="d4823250" md5="7e86dfcd3fdd5351f9508485fac08522" name="EP0700-PCSB00983_00-VSTA000000000000-A0104-V0100-d84f688011bc483cc369aa8eacb60200ed64f9ca-PE.pkg" sha1="472c4ccc29329f35e06659571c6a3af5be43fcc1" size="487208992"/>
+	</game>
+	<game name="ModNation Racers - Road Trip (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>ModNation Racers - Road Trip (Europe) (v1.02) (Update)</description>
+		<rom crc="efe82ebd" md5="7ba79333cf8050b1d41a359f6495844a" name="EP9000-PCSF00002_00-MNRV000000000000-A0102-V0100-1c4e1e05623fcd5346135b01bc72e57fe7323ecc-PE.pkg" sha1="bc49104bddff9d0a8a291ebc52a0ff03eb51e54b" size="79805632"/>
+	</game>
+	<game name="MonsterBag (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>MonsterBag (Europe) (v1.02) (Update)</description>
+		<rom crc="d73e5218" md5="03d9e67caee431782eeb1a9deb2651a2" name="EP9000-PCSF00651_00-MONSTERBAG000000-A0102-V0100-791176b0ffbfeb6c404bf7b98b089db406c27b31-PE.pkg" sha1="782436bce69958e9b5c8c35647d19656184c1636" size="301705664"/>
+	</game>
+	<game name="MotoGP 13 (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>MotoGP 13 (Europe) (v1.02) (Update)</description>
+		<rom crc="61bc52a1" md5="55bfdaf642212926f615f97f9e88ec6c" name="EP4356-PCSB00316_00-MOTOGP13000EU000-A0102-V0100-53880ca93ae83a13fd2ed8ccf38d5ac44dcb824b-PE.pkg" sha1="d92a42c233043cd82912b7ea1e48fac83e67ce57" size="17778240"/>
+	</game>
+	<game name="MotoGP 14 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>MotoGP 14 (Europe) (v1.01) (Update)</description>
+		<rom crc="4b8e8c63" md5="e7e38dd536975ff5a3e16b7285d97039" name="EP4356-PCSB00498_00-MOTOGP14000EU000-A0101-V0100-c89bb20d532266ba7c475944175862b88a25ace9-PE.pkg" sha1="437c5387b7d17382d395fc08e1f3ff41a2f29a3b" size="16942272"/>
+	</game>
+	<game name="MotorStorm RC (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>MotorStorm RC (Europe) (v1.02) (Update)</description>
+		<rom crc="90456426" md5="05b45fda68f7f66e87efffdfee58fe10" name="EP9000-PCSF00046_00-UMOTORSTOR000001-A0102-V0100-a8e0b20ad38e015989367da58ff4b7348255f1df-PE.pkg" sha1="35617430f744ba6e5bdb713629a10ec1eb768e1e" size="63978912"/>
+	</game>
+	<game name="Muramasa Rebirth (Europe) (v1.06) (Update)">
+		<category>Games</category>
+		<description>Muramasa Rebirth (Europe) (v1.06) (Update)</description>
+		<rom crc="ddddfbc4" md5="044c240871cf4e88f572703f7afe3097" name="EP1024-PCSB00404_00-OBOROMURAMASA000-A0106-V0100-4a3e2a9691cf5bca0cdbf1df1840e3308080397b-PE.pkg" sha1="19bc5f86f7b8e4d4507edd4442bdfc7396645744" size="34310368"/>
+	</game>
+	<game name="Murasaki Baby (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Murasaki Baby (Europe) (v1.04) (Update)</description>
+		<rom crc="d14011c0" md5="6884a58da695538f4475c8e307c58ca1" name="EP9000-PCSF00435_00-MURASAKIBABY0000-A0104-V0100-5b40cc457d4bc35ca6e99aa2485b553a9c12884f-PE.pkg" sha1="a879439866e46ad2290e7da429569d345161f2f9" size="121885680"/>
+	</game>
+	<game name="Music Unlimited (World) (v1.63) (Update)">
+		<category>Games</category>
+		<description>Music Unlimited (World) (v1.63) (Update)</description>
+		<rom crc="a8256e98" md5="0717fa51f3fca700d2bfc79c48a6820b" name="IP9100-PCSI00001_00-MUSICUNLIMITED00-A0163-V0100-4dae712429f41d3dccf356ca7f79dcbc0f263e6a-PE.pkg" sha1="ae55d6030559fd58d5f5f57544d29acac31b85b3" size="24167616"/>
+	</game>
+	<game name="Muv-Luv Alternative (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Muv-Luv Alternative (Europe) (v1.01) (Update)</description>
+		<rom crc="bee49173" md5="c9c2bec1009d6466a5dc11e1ed9fa5fb" name="EP4293-PCSB01235_00-AGE076ALT0000000-A0101-V0100-fd02d8d29aa88a99d5020c2a1360d79fca3408f1-PE.pkg" sha1="2f2c1e92bff5ad3480247b7b40fe7da9793dee2b" sha256="9d7f1c0e663da8575e78862c0195562bd270984c65d67d8f37ece96e1224177c" size="26332464"/>
+	</game>
+	<game name="Necrosphere (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Necrosphere (Europe) (v1.01) (Update)</description>
+		<rom crc="1f9fb8a8" md5="1a837b115a8fcc6dd3f39101d32aad8b" name="EP2678-PCSB01321_00-CATNECRO01XXXXUT-A0101-V0100-4b19622d4d4f91914971c21721713fdcc7abe5e0-PE.pkg" sha1="5845b98f5cda9fe95f711b9cd0da338c9765f6fc" sha256="be65dcbd5b0a86981239b55ab665ed76d8e6b4c0be037d35dd6e090866d440c1" size="52027312"/>
+	</game>
+	<game name="Need for Speed - Most Wanted (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Need for Speed - Most Wanted (Europe) (v1.01) (Update)</description>
+		<rom crc="6fa7fbec" md5="e468633d4f63339f51b997e1f120ae51" name="EP0006-PCSB00183_00-NFSMW000VITA00EU-A0101-V0100-9a24c232da6eca34f84600e569ba95b89e6f5c8b-PE.pkg" sha1="16667e6080af87a2a6becade72270a9845354779" size="6637616"/>
+	</game>
+	<game name="NeuroVoider (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>NeuroVoider (Europe) (v1.01) (Update)</description>
+		<rom crc="1f582dc3" md5="9e17de48962dedbfc67c2e21bff14939" name="EP1302-PCSB01222_00-NEUROVOIDERPSVEU-A0101-V0100-7d03ae73c38e228f1745346c6a630e3fb0302c06-PE.pkg" sha1="8a13d94912f0a997a314669c8d47bc5042183512" sha256="165d4ca06910f815d233c47dce8eb7338bc798cd0cf2148a72ee4f59fd6b324a" size="10315568"/>
+	</game>
+	<game name="Nova-111 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Nova-111 (Europe) (v1.01) (Update)</description>
+		<rom crc="0fa3232d" md5="0225f8e7054dc01f2e8ee292e1ca2bec" name="EP4395-PCSB00783_00-NOVA111VITAEU000-A0101-V0100-1afb0571c2dca2750ea332116605ffa68f6ef648-PE.pkg" sha1="3373630c1989a070742667ba283c283a2b44aa7d" size="55329008"/>
+	</game>
+	<game name="Nurse Love Syndrome (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Nurse Love Syndrome (Europe) (v1.01) (Update)</description>
+		<rom crc="fe36f6cd" md5="ec7262889be833896179410a24d31b62" name="EP1052-PCSB01283_00-NURSELOVESYNEU00-A0101-V0101-1847ca6887ed7de675eb9ccbc9366981a9b2731f-PE.pkg" sha1="d906b6558899c266402a48d64849d9246f83e7dc" size="2236893120"/>
+	</game>
+	<game name="Octodad - Dadliest Catch (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Octodad - Dadliest Catch (Europe) (v1.01) (Update)</description>
+		<rom crc="10966604" md5="1f15e5ca38edb8d219553161efc344eb" name="EP2104-PCSB00825_00-OCTODADDADLIESTC-A0101-V0100-907cf154d7340692198e11d71b4edb8018e778de-PE.pkg" sha1="0c93e0f819a1c10a9bdaaccff39e07134383558b" size="5078864"/>
+	</game>
+	<game name="Oddworld - Munch's Oddysee HD (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Oddworld - Munch's Oddysee HD (Europe) (v1.02) (Patch)</description>
+		<rom crc="2fc2a256" md5="699b229a52a7fdc20628a0e60a605cb1" name="EP4134-PCSB00275_00-MUNCHODDYSEEHD01-A0102-V0100-e1aad0824cbca07597687547e820a97015ab67f6-SP-PE.pkg" sha1="9aaef516280deb811ea31a847848fd4c4bd4cc1f" size="6290288"/>
+	</game>
+	<game name="Oddworld - Munch's Oddysee HD (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Oddworld - Munch's Oddysee HD (Europe) (v1.02) (Update)</description>
+		<rom crc="a9dc215c" md5="aed81acba00dcb8cac90be250a000008" name="EP4134-PCSB00275_00-MUNCHODDYSEEHD01-A0102-V0100-bedf35bdd46093d792b000e8509d1ce372dba3bb-PE.pkg" sha1="e97d556e4fc8b9988d9647a4b0aa15e82d824c38" size="6305904"/>
+	</game>
+	<game name="Oddworld - Stranger's Wrath HD (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Oddworld - Stranger's Wrath HD (Europe) (v1.02) (Update)</description>
+		<rom crc="a4d0684b" md5="09a73dd54d947649b78e10d092ea0171" name="EP4134-PCSB00180_00-OSWHDVITAGAME100-A0102-V0100-ec6f30bba15bea5d3ae8318e298bf06773a11010-PE.pkg" sha1="0744f4a65aa2fc2ca8070cc98e456cb99ab564d4" size="43547248"/>
+	</game>
+	<game name="OlliOlli (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>OlliOlli (Europe) (v1.02) (Update)</description>
+		<rom crc="143c54dc" md5="5777349638a16487cf432b9b8e490ace" name="EP4409-PCSB00449_00-OLLIOLLIOLLIOLLI-A0102-V0100-4c954039637b1bfe374a9a299f34e0ba7c2ad12e-PE.pkg" sha1="8d8ef8db60adcc40c004638ae1534327f21877cb" size="13846256"/>
+	</game>
+	<game name="OlliOlli2 - Welcome to Olliwood (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>OlliOlli2 - Welcome to Olliwood (Europe) (v1.01) (Update)</description>
+		<rom crc="0a277780" md5="ab1fad50c91bb01400fb93b62460762e" name="EP4409-PCSB00590_00-OLLIOLLIOLLITWO2-A0101-V0100-246ab5c8d450855b3edd84133ec0159e02c9c040-PE.pkg" sha1="6b19f7ec6507130c10a0fcaa9bddcfe29e4e6780" size="26531232"/>
+	</game>
+	<game name="One Piece - Burning Blood (Europe) (v1.08) (Patch)">
+		<category>Games</category>
+		<description>One Piece - Burning Blood (Europe) (v1.08) (Patch)</description>
+		<rom crc="7c2252c3" md5="8130fdb6e44f82ce5d37eb1596454468" name="EP0700-PCSB00893_00-ONEPIECEBBPSV000-A0108-V0100-138494bec7fddf8900a459a9f77b85c88793a3ae-SP-PE.pkg" sha1="46918ea3f7efd1c6f6cf1c0557b5f95166563b3a" size="254674688"/>
+	</game>
+	<game name="One Piece - Burning Blood (Europe) (v1.08) (Update)">
+		<category>Games</category>
+		<description>One Piece - Burning Blood (Europe) (v1.08) (Update)</description>
+		<rom crc="e04bc63c" md5="23916387dfd20b1deebb7919a16b6e5f" name="EP0700-PCSB00893_00-ONEPIECEBBPSV000-A0108-V0100-5dab9024259867f4e79a9814ddae417c9f64c07b-PE.pkg" sha1="119a57cb553521f7f2bee8f58e6dec7a9f1704d5" size="536897904"/>
+	</game>
+	<game name="Organ Trail - Complete Edition (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Organ Trail - Complete Edition (Europe) (v1.02) (Update)</description>
+		<rom crc="fa794bff" md5="14698f506724fbf5355ef10488c638e0" name="EP0664-PCSB00924_00-ORGANTRAILCOMPED-A0102-V0100-eefdb04421cbf63ea85fcf629bc468cfdafed6e4-PE.pkg" sha1="c854a1821ffd24bed90733c7b248ccc798738a27" size="136186480"/>
+	</game>
+	<game name="Pantsu Hunter - Back to the 90s (Europe) (En,Fr,De,Es,Ru) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Pantsu Hunter - Back to the 90s (Europe) (En,Fr,De,Es,Ru) (v1.01) (Update)</description>
+		<rom crc="d7e4ab39" md5="bab15dfc621c487062195acfa3b415ca" name="EP1661-PCSB01385_00-G000000000001295-A0101-V0100-5f61925d342937deab6f04bf84753591b1bcbbd3-PE.pkg" sha1="837e37d496bfeec161e76f5ccd45158b1b5708cd" size="200310560"/>
+	</game>
+	<game name="Papers, Please (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Papers, Please (Europe) (v1.01) (Update)</description>
+		<rom crc="dd2c4346" md5="d53efadf615d66ee37140e3f7eadbabf" name="EP2741-PCSB01084_00-PAPERSPLEASE00EU-A0101-V0100-7ff998e12cd08fe2915225cac702c974eabd12d8-PE.pkg" sha1="8a1cb29ca0c7cc18ab196c04a898e3eba5602d69" size="10318000"/>
+	</game>
+	<game name="Paranautical Activity (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Paranautical Activity (Europe) (v1.01) (Update)</description>
+		<rom crc="07910054" md5="19d8540c2d31efd77c7185f0082b0653" name="EP8925-PCSB00870_00-PAPSV0000000000E-A0101-V0100-b025b500a65c3030d88d1862e23ce5ca7c21ace7-PE.pkg" sha1="5c52015d7f007b154032db687ceaecd50a3207ab" size="78453568"/>
+	</game>
+	<game name="Perils of Baking - Refrosted (Europe) (v1.03) (Patch)">
+		<category>Games</category>
+		<description>Perils of Baking - Refrosted (Europe) (v1.03) (Patch)</description>
+		<rom crc="778a42b8" md5="0f5f35e2102fd3d202e7c6fc81725ce4" name="EP5011-PCSB01317_00-G000000000001227-A0103-V0100-9335d6418aee84c6250b3c309b7fef3b06982423-SP-PE.pkg" sha1="66d69773bf0219a78917860a32424103754812ba" size="9360448"/>
+	</game>
+	<game name="Perils of Baking - Refrosted (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Perils of Baking - Refrosted (Europe) (v1.03) (Update)</description>
+		<rom crc="7d4e4b43" md5="45e71d36d5cf74262972e3ce158d998d" name="EP5011-PCSB01317_00-G000000000001227-A0103-V0100-a6e18a70dc81e8442ff125acfa7a23a5feb25ca0-PE.pkg" sha1="4fff5ea5a26be7eab45db0f367653711e48b6756" sha256="a1d0cf9df5a2d1a42dc459389c581e9118291a56422105ded0b3d9f3e02e2d83" size="9544704"/>
+	</game>
+	<game name="Persona 4 - Dancing All Night (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Persona 4 - Dancing All Night (Europe) (v1.01) (Update)</description>
+		<rom crc="834699dc" md5="dd5240951284b7cc59577e70170106dd" name="EP1063-PCSB00867_00-PERSONA4D0000001-A0101-V0100-f3c004617b8b49396e6849c688ddd0e950cec2d6-PE.pkg" sha1="3292050cf4b4b8d28b672d9c48828a60ee982276" size="508164304"/>
+	</game>
+	<game name="Phantom Breaker - Battle Grounds (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Phantom Breaker - Battle Grounds (Europe) (v1.03) (Update)</description>
+		<rom crc="e452752a" md5="29fee461f84d02ee3dd107d340e7653d" name="EP0745-PCSB00583_00-PBBG0APPLICATION-A0103-V0100-e23ef5c9f3632f7b7c8f35339a448734db4ae2be-PE.pkg" sha1="19e06e446fdb327849b6c984203a17f7169f199d" sha256="a3f528a6eab955858d0223abc9cb9ff86b0279a58988be655f9497d9ebb0c2cb" size="103494928"/>
+	</game>
+	<game name="Pic-a-Pix Classic 2 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Pic-a-Pix Classic 2 (Europe) (v1.01) (Update)</description>
+		<rom crc="8f99cf66" md5="375c8f24656055416b58a3c7e76f6184" name="EP3597-PCSB01401_00-G000000000001311-A0101-V0100-a2aa653e48186c686653f9a35c27a111a8f8a130-PE.pkg" sha1="ebc198e4dedbaee2bc0112171d4b029a5fa24f9f" size="124705488"/>
+	</game>
+	<game name="Pinball Arcade, The (Europe) (v1.28) (Update)">
+		<category>Games</category>
+		<description>Pinball Arcade, The (Europe) (v1.28) (Update)</description>
+		<rom crc="4b082790" md5="2f1788d8f3dd534ea3ec47f85f2fa8ec" name="EP2058-PCSB00116_00-GAME000000000001-A0128-V0100-7917c0fe9fe33800c585874af94ca915dee79278-PE.pkg" sha1="4342fc85913f34d01886c6025b5f70c89468b934" sha256="625b4499d3ab7cc76b295dcaaa1dbdfab6b51f150883cb92291f390a3ed73545" size="2963031696"/>
+	</game>
+	<game name="Pix the Cat (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Pix the Cat (Europe) (v1.01) (Update)</description>
+		<rom crc="243c91b6" md5="420c1b01181f2179cac25f51e113f264" name="EP4518-PCSB00645_00-PIXTHECATPSVITA0-A0101-V0100-b32a5f08074405b1e808cf874a4e05e776dfbc84-PE.pkg" sha1="c3ffeb9ac2672dbc71fa4112df44b1d8167b488f" size="3379424"/>
+	</game>
+	<game name="PixelJunk Shooter Ultimate (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>PixelJunk Shooter Ultimate (Europe) (v1.01) (Update)</description>
+		<rom crc="a60bce31" md5="969fe598b2b7931da522768c6bb9d4a1" name="EP4415-PCSB00548_00-SHOOTERULTIMATE0-A0101-V0101-d9de3c9e6bae901867f10f11c2a5c0019c70de6c-PE.pkg" sha1="7dfe521b9ee740fb6df01f8de8ea93007096aee5" size="100217280"/>
+	</game>
+	<game name="Plantera (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Plantera (Europe) (v1.01) (Update)</description>
+		<rom crc="a4e35628" md5="0f130db62d6400a2bfa9af3f4e1efbc2" name="EP0896-PCSB01119_00-RATAGAMEPLANTERA-A0101-V0100-2fe7519681a7ccc04431e7b0637da99e26ff1236-PE.pkg" sha1="469e206eccd5f89225124d7612520a707d529caf" size="636928"/>
+	</game>
+	<game name="Plants vs. Zombies (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Plants vs. Zombies (Europe) (v1.01) (Update)</description>
+		<rom crc="7cbcb6b9" md5="7e3ae0ec6130315e220f31d31b1fbda4" name="EP0017-PCSF00105_00-PLANTSVSZOMBIES0-A0101-V0100-56e4fd7d4ad5aad37b498874790a9ca68d72791b-PE.pkg" sha1="89b4677989e5942fc8b214acc9afd0bcdb705379" size="21681392"/>
+	</game>
+	<game name="PlayStation All-Stars Battle Royale (Europe) (v1.12) (Update)">
+		<category>Games</category>
+		<description>PlayStation All-Stars Battle Royale (Europe) (v1.12) (Update)</description>
+		<rom crc="2c9d4c1c" md5="aeafb28d6c2e89bbac4692a95b9876a1" name="EP9000-PCSF00153_00-PABRRETPSV000000-A0112-V0100-8c30e1f1cec6756557df575885b8bd204ad9a676-PE.pkg" sha1="008723f2be80cb928acf2892c6b7ff84ac54d0cf" size="746772160"/>
+	</game>
+	<game name="PlayStation Mobile Development Assistant (World) (v1.15) (Update)">
+		<category>Games</category>
+		<description>PlayStation Mobile Development Assistant (World) (v1.15) (Update)</description>
+		<rom crc="e10476ef" md5="e59586711773135950316b3bbfcc2829" name="IP9100-PCSI00007_00-PSSUITEDEV000000-A0115-V0100-cb04c7271731e00236dcde01f679419195cb1a63-PE.pkg" sha1="e32e4765a143d10b7d33bfa1f96b23aca14a5b28" size="16872592"/>
+	</game>
+	<game name="PlayStation Mobile Development Assistant for Unity (World) (v1.06) (Update)">
+		<category>Games</category>
+		<description>PlayStation Mobile Development Assistant for Unity (World) (v1.06) (Update)</description>
+		<rom crc="3963389c" md5="1673fa51a732347c4b8319986db79ba3" name="IP9100-PCSI00009_00-UNITYDEV00000000-A0106-V0100-94ca81305dceb679d71718d4b89ad0d068fb6643-PE.pkg" sha1="d73875d9ffc51f61ad55e0c16c756c8071703ae6" size="28021712"/>
+	</game>
+	<game name="PlayStation Mobile Runtime Package (World) (v2.01) (Update)">
+		<category>Games</category>
+		<description>PlayStation Mobile Runtime Package (World) (v2.01) (Update)</description>
+		<rom crc="b66b992b" md5="75c9d568add2d11fbab956e265979679" name="IP9100-PCSI00011_00-PSMRUNTIME000000-A0201-V0100-e4708b1c1c71116c29632c23df590f68edbfc341-PE.pkg" sha1="c3928d83e77d78466c6db878a60099286b8e095d" size="8283536"/>
+	</game>
+	<game name="PlayStation Now (World) (v2.20) (Update)">
+		<category>Games</category>
+		<description>PlayStation Now (World) (v2.20) (Update)</description>
+		<rom crc="b8e02db8" md5="0eb71f079c586763f796634a24de8a7a" name="IP9100-PCSI00013_00-SFPROD0000000000-A0220-V0100-183f682cf9a37e27bdfa7ee19fabc73a562d615b-PE.pkg" sha1="58542f43b7344aaef5f9a793f91ec737e32313db" size="7031168"/>
+	</game>
+	<game name="Pure Chess (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Pure Chess (Europe) (v1.01) (Update)</description>
+		<rom crc="8afeab77" md5="996d6609ac0dc1b5cb55bfe171bcd2bf" name="EP4337-PCSB00080_00-UPURECHESS000001-A0101-V0100-6e5cf8dda181f41520590cc9d6760ef58a3d1c20-PE.pkg" sha1="9fb6d48884c9271d4383e1aa143b20beaf6448be" size="16951040"/>
+	</game>
+	<game name="Q-bert - Rebooted (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Q-bert - Rebooted (Europe) (v1.01) (Update)</description>
+		<rom crc="ef1dcf2c" md5="37ad53aa886a0dbdc472b56076956cc1" name="EP2135-PCSB00680_00-QBERTREBOOTEDPSV-A0101-V0100-aa8d4efc4586b37210c58ef2135f376ed99c0f86-PE.pkg" sha1="852d44f636090c19e739a44402189b148b282b60" size="183583728"/>
+	</game>
+	<game name="Rabi-Ribi (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Rabi-Ribi (Europe) (v1.03) (Update)</description>
+		<rom crc="3e022033" md5="9117df87067a7577d902b517801160db" name="EP4293-PCSB01122_00-0000000000000001-A0103-V0100-ca3cc995df8be4e0d0b26786a083c72592d211c5-PE.pkg" sha1="94f77318ba11fb6be7c92aa503abe3463699dc56" size="34009136"/>
+	</game>
+	<game name="Race the Sun (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Race the Sun (Europe) (v1.01) (Update)</description>
+		<rom crc="b45732a3" md5="63d340effc8b00f7fe6d2892f4ffa8d1" name="EP2127-PCSB00643_00-RACETHESUNPSV001-A0101-V0100-bac3cf09ed86d428a0300118f32ce139784b3d53-PE.pkg" sha1="1916c3abc0afd418a8c21644113ed99a09ba6ce5" size="111213344"/>
+	</game>
+	<game name="Ragnarok Odyssey Ace (Europe) (v1.11) (Update)">
+		<category>Games</category>
+		<description>Ragnarok Odyssey Ace (Europe) (v1.11) (Update)</description>
+		<rom crc="62098b89" md5="82c99b6af6da926893111952e65db3e9" name="EP0747-PCSB00471_00-RAGNAROKODYSSACE-A0111-V0100-53684966ee5e89baa346e60100d699b5b983c107-PE.pkg" sha1="db5736723be2b6ced10ea9581a61f4efbb8b5dd6" size="132839968"/>
+	</game>
+	<game name="Rainbow Skies (Europe) (v1.11) (Update)">
+		<category>Games</category>
+		<description>Rainbow Skies (Europe) (v1.11) (Update)</description>
+		<rom crc="637045ef" md5="650a87eaa0efc713263f1b0419c87200" name="EP2005-PCSB00414_00-RAINBOWSKIES0001-A0111-V0100-3aa58ef528bea37c0e2662ef183adbe240ffe509-PE.pkg" sha1="9d12c1e0a2767d15c1e2f4dce20f7dee0dbd68f3" size="14466960"/>
+	</game>
+	<game name="Ratchet &amp; Clank - QForce (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Ratchet &amp; Clank - QForce (Europe) (v1.01) (Update)</description>
+		<rom crc="86a7dba0" md5="51d9d99cf56873e062ad0147dde618ce" name="EP9000-PCSF00191_00-RATCHETCLANKFFAV-A0101-V0100-b43fe01e75eb7c46aa691f1e62be41e14f232a05-PE.pkg" sha1="a8dc067fbdd28539dd497884c31e923319fc13e7" size="330105760"/>
+	</game>
+	<game name="Rayman Legends (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Rayman Legends (Europe) (v1.01) (Update)</description>
+		<rom crc="661b4143" md5="93955327733e938753a7384d895a58ae" name="EP0001-PCSB00360_00-RAYMANLEGENDS000-A0101-V0100-c76fdb6752d6631d6d8ed0815b150e4e78a69012-PE.pkg" sha1="531cafaf4dfd6e7033991b2ac40c07f62277a37a" size="402719504"/>
+	</game>
+	<game name="Reality Fighters (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Reality Fighters (Europe) (v1.03) (Update)</description>
+		<rom crc="5185dfae" md5="322b1e0accdcc61e85384135541b3cd3" name="EP9000-PCSF00022_00-TRIAL000000000EU-A0103-V0100-d80c02ff42b13ee141dfb43b9c3d55cd503cfbaf-PE.pkg" sha1="4a1a628ab68c4ecd79d8f28e594cbcdf4c83f515" size="84374384"/>
+	</game>
+	<game name="Resident Evil - Revelations 2 (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Resident Evil - Revelations 2 (Europe) (v1.04) (Update)</description>
+		<rom crc="5d2f5452" md5="5ecc06cf87f24c43cce017c5232cda4d" name="EP9000-PCSF00728_00-RESIDEVILREVELS2-A0104-V0100-8660ab3d95cb3e8091e394b4c512e9dc936a2a7f-PE.pkg" sha1="300f18369ac5128b81f279a307cf4a8c457434c8" size="1034115712"/>
+	</game>
+	<game name="Resistance - Burning Skies (Europe) (En,Es,Pt) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Resistance - Burning Skies (Europe) (En,Es,Pt) (v1.02) (Update)</description>
+		<rom crc="2a44a5cf" md5="080267b488b69196beb0a84320f6ebe3" name="EP9000-PCSF00141_00-RESISTANCEVITAE3-A0102-V0100-06c5b6e33c1572314190de375f9dc25b2174b921-PE.pkg" sha1="e6ffb8374b4f01aca68c922d049d23b79a7ff443" size="18964976"/>
+	</game>
+	<game name="Resogun (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Resogun (Europe) (v1.01) (Update)</description>
+		<rom crc="e34f3935" md5="51374f82394e981d6609d8876a371711" name="EP9000-PCSF00262_00-RESOGUN000000001-A0101-V0100-b0f44211232edf9c041db9096b2462039fdc6661-PE.pkg" sha1="609c03c2b804c7f01748de9a1932e0556e97e00f" size="81541600"/>
+	</game>
+	<game name="Retro City Rampage (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Retro City Rampage (Europe) (v1.01) (Update)</description>
+		<rom crc="a0f040e8" md5="80e7c0c563c1b37863c7ebaff4d7d0ce" name="EP2077-PCSB00203_00-RCRGAME000000001-A0101-V0101-d579b5739a48b80b29aaee745aa137f2a803c67c-PE.pkg" sha1="4464ef995f09f5dccbb9072c393b48d05a873682" size="23779856"/>
+	</game>
+	<game name="Reverie (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Reverie (Europe) (v1.02) (Update)</description>
+		<rom crc="36326dc2" md5="86ce87ed28ac6d9d7b9c34c3af88a49e" name="EP0809-PCSB01190_00-RAINBITESREVERIE-A0102-V0100-658835b8b464fa63c2e92da902d6eaddb3aa7690-PE.pkg" sha1="1d9cf463875e77590690f18f6c93403f953302c1" sha256="7ff8a70c6f767661b117e8f5322db1b97216b3e372be2926e35635dee2b4346c" size="26015104"/>
+	</game>
+	<game name="Riddled Corpses EX (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Riddled Corpses EX (Europe) (v1.01) (Update)</description>
+		<rom crc="8b8d1423" md5="f7685f23a2dd38ec38e484c3ba1824fa" name="EP1762-PCSB01242_00-RIDDLED000000000-A0101-V0100-905a9d9243822a1cf06fe2090dd92791bcae7753-PE.pkg" sha1="605b9a0712f0ee3a07d0a5d852d676a64256b033" sha256="d6cf357d7e375e6b187c6eec347c97bd7f1225238d8e7c866925e4ff0cb16ef0" size="26442240"/>
+	</game>
+	<game name="Ridge Racer (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Ridge Racer (Europe) (v1.02) (Update)</description>
+		<rom crc="1dc229ae" md5="c92b5c0c8e90a2cc2ba1db5c67ca92c1" name="EP0700-PCSB00048_00-RIDGERACERPSVITA-A0102-V0100-3a1a2cbee6332528ef75357702ed4583423687e3-PE.pkg" sha1="b06439dd0a4939791fe2ab85e1ebe3e80f311e32" size="320676416"/>
+	</game>
+	<game name="Rock Boshers DX - Director's Cut (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Rock Boshers DX - Director's Cut (Europe) (v1.01) (Update)</description>
+		<rom crc="624fae0b" md5="48ece2e135c199c624594fadd625cd84" name="EP4501-PCSB00652_00-0000ROCKBOSHDCUT-A0101-V0101-6b34315191a7f22bdf2b740d4c8fd034ee15e9ed-PE.pkg" sha1="d3b7487e971e13bc4c4462d57e932778dae7ff47" size="214131936"/>
+	</game>
+	<game name="Rocketbirds 2 - Evolution (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Rocketbirds 2 - Evolution (Europe) (v1.04) (Update)</description>
+		<rom crc="a3185074" md5="2678bdfd89b5a4c9b7015b9deafee669" name="EP5015-PCSB00836_00-RB20000000000001-A0104-V0100-cbcbf4dc00bc814a89cf771e26d5719280d099f8-PE.pkg" sha1="f1ad797cb84119f332a4cba2d88dd2167cb831fc" size="483613184"/>
+	</game>
+	<game name="Rogue Aces (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Rogue Aces (Europe) (v1.02) (Patch)</description>
+		<rom crc="2601ad07" md5="443e9bf0abe700d1433fad074dde461b" name="EP4395-PCSB00823_00-ROGUEACES0000000-A0102-V0100-3720e7d54448f8e04b47932fbc8ee2e505f8a85a-SP-PE.pkg" sha1="fe7c4d142ae0605a614e3b171530411ad07455f0" size="2699104"/>
+	</game>
+	<game name="Rogue Aces (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Rogue Aces (Europe) (v1.02) (Update)</description>
+		<rom crc="f197256a" md5="38dcc3c0c0681579fed84537de056234" name="EP4395-PCSB00823_00-ROGUEACES0000000-A0102-V0100-6cb0969bed97d5b425ca2a36b7723ed2e27c2106-PE.pkg" sha1="34a016a770ef3db479bee0507e3fec6cdc7e0d43" sha256="0dc46908f47b6bf804c09f07ea34cba681182e06e1526ff3a66d73bad5cd55a7" size="4346736"/>
+	</game>
+	<game name="Rogue Legacy (Europe) (v1.03) (Patch)">
+		<category>Games</category>
+		<description>Rogue Legacy (Europe) (v1.03) (Patch)</description>
+		<rom crc="a8cbd314" md5="9a22b11cf3965743e33787ff33f17586" name="EP4488-PCSB00571_00-CDGROGUELEGACY01-A0103-V0100-6634a7354fee27f021fdf76fbec2be909923f280-SP-PE.pkg" sha1="eaf728805f59c14b79b1650b556f834113abb7c6" size="5136464"/>
+	</game>
+	<game name="Rogue Legacy (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Rogue Legacy (Europe) (v1.03) (Update)</description>
+		<rom crc="3d330dcf" md5="f933b87e8256b72a3a3c0e24c05cbf72" name="EP4488-PCSB00571_00-CDGROGUELEGACY01-A0103-V0100-5a30db1c9f9c03842d98b20260612ecfb2964186-PE.pkg" sha1="9740f96a97c0d2ac4f3f15c8d64c59ce33b86e71" size="8120016"/>
+	</game>
+	<game name="Rollers of the Realm (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Rollers of the Realm (Europe) (v1.02) (Update)</description>
+		<rom crc="786f6222" md5="105574dadffa80430893f8f96ccb15eb" name="EP0005-PCSB00660_00-REALMROLLERSVITA-A0102-V0100-684e94587ea305f148a6517ca68a36e10fc7c1e1-PE.pkg" sha1="32a533e419a12914b1def631426f3b2b52997158" size="229807568"/>
+	</game>
+	<game name="Root Letter (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Root Letter (Europe) (v1.02) (Update)</description>
+		<rom crc="5ad69f5b" md5="2958446fe18101cc5520223ccad2fed6" name="EP4293-PCSB01019_00-PKG000000000GAME-A0102-V0100-1ad94c1240817e3897d155872386c38b7f8a77c2-PE.pkg" sha1="7b166de9b72feb6a7930c715458339604e65a1f5" sha256="7b80e1cb3bcd48be3feb352adf58b13d793227b2685bb4ee13281381d26ee418" size="23127376"/>
+	</game>
+	<game name="Rugby Challenge (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Rugby Challenge (Europe) (v1.01) (Update)</description>
+		<rom crc="3e58f88f" md5="d109c50e65a829cb6d806806ffb36bbe" name="EP4116-PCSB00058_00-RUGBYCHALLENGEVT-A0101-V0100-0b7a74ea4cfc3a5d9f32d6968d6b5104cf7b1a98-PE.pkg" sha1="c9a265722b0f66a30c7d9a47815ee71060f747b6" size="8037632"/>
+	</game>
+	<game name="Rugby World Cup 2015 (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Rugby World Cup 2015 (Europe) (v1.02) (Update)</description>
+		<rom crc="a94c5e0b" md5="d17142e5524750b0aaca159e39e64925" name="EP4008-PCSB00770_00-RUGBY15CARDDIGIT-A0102-V0100-109c0328413ef82dca0ace7be41bafdfefb21a2c-PE.pkg" sha1="d1e836ac1f5c4eda95a6d234306245f3ae838531" size="125604064"/>
+	</game>
+	<game name="Run Sackboy! Run! (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Run Sackboy! Run! (Europe) (v1.01) (Update)</description>
+		<rom crc="29da01b9" md5="372eb7db06c173adbb868732e3e85181" name="EP9000-PCSF00562_00-1234567891234567-A0101-V0100-58c765aaa086656eb118680f0cdeca743db317a3-PE.pkg" sha1="ebaf7e029093b512882ec554bcfb1fd57ac52622" size="10327120"/>
+	</game>
+	<game name="Salt and Sanctuary (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Salt and Sanctuary (Europe) (v1.01) (Update)</description>
+		<rom crc="2364f30e" md5="19e0bf7640f571a6376680f0e56da0fe" name="EP0609-PCSB01072_00-SALTSANCTUARY000-A0101-V0100-0df5ff9316aaab5dc402f24d30f89f7c5e65d9ac-PE.pkg" sha1="ecd274a0c815e1ad93f12e810a6a25f6e628dd81" size="11210128"/>
+	</game>
+	<game name="Samurai Shodown V Special (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Samurai Shodown V Special (Europe) (v1.02) (Update)</description>
+		<rom crc="e97e83a4" md5="c2d1dfd6c94904cc2b92aec3fffcf05f" name="EP0576-PCSB01153_00-SSVS000000000PSV-A0102-V0100-133879e942fb996a539333d7b0b7720ccc313e29-PE.pkg" sha1="d2cbd57e1be01a935924b7384d5f0b69b172a704" size="2392864"/>
+	</game>
+	<game name="Samurai Warriors 4 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Samurai Warriors 4 (Europe) (v1.01) (Update)</description>
+		<rom crc="baffba57" md5="ac206f4bb2fdb19c466572b508650f76" name="EP4108-PCSB00592_00-APPLICATION00000-A0101-V0100-bd60db1109d65cd7fc5826dedf58f1e5b4020ceb-PE.pkg" sha1="e0e0beb1c2b224de1b12b76ead18017ed1049ed1" size="3063264"/>
+	</game>
+	<game name="Scram Kitty DX (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Scram Kitty DX (Europe) (v1.01) (Update)</description>
+		<rom crc="2bfd81bf" md5="9310716579c9bb20e337253713059b76" name="EP4290-PCSB00638_00-SCRAMKITTYSCRAMS-A0101-V0101-8981fb5dcade1376f12db9cd51d7b71c21bb859d-PE.pkg" sha1="e2d5e9981e017af8ace46ea3888809881dd587ac" size="76226368"/>
+	</game>
+	<game name="Secret of Mana (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Secret of Mana (Europe) (v1.02) (Patch)</description>
+		<rom crc="b820ea2d" md5="45c5a865eff1f2a0ae2fa9d63a3da5b9" name="EP0082-PCSB01163_00-SECRETOFMANAPSV0-A0102-V0100-2d2bc1e2963975fb882bcdafe330ff06eed8967d-SP-PE.pkg" sha1="82856fdaaaa166c4b533024707c4e0db834bc4be" sha256="130e8ed8764572e89c512ef275ff116b6e7dc299b3b51fe4972e230585099385" size="26184368"/>
+	</game>
+	<game name="Secret of Mana (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Secret of Mana (Europe) (v1.03) (Update)</description>
+		<rom crc="3b89e165" md5="83b731c2bf7ef289ff97aa729929a93c" name="EP0082-PCSB01163_00-SECRETOFMANAPSV0-A0103-V0100-ff670f17259c614b4bb50b815e9ddd17c33f4259-PE.pkg" sha1="b828b5e5d122d60db099790c44a7c3d3baddb697" sha256="78aedb918666ac17a691a5a283fecaebe0de0fba0447ef7b7b95641a58248274" size="530839424"/>
+	</game>
+	<game name="Senran Kagura - Estival Versus (Europe) (v1.21) (Update)">
+		<category>Games</category>
+		<description>Senran Kagura - Estival Versus (Europe) (v1.21) (Update)</description>
+		<rom crc="a8902a32" md5="88a72578f5eb1266e2a6cbf78a829970" name="EP4492-PCSB00882_00-0000000000000000-A0121-V0101-4a43ace71d38946e5b61fc9145e2aaeb837eac74-PE.pkg" sha1="e87f8e8d9d94db2bfc8c71b6b4c7d65c1bdb72b5" size="2066068352"/>
+	</game>
+	<game name="Severed (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Severed (Europe) (v1.01) (Update)</description>
+		<rom crc="84e4120d" md5="3cbad07937b64f9bfad33ee5e54d8bbe" name="EP2145-PCSB00702_00-SEVERED000000000-A0101-V0100-e235cb0ad3ba06b6055c51e88835286190d6b213-PE.pkg" sha1="c596100381d8c8b372d3cf68c7714bd20ea8a6b3" size="11743520"/>
+	</game>
+	<game name="Shake Spears! (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Shake Spears! (Europe) (v1.01) (Update)</description>
+		<rom crc="b5c8ca8f" md5="b0716238d30b427e0b169a5d64ea720c" name="EP4173-PCSB00364_00-SHAKESPEARS00001-A0101-V0100-caf3e48f4e15d24b76ebfa7a6321180fa67bc4c1-PE.pkg" sha1="f2d9cb17e68ebd8150eec9e1c2f52ebee25994b2" size="143189152"/>
+	</game>
+	<game name="Shakedown Hawaii (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Shakedown Hawaii (Europe) (v1.03) (Update)</description>
+		<rom crc="6be9b1ef" md5="039060e550f0cbfe049924f5d6664005" name="EP2077-PCSB01375_00-SHAKEDOWNHAWAII0-A0103-V0100-dc8d1ca302e8f700d0611289447145f077e3b72f-PE.pkg" sha1="fd0ad39b8f6329f16acabbb080403dcaf62184f3" size="44559872"/>
+	</game>
+	<game name="Shantae - Half-Genie Hero (Europe) (v1.04) (Patch)">
+		<category>Games</category>
+		<description>Shantae - Half-Genie Hero (Europe) (v1.04) (Patch)</description>
+		<rom crc="56faad7a" md5="9fd4c640afa7aa2773be63343b5aae91" name="EP8916-PCSB01028_00-G000000000000945-A0104-V0100-a6e5abeaea4e63faacc1689d07fe8ef9edb73ecb-SP-PE.pkg" sha1="96f636d18220b7b21c395b04892078d2270759e8" sha256="ad40086bd7263428ac2d905c96e3803bdd47aaf55d613d92476e77d778877c28" size="229213280"/>
+	</game>
+	<game name="Shantae - Half-Genie Hero (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Shantae - Half-Genie Hero (Europe) (v1.05) (Update)</description>
+		<rom crc="acfac958" md5="7fa797ace8dbe40a2c24d5747eaeb40e" name="EP8916-PCSB01028_00-G000000000000945-A0105-V0100-bf10ad5433971776411d042d4c39e940e6085be5-PE.pkg" sha1="17d15d8b3efbd782f7352047c9fd1f60512740cc" sha256="85ac8a8593e2eba76f30d0d8bb027e02fb668d77fa056026e726d3a91003b8c0" size="421733232"/>
+	</game>
+	<game name="Shinobido 2 - Revenge of Zen (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Shinobido 2 - Revenge of Zen (Europe) (v1.02) (Update)</description>
+		<rom crc="859199e9" md5="123effd06eb733ead4d571534904fe1e" name="EP0700-PCSB00049_00-APP0000000000000-A0102-V0100-87b887bef12cf0484a014638c1d168b63dbca136-PE.pkg" sha1="1b2a6cd9a7c443377459db604c23d5d9c8955258" size="22174448"/>
+	</game>
+	<game name="Shovel Knight (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Shovel Knight (Europe) (v1.05) (Update)</description>
+		<rom crc="627c311b" md5="e51ad033a250ef14e6cc4a5bd76ca119" name="EP8903-PCSB00743_00-SHOVELKNIGHT0001-A0105-V0100-b5aab2ae59dbf8f4014e303734227c2d5d5b2160-PE.pkg" sha1="8b28c86084b7ebd1200a60d961088abc9f84364e" size="232037040"/>
+	</game>
+	<game name="Shutshimi (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Shutshimi (Europe) (v1.01) (Update)</description>
+		<rom crc="a35a28b4" md5="80d2b4fe6917e57c89a6e7c31e4ca460" name="EP2148-PCSB00807_00-SHUTSHIMI0000000-A0101-V0100-9cae047c77f2d06f270cf96f9c4a9f13b2abdce1-PE.pkg" sha1="a9a2b34b0b5f9446006bf9568c1bf7d44d512b0e" size="105388912"/>
+	</game>
+	<game name="Sigi - A Fart for Melusina (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Sigi - A Fart for Melusina (Europe) (v1.02) (Update)</description>
+		<rom crc="6b6310eb" md5="1f14f3563315a236fa372e0746aaf13a" name="EP1661-PCSB01266_00-G000000000001178-A0102-V0100-f100cb754a4aa3f3388cca4eea33db4ff6a0f80e-PE.pkg" sha1="10b0a470c78e51fc509ff72f79c3fc3cfe81683a" sha256="9dfaae7febc0fa25925c2396a19065c526863c7e650a2561cfc63b4c82a7ac6c" size="45561200"/>
+	</game>
+	<game name="Silent Hill - Book of Memories (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Silent Hill - Book of Memories (Europe) (v1.01) (Update)</description>
+		<rom crc="b3e905bd" md5="32d1e3a42b42529ff0629f297c07fd83" name="EP0101-PCSB00115_00-SILENTHILLBOOKOM-A0101-V0100-f852c1449de40663cb643e89ce201b551d9b4145-PE.pkg" sha1="5b861533c746b73026ebb8e7d1aae0b54855257d" size="420445552"/>
+	</game>
+	<game name="Sir Eatsalot (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Sir Eatsalot (Europe) (v1.01) (Update)</description>
+		<rom crc="fae8cb43" md5="39d9610681d5bce93babf28adf21dd8d" name="EP4935-PCSB01225_00-G000000000001137-A0101-V0101-e4cc71b6733a7845736af87370f47bfc4ee865d3-PE.pkg" sha1="28c4fff9db579bf6bb9ea16222a2278f15869ac1" size="577833408"/>
+	</game>
+	<game name="Siralim (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Siralim (Europe) (v1.02) (Update)</description>
+		<rom crc="9c1da38f" md5="da41ee38888ff4dab5a8f738638d54e1" name="EP1155-PCSB00950_00-VITASIRALIM00000-A0102-V0101-1ec10fc8e3041d57d9a859835c3430a5efefc654-PE.pkg" sha1="d6551b02e3f4bc351e8d3e7944df73b9e1eb1a59" size="52820688"/>
+	</game>
+	<game name="Siralim 2 (Europe) (v1.09) (Update)">
+		<category>Games</category>
+		<description>Siralim 2 (Europe) (v1.09) (Update)</description>
+		<rom crc="871e09f5" md5="ad9405a0e477034e1dba2076c404ff22" name="EP1155-PCSB01096_00-VITASIRALIM20000-A0109-V0100-2abac9264988cafbed95ab97f7331f51177624fe-PE.pkg" sha1="532761f927b9b6e80f48f9df82d628e9f486d177" size="142357392"/>
+	</game>
+	<game name="Skullgirls 2nd Encore (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Skullgirls 2nd Encore (Europe) (v1.03) (Update)</description>
+		<rom crc="a6d67c92" md5="b6a70986373501ea4429d743602cabac" name="EP2032-PCSB00859_00-SKULLGIRLS000000-A0103-V0100-56446787ee0269a8893fffb8db38e8d5f3ee2e9a-PE.pkg" sha1="2b0ae0c370013f1105eebf535e1e49748cd5131c" size="1228490528"/>
+	</game>
+	<game name="Sky Force Anniversary (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Sky Force Anniversary (Europe) (v1.02) (Update)</description>
+		<rom crc="2d7cea1c" md5="8bc82f8c72a3bcfa0aa558fdfe523107" name="EP4179-PCSB00826_00-SKYFORCEANNIVERS-A0102-V0100-b9667ed0fa154ff8fb0ca0fead08a165467dc585-PE.pkg" sha1="b3d14971024a15e273f9f4408b17fc960fc5b20f" size="250784112"/>
+	</game>
+	<game name="Skype (Europe) (v1.60) (Update)">
+		<category>Games</category>
+		<description>Skype (Europe) (v1.60) (Update)</description>
+		<rom crc="3bad9cf4" md5="04fb52501b910cc6808ef740bdc6d4b6" name="EP9000-PCSF00124_00-SKYPEPSVITA00000-A0160-V0100-465395971d23420b3964c616dfc5da3aac0c7e84-PE.pkg" sha1="e610089cd279a1fd1accb69a17eead1dd3271106" size="10660192"/>
+	</game>
+	<game name="Slain - Back from Hell (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Slain - Back from Hell (Europe) (v1.01) (Update)</description>
+		<rom crc="aef92059" md5="60ec6ab6a3c822d2ce216aa914aee49e" name="EP8925-PCSB01037_00-0000000000000000-A0101-V0100-a70137f08cee647e79b1797faf07fb820f9b783f-PE.pkg" sha1="a6bb91a6929d24dee02a2873926996960750d053" size="44449584"/>
+	</game>
+	<game name="Sly Cooper - Thieves in Time (Europe) (En,Es,Pt) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Sly Cooper - Thieves in Time (Europe) (En,Es,Pt) (v1.01) (Update)</description>
+		<rom crc="0b297606" md5="0b10e46bd451f434071f53f00f444771" name="EP9000-PCSF00156_00-0000000000000000-A0101-V0100-e19a6b85d37b1f1a2002de06f71e4f52f4a9720a-PE.pkg" sha1="6061de44b0926bc71d34fd1e3205b95ffad8205e" size="26698960"/>
+	</game>
+	<game name="Sly Cooper - Thieves in Time (Europe) (v1.01) (PCSF00206) (Update)">
+		<category>Games</category>
+		<description>Sly Cooper - Thieves in Time (Europe) (v1.01) (PCSF00206) (Update)</description>
+		<rom crc="e62d3544" md5="ef70a855ebf6c4108afef14ca6eeec9b" name="EP9000-PCSF00206_00-0000000000000000-A0101-V0100-ca6dccaaa48cbdbc2396a8b1579c5f786af06ac6-PE.pkg" sha1="59749db564616c74106c70ffb5b4833ce598bf73" size="26882480"/>
+	</game>
+	<game name="Smart As... (Europe) (En,Es,Pt,Pl,Ru) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Smart As... (Europe) (En,Es,Pt,Pl,Ru) (v1.01) (Update)</description>
+		<rom crc="285a2709" md5="0e55c6cb1b1fe2d73450de1d621dfa27" name="EP9000-PCSF00217_00-SMARTASGAME00001-A0101-V0100-fdc2dad3a83570e59f2d3bb2bd396747091d71e5-PE.pkg" sha1="9d8820d7d4697bb20925699218a872b459674e3f" size="459850800"/>
+	</game>
+	<game name="Sonic &amp; All-Stars Racing Transformed (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Sonic &amp; All-Stars Racing Transformed (Europe) (v1.01) (Update)</description>
+		<rom crc="5069c74d" md5="2bd0c6555a069bc0ad90eb772816c12f" name="EP0177-PCSB00190_00-SASRTRANSFORMED0-A0101-V0100-443c2241f610467018e33754f269d369e1fe10b0-PE.pkg" sha1="f731458ed81e10946021dd369695e5195dee259c" size="124195968"/>
+	</game>
+	<game name="Soul Sacrifice (Europe) (v1.30) (Update)">
+		<category>Games</category>
+		<description>Soul Sacrifice (Europe) (v1.30) (Update)</description>
+		<rom crc="26fd226f" md5="8a8281443453578053fcce0bffd06662" name="EP9000-PCSF00178_00-SOULSACRIFICEEU0-A0130-V0100-c7009f9ab4cb7d9a22d53982c3e1693fdfb7e694-PE.pkg" sha1="6efbd8bbea9687c365b4b228e90f38af854fa857" size="90480000"/>
+	</game>
+	<game name="Soul Sacrifice Delta (Europe) (v1.30) (Update)">
+		<category>Games</category>
+		<description>Soul Sacrifice Delta (Europe) (v1.30) (Update)</description>
+		<rom crc="d41c2983" md5="0d6db27bf6e8442675ce62cae10d9b56" name="EP9000-PCSF00532_00-SOULSACDELTAEU00-A0130-V0100-1b756d6e1f75c6ab642a5bc1cc91ecac99df228e-PE.pkg" sha1="38e885ee671c96b4caa04ed3b9815d12d0369142" size="162693360"/>
+	</game>
+	<game name="Sound Shapes (Europe) (v1.14) (Update)">
+		<category>Games</category>
+		<description>Sound Shapes (Europe) (v1.14) (Update)</description>
+		<rom crc="ba8bcd29" md5="6ffb5a6ec8fe64f7d3883c0100dc4a46" name="EP9000-PCSF00076_00-SOUNDSHAPES00000-A0114-V0100-a76bee5fece394dd3ee66a013963d8f6de3115b8-PE.pkg" sha1="74cb1432304290b1821493186e82caaa00664cde" size="262913072"/>
+	</game>
+	<game name="Spelunky (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Spelunky (Europe) (v1.05) (Update)</description>
+		<rom crc="5f13bb1a" md5="b158522940edf403a9e0cd56cc1bb38d" name="EP4407-PCSB00359_00-SPELUNKY00000000-A0105-V0100-26b2d03b4d5a0b74143fd969659e7234353fd27b-PE.pkg" sha1="b36626b92974eaf99f44c46abb71630ab1320842" size="6868224"/>
+	</game>
+	<game name="Spheroids (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Spheroids (Europe) (v1.01) (Update)</description>
+		<rom crc="29d3bf2f" md5="257e9eb72224e3f10cfff5ed172e1022" name="EP1704-PCSB00946_00-G000000000000868-A0101-V0100-9b4cce478eda05b8832f1a1d9adc17477246d2f3-PE.pkg" sha1="394663ddf2d785317978a1bb8cd5da6deeef3905" size="147079792"/>
+	</game>
+	<game name="Spider - Rite of the Shrouded Moon (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Spider - Rite of the Shrouded Moon (Europe) (v1.01) (Update)</description>
+		<rom crc="eeb6a223" md5="3396bfbbcb51d1d99500f4798dbf9013" name="EP0672-PCSB00789_00-SPIDER2PSV000000-A0101-V0100-9c2ada046e453a40c55c4fa37872510485073ffd-PE.pkg" sha1="989efcc9f3bfcc0b5307c9fa0fa3186aa7f80d53" size="97084240"/>
+	</game>
+	<game name="Spiral Splatter (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Spiral Splatter (Europe) (v1.01) (Update)</description>
+		<rom crc="ca5da3a7" md5="5211010ea7d33ac01a7a9a93f7ba4f84" name="EP1661-PCSB01188_00-G000000000001101-A0101-V0100-447f2c03d5e03ed529368e6785535cfd3fc676a7-PE.pkg" sha1="b29958c220f1627464e6592a9c539404b33860ae" size="46198016"/>
+	</game>
+	<game name="Star Wars Pinball (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Star Wars Pinball (Europe) (v1.05) (Update)</description>
+		<rom crc="b15b993f" md5="107a2847544f7a0541e76fbea4f4bf3f" name="EP4042-PCSB00254_00-SWPINBALL0000001-A0105-V0100-1ed8c64f6887d914e753e1d4e7e2920ba4f739ef-PE.pkg" sha1="b9c00b9d81da4e6bdbd29562a373d1c968efc3e8" size="11204560"/>
+	</game>
+	<game name="StarDrone Extreme (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>StarDrone Extreme (Europe) (v1.01) (Update)</description>
+		<rom crc="17872082" md5="5a5bb32375782ca879102582e5df0e99" name="EP4101-PCSB00037_00-STARDRONEEXTREME-A0101-V0100-1a6d006bc91858293acf3a4ae2afcdf9a814c7ce-PE.pkg" sha1="ab1a876e1a7396c825bd3cef9e9d15b9c9b93171" size="13370512"/>
+	</game>
+	<game name="Stardew Valley (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Stardew Valley (Europe) (v1.02) (Update)</description>
+		<rom crc="097fe705" md5="a151bbbd68250dc58fe9a2674b524e30" name="EP2319-PCSB01226_00-STARDEW00000SIEE-A0102-V0100-effe81442b7906d8612aa5eef338d386e9e81c67-PE.pkg" sha1="38c2b869d93921517c62ff9c740e6ab29618e2a0" sha256="3c9af856cb36ca3495bdd7b7b4357107d5100cf594ee831a375dd55dbb2b7248" size="21039424"/>
+	</game>
+	<game name="Starlight Inception (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Starlight Inception (Europe) (v1.01) (Update)</description>
+		<rom crc="831bbc93" md5="00a3f20d95ee47a37e66d089debf9e51" name="EP2105-PCSB00488_00-STARLIGHTINCEPTI-A0101-V0100-8113974f5377ec6fa60a9a20f7f7cdd780c74e28-PE.pkg" sha1="9b12b0b36bf65646d8574d6eb4b5c57a232829bb" size="2462338000"/>
+	</game>
+	<game name="Stealth Inc. - A Clone in the Dark (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Stealth Inc. - A Clone in the Dark (Europe) (v1.01) (Update)</description>
+		<rom crc="bbf2e35b" md5="fa08611e735435cc9b8189572cd4ce92" name="EP4395-PCSB00317_00-STEALTHBSVITAFG0-A0101-V0100-17dc20531ff8a18bf66e8f5e2783ff2ec2534e50-PE.pkg" sha1="4eb699280147fa2d61324d4d7a956cae7b9bb3e2" size="8808448"/>
+	</game>
+	<game name="SteamWorld Dig 2 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>SteamWorld Dig 2 (Europe) (v1.01) (Update)</description>
+		<rom crc="01b1f8d4" md5="b66bb0cb19cc4ef07e184168f77b22f8" name="EP4473-PCSB01114_00-G000000000001029-A0101-V0100-2b5a1041e8e54dca09d6fc73d81e3cdf4a40e7dd-PE.pkg" sha1="3ad0d4b42462b9943723b43b51ad231d50d0e6dd" size="16967152"/>
+	</game>
+	<game name="SteamWorld Heist (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>SteamWorld Heist (Europe) (v1.02) (Update)</description>
+		<rom crc="bcfb726d" md5="72edc0ae4ca4ccaa44ac8dbe5786cfff" name="EP4473-PCSB00693_00-STEAMWORLDHEIST0-A0102-V0100-27005ddbd94f96e7eb9ffa18b2538b9d345737ec-PE.pkg" sha1="c2d359ec5b982172f0dbc61644fa7a58212e27e5" size="59290224"/>
+	</game>
+	<game name="Steins;Gate 0 (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Steins;Gate 0 (Europe) (v1.02) (Update)</description>
+		<rom crc="160d7047" md5="c5f794508625a3e0acf4b277782e1740" name="EP4293-PCSB01012_00-STEINSGATEZEROPV-A0102-V0100-626b1b99291d6cba6d974f777e5c36c9f01c5798-PE.pkg" sha1="d1a3af321120d93d391ac08f909a8cf61566e481" size="31705728"/>
+	</game>
+	<game name="Still Time (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Still Time (Europe) (v1.02) (Update)</description>
+		<rom crc="0c51ae9d" md5="4536bdf2672ab425c2f5966c3c7d4199" name="EP2174-PCSB00968_00-G000000000000890-A0102-V0100-f2621f4d3d7499614e89e8b7383146c481d7ab45-PE.pkg" sha1="e64b55ec4fe082ffed0377e3bef43cf4e7db91c7" size="48478224"/>
+	</game>
+	<game name="Stranded - A Mars Adventure (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Stranded - A Mars Adventure (Europe) (v1.03) (Update)</description>
+		<rom crc="050d39e7" md5="6ae64b36e3e99a0e73e7a98d08da3b95" name="EP4320-PCSB00933_00-STRANDED00001000-A0103-V0100-b73e4cdcfc13a95c5d46f7d7f47cfb387b5f108f-PE.pkg" sha1="bd12bb6e8196e7c3186dd2929fa430a79b4b887e" size="186061504"/>
+	</game>
+	<game name="Street Fighter X Tekken (Europe) (v1.08) (Update)">
+		<category>Games</category>
+		<description>Street Fighter X Tekken (Europe) (v1.08) (Update)</description>
+		<rom crc="7192788b" md5="c3fb6d14b84b49841b13a9398e5276a4" name="EP0102-PCSB00144_00-SFXTGAMEEU000000-A0108-V0100-3d4857132e22c273489fe5dbb73bbd4ff43409b5-PE.pkg" sha1="a49ee3d52c4a98894c4cb6409fc996d20af0bced" size="39882368"/>
+	</game>
+	<game name="Super Destronaut DX (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Super Destronaut DX (Europe) (v1.01) (Update)</description>
+		<rom crc="42a835fe" md5="e7d1d5fda0dd7071d51a0b053d7e4791" name="EP0896-PCSB01251_00-RGSUPERDESTRONAU-A0101-V0100-f04dc05a92452925b2e8c7ddf85a89b4fa92e639-PE.pkg" sha1="a5241f4a4b5f880b1cd203f1f1346dbd8cda2d96" sha256="33f41a741ebf70cd176ddb46938be714c3c951e35d8a1ac737d2f1f36b78ab90" size="36060560"/>
+	</game>
+	<game name="Super Exploding Zoo (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Super Exploding Zoo (Europe) (v1.02) (Patch)</description>
+		<rom crc="70a6fa1a" md5="c0eeed1fd193fa87187058cbfc15e595" name="EP4078-PCSB00362_00-SUPEREXPZOO00001-A0102-V0100-8d719c194b0c00999edd14806e58a5a01a2745b5-SP-PE.pkg" sha1="257540fdf89963214169c314a657cc2ace808d11" size="118736304"/>
+	</game>
+	<game name="Super Exploding Zoo (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Super Exploding Zoo (Europe) (v1.02) (Update)</description>
+		<rom crc="dcf0b8f2" md5="3fad3807a20966d20d97c3478beb4814" name="EP4078-PCSB00362_00-SUPEREXPZOO00001-A0102-V0100-1f4c7651273ab4918ed4cbf6cef752c6792589d9-PE.pkg" sha1="07f90832ac9293d82a6c79c5cd296d7ff913800f" size="168435664"/>
+	</game>
+	<game name="Super Hydorah (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Super Hydorah (Europe) (v1.01) (Update)</description>
+		<rom crc="2d2109e2" md5="89d32bd44f4ae0dece7140fdcf8f0c13" name="EP4186-PCSB01193_00-G000000000001106-A0101-V0100-bcbcd09e4b190ce20d455ba573c9600da1a6fad6-PE.pkg" sha1="e4e964354aa0ce75830f33566a2cd4cfec60ba2a" sha256="b5d027d5a98092901ba08ab331a51d0907a15fe6afb3a4806c9a263122c96c2b" size="48835840"/>
+	</game>
+	<game name="Super Meat Boy (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Super Meat Boy (Europe) (v1.02) (Update)</description>
+		<rom crc="efd10f8c" md5="6213c4e306fb7d295d1618d1ffb6260a" name="EP1051-PCSB00881_00-SUPERMEATBOY0000-A0102-V0100-08eae43bb8472ab8f65d81c9fcc3bb8cbf9b7bf2-PE.pkg" sha1="c4bd2455b4d98d690e49825e96d6c02de036750a" size="19273664"/>
+	</game>
+	<game name="Super Skull Smash GO! 2 Turbo (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Super Skull Smash GO! 2 Turbo (Europe) (v1.01) (Update)</description>
+		<rom crc="e1c8d6e2" md5="c53aa8455279ceee1e48cd907a96f00a" name="EP0995-PCSB01271_00-TACSKULLSMASHGO2-A0101-V0100-9d101128e898b7b2e25be5dae13d68b5c2ab2764-PE.pkg" sha1="fe28e6915239322b0ba53a5a2cecb58c6b1d3cd4" sha256="bf581953acea672b038e083408d2400928fae228fd1bdb863406a06349432220" size="23907664"/>
+	</game>
+	<game name="Super Star Wars (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Super Star Wars (Europe) (v1.01) (Update)</description>
+		<rom crc="72d4fdb7" md5="f43c4f6ed9269de95588095a34f25392" name="EP1006-PCSB00899_00-SUPERSTARWARSVIT-A0101-V0101-550126980a8d74d84383c3fdb2d25a8d6a44fe54-PE.pkg" sha1="30bb2d5fcf4d56fd5e3732576899a0f8cbd6c4f3" size="2112528"/>
+	</game>
+	<game name="Super Time Force Ultra (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Super Time Force Ultra (Europe) (v1.02) (Update)</description>
+		<rom crc="801f16e8" md5="47563a5b83ddd2242fbda76ac174d321" name="EP2003-PCSB00786_00-SUPERTIMEFORCEUL-A0102-V0100-5bd071fb2ba4d4718223a2ac7d621d81986b0248-PE.pkg" sha1="8d5aeb17143dd72dfef9f340523f44bc7d5b57b0" size="69046176"/>
+	</game>
+	<game name="Super Weekend Mode (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Super Weekend Mode (Europe) (v1.01) (Update)</description>
+		<rom crc="7c152767" md5="f9b764960f2672fafff6652aaba56be9" name="EP0896-PCSB01334_00-RGSUPERWEEKENDMO-A0101-V0100-d0537e8aec7fd4ad8f5af9ae4ab8bf286c76fda4-PE.pkg" sha1="54d75f81cf9b4f6622bc9d9413f8227870b3a782" size="17072176"/>
+	</game>
+	<game name="Superbeat - Xonic (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Superbeat - Xonic (Europe) (v1.01) (Update)</description>
+		<rom crc="d9db6bd1" md5="ad9c24eedaaaf6f26a53bba6c13a6695" name="EP4034-PCSB00891_00-SUPERBEATXONIC00-A0101-V0100-4beabc8d3776475640ceedf2604200c56506bb5d-PE.pkg" sha1="a83c00c4f3038f62987dd67457193edc90095e74" size="1226190928"/>
+	</game>
+	<game name="Supermagical (Europe) (v1.05) (Update)">
+		<category>Games</category>
+		<description>Supermagical (Europe) (v1.05) (Update)</description>
+		<rom crc="861c326f" md5="c29471e0623c787cc7d5fd0f0cc98123" name="EP4320-PCSB00513_00-SUPERMAGICAL1000-A0105-V0100-0ef3d03571f5411243b09ebb9a8ba89b06b979f5-PE.pkg" sha1="ab5b63e8ae59e2ea2af1a9ba173d68a8566711f8" size="258814720"/>
+	</game>
+	<game name="Surge Deluxe (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Surge Deluxe (Europe) (v1.02) (Patch)</description>
+		<rom crc="9c0b3f0d" md5="7f9240c5b22b83f8faf2e40412746d00" name="EP4143-PCSB00439_00-SURGEDELUXE00000-A0102-V0100-2b4dec0a550f0df8c70dbcc0aded670481822fbf-SP-PE.pkg" sha1="7926d85c8bf05e0555622b5213875b0030c3daf7" size="1037232"/>
+	</game>
+	<game name="Surge Deluxe (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Surge Deluxe (Europe) (v1.02) (Update)</description>
+		<rom crc="88a28f4d" md5="e22e5edbddc4372da3b665eac636346c" name="EP4143-PCSB00439_00-SURGEDELUXE00000-A0102-V0100-6095e3b5342304b9039728009c06e4ecc579faa4-PE.pkg" sha1="1d563f75bc165a61e8ee80fae1ac030f3b3e3ddc" size="1052848"/>
+	</game>
+	<game name="Swindle, The (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Swindle, The (Europe) (v1.03) (Update)</description>
+		<rom crc="73b2fbd6" md5="f493e4ecec54fc57b40c823870abbbf5" name="EP4395-PCSB00778_00-G000000000000705-A0103-V0100-484471327c54dd0e48600dd3269daed289975971-PE.pkg" sha1="d392212db67b231e447611cf42cf09a4ba509538" size="145493712"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Fragment (Europe) (v1.02) (Patch)</description>
+		<rom crc="94b92c6f" md5="60cbc07919189684785ffda28fb35f0a" name="EP0700-PCSB00618_00-SWORDART2USEU100-A0102-V0101-7fd06893dc76e1b1ac0a973493603cb49a7ce3b5-SP-PE.pkg" sha1="e98472beb65839910cfd9d8a9a2526a8c6a0cd3f" size="633395040"/>
+	</game>
+	<game name="Sword Art Online - Hollow Fragment (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Fragment (Europe) (v1.02) (Update)</description>
+		<rom crc="cdab0cd8" md5="34f9eebe2c570caa92fc72aff7616587" name="EP0700-PCSB00618_00-SWORDART2USEU100-A0102-V0101-580ed1328d975251c49dd12775307398b21fff9b-PE.pkg" sha1="999aa94219d6ba1fca3b1ac9883ce284a0150b77" size="677047728"/>
+	</game>
+	<game name="Sword Art Online - Hollow Realization (Europe) (v3.20) (Patch)">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Realization (Europe) (v3.20) (Patch)</description>
+		<rom crc="65964d2d" md5="11d14efefda77add2a99d6e187ad6d20" name="EP0700-PCSB00972_00-SWORDARTHR0000EU-A0320-V0100-29e4594b0bddb4ce7323fa3da70570a3d7c84865-SP-PE.pkg" sha1="e301652ab96cf0d04ce85af45ce6988b4ae21bf7" size="655086864"/>
+	</game>
+	<game name="Sword Art Online - Hollow Realization (Europe) (v3.20) (Update)">
+		<category>Games</category>
+		<description>Sword Art Online - Hollow Realization (Europe) (v3.20) (Update)</description>
+		<rom crc="fd198d73" md5="ea333e7ec9326dbad00d623b646ba73c" name="EP0700-PCSB00972_00-SWORDARTHR0000EU-A0320-V0100-c1686ee1150e6788560ff1041ddcf21e276de27f-PE.pkg" sha1="782864c761e8d33c01cecabb7ef9b4aa57cab547" size="3033669760"/>
+	</game>
+	<game name="Table Football (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Table Football (Europe) (v1.01) (Update)</description>
+		<rom crc="92160ebf" md5="cd332b5dedf604795b042467a7f7ec1c" name="EP9000-PCSF00062_00-TABLEFOOTBALLEU0-A0101-V0100-8dc2fd9dc09fa6368252f803cddf74839e27efa0-PE.pkg" sha1="f022444535ccf1a3e3624c0e27f0655d2787a4b0" size="31664432"/>
+	</game>
+	<game name="Table Mini Golf (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Table Mini Golf (Europe) (v1.01) (Update)</description>
+		<rom crc="ed14e4b1" md5="7910d59661bdf8dfbdcd4663b67de8bb" name="EP9000-PCSF00147_00-TABLEGOLFEU00000-A0101-V0100-a132cad621721efb572ebd4bd1a9bcac9703f5ec-PE.pkg" sha1="5e20205e55ce7147055642ce40fca15614721bf7" size="7902160"/>
+	</game>
+	<game name="Table Top Racing (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Table Top Racing (Europe) (v1.02) (Update)</description>
+		<rom crc="f526f331" md5="e78a0e0fdb19791b80f44bc566b6e29a" name="EP4337-PCSB00416_00-TABLETOPRACING01-A0102-V0100-39d54f36ac1572dfee659296f0f988cb24d2af2a-PE.pkg" sha1="8c9ea6dd380cf9e3a2d299afd017bd0a3252dcf0" size="33667968"/>
+	</game>
+	<game name="Table Top Tanks (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Table Top Tanks (Europe) (v1.01) (Update)</description>
+		<rom crc="7315fd49" md5="b793f99d6692d513bed8da58b0438977" name="EP9000-PCSF00030_00-TABLETOPTANKZZZZ-A0101-V0100-d3a2b46f66422ac235bc082e9f33d09cb63e8dc7-PE.pkg" sha1="f6e19c7a90142a98c56643c7ccff13b3d8018d3b" size="1597024"/>
+	</game>
+	<game name="Tachyon Project (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Tachyon Project (Europe) (v1.01) (Update)</description>
+		<rom crc="c3b292b5" md5="91adb885802d2a043f53d38967f30107" name="EP1704-PCSB00912_00-0000000000000001-A0101-V0100-5c729948b5927243f5e22b56700a17c876a475cf-PE.pkg" sha1="431612fe97c7223c2f222ce69d737b1f0f20d0f6" size="240933264"/>
+	</game>
+	<game name="Tales from Space - Mutant Blobs Attack!!! (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Tales from Space - Mutant Blobs Attack!!! (Europe) (v1.01) (Update)</description>
+		<rom crc="7f77cc37" md5="6cd954de361cb46b952be9d0ac6023e4" name="EP2145-PCSB00096_00-MUTANTBLOBSATK00-A0101-V0100-78bd2e4c4a88420ab90dd16ce3a0a2ba946b9731-PE.pkg" sha1="f07568be7b57848b4f76a6927a8a305cc6587514" size="141607264"/>
+	</game>
+	<game name="Talisman - Digital Edition (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Talisman - Digital Edition (Europe) (v1.01) (Update)</description>
+		<rom crc="a620c57d" md5="a7562cccefedaf60d4588a9a04294809" name="EP2581-PCSB01015_00-TALISMANDIGIEDIT-A0101-V0100-afe7a451358acb00a85ae9b94c81bb23b51796a2-PE.pkg" sha1="c27e9f13fbefe789aa88ddf12c066fd00da70399" size="3698096"/>
+	</game>
+	<game name="Tearaway (Europe) (v1.01) (Trial) (Update)">
+		<category>Games</category>
+		<description>Tearaway (Europe) (v1.01) (Trial) (Update)</description>
+		<rom crc="953ad692" md5="1b6e75c99c4d9ca5aebb9ed996c021f4" name="EP9000-PCSF00476_00-TEARAWAY0TRIAL00-A0101-V0100-b8717a7d8366f8885c4eebcbbb2f9530edee9856-PE.pkg" sha1="3ad72c40c3015849d83c9a04f010bfbffe9fb157" size="11783760"/>
+	</game>
+	<game name="Tearaway (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Tearaway (Europe) (v1.02) (Patch)</description>
+		<rom crc="f87d4ae3" md5="dab0452cdac72e61517467583ca56363" name="EP9000-PCSF00214_00-TEARAWAY00000000-A0102-V0100-438ac4b3a270801814aac8990e41c91aeb535e63-SP-PE.pkg" sha1="4ffaf2f68edd36bc8c5f922860b4239bf777ea8c" size="11804064"/>
+	</game>
+	<game name="Tearaway (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Tearaway (Europe) (v1.02) (Update)</description>
+		<rom crc="533ddb41" md5="0f5d82d919d419bf1c7d2e578a5d3a9a" name="EP9000-PCSF00214_00-TEARAWAY00000000-A0102-V0100-dfcc0b904ead563efdbbfa9afbaf075ff5d649eb-PE.pkg" sha1="13d8697849c608af9104401df10432c6947a6029" size="13917504"/>
+	</game>
+	<game name="Terraria (Europe) (v1.11) (Update)">
+		<category>Games</category>
+		<description>Terraria (Europe) (v1.11) (Update)</description>
+		<rom crc="4ee32ff4" md5="0e251d129170179d71a87a6acb64d9cb" name="EP4040-PCSB00405_00-TERRARIA00000001-A0111-V0100-4aee9f756e436b975e4583747cee7183cf71d53a-PE.pkg" sha1="8b12aaf5940f81bac04fc58791b442bcd808406e" size="57870496"/>
+	</game>
+	<game name="Timespinner (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Timespinner (Europe) (v1.03) (Update)</description>
+		<rom crc="5c40dfb6" md5="2e50d0e47a7cdb9fbbb5c20955ae4f64" name="EP0423-PCSB01301_00-G000000000001211-A0103-V0100-c1c4095df07e69eaa1b18eb04bde909f737e6b67-PE.pkg" sha1="e40c95f15c9025fc69ffca5d44a5b9bf8335b878" sha256="7e678970da3c8259bf044baeccecf090f4cc973001c0ac60d55e72f10d0e71cc" size="36766704"/>
+	</game>
+	<game name="Tiny Troopers Joint Ops (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Tiny Troopers Joint Ops (Europe) (v1.02) (Update)</description>
+		<rom crc="2c66f863" md5="0b16bd18d2c229021f7dd2fa616958f0" name="EP4382-PCSB00552_00-TTSPECOPS0000013-A0102-V0101-e43c352ed3639cd475bbdf61a502d5eea3c3723c-PE.pkg" sha1="0af2a14f27ff7f88917dcfd3786b8de04b284914" size="437458432"/>
+	</game>
+	<game name="Titan Souls (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Titan Souls (Europe) (v1.01) (Update)</description>
+		<rom crc="571f48ea" md5="737621498fa171e3079306af209987fc" name="EP3643-PCSB00720_00-DEVOTITANSOULS01-A0101-V0100-43a56349606c374621ef71f8c4f0278f93e8a358-PE.pkg" sha1="583dacf6f892e86d49954ce34d4ef3711fa7e0fe" size="7326928"/>
+	</game>
+	<game name="Total Recoil (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Total Recoil (Europe) (v1.01) (Update)</description>
+		<rom crc="e8bde8e4" md5="77deedf6e3daf3f1ce492c06c9c2bcd8" name="EP4168-PCSB00355_00-TOTALRECOIL00001-A0101-V0101-637e731f417852ae5436f83d092af0dd3d0b429d-PE.pkg" sha1="98810c39213f3f3930dc8905adab37360297e13d" size="14072864"/>
+	</game>
+	<game name="Touch My Katamari (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Touch My Katamari (Europe) (v1.01) (Update)</description>
+		<rom crc="dbbb53cc" md5="064fd7baf17edce558d87d6c31bca679" name="EP0700-PCSB00047_00-KATAMARIDAMACY00-A0101-V0100-4e8342b36695f8e86aa7f514b399ff1033b944da-PE.pkg" sha1="a976410c9a2a3dc12550e0b7b8b506f6d2ba62ad" size="22818704"/>
+	</game>
+	<game name="Touhou Kobuto V - Burst Battle (Europe) (v1.03) (Patch)">
+		<category>Games</category>
+		<description>Touhou Kobuto V - Burst Battle (Europe) (v1.03) (Patch)</description>
+		<rom crc="846f8be1" md5="79d1f5fbd27aafe0f6e3095db2d5d62e" name="EP1063-PCSB01129_00-KBTVGAME00000001-A0103-V0101-b7cf9c134bb706de2bdf3f875cf15f4c4fe40279-SP-PE.pkg" sha1="b4811f732d71eb0430106be910d10ac84cf8cad5" size="115734736"/>
+	</game>
+	<game name="Touhou Kobuto V - Burst Battle (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Touhou Kobuto V - Burst Battle (Europe) (v1.03) (Update)</description>
+		<rom crc="76a59e45" md5="cdccb698b503307c596941b1e6d630a6" name="EP1063-PCSB01129_00-KBTVGAME00000001-A0103-V0101-be44385dd210c1300ce36fa7bf306456655cf25d-PE.pkg" sha1="1eea07dad9724ded93f3f2ef6cf2636cc5728268" size="248611200"/>
+	</game>
+	<game name="Toukiden - The Age of Demons (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Toukiden - The Age of Demons (Europe) (v1.02) (Update)</description>
+		<rom crc="773f6ae4" md5="c2df94804678256e78208161f27db929" name="EP4108-PCSB00478_00-PKGTOUKIDEN00000-A0102-V0100-91bc1d3ac2efa153e844beaf84ead11c82579c0b-PE.pkg" sha1="adc4ce9e2e8ec88b2ec6e6f957c9f069f5c208db" size="3992032"/>
+	</game>
+	<game name="Toukiden 2 (Europe) (v1.03) (Patch)">
+		<category>Games</category>
+		<description>Toukiden 2 (Europe) (v1.03) (Patch)</description>
+		<rom crc="6bbfba4d" md5="12c50199c9616031627c3ceaa2742056" name="EP4108-PCSB01003_00-TOUKIDEN20000000-A0103-V0100-b2e66fdf76bcac10b59c308a96a9ebed4d866bff-SP-PE.pkg" sha1="7f983debc27e4596245fa7c28925ad8a1e9a279a" size="5648800"/>
+	</game>
+	<game name="Toukiden 2 (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Toukiden 2 (Europe) (v1.03) (Update)</description>
+		<rom crc="d355dd2d" md5="bdf6fc4a869a5ae07c22dbadd611fef7" name="EP4108-PCSB01003_00-TOUKIDEN20000000-A0103-V0100-5ab53e86b6e989ba0dcb59513e567a4a16fe4aa2-PE.pkg" sha1="f4e120b9f6fc9a1e1f80278dbaacca6e17d3d46b" size="25585168"/>
+	</game>
+	<game name="Travel Bug (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Travel Bug (Europe) (v1.01) (Update)</description>
+		<rom crc="376b1054" md5="3cd3719b5760dd83881fb9737e3a5830" name="EP9000-PCSF00113_00-TRAVELBUGGAME000-A0101-V0100-7613375ee7c6c6d7cb4a4e6d7acb4eefdfdc61e1-PE.pkg" sha1="45e642d696611c62bdf249d9d32983b24405a1ef" size="39657280"/>
+	</game>
+	<game name="Treasure Park (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Treasure Park (Europe) (v1.02) (Update)</description>
+		<rom crc="0036cb82" md5="5f43c73bdd32b3726c180b3bba3cfd47" name="EP9000-PCSF00139_00-TREASUREPARKEU01-A0102-V0100-7a193d48e1de3babb9d9f569f2178a632faaf92f-PE.pkg" sha1="44b6aa0f7cbf756998d480fde99fa923067bb1b3" size="2688432"/>
+	</game>
+	<game name="Treasures of Montezuma Arena (Europe) (v1.10) (Update)">
+		<category>Games</category>
+		<description>Treasures of Montezuma Arena (Europe) (v1.10) (Update)</description>
+		<rom crc="1b01aca9" md5="d013a4f61d4a9a8ca7ec0ac4347b6203" name="EP4173-PCSB00422_00-MONTEZUMAARENA00-A0110-V0100-8492726561ddf9f50d479d32c4d86055cd96dfa2-PE.pkg" sha1="c4d03ee68e2f4b9082b69d477c087b3a035f9d16" size="13408624"/>
+	</game>
+	<game name="Treasures of Montezuma Blitz (Europe) (v1.91) (Update)">
+		<category>Games</category>
+		<description>Treasures of Montezuma Blitz (Europe) (v1.91) (Update)</description>
+		<rom crc="193e14fb" md5="2f74283ec932991cfbf55805f8fff833" name="EP4173-PCSB00060_00-MONTEZUMABLITZ00-A0191-V0100-a9948d86712dcde3f7148b6e249a45c214fff5e8-PE.pkg" sha1="23ca8f11e656bcf25df500cf9920e3f6d2981722" size="69479888"/>
+	</game>
+	<game name="Trillion - God of Destruction (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Trillion - God of Destruction (Europe) (v1.01) (Update)</description>
+		<rom crc="7ada9356" md5="c96a29a29623e53362fdc7f921275036" name="EP0031-PCSB00904_00-TRILLIONGOD00000-A0101-V0100-059165f60174d90e95cc1e5131e5ae6f82580c9e-PE.pkg" sha1="38abc734ffa71bf0319aba745aa69e433d4dc4c6" size="7736432"/>
+	</game>
+	<game name="Twitch (Europe) (v1.08) (Update)">
+		<category>Games</category>
+		<description>Twitch (Europe) (v1.08) (Update)</description>
+		<rom crc="8ef715eb" md5="446e3b5263a529bbd4302453f12a10b3" name="EP8816-PCSB00878_00-G000000000000800-A0108-V0100-16eddd08812e426d4c2751e52b89cb9714c46d30-PE.pkg" sha1="2fb7ceb14c596b77a0477823809b6ac791d5bc47" size="17581600"/>
+	</game>
+	<game name="TxK (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>TxK (Europe) (v1.01) (Update)</description>
+		<rom crc="20efd019" md5="65adbc81204219e86a4c5c88aa71a11f" name="EP4461-PCSB00494_00-LLAMASOFTTXK0001-A0101-V0101-f4bb3257a82911093a097934a5597ed3b1bf457b-PE.pkg" sha1="7fd6985f94c33de22e6f96d27ee24b03bd1882d2" size="785408"/>
+	</game>
+	<game name="Ultimate Marvel vs. Capcom 3 (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Ultimate Marvel vs. Capcom 3 (Europe) (v1.02) (Update)</description>
+		<rom crc="73e6b49a" md5="41d9c46fa79766159273c46b730e3ebc" name="EP0102-PCSB00070_00-CAPUMVC300000000-A0102-V0100-1126e2b7951ea5e53f8ba9ac17be731e604fe346-PE.pkg" sha1="075a1e4161e3e501e31c587d470dc956ace83db1" size="5676448"/>
+	</game>
+	<game name="Uncanny Valley (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Uncanny Valley (Europe) (v1.01) (Update)</description>
+		<rom crc="5ebaab45" md5="09ada373e5c875a04ea498c28a8a0aed" name="EP8925-PCSB00868_00-UNCVALLEYPSV000E-A0101-V0100-ace344438fe512731b519289d94c4a9dd18189fe-PE.pkg" sha1="9b9daf9b83d2e41831a5a618d281f044aa006937" size="39218880"/>
+	</game>
+	<game name="Uncharted - Fight for Fortune (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Uncharted - Fight for Fortune (Europe) (v1.01) (Update)</description>
+		<rom crc="8bc51ef1" md5="a65c0f1c3cace9890d6b3b69e80725fb" name="EP9000-PCSF00220_00-0000000000000000-A0101-V0100-9309e95d30c54cbd8b1bc256b9e14adfbed0b778-PE.pkg" sha1="2a810e02408b5f511bf252499728ee7a70131cea" size="18400640"/>
+	</game>
+	<game name="Uncharted - Golden Abyss (Europe) (En,Es,Pt,Pl,Ru) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Uncharted - Golden Abyss (Europe) (En,Es,Pt,Pl,Ru) (v1.03) (Update)</description>
+		<rom crc="952a218c" md5="8b883344834d30fd2991ef34a0498f9c" name="EP9000-PCSF00001_00-0000000000000000-A0103-V0100-3a140143015381c9dab50560545190f6de4c84db-PE.pkg" sha1="513d70df76ae5237ab8cc154d44c3e15f661a14f" size="93492432"/>
+	</game>
+	<game name="Undertale (Europe) (v1.08) (Patch)">
+		<category>Games</category>
+		<description>Undertale (Europe) (v1.08) (Patch)</description>
+		<rom crc="d90ba086" md5="d8482559915972a8408520a30e11e9f5" name="EP3746-PCSB01157_00-G000000000001070-A0108-V0100-031c94fd13455772c1b74ed5850605d309ec873f-SP-PE.pkg" sha1="a91c6f13d2d2ee677fcf07c0b7cd81036f09e55c" size="67579968"/>
+	</game>
+	<game name="Undertale (Europe) (v1.08) (Update)">
+		<category>Games</category>
+		<description>Undertale (Europe) (v1.08) (Update)</description>
+		<rom crc="c27a5436" md5="0cb664517393a9f6c0515265581621e1" name="EP3746-PCSB01157_00-G000000000001070-A0108-V0100-6df671ab2429b767f59e6247ae946a266b61ad55-PE.pkg" sha1="6dcf5fd7090d25b502edc9b2dc42f87854abcc64" size="67595584"/>
+	</game>
+	<game name="Unit 13 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Unit 13 (Europe) (v1.01) (Update)</description>
+		<rom crc="45de9d5c" md5="8d93ad1fca391791974e0da841c5c855" name="EP9000-PCSF00034_00-UNIT13ZIPPER0100-A0101-V0100-3c8c4141008b759ccd149fb17fdd619751bbc864-PE.pkg" sha1="395c5285221090f2ccedc5d44d84298e9d9b57f6" size="8938768"/>
+	</game>
+	<game name="Valkyrie Drive - Bhikkhuni (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Valkyrie Drive - Bhikkhuni (Europe) (v1.01) (Update)</description>
+		<rom crc="cffcf76a" md5="fada000cca89060364dba62605b36748" name="EP4293-PCSB01011_00-APP0000000000000-A0101-V0100-912eb578f030337a4e76c24e0f8f49e7dee61955-PE.pkg" sha1="e5a55b03c428698d86b2965e0c499d4d692efdc3" size="34731072"/>
+	</game>
+	<game name="Vasara Collection (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Vasara Collection (Europe) (v1.01) (Update)</description>
+		<rom crc="74235954" md5="9741fb03e256e973cd843c73dc52b9f6" name="EP0546-PCSB01281_00-G000000000001193-A0101-V0100-1c9cc869d40eecc94d336e5767a70e03e68de342-PE.pkg" sha1="cd18f183bde857a93b9ebd3a82b6c7b7158afd09" sha256="9ea069ddadff51590fe399a50a3cae95767f79e4388c9caa09bb371c054e52ed" size="20165792"/>
+	</game>
+	<game name="Vegas Party (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Vegas Party (Europe) (v1.01) (Update)</description>
+		<rom crc="3e454049" md5="f16dd037daeda0c387ffc18584b4007d" name="EP4358-PCSB01133_00-VEGASPARTY000000-A0101-V0100-a2d5d7c65683e09ac8a9de2ee8613bf4e9fb3645-PE.pkg" sha1="36f9132f3ce3abbf5208047036ebf0a99e027809" sha256="7c3c1e6aec23e08f6581431e330adde7df923725990e100d1b1a623e1a34e6f8" size="4252960"/>
+	</game>
+	<game name="Velocity 2X (Europe) (v1.04) (Patch)">
+		<category>Games</category>
+		<description>Velocity 2X (Europe) (v1.04) (Patch)</description>
+		<rom crc="cd6b1c1e" md5="018b259a4a53fa1efe3641e14bac5c4d" name="EP4143-PCSB00410_00-FUTURLABV2XVITA0-A0104-V0100-c42cfd4f8b8c2aa630697ac6aa624fc32c7970ac-SP-PE.pkg" sha1="01089c5515eb4651da0a48baaeb4d78b1bee5892" size="46066848"/>
+	</game>
+	<game name="Velocity 2X (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Velocity 2X (Europe) (v1.04) (Update)</description>
+		<rom crc="be7f31f7" md5="58a822792e1cb968c362f5b41e8a0030" name="EP4143-PCSB00410_00-FUTURLABV2XVITA0-A0104-V0100-bf7229c32450bf71435965cd8d4accfda18cad9e-PE.pkg" sha1="8e23ad884d0277aef42b62841f37241d968e5e25" size="80899104"/>
+	</game>
+	<game name="Velocity Ultra (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Velocity Ultra (Europe) (v1.01) (Update)</description>
+		<rom crc="b2b8028c" md5="e4a03554bfb9f4f16df5e190f97b711d" name="EP4143-PCSB00302_00-VELOCITYULTRA000-A0101-V0100-8d93998a8f09dd855c7b292c12b32bbcd4cf0673-PE.pkg" sha1="8a4ca47f63d8580da599924f8c7bfc21dfca3d4c" size="2454880"/>
+	</game>
+	<game name="Virtua Tennis 4 - World Tour Edition (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Virtua Tennis 4 - World Tour Edition (Europe) (v1.01) (Update)</description>
+		<rom crc="b6daf215" md5="c4b70f7268ddec76f68636b2e0596e3a" name="EP0177-PCSB00031_00-VT40000000000001-A0101-V0100-e4504c1f423647f10ea9f23c27518a3c20568950-PE.pkg" sha1="9ecb9730af3927fc99f15de5ece992a1768b3f0b" size="2970864"/>
+	</game>
+	<game name="Volume (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Volume (Europe) (v1.03) (Update)</description>
+		<rom crc="60dbaa2e" md5="cc97c8823cf232d74749f3a917fe6520" name="EP1161-PCSB00827_00-VOLUMEVITAGAME01-A0103-V0100-d0fe07e9395743f81cd27e6dd27cff4b9de7e560-PE.pkg" sha1="423894b35d474e45174125cbe42b8f3891dbe9b2" size="492741072"/>
+	</game>
+	<game name="Vostok Inc. (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>Vostok Inc. (Europe) (v1.03) (Update)</description>
+		<rom crc="833d1e65" md5="d5ed45b5c4f9489b4b0a326411a75176" name="EP1160-PCSB01151_00-VOSTOKINCMASTER0-A0103-V0100-551b086a7cc057769d137ba46d0a82bb81d0e964-PE.pkg" sha1="b10f7396b6dd3fdb63389741292fa8e2046ed109" size="151969200"/>
+	</game>
+	<game name="WRC 3 - FIA World Rally Championship (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>WRC 3 - FIA World Rally Championship (Europe) (v1.01) (Update)</description>
+		<rom crc="66dd4636" md5="707dcb3e08d51aed9324858cf5b9921b" name="EP4356-PCSB00204_00-WRC3VITAGAMEEU00-A0101-V0100-f87d166ae51c567c0c26ed47624d2adad201e2de-PE.pkg" sha1="f488515346fb5658599a292682911fb2e00d5d81" size="13898736"/>
+	</game>
+	<game name="WRC 4 - FIA World Rally Championship (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>WRC 4 - FIA World Rally Championship (Europe) (v1.01) (Update)</description>
+		<rom crc="657f7b5f" md5="480a895c7fc5210a8901410476593686" name="EP4008-PCSB00345_00-WRC4VITAGAMEEU00-A0101-V0100-c51b4cd7eda6d9fa926daec499b9ed962f0a5bb2-PE.pkg" sha1="b8323f3439657d526495d4e0b2b008f18f2b4e4b" size="10664576"/>
+	</game>
+	<game name="Waking Violet (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Waking Violet (Europe) (v1.01) (Update)</description>
+		<rom crc="def6864d" md5="ac5c93dd66ed88d9499ab5c97bc17eaf" name="EP4487-PCSB01249_00-G000000000001161-A0101-V0101-b4e53b9f0783205325ec7fcc717b3191b0cac7a0-PE.pkg" sha1="f89b04a24c3803613bc2b28febe33f6f054eb221" sha256="3d7891bc5757abd1576c99e95e85a6b83ee6a9cf6468643f6cc55a5ff74995fb" size="88370416"/>
+	</game>
+	<game name="Walking Dead, The - Season Two (Europe) (v1.04) (Patch)">
+		<category>Games</category>
+		<description>Walking Dead, The - Season Two (Europe) (v1.04) (Patch)</description>
+		<rom crc="e55cb296" md5="37a056cee0ab4846ad90e3aea302efae" name="EP2026-PCSB00469_00-TWDS20000000GAME-A0104-V0100-3fecfcef681fed8e34ffab54e04b5ee76d14174a-SP-PE.pkg" sha1="660aa882703f505217d29465d5779e03efdc5972" size="2578736"/>
+	</game>
+	<game name="Walking Dead, The - Season Two (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>Walking Dead, The - Season Two (Europe) (v1.04) (Update)</description>
+		<rom crc="072a9958" md5="c6bb4fb633838aedf4b42c4f8611904b" name="EP2026-PCSB00469_00-TWDS20000000GAME-A0104-V0100-a63d80d674203360343aa781f8981754d0e16f35-PE.pkg" sha1="5302cdf8b021886b4eb0d85356d0a1b62c212434" size="2594352"/>
+	</game>
+	<game name="Wanderjahr (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Wanderjahr (Europe) (v1.02) (Update)</description>
+		<rom crc="b94c11c9" md5="be9c6c4e7278377f468c3e03e361a078" name="EP4252-PCSB01006_00-WDJRFULLGAME0001-A0102-V0100-28a106886e7465ac45f82fac157d62d2a092859d-PE.pkg" sha1="560d3e77c4544443bf244231127b5af037be759e" size="1203744"/>
+	</game>
+	<game name="WebMAF Development Environment (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>WebMAF Development Environment (Europe) (v1.01) (Update)</description>
+		<rom crc="3c358bc5" md5="1a1d155e67b84e434dbec73fd9d56890" name="EP9009-PCSB00344_00-WEBMAF000DEFAULT-A0101-V0100-f818c5c4ee0128c83b858787191eac8f27f3a857-PE.pkg" sha1="cbbd7df3c6f2134bb78c081a55f96d3ffb2fc985" sha256="a8be0d934775d0d87cd9a28cd2b8e1b7708949092359357864862174e81c01de" size="41197376"/>
+	</game>
+	<game name="When Vikings Attack! (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>When Vikings Attack! (Europe) (v1.02) (Update)</description>
+		<rom crc="2283c78e" md5="b3ca385587dccdca2e2ab822880183af" name="EP9000-PCSF00093_00-VIKINGSATTACK001-A0102-V0100-42a31d82c320561e7cece51874d51144f5011bf2-PE.pkg" sha1="2b368e37fd80a91d441c079d2afed4b3f69f2ac4" size="83949296"/>
+	</game>
+	<game name="Windjammers (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Windjammers (Europe) (v1.01) (Update)</description>
+		<rom crc="646140a5" md5="86de527f66104882f9ab619191c5eaa1" name="EP1470-PCSB01083_00-G000000000000999-A0101-V0100-894531ee70162a84ab1f38d77daa6bc894e8cb60-PE.pkg" sha1="897c0a1665c7684a3b8507f2b3efbe8c6b1c8e12" size="139313216"/>
+	</game>
+	<game name="WipEout 2048 (Europe) (v1.04) (Update)">
+		<category>Games</category>
+		<description>WipEout 2048 (Europe) (v1.04) (Update)</description>
+		<rom crc="d6c80c51" md5="dcd8ca0c9288c05cee628b26aef3fdeb" name="EP9000-PCSF00007_00-WIPEOUT2048BASE0-A0104-V0100-19c83744fca1f0e4452a443b097f73b771280e3d-PE.pkg" sha1="42086e04e64cd12e51f56ce20a730d6a8dd90600" size="147982560"/>
+	</game>
+	<game name="Woah Dave! (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Woah Dave! (Europe) (v1.01) (Update)</description>
+		<rom crc="7ae7f3f4" md5="10810fe6c9f57569510962e87639c65c" name="EP2148-PCSB00662_00-WOAHDAVE20000000-A0101-V0100-f707b64f44b2c22104cd1cbbdf2436f782563ce5-PE.pkg" sha1="0f030570a3c6c74b6daa1578f2f1ddb661409a50" size="24520224"/>
+	</game>
+	<game name="World of Final Fantasy (Europe) (v1.03) (Patch)">
+		<category>Games</category>
+		<description>World of Final Fantasy (Europe) (v1.03) (Patch)</description>
+		<rom crc="d1cbf3b8" md5="dc7b6eeab3621b3a203e59321b20e849" name="EP0082-PCSB00951_00-WORLDOFFFPSVITA0-A0103-V0100-069e1b6f5d8b054459412b83cdfd4ee8cf2f95c1-SP-PE.pkg" sha1="4389aee88b93aae8c5d6859365770b4b4084f303" size="260937968"/>
+	</game>
+	<game name="World of Final Fantasy (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>World of Final Fantasy (Europe) (v1.03) (Update)</description>
+		<rom crc="c1c85344" md5="04681743ab511a2c044a37cf179e2d94" name="EP0082-PCSB00951_00-WORLDOFFFPSVITA0-A0103-V0100-528c4be57bd938636a2207b4fb74c67b76de1d67-PE.pkg" sha1="9a442715c1c59940c8ef995fe634c52ca6588f2e" size="554688160"/>
+	</game>
+	<game name="Xenon Valkyrie+ (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Xenon Valkyrie+ (Europe) (v1.01) (Update)</description>
+		<rom crc="71885c4d" md5="7698626e30a4c649b270ddd8b4671f1d" name="EP1762-PCSB01202_00-XENONVALKYRIE000-A0101-V0100-3d70d75d32b21f0f3354a2a755a47f6b4ee60322-PE.pkg" sha1="1bd5cf6a7e1e907b840a19c6ba19d85e3afd160b" size="26391760"/>
+	</game>
+	<game name="Yomawari - Midnight Shadows (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Yomawari - Midnight Shadows (Europe) (v1.01) (Update)</description>
+		<rom crc="18130419" md5="105115b40d12ff5b72be28c0d3a9d9fd" name="EP1063-PCSB01144_00-SHINYOMAWARI0001-A0101-V0100-8c8e16b3cc37ba5fa9f2c88b9efa5f8c4c4685c3-PE.pkg" sha1="057d2fa18d46ec8d98b75a4b086cf63801cf9482" size="4755504"/>
+	</game>
+	<game name="YouTube (Europe) (v2.30) (Update)">
+		<category>Games</category>
+		<description>YouTube (Europe) (v2.30) (Update)</description>
+		<rom crc="c73d9148" md5="db2678b0de103431bee4393e1a251147" name="EP9000-PCSF00150_00-YOUTUBE000000000-A0230-V0100-a636367e157d227427e5e9df9dd80472909a49be-PE.pkg" sha1="c3a52d8569b28d60806ed38f0fbf1d6979a5d377" size="5483568"/>
+	</game>
+	<game name="Ys Origin (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Ys Origin (Europe) (v1.02) (Patch)</description>
+		<rom crc="7a20324b" md5="4987c80dd9b802c7ee40dd9d0c9367c8" name="EP1470-PCSB01081_00-G000000000000997-A0102-V0100-68c3c8ca5c20d98429fdf5eb4fef3f77ab33e15f-SP-PE.pkg" sha1="a9301c6ef8ba59243eb46882bf9aad6ed424f391" size="327487200"/>
+	</game>
+	<game name="Ys Origin (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Ys Origin (Europe) (v1.02) (Update)</description>
+		<rom crc="0d570301" md5="6630622833daa8949d5869968d08b819" name="EP1470-PCSB01081_00-G000000000000997-A0102-V0100-919e1b668178042c9d5a1cdc4a5b6462489e9b9c-PE.pkg" sha1="d84ffb697889c8a4ab6173103db6bd7b2676fe57" size="1434491888"/>
+	</game>
+	<game name="Ys VIII - Lacrimosa of Dana (Europe) (v1.02) (Patch)">
+		<category>Games</category>
+		<description>Ys VIII - Lacrimosa of Dana (Europe) (v1.02) (Patch)</description>
+		<rom crc="d904c5e0" md5="d84fea34857545b519d0185e84420343" name="EP1063-PCSB01128_00-YSVIIIGAME000000-A0102-V0100-5d484be272999535afb6c6bac3b271b03d3ac3c2-SP-PE.pkg" sha1="1173674c3c8bc9a66aafb66837fd7184a5bfcbf4" sha256="1e3909aac7c84b88fda79208729d35b11a6cf9b5a743cde1d6e8fca0dbc8cc15" size="291505408"/>
+	</game>
+	<game name="Ys VIII - Lacrimosa of Dana (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>Ys VIII - Lacrimosa of Dana (Europe) (v1.02) (Update)</description>
+		<rom crc="efcb7f18" md5="86fbd5800a676f6e46c901b88748f528" name="EP1063-PCSB01128_00-YSVIIIGAME000000-A0102-V0100-9c466f4e86eb0d0af40135c71c7a072e20e64863-PE.pkg" sha1="b3091862a95696ff4b56375a7f5bfac30b6275b7" sha256="de288e8f29f000ab9fd123d8d41c61efd0c6afa5cb7b6f95d2503740702c5891" size="292163552"/>
+	</game>
+	<game name="Zen Pinball 2 (Europe) (v1.24) (Update)">
+		<category>Games</category>
+		<description>Zen Pinball 2 (Europe) (v1.24) (Update)</description>
+		<rom crc="a93a43e9" md5="3180d52b39d6ff866be9f70459868bdb" name="EP4042-PCSB00094_00-ZENPINBALL200001-A0124-V0100-29d61e3bd6f69324ba1e9701aebe07bc47d2df80-PE.pkg" sha1="e85fdf5fd78d455f840bd7a1aff63c4c614c8ef4" size="36337408"/>
+	</game>
+	<game name="Zero Escape - The Nonary Games (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Zero Escape - The Nonary Games (Europe) (v1.01) (Update)</description>
+		<rom crc="d242b98a" md5="606bb94ed98987ac45fa5850cf526224" name="EP1024-PCSB01063_00-ZEROESCAPE999ZEN-A0101-V0100-fef53fa1bae555a39e0d80913f897d400f36f081-PE.pkg" sha1="a596daff703a17a39417e888dc08f109769a6761" size="590976"/>
+	</game>
+	<game name="Zero Escape - Zero Time Dilemma (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Zero Escape - Zero Time Dilemma (Europe) (v1.01) (Update)</description>
+		<rom crc="57b8e374" md5="45ea44a1ad6d5066674d4729dd0a9785" name="EP1024-PCSB00942_00-ZEROESCAPE000000-A0101-V0100-0823660e1a0ad151b8531f0d181909f64c547a64-PE.pkg" sha1="69844edd166e22f3697904b2ae077d6c33c4ccda" size="4141200"/>
+	</game>
+	<game name="Zombie Tycoon II - Brainhov's Revenge (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Zombie Tycoon II - Brainhov's Revenge (Europe) (v1.01) (Update)</description>
+		<rom crc="07570c95" md5="9a5032d2075a80e1bfb7f98a842c50da" name="EP4096-PCSB00194_00-ZOMBIE2VERSION01-A0101-V0100-2ee4a3a1184ee461db39eca7c2ac71f2500e5d70-PE.pkg" sha1="8ac739852b0d57fa42f0717fbfb02b6769543a41" size="7592368"/>
+	</game>
+	<game name="Zombies - The Last Survivor (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>Zombies - The Last Survivor (Europe) (v1.01) (Update)</description>
+		<rom crc="b0a04a3a" md5="17ce3b223be5558663b3148838b026e6" name="EP1190-PCSB00941_00-G000000000000863-A0101-V0100-5b79f54db9ea20b6aa1cb4212dea7455ad30a72e-PE.pkg" sha1="46b644f72555b518564f33a4b2ce2b8ed295fda9" size="25412704"/>
+	</game>
+	<game name="[MIA] Borderlands 2 (Europe) (En,Fr,De) (v1.05) (Update)">
+		<category>Games</category>
+		<description>[MIA] Borderlands 2 (Europe) (En,Fr,De) (v1.05) (Update)</description>
+		<rom crc="234b562d" md5="ecbd4f3235e6be52452bd6c4e6586f95" mia="yes" name="EP9000-PCSF00570_00-BORDERLANDS2PSV1-A0105-V0100-9db8c77560b8618021f8d1f38367c76c99d4b285-PE.pkg" sha1="56983b6839d9e0f9bac191a8410d255011bcc4bb" size="321938320"/>
+	</game>
+	<game name="[MIA] Citizens of Earth (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Citizens of Earth (Europe) (v1.01) (Update)</description>
+		<rom crc="1037f2dc" md5="1f649c2266216bdfe7aeb022bf82bdf2" mia="yes" name="EP0005-PCSB00599_00-CITIZENSEARTHVIT-A0101-V0101-7b282ade29d6f3637cc96ef959d1b744c4884b2f-PE.pkg" sha1="0c191cdff2764c65ab026b9273fb966e4d5774d7" size="1818704656"/>
+	</game>
+	<game name="[MIA] Color Guardians (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Color Guardians (Europe) (v1.01) (Update)</description>
+		<rom crc="49ecb588" md5="e41d72a02c5f46bef5e25b524c8e0523" mia="yes" name="EP0836-PCSB00768_00-FPLCGMAINGAME101-A0101-V0100-2bf6c39dd011988931ac328f6aec987444afa4cf-PE.pkg" sha1="ae4a21485f136c00839908b71b862b5f074b0452" size="693817776"/>
+	</game>
+	<game name="[MIA] Divekick (Europe) (v1.06) (Update)">
+		<category>Games</category>
+		<description>[MIA] Divekick (Europe) (v1.06) (Update)</description>
+		<rom crc="49328c48" md5="d52769af576a08be4a2cf5f05b51eba2" mia="yes" name="EP4411-PCSB00373_00-DIVEKICKPSV00001-A0106-V0100-ee196244914f67fda1ea637c31d74b9776503237-PE.pkg" sha1="ec5fced9020326b6e2ee920ec2426f1eb6dd4ce0" size="541545056"/>
+	</game>
+	<game name="[MIA] Ecolibrium (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>[MIA] Ecolibrium (Europe) (v1.02) (Update)</description>
+		<rom crc="e02f60d3" md5="b8f0e2498cbd2c0a82efb0169b70f162" mia="yes" name="EP9000-PCSF00092_00-ECOLIBRIUMR00137-A0102-V0100-a476c0a670e8185f95eb77c5275a3b82ea204c67-PE.pkg" sha1="e34a1c3a2aa28ea392c77768f8ed8096382917d9" size="907456"/>
+	</game>
+	<game name="[MIA] Everybody's Golf (Europe) (v1.08) (Update)">
+		<category>Games</category>
+		<description>[MIA] Everybody's Golf (Europe) (v1.08) (Update)</description>
+		<rom crc="fdfb2dc9" md5="1dc8b96a0ad5c48bf53248937b0090f8" mia="yes" name="EP9000-PCSF00006_00-0011223344556677-A0108-V0100-2a46d97185fe3e84ffa1523159663f1b31221216-PE.pkg" sha1="1170479104dcdfb4d9cf76017272d12be9e3b7a5" size="592095600"/>
+	</game>
+	<game name="[MIA] Facebook (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>[MIA] Facebook (Europe) (v1.02) (Update)</description>
+		<rom crc="30ddebbf" md5="384bc099028655f0d27d9dd8400dadc6" mia="yes" name="EP9000-PCSF00044_00-FB0EU0FULL000100-A0102-V0101-4daf88a4d29bbc3258b54ed2d8121238c0359a42-PE.pkg" sha1="cfaea551a29bc33a853af0faa607afe4b57c42d6" size="11271664"/>
+	</game>
+	<game name="[MIA] Flickr (Europe) (v1.10) (Update)">
+		<category>Games</category>
+		<description>[MIA] Flickr (Europe) (v1.10) (Update)</description>
+		<rom crc="fdf5ea38" md5="d3106b9e5ea1c27a75810eefb78a5b5f" mia="yes" name="EP9000-PCSF00122_00-0000000000000000-A0110-V0100-a54eefc9757a54df72a87e0f487c949d256f0340-PE.pkg" sha1="d4e990e5236f15c492194ebdc76673573d2a4ae3" size="7474560"/>
+	</game>
+	<game name="[MIA] Foursquare (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Foursquare (Europe) (v1.01) (Update)</description>
+		<rom crc="1684edcc" md5="22fac97d93e2bf9d3ede037cd647ad30" mia="yes" name="EP9000-PCSF00090_00-ZZZZZZZZZZZZZZZZ-A0101-V0100-2928059daf82f831cdd4ba4ca883f11e1ec2b4e0-PE.pkg" sha1="4f6230bf5b286d0452b16fa9ff138fab38e77692" size="4882656"/>
+	</game>
+	<game name="[MIA] Grand Theft Auto - iFruit (Europe) (v1.10) (Update)">
+		<category>Games</category>
+		<description>[MIA] Grand Theft Auto - iFruit (Europe) (v1.10) (Update)</description>
+		<rom crc="2d8954eb" md5="5d6a9ab90f1ac452aaa43892d8a20b17" mia="yes" name="EP1004-PCSB00444_00-GTAVIFRUITAPP000-A0110-V0100-8fa9e964b33cd852804fd2fbdefc02c80a002b61-PE.pkg" sha1="e28a3c9a274ef8ab3d2f5dfd5ca50522321ffc65" size="77647888"/>
+	</game>
+	<game name="[MIA] Grim Fandango Remastered (Europe) (v1.02) (Update)">
+		<category>Games</category>
+		<description>[MIA] Grim Fandango Remastered (Europe) (v1.02) (Update)</description>
+		<rom crc="fde0267f" md5="780eca4ecbfa65b1a03ee7acb47163bb" mia="yes" name="EP2154-PCSB00731_00-GRIMFANDANGOPSVI-A0102-V0100-f414c47bc74d209de9b928a3b7d39842c07eb441-PE.pkg" sha1="730cf978429f3032d9cd1c3ebfab36b0645f4b16" size="17309616"/>
+	</game>
+	<game name="[MIA] Helldivers (Europe) (v3.01) (Patch)">
+		<category>Games</category>
+		<description>[MIA] Helldivers (Europe) (v3.01) (Patch)</description>
+		<rom crc="35266442" md5="585ecb26eb6b70a7903ccf122fec2791" mia="yes" name="EP9000-PCSF00465_00-HELLDIVERSSCEE00-A0301-V0100-84221b9da9d69992b2c79ea982388d2389e988d0-SP-PE.pkg" sha1="a3feac7e3a3010cba61e343fc658a9dca5640e7d" size="27616016"/>
+	</game>
+	<game name="[MIA] Helldivers (Europe) (v3.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Helldivers (Europe) (v3.01) (Update)</description>
+		<rom crc="1f905805" md5="9a323bc6e70b504827fa0c9ac4044e51" mia="yes" name="EP9000-PCSF00465_00-HELLDIVERSSCEE00-A0301-V0100-a6bba52a054ece8aaca243e9b0765a0beae09577-PE.pkg" sha1="d3c6b8ea4cc5927cf2a12a2628cf627f379a1dd2" size="1491124464"/>
+	</game>
+	<game name="[MIA] Jetpack Joyride (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Jetpack Joyride (Europe) (v1.01) (Update)</description>
+		<rom crc="848bdcb2" md5="f009f6a868a04b867b495624bff3bbee" mia="yes" name="EP4249-PCSB00244_00-JETPACKJOYRIDE00-A0101-V0100-035b2afbc5a9c3bbe2d21593488a9f517ffb5c3c-PE.pkg" sha1="ca51a74fe1c28b433c0e9421acc4e820aff9268f" size="4755056"/>
+	</game>
+	<game name="[MIA] Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt) (v1.11) (Update)">
+		<category>Games</category>
+		<description>[MIA] Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt) (v1.11) (Update)</description>
+		<rom crc="07d7c5a5" md5="4ca5550934eada5b14df17092685ef54" mia="yes" name="EP9000-PCSF00243_00-KZV0000000000000-A0111-V0100-55aed73c073f6d34e533c4d0f24b81e126edb271-PE.pkg" sha1="d8a0faf6d76e9573083d47d5b1695a3d289a325d" size="563186432"/>
+	</game>
+	<game name="[MIA] LittleBigPlanet (Europe) (v1.06) (Update)">
+		<category>Games</category>
+		<description>[MIA] LittleBigPlanet (Europe) (v1.06) (Update)</description>
+		<rom crc="45cb96f7" md5="a1278fc264aaaca07abace2e9e3d1461" mia="yes" name="EP9000-PCSF00021_00-LITTLEBIGPLANETV-A0106-V0100-ca59977d27089557ff482b291dfddc18c830d3af-PE.pkg" sha1="0a36a5d4954f1a52072358af41ec1717bbc40413" size="111145136"/>
+	</game>
+	<game name="[MIA] Live from PlayStation (Europe) (v2.00) (Update)">
+		<category>Games</category>
+		<description>[MIA] Live from PlayStation (Europe) (v2.00) (Update)</description>
+		<rom crc="fae8e70d" md5="b1d3d3dc47ff81d4e0de35e2fd7bbf88" mia="yes" name="EP9000-PCSF00658_00-LFPS000000000000-A0200-V0100-c4559a95105a71d255ee71310dd19b801f645c08-PE.pkg" sha1="6d056b87f7273cfde9aa7e8196966679e5299193" size="5477008"/>
+	</game>
+	<game name="[MIA] LiveTweet (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] LiveTweet (Europe) (v1.01) (Update)</description>
+		<rom crc="02b60bd2" md5="6c36e737f19c62d8f14699af7faf48f6" mia="yes" name="EP9000-PCSF00123_00-0000000000000000-A0101-V0100-c8a6a084501d3c09ca9cf402ca4ee7138a826773-PE.pkg" sha1="d65742a67fe1401dd57db593d380c7d8768cba47" size="3630448"/>
+	</game>
+	<game name="[MIA] Minecraft - PlayStation Vita Edition (Europe) (v1.19) (Patch)">
+		<category>Games</category>
+		<description>[MIA] Minecraft - PlayStation Vita Edition (Europe) (v1.19) (Patch)</description>
+		<rom crc="46ec8e1e" md5="e65dfdde47ee67eda864e6e6bed5580b" mia="yes" name="EP4433-PCSB00560_00-MINECRAFTVIT0000-A0119-V0100-ffc0ac659663e5aff7476a814322b44a81aff234-SP-PE.pkg" sha1="22cf851d588c0335e0ab234e6a208e1c3a625fbe" size="51765920"/>
+	</game>
+	<game name="[MIA] Minecraft - PlayStation Vita Edition (Europe) (v1.19) (Update)">
+		<category>Games</category>
+		<description>[MIA] Minecraft - PlayStation Vita Edition (Europe) (v1.19) (Update)</description>
+		<rom crc="17c3d846" md5="7e31d37173a9bdd93dc4c83b8dd2d75a" mia="yes" name="EP4433-PCSB00560_00-MINECRAFTVIT0000-A0119-V0100-52c3aceae17486a766ea0da156617be8660bfaab-PE.pkg" sha1="1ceb1501251be348c34609ff2277db7ce7583cde" size="399377040"/>
+	</game>
+	<game name="[MIA] Music Unlimited (World) (v1.13) (Update)">
+		<category>Games</category>
+		<description>[MIA] Music Unlimited (World) (v1.13) (Update)</description>
+		<rom crc="2f466b5c" md5="0c8a3dc220a5dbc747a8ba6983d77cc3" mia="yes" name="IP9100-PCSI00001_00-MUSICUNLIMITED00-A0113-V0100-ba801a68288baebd705d21e3288a13046bc551f9-PE.pkg" sha1="d3bfe92fa5db15921b7b9db255499a43a0988e1b" size="7273296"/>
+	</game>
+	<game name="[MIA] Pinball Arcade, The (Europe) (v1.19) (Update)">
+		<category>Games</category>
+		<description>[MIA] Pinball Arcade, The (Europe) (v1.19) (Update)</description>
+		<rom crc="12fba058" md5="c1dc5bd95c75945f6679f8a2c7704e82" mia="yes" name="EP2058-PCSB00116_00-GAME000000000001-A0119-V0100-3ef298b65b00d1d9a18becde4d441d396c8d5d49-PE.pkg" sha1="408d8eb21015cba6830b7af5265eb8cbdaf0e8a5" size="306837312"/>
+	</game>
+	<game name="[MIA] PlayStation Mobile Runtime Package (World) (v1.21) (Update)">
+		<category>Games</category>
+		<description>[MIA] PlayStation Mobile Runtime Package (World) (v1.21) (Update)</description>
+		<rom crc="9ad6bf3f" md5="6a8137ec2c773975558ffd82678b4dd9" mia="yes" name="IP9100-PCSI00011_00-PSMRUNTIME000000-A0121-V0100-f505509c1a21a3d735e821a4bd7b06963387ea9d-PE.pkg" sha1="2ea8dc63027127303c807e6eb71f3c4c0c74d5e1" size="8190352"/>
+	</game>
+	<game name="[MIA] PlayStation Now (World) (v2.00) (Update)">
+		<category>Games</category>
+		<description>[MIA] PlayStation Now (World) (v2.00) (Update)</description>
+		<rom crc="58a22144" md5="c43ff9d106142cf647927bf6496ecc5f" mia="yes" name="IP9100-PCSI00013_00-SFPROD0000000000-A0200-V0100-ea00c1a7bfc01cca5c3d134db70ef0003b6bb167-PE.pkg" sha1="1332a8069727f9f61639d84bea33abde234ae6b6" size="40519456"/>
+	</game>
+	<game name="[MIA] Resident Evil - Revelations 2 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Resident Evil - Revelations 2 (Europe) (v1.01) (Update)</description>
+		<rom crc="3ebfba81" md5="b0ea145d96d539e670e57b7edc165895" mia="yes" name="EP9000-PCSF00728_00-RESIDEVILREVELS2-A0101-V0101-2f474ca21d42dff7cb6daa6e150fac235f3116bf-PE.pkg" sha1="3c9cff0c1297ec12dbc1aacf112730122f590bb2" size="1026956224"/>
+	</game>
+	<game name="[MIA] Rugby World Cup 2015 (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Rugby World Cup 2015 (Europe) (v1.01) (Update)</description>
+		<rom crc="c7610c30" md5="de2b7b2ccda885b8bf001941575cca02" mia="yes" name="EP4008-PCSB00770_00-RUGBY15CARDDIGIT-A0101-V0100-c3106f58bb2add38847181429d2ad12216fe79d0-PE.pkg" sha1="271683d1a57a46c8e1502fd49b3bb948c5f22f12" size="125592928"/>
+	</game>
+	<game name="[MIA] Skype (Europe) (v1.50) (Update)">
+		<category>Games</category>
+		<description>[MIA] Skype (Europe) (v1.50) (Update)</description>
+		<rom crc="b118daf5" md5="73fd52d1afcf50f824a6569a3741930f" mia="yes" name="EP9000-PCSF00124_00-SKYPEPSVITA00000-A0150-V0100-2b5fcf3e0cbc18b01271c54f7f43eafbd85b455e-PE.pkg" sha1="850328243b5e2239fc07e591d34f6e16aa9f279d" size="11246256"/>
+	</game>
+	<game name="[MIA] Star Wars Pinball (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>[MIA] Star Wars Pinball (Europe) (v1.03) (Update)</description>
+		<rom crc="037e2e9f" md5="7847b5659e11ef4e72f6e0f33151558e" mia="yes" name="EP4042-PCSB00254_00-SWPINBALL0000001-A0103-V0100-7d915e8c24af6831914a0f69081052d8a014328e-PE.pkg" sha1="aa994dc0786b7aba63900bd5bafab23b4917c420" size="9037152"/>
+	</game>
+	<game name="[MIA] Super Time Force Ultra (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Super Time Force Ultra (Europe) (v1.01) (Update)</description>
+		<rom crc="27ddbf6b" md5="2be24cd8789eec49383b6a26a9ffa22a" mia="yes" name="EP2003-PCSB00786_00-SUPERTIMEFORCEUL-A0101-V0103-0b9a30a256e66b50e5d918af3e02407d15858c87-PE.pkg" sha1="12ba3c44e6fd9f9b5d0cf04418c139687364d6ae" size="4081632"/>
+	</game>
+	<game name="[MIA] Swindle, The (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] Swindle, The (Europe) (v1.01) (Update)</description>
+		<rom crc="4fa178c0" md5="b368cf1529a9c362e21139d51429bd22" mia="yes" name="EP4395-PCSB00778_00-G000000000000705-A0101-V0101-fda50b9bdfe619728ad331cd21cc1d8a7f83c689-PE.pkg" sha1="c19d9bb5955449f1aaab62568e5f3f6aaeedbcbf" size="145851440"/>
+	</game>
+	<game name="[MIA] Terraria (Europe) (v1.07) (Update)">
+		<category>Games</category>
+		<description>[MIA] Terraria (Europe) (v1.07) (Update)</description>
+		<rom crc="12c585b2" md5="23c50650e0b00fbb86e8b03acb1864e6" mia="yes" name="EP4040-PCSB00405_00-TERRARIA00000001-A0107-V0100-826c1432ff9d15cc4e862bbcffcd98007be6647c-PE.pkg" sha1="02194937d481a469700791688298a86e73990562" size="56597248"/>
+	</game>
+	<game name="[MIA] Velocity 2X (Europe) (v1.03) (Update)">
+		<category>Games</category>
+		<description>[MIA] Velocity 2X (Europe) (v1.03) (Update)</description>
+		<rom crc="5735cfe6" md5="a8ee3efc69cbe5c45f6988b38efe1b62" mia="yes" name="EP4143-PCSB00410_00-FUTURLABV2XVITA0-A0103-V0100-2599815a89daed23d4af4b6555194fd82f68d2a8-PE.pkg" sha1="a93568d98815cefbb32f3c99edbc8310d9c0af0a" size="49986816"/>
+	</game>
+	<game name="[MIA] YouTube (Europe) (v1.01) (Update)">
+		<category>Games</category>
+		<description>[MIA] YouTube (Europe) (v1.01) (Update)</description>
+		<rom crc="79e93ffd" md5="d230970840ea8ae615520f7f53a96007" mia="yes" name="EP9000-PCSF00150_00-YOUTUBE000000000-A0101-V0100-304042d326cfecbc5e674297ef790b4de1135592-PE.pkg" sha1="c1f658c5c9ce767ab1ed67cba5ab0ac7b5314c4a" size="4575216"/>
+	</game>
+	<game name="[MIA] Zen Pinball 2 (Europe) (v1.17) (Update)">
+		<category>Games</category>
+		<description>[MIA] Zen Pinball 2 (Europe) (v1.17) (Update)</description>
+		<rom crc="858ea2e9" md5="0defd6caf7bc4367f2f39e52abeb5b09" mia="yes" name="EP4042-PCSB00094_00-ZENPINBALL200001-A0117-V0100-64f304f06e4bd259a22826d971195d747caf57e1-PE.pkg" sha1="6cc43dcb9025f21630eca6a772f1ca8018695e62" size="30044080"/>
+	</game>
+	<game name="iFruit (Europe) (v1.22) (Update)">
+		<category>Games</category>
+		<description>iFruit (Europe) (v1.22) (Update)</description>
+		<rom crc="17a45e00" md5="c8a6ff9c476eaeb02a0294af2f26c3e3" name="EP1004-PCSB00444_00-GTAVIFRUITAPP000-A0122-V0100-e5881750068c9f83aeb1ba891a013be94c28287b-PE.pkg" sha1="a09b0021341c7bbb0564b74bc067fecf973ce066" size="83227472"/>
+	</game>
+</datafile>
