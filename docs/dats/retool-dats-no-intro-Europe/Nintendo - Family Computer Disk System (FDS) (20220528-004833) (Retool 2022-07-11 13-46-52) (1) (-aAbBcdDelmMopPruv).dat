@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - Family Computer Disk System (FDS) (Retool 1.15)</name>
+		<description>Nintendo - Family Computer Disk System (FDS) (-aAbBcdDelmMopPruv) (1) (20220528-004833)</description>
+		<version>20220528-004833</version>
+		<date>2022-07-11 13-46-52</date>
+		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Hiccup, kazumi213, omonim2007, relax, RetroUprising, SonGoku, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)">
+		<category>Games</category>
+		<description>Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)</description>
+		<rom crc="5d08dd11" md5="b210c0f117d46819cc81720ff521d762" name="Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).fds" sha1="b2dbc55efcae77abad6207b802c0a76d7a47ed0d" size="65500"/>
+	</game>
+</datafile>

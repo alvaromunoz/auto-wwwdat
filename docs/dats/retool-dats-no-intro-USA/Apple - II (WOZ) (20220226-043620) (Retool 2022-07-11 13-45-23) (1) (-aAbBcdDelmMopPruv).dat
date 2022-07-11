@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Apple - II (WOZ) (Retool 1.15)</name>
+		<description>Apple - II (WOZ) (-aAbBcdDelmMopPruv) (1) (20220226-043620)</description>
+		<version>20220226-043620</version>
+		<date>2022-07-11 13-45-23</date>
+		<author>FakeShemp, MeguCocoa &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Star Dance (USA)">
+		<category>Games</category>
+		<description>Star Dance (USA)</description>
+		<rom crc="61551723" md5="350c905adf55e4a39b91bda2266ba143" name="Star Dance (USA).woz" sha1="fb89e011fff5dccc442362ace2b526d3a9a36816" sha256="af202fc488977e1b5d1c0d25b88831e485a33b6cff45f43d9bcf37dfc90dddd5" size="101683"/>
+	</game>
+</datafile>

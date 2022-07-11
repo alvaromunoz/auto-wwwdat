@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Source Code - IBM - PC and Compatibles</name>
+		<description>Source Code - IBM - PC and Compatibles</description>
+		<version>20220510-095711</version>
+		<author>FakeShemp, Hiccup, MisterSheeple</author>
+		<homepage>No-Intro</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Duke Nukem Forever (Unknown) (2001)">
+		<description>Duke Nukem Forever (Unknown) (2001)</description>
+		<rom name="Duke.Nukem.Forever.2001-x0r_jmp.rar" size="888934142" crc="604a30f5" md5="052e367400a9baa4273a868ec01b42c9" sha1="05a3b6d054a31afc388458ee73ee7addc16eb7f0" sha256="23ca476d2a379b8fec2597590c5b3eb7536a0406c35f25444f2f2c082f71a19d"/>
+		<rom name="DNF.PressKit.rar" size="49192517" crc="abbc7506" md5="7f3145b257f21b3e399e4487984a5978" sha1="826969e9e3d2021524d8984c1e7b5695a2e983cd" sha256="e09493b26012b8ba5d73807f49c0a1ad7e75d10befb23f049f8ae82153685f2a"/>
+	</game>
+	<game name="Gwent - The Witcher Card Game (Unknown)">
+		<description>Password: CDPRFREE</description>
+		<rom name="gwent.7z" size="23429235346" crc="de4aa552" md5="556567ec6dbf3026977e407ae659d0a2" sha1="bc9a54a4861565cfe7bd97dd7c79c94e263676c6" sha256="3a58183d0753add0551dc6777d52ff0753012928f952a71aa040f868c257af07"/>
+	</game>
+	<game name="Monopoly (Unknown) (Artech Studios, 2000-10-29)">
+		<description>Monopoly (Unknown) (Artech Studios, 2000-10-29)</description>
+		<rom name="monop.ZIP" size="28302279" crc="a9a0d324" md5="3ccde21017a7c275ce32929b803b56a9" sha1="d9a59d755019e06f2c438eeaa1babc7fe68de659" sha256="1c0ac36ea1a7448ed87b49f4b34dd515df02d6f6f425471747374732fba28a0d"/>
+	</game>
+	<game name="No One Lives Forever (Unknown) (v1.003)">
+		<description>No One Lives Forever (Unknown) (v1.003)</description>
+		<rom name="NOLFSource003.exe" size="5727089" crc="b3ced93f" md5="6b04e3473c19a7e226f6fb50241d0356" sha1="21b2357a3f6f733010892fa0ffb690ba12833043" sha256="f9fb637a1504ed73a897a6d588e4f2b6d965107e95d5ed368a0418e13495dd5a"/>
+	</game>
+	<game name="The Simpsons - Hit &amp; Run (Unknown) (Windows)">
+		<description>The Simpsons - Hit &amp; Run (Unknown) (Windows)</description>
+		<rom name="shr.tar" size="9789933568" crc="484729e6" md5="20934766ce51ef1f2be3f74097023933" sha1="440c85f70f3d93c19c1334282aacf5288475d6b9" sha256="ea72121d29ce40ebd9f6b5ba2e337cee02b812bb07ed67797f37e382fe075a85"/>
+	</game>
+</datafile>

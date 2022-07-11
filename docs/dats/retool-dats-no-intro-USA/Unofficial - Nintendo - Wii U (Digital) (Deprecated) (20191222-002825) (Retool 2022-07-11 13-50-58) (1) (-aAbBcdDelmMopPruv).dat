@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Unofficial - Nintendo - Wii U (Digital) (Deprecated) (Retool 1.15)</name>
+		<description>Unofficial - Nintendo - Wii U (Digital) (Deprecated) (-aAbBcdDelmMopPruv) (1) (20191222-002825)</description>
+		<version>20191222-002825</version>
+		<date>2022-07-11 13-50-58</date>
+		<author>xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="EarthBound Beginnings (USA) (NES) (Virtual Console) (eShop)">
+		<category>Games</category>
+		<description>EarthBound Beginnings (USA) (NES) (Virtual Console) (eShop)</description>
+		<rom crc="cd8ad931" md5="5910b0502259ece0ebf801085f9b3983" name="Earthbound Beginnings [FBDP01]\code\app.xml" sha1="ce2a891d3a16ee5661a928a02e6128d4ba2ae0f2" size="639"/>
+		<rom crc="8c54f5a5" md5="958a23bfc72a5426b6ae75bd896184bd" name="Earthbound Beginnings [FBDP01]\code\cos.xml" sha1="ecbffaffc2084f7d72c9c4299ae799a3c8e08e30" size="1338"/>
+		<rom crc="e63cb9d6" md5="6dadf5b5778ae75c52e30e8e90434a40" name="Earthbound Beginnings [FBDP01]\code\WUP-FBDP.rpx" sha1="8718260141da195126b400c3c1dd843e61fcea0e" size="3207936"/>
+		<rom crc="337827bc" md5="03dadd09f28e55a91f87e39b276497f9" name="Earthbound Beginnings [FBDP01]\content\texture2D_206.gsh" sha1="93b1173cede9e0c1adfac9c4eeb77f43b22fb750" size="1480"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\CHN_sc\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\CHN_sc\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\CHN_sc\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_au\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_au\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_au\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_cs\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_cs\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_cs\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_da\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_da\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_da\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="cbb28179" md5="4f7ba38e1f017355895850083bd78752" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_de\ERR.msbt" sha1="4b47b1eef42773100b7818dc8c7894bb327e76a2" size="2752"/>
+		<rom crc="a54b90d4" md5="8d9c1d3872be44b97ffa50ab7eafcbc1" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_de\SYS.msbt" sha1="7198af48c5fd85a9d08c718b4cb0766ad583bd4a" size="4112"/>
+		<rom crc="20eec04d" md5="2cc0578a593ef54231aa05901ea5f8ee" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_de\VCM.msbt" sha1="5d2db16602a3dd5ee58995892f6eca34084a7256" size="8592"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_el\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_el\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_el\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="50792ab2" md5="81ee0f20b9cc09d077ada0a7e8550608" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_en\ERR.msbt" sha1="3d9f9f912dba4b9c2a814ba58e9785010c9a3b64" size="2464"/>
+		<rom crc="ec97f1fc" md5="e1bd7cbd1d4566e81be1fe29a36e9947" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_en\SYS.msbt" sha1="3266da99fb024985dac321b9a416b795392932d2" size="4240"/>
+		<rom crc="d30db37c" md5="8a719497f911b519c28b079d0bfaa2b4" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_en\VCM.msbt" sha1="452a337527918719050a6759740246c85263a349" size="7824"/>
+		<rom crc="8e35bdbe" md5="5333d85fd6b4511584a98ad3d66a3b43" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_es\ERR.msbt" sha1="a73040bb06d43b81b651218da93a32bfb53b857c" size="2576"/>
+		<rom crc="5f685f09" md5="0384947b1c5052591c10d4de16c944a1" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_es\SYS.msbt" sha1="66a299888d9dc04df736b8474f8ef6a5183c85c1" size="4304"/>
+		<rom crc="d25b24e4" md5="4d88f313e7a58f43d5d508eb2bf0707f" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_es\VCM.msbt" sha1="55834a55618b14ff8e3c3b900f07df7ffcb810c0" size="9152"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_fi\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_fi\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_fi\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="b48e37d0" md5="34ff9edc5b4d2ebe47c01507d0400447" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_fr\ERR.msbt" sha1="73f1954626bd5d7194a9c5793c17ad4a049c5c44" size="2656"/>
+		<rom crc="d19bcb99" md5="aa3d84939e106b702fa51bab33eeb66a" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_fr\SYS.msbt" sha1="1abe30d00b485f35c6845481f3c052bb3761d114" size="4096"/>
+		<rom crc="5adef984" md5="8b5f975ee036b4ba292b3ee3ab930319" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_fr\VCM.msbt" sha1="a246d14b9232606d96cb1d43788793655dd8c761" size="8912"/>
+		<rom crc="a4ad7fa5" md5="9471f6b81cc51e18fbb21ac62b642106" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_it\ERR.msbt" sha1="0b84a531f0ed44293107547005703375a1c4f1b8" size="2736"/>
+		<rom crc="e18c7e54" md5="714eae8022c2bfd9b272845f1fdd5644" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_it\SYS.msbt" sha1="ada1b8f96d262fa34b132349d052a7df8af02188" size="4224"/>
+		<rom crc="8e383b13" md5="a62656ec9ab079a8b388d3be3084cd65" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_it\VCM.msbt" sha1="d65b19c7a6577e2b3d544e99c7cd98b1be15aeb6" size="8352"/>
+		<rom crc="5bbc44df" md5="29c3c68406e27686652a2f6eef994b62" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_nl\ERR.msbt" sha1="50902e26386faa676d6e98a0fc3c19f1f8e72627" size="2640"/>
+		<rom crc="22d4a2b9" md5="64f82d212f5e3cfca6e212686471e85b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_nl\SYS.msbt" sha1="c832e89ee994720364deaf268a5b6f4485970029" size="4192"/>
+		<rom crc="09c75c9e" md5="b979ac21d7905c7df09051649c7c78db" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_nl\VCM.msbt" sha1="b4eeb6ecc7d1a5a8b1544bdb46a54cd40b64d56f" size="8464"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_no\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_no\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_no\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_pl\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_pl\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_pl\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="5ec36b4f" md5="6ade25aa738039d210538756a02af75b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_pt\ERR.msbt" sha1="82355ca43870c38c38eb35840a22dbfc75e00fb0" size="2480"/>
+		<rom crc="dabe374e" md5="7eeff12792a558bc3cbf21c19b83eece" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_pt\SYS.msbt" sha1="5d14a0609f185c0acb0829f96c7f967b4c330956" size="4176"/>
+		<rom crc="ca27562a" md5="105267b969a7fd919adba20cb44f9e15" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_pt\VCM.msbt" sha1="caceb0c98611b7827cc122418731f73c891ea5ea" size="8416"/>
+		<rom crc="3805ee63" md5="e74d03fa5dee170339b16fa92e3ad2b1" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_ru\ERR.msbt" sha1="c55fcf972e86bac1290627216a3c72c0eb9f135d" size="2496"/>
+		<rom crc="e250b129" md5="0333810f5a92478eef202be25476ded3" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_ru\SYS.msbt" sha1="c4340c1d5bdc741a0d91913ba37639e37b1446b0" size="4224"/>
+		<rom crc="dc20ef60" md5="04542eee76ae459246096b75a254e230" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_ru\VCM.msbt" sha1="edf0c5d046c9896c4b760098cadc82d38574556c" size="8368"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_sv\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_sv\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_sv\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_tr\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_tr\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\EUR_tr\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="d1789bbb" md5="779dd7df67aca6a41eceec766e6aa801" name="Earthbound Beginnings [FBDP01]\content\msg\JPN_ja\ERR.msbt" sha1="c54138a1aa0c12c5fb8ff26a3253e14fcf8fc475" size="1920"/>
+		<rom crc="1a510aed" md5="3aed9775334955672076315cd9d1e5bc" name="Earthbound Beginnings [FBDP01]\content\msg\JPN_ja\SYS.msbt" sha1="28971f71fa642caf1058ec337fe3e7d727a8940a" size="4192"/>
+		<rom crc="c30cbb54" md5="c2bd3249d4998350489d419f57d9002c" name="Earthbound Beginnings [FBDP01]\content\msg\JPN_ja\VCM.msbt" sha1="452ea100b10dc6dfdfb2287b891ccdba9e5c3ef9" size="6928"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\KOR_ko\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\KOR_ko\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\KOR_ko\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\TWN_en\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\TWN_en\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\TWN_en\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="368c5c1d" md5="4ca9318168fdf2afb22e7aef171f653d" name="Earthbound Beginnings [FBDP01]\content\msg\TWN_tc\ERR.msbt" sha1="47d25b400988463ecf84bf06641069dc9c3cfc2f" size="1344"/>
+		<rom crc="9300e300" md5="6d887282d6ced48d0780b538816ebd90" name="Earthbound Beginnings [FBDP01]\content\msg\TWN_tc\SYS.msbt" sha1="db35872d6abd9df68e49dc84b68e91c908b97070" size="3280"/>
+		<rom crc="732ce315" md5="d3b2fbcda9e18a3f2e16086a2c9c9d9b" name="Earthbound Beginnings [FBDP01]\content\msg\TWN_tc\VCM.msbt" sha1="e46b48ae96abb981c65d9b0547d26b8424f322ee" size="4080"/>
+		<rom crc="06e7088e" md5="09c5b44151b8a53b9ed4cfa9ea01306e" name="Earthbound Beginnings [FBDP01]\content\msg\USA_en\ERR.msbt" sha1="04a025c59b7eee3f68bda5b2e00d226c02245e12" size="2464"/>
+		<rom crc="91330fc5" md5="5b203ac9952c3ffa13b6912fcd8478e4" name="Earthbound Beginnings [FBDP01]\content\msg\USA_en\SYS.msbt" sha1="84ff1d531236052c0e80c58791d95668f8e42d2f" size="4320"/>
+		<rom crc="4ed4a5e8" md5="42ce93e9d06357f4d70a438106252056" name="Earthbound Beginnings [FBDP01]\content\msg\USA_en\VCM.msbt" sha1="0875fba8d1e462bd89ce57a2476eed2aaaa12f60" size="8576"/>
+		<rom crc="5921e7ac" md5="392845640a7af8fe25fe74ec4ca40845" name="Earthbound Beginnings [FBDP01]\content\msg\USA_es\ERR.msbt" sha1="0f7c70b56b744fff6338c9dcb73534ee4a184c84" size="2624"/>
+		<rom crc="922238a9" md5="a2ead64b989a4ded776782e86ee4b700" name="Earthbound Beginnings [FBDP01]\content\msg\USA_es\SYS.msbt" sha1="4737bb63c35ccc72e586e36ac1c52b7489456afa" size="4336"/>
+		<rom crc="66370bf1" md5="ddd1584cb609dcb1f7f8650f4a0e922b" name="Earthbound Beginnings [FBDP01]\content\msg\USA_es\VCM.msbt" sha1="365aaea077bd5bb1fe57847f3a4a568e1064f8da" size="9344"/>
+		<rom crc="4595eed6" md5="e58492c3a7db759c81914298d706a1ef" name="Earthbound Beginnings [FBDP01]\content\msg\USA_fr\ERR.msbt" sha1="e52b32153518119d1351549a9f158354304279c3" size="2720"/>
+		<rom crc="26b46cfe" md5="76efaebd7f1549346f3e3096af5abcc2" name="Earthbound Beginnings [FBDP01]\content\msg\USA_fr\SYS.msbt" sha1="b75be90037a161ccfef565cf5e93eb4cfe1f0799" size="4320"/>
+		<rom crc="f8a7a757" md5="5d2b8f8313e8983b8e98d015206df64c" name="Earthbound Beginnings [FBDP01]\content\msg\USA_fr\VCM.msbt" sha1="af79c7a4b3db2243ec2daac2be2946914c565503" size="9616"/>
+		<rom crc="16ff5551" md5="62ec9cdd46f5bee1d1a3e384108ac7a3" name="Earthbound Beginnings [FBDP01]\content\msg\USA_pt\ERR.msbt" sha1="0b42b3ddbe176a2818e11b86e0eb75c207be3424" size="2544"/>
+		<rom crc="9e1cc061" md5="3de868d8010e2973f3fe56869164d8d9" name="Earthbound Beginnings [FBDP01]\content\msg\USA_pt\SYS.msbt" sha1="629caec5e69658b0c1077f95fa132a1adc0f8c0d" size="4304"/>
+		<rom crc="efb03c85" md5="23919d588caecddaafb7e57adbd498b7" name="Earthbound Beginnings [FBDP01]\content\msg\USA_pt\VCM.msbt" sha1="9987539954faf9daf5a911a369316ce31185f70b" size="9024"/>
+		<rom crc="8460002a" md5="6883a5fc182a98e45c4ae23d4de0d275" name="Earthbound Beginnings [FBDP01]\content\snd\wiiu_shared.bfsar" sha1="0494e9cbb69ced0f879a8dc1ff46c2fd7bb1895d" size="656512"/>
+		<rom crc="51617fad" md5="4443f9ca01b19a7d147c25bfe67d4db8" name="Earthbound Beginnings [FBDP01]\meta\bootDrcTex.tga" sha1="0054c54a4552b4831cc8df27beb08551bae94f51" size="1229804"/>
+		<rom crc="c0e5b1a1" md5="67b312145ecb70514d5bd36fcaae0193" name="Earthbound Beginnings [FBDP01]\meta\bootLogoTex.tga" sha1="54701f6c036887320dc904a3efba499f0c48a841" size="28604"/>
+		<rom crc="0dfab90e" md5="ca0dac3e3c5654209c754357ef5a2507" name="Earthbound Beginnings [FBDP01]\meta\bootMovie.h264" sha1="cdf1ba4fe8c05f9523686ed7b3952dbfd9d4c99a" size="80696"/>
+		<rom crc="1b98be41" md5="9e7792a6793dfa2465715fd83f685e84" name="Earthbound Beginnings [FBDP01]\meta\bootSound.btsnd" sha1="09df62d169cdf4f9cc9ed23ec911eb297c33cc4e" size="3458408"/>
+		<rom crc="ed4636a7" md5="7d5cceb4b084ccd09c3f7299d35d716b" name="Earthbound Beginnings [FBDP01]\meta\bootTvTex.tga" sha1="d4214a09c2b1a2f88dfac6f6b5716a53bce948f0" size="2764844"/>
+		<rom crc="d92002b5" md5="a099790dada11b1e2abb99ea9a02f685" name="Earthbound Beginnings [FBDP01]\meta\iconTex.tga" sha1="1261a5209cf2903a063501a5a52131199273fc1b" size="65580"/>
+		<rom crc="7138a5f5" md5="2133ac7fb6b71e2cde250db05d171dea" name="Earthbound Beginnings [FBDP01]\meta\Manual.bfma" sha1="74484453d58f08ef2a1ebc6ff7a380fcbfbdb192" size="719822"/>
+		<rom crc="57dd527b" md5="c25cc40d00676cba56790d69419aaa14" name="Earthbound Beginnings [FBDP01]\meta\meta.xml" sha1="fba2c3ef44a5f3be58522d5b50dc6a70e86c2267" size="9924"/>
+	</game>
+</datafile>

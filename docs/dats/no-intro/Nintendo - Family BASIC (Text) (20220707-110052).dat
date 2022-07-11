@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - Family BASIC (Text)</name>
+		<description>Nintendo - Family BASIC (Text)</description>
+		<version>20220707-110052</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Nintendo no Family Computer Family Basic ga Wakaru Hon - Kanitori Game (Japan)">
+		<description>Nintendo no Family Computer Family Basic ga Wakaru Hon - Kanitori Game (Japan)</description>
+		<rom name="Nintendo no Family Computer Family Basic ga Wakaru Hon - Kanitori Game (Japan).txt" size="4248" crc="c74c4b4a" md5="c1c734aad6abc2ca8a115666a44bed08" sha1="f8126d02a30b2f04b26e7db0b9264cc521450075" sha256="c66bade1feb28deee04a84b1fe58b1cd81f0bda704743605cea323cdf6fab786"/>
+	</game>
+	<game name="Nintendo no Family Computer Family Basic ga Wakaru Hon - Keyboard Lesson (Japan)">
+		<description>Nintendo no Family Computer Family Basic ga Wakaru Hon - Keyboard Lesson (Japan)</description>
+		<rom name="Nintendo no Family Computer Family Basic ga Wakaru Hon - Keyboard Lesson (Japan).txt" size="3804" crc="81b2feb8" md5="905f9c35ae68ad0e4fc64a2f2dff57df" sha1="a545a0d4a220833a672282637cc1ca931e9e6496" sha256="ceb8a9190d3d0127aafdf0b285d4926a65b4b03c4991360d20921d4e94a37134"/>
+	</game>
+</datafile>

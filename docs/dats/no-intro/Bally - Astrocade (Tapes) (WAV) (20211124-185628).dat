@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Bally - Astrocade (Tapes) (WAV)</name>
+		<description>Bally - Astrocade (Tapes) (WAV)</description>
+		<version>20211124-185628</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+</datafile>

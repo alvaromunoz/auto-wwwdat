@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Pocket PC</name>
+		<description>Pocket PC - Discs (33) (2022-06-14 20-04-03)</description>
+		<version>2022-06-14 20-04-03</version>
+		<date>2022-06-14 20-04-03</date>
+		<author>redump.org</author>
+		<homepage>redump.org</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Tomb Raider for Pocket PC (USA)">
+		<category>Games</category>
+		<description>Tomb Raider for Pocket PC (USA)</description>
+		<rom name="Tomb Raider for Pocket PC (USA).cue" size="97" crc="c77139ea" md5="5a32f7904279fd516ce7015f45cdf6ac" sha1="17a55290de8ffd6f922774cbef3dbdca90fd0d12"/>
+		<rom name="Tomb Raider for Pocket PC (USA).bin" size="91299936" crc="eb886a25" md5="02030d7f710cb42cf7c93e288d5d4ccb" sha1="79ec8f45f39c5f0f186a1c0d0947397e0d28906a"/>
+	</game>
+	<game name="Windows Media Play Pack for Pocket PC (USA)">
+		<category>Multimedia</category>
+		<description>Windows Media Play Pack for Pocket PC (USA)</description>
+		<rom name="Windows Media Play Pack for Pocket PC (USA).cue" size="109" crc="a916afb2" md5="da052f4b0d2277a8520d87d10924cdce" sha1="c0d7385d7f6002d91cddeed4fd7f877546867a84"/>
+		<rom name="Windows Media Play Pack for Pocket PC (USA).bin" size="711374160" crc="d69f2ac9" md5="543fec866bbe8715cab9e28758838d2f" sha1="ba71f1442b665e0d4a167605821a7ce33f367095"/>
+	</game>
+	<game name="Tony Hawk's Pro Skater 2 (USA)">
+		<category>Games</category>
+		<description>Tony Hawk's Pro Skater 2 (USA)</description>
+		<rom name="Tony Hawk's Pro Skater 2 (USA).cue" size="96" crc="f48e6eb2" md5="de19a12043d56718a65916db606e767f" sha1="928e7c90386d25c0c388767a5a6f8a4b44848a1a"/>
+		<rom name="Tony Hawk's Pro Skater 2 (USA).bin" size="69710928" crc="8a749fd1" md5="4c1b0f1088c938174e81adad008a66b9" sha1="f0691c767cd596a80f3a3442e6da597769b83c93"/>
+	</game>
+	<game name="SimCity 2000 for Pocket PC (USA)">
+		<category>Games</category>
+		<description>SimCity 2000 for Pocket PC (USA)</description>
+		<rom name="SimCity 2000 for Pocket PC (USA).cue" size="98" crc="dcab58b4" md5="f1b3863125ae2a757823349c2492c25e" sha1="d1cff055ad1e4fe87c200bf3bb62fc8c52c67a30"/>
+		<rom name="SimCity 2000 for Pocket PC (USA).bin" size="13726272" crc="09849bda" md5="29313d76bd03d0d6dd0d7b0ac2e8459b" sha1="ce9fb12407cd4b85198f42659195bce311c0f5b2"/>
+	</game>
+	<game name="RocketElite (USA) (En,Fr,De)">
+		<category>Games</category>
+		<description>RocketElite (USA) (En,Fr,De)</description>
+		<rom name="RocketElite (USA) (En,Fr,De).cue" size="94" crc="ef8cf721" md5="7dd025847cd5bf70c6aa7f100523bdd8" sha1="afc4b0e767364c139eed4c528f1d0677fa0501d8"/>
+		<rom name="RocketElite (USA) (En,Fr,De).bin" size="52894128" crc="e420a72e" md5="b9e688ac85df786afe3cc4a27617e84a" sha1="3f11f31b87dd5be1a7d71cd9d0162d863ba07931"/>
+	</game>
+	<game name="Metalion (USA)">
+		<category>Games</category>
+		<description>Metalion (USA)</description>
+		<rom name="Metalion (USA).cue" size="80" crc="97e8751e" md5="8d5d6664c9eac4dbb83f72b5fb651960" sha1="2386c25c2e65c1eb605c93eb4798a78d57b17b17"/>
+		<rom name="Metalion (USA).bin" size="33113808" crc="87c782e3" md5="505eeddc73673c679c55cc23c26ddce5" sha1="8ffb00a7e6d5505324d2d92d2344abf666926927"/>
+	</game>
+	<game name="Midway Classics - Marble Madness (USA)">
+		<category>Games</category>
+		<description>Midway Classics - Marble Madness (USA)</description>
+		<rom name="Midway Classics - Marble Madness (USA).cue" size="104" crc="1554e090" md5="9d505092e8d780325dd52e710ca9a15a" sha1="6c3bc1d0883e98f95bb42c2ca8012dc6a19ac9d9"/>
+		<rom name="Midway Classics - Marble Madness (USA).bin" size="9617328" crc="172e8676" md5="21c414b6d8dc060ccf7878a7381615f5" sha1="ff57027ad0d15ad0bc9a82424c5edcf8edf42fd3"/>
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (USA)">
+		<category>Games</category>
+		<description>Ultima Underworld - The Stygian Abyss (USA)</description>
+		<rom name="Ultima Underworld - The Stygian Abyss (USA).cue" size="109" crc="5f8c958d" md5="8ef45c1001dd956b16919efdb653d6a2" sha1="362b179d5846490a368a6d5a46b984c5b92713b1"/>
+		<rom name="Ultima Underworld - The Stygian Abyss (USA).bin" size="18853632" crc="a3bc74a4" md5="e35eb00afac158fc5f27379e04ff3860" sha1="6e7f7e1750eb449f691509c8b4a4409b25aa8825"/>
+	</game>
+	<game name="Empire of the Undead (USA)">
+		<category>Games</category>
+		<description>Empire of the Undead (USA)</description>
+		<rom name="Empire of the Undead (USA).cue" size="115" crc="b3c66a24" md5="c29caadacfb1fccbb004d855dee496fc" sha1="ccadd838f8f1eb67394f9d5a46bd7b3b37c7fa5b"/>
+		<rom name="Empire of the Undead (USA).bin" size="20086080" crc="a3e8b738" md5="de51056553af09d49f4470c2109a7f80" sha1="576e40a2a635169370c9e732c40e06b5a01b546d"/>
+	</game>
+	<game name="ZIOGolf 2 (USA)">
+		<category>Games</category>
+		<description>ZIOGolf 2 (USA)</description>
+		<rom name="ZIOGolf 2 (USA).cue" size="81" crc="9472a9be" md5="30e4ef268ab52963a24587993564eef3" sha1="7f269f08bdc812c38827cca2e54a3c1ab5c49497"/>
+		<rom name="ZIOGolf 2 (USA).bin" size="32902128" crc="a0885558" md5="6e2d71e0eff4750ca330516c947c7b77" sha1="aff774cfa3e466efd069a8fa804a33412e4a57f2"/>
+	</game>
+	<game name="Links - Pocket PC Edition (USA)">
+		<category>Games</category>
+		<description>Links - Pocket PC Edition (USA)</description>
+		<rom name="Links - Pocket PC Edition (USA).cue" size="97" crc="ceb7465e" md5="104e135f3ab4659dfacfca62e69d1eca" sha1="691bce36a84e6fa52f3b1c326d04f05f508eccfe"/>
+		<rom name="Links - Pocket PC Edition (USA).bin" size="70390656" crc="f054b7d5" md5="e5b2f83eba15c6be2eaa319b718dec44" sha1="26f25eb263cccca09a021fc4c870a10f9b7a4e40"/>
+	</game>
+	<game name="ShadowGate Classic (USA)">
+		<category>Games</category>
+		<description>ShadowGate Classic (USA)</description>
+		<rom name="ShadowGate Classic (USA).cue" size="90" crc="8efaa76b" md5="f1bd1c8f62768932dfb0b9a6407d4228" sha1="6f68f0650138a0a52b7f57a07a5e5d8118089c14"/>
+		<rom name="ShadowGate Classic (USA).bin" size="15478512" crc="97b15fa0" md5="0e5819df305102408321d269d57c495f" sha1="c9ce8daf026ac8eaca842bfbf2e421516e6de21f"/>
+	</game>
+	<game name="Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv)">
+		<category>Games</category>
+		<description>Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
+		<rom name="Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv).cue" size="110" crc="203ec686" md5="7e25ec18c5135cc6baf7cad93c54b6da" sha1="306bb1e0382a632142af93522532402babb5bb18"/>
+		<rom name="Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv).bin" size="17778768" crc="635a5bfd" md5="3b33032769c78857830e4c29e38b49f5" sha1="946d30bdac5763f895f6720fd59c0d566737561f"/>
+	</game>
+	<game name="Microsoft Entertainment PocketPak (USA)">
+		<category>Games</category>
+		<description>Microsoft Entertainment PocketPak (USA)</description>
+		<rom name="Microsoft Entertainment PocketPak (USA).cue" size="105" crc="4a8b9368" md5="dc397bf95fd9bd45a388a240a10880e7" sha1="4198881bf8191fcd6399cb3cc8d36e565250455d"/>
+		<rom name="Microsoft Entertainment PocketPak (USA).bin" size="4290048" crc="1ae5d940" md5="2ba865242576076c8213d3c5166983cc" sha1="073b183f16eb4aa7e3a06c78569364c5bb5f90cb"/>
+	</game>
+	<game name="Soccer Addict - 2002 International Cup (Japan)">
+		<category>Games</category>
+		<description>Soccer Addict - 2002 International Cup (Japan)</description>
+		<rom name="Soccer Addict - 2002 International Cup (Japan).cue" size="112" crc="2fc99d4a" md5="0020d3c85f57c84428d2069205b91db9" sha1="d1691a79a0f010f722874ccd29f57a910116ca16"/>
+		<rom name="Soccer Addict - 2002 International Cup (Japan).bin" size="9911328" crc="0cf3e29a" md5="cdad6ecc0860a19acbfa2c10aae1776a" sha1="b52c7e3ac08829801e4d6c78bc29f2f3e336bc3c"/>
+	</game>
+	<game name="Pocket Mahjong (Japan)">
+		<category>Games</category>
+		<description>Pocket Mahjong (Japan)</description>
+		<rom name="Pocket Mahjong (Japan).cue" size="88" crc="64f1dea8" md5="bc4649beca42a9509555d8164bba3af7" sha1="f0556aed998cd2750afa257259e2287505e0a638"/>
+		<rom name="Pocket Mahjong (Japan).bin" size="3201072" crc="5a155966" md5="5b850844a7c10757a0ebab7dfa363fb8" sha1="5a669563094200cca353d892b30da762dbc62a7f"/>
+	</game>
+	<game name="Pocket Gambler (USA)">
+		<category>Games</category>
+		<description>Pocket Gambler (USA)</description>
+		<rom name="Pocket Gambler (USA).cue" size="86" crc="abe385e9" md5="5022fc6b27c6ccc727cc4712527440e6" sha1="9317871313ff0e406a0c385cd0a05eea3eba0bd9"/>
+		<rom name="Pocket Gambler (USA).bin" size="28901376" crc="7be9045c" md5="a03b51dea39732dd1243f6d8307cf292" sha1="02cd73671ca926a9dd4d501b078b760ef2ebf17e"/>
+	</game>
+	<game name="Dragon's Breed - The Ancient Augury (UK)">
+		<category>Games</category>
+		<description>Dragon's Breed - The Ancient Augury (UK)</description>
+		<rom name="Dragon's Breed - The Ancient Augury (UK).cue" size="106" crc="155d6f58" md5="dd35b1bed254f914c7ce37491b49c133" sha1="11bc1251c79badd958b400ce3fd2fb516800c6e5"/>
+		<rom name="Dragon's Breed - The Ancient Augury (UK).bin" size="7524048" crc="217f84bc" md5="c97ff54ba0c80cc2f704bb94e2b54b3f" sha1="deb6c6129ad1303aa2f5247c96a576568961208c"/>
+	</game>
+	<game name="Metalion (Japan)">
+		<category>Games</category>
+		<description>Metalion (Japan)</description>
+		<rom name="Metalion (Japan).cue" size="82" crc="32a1f89a" md5="7b802f384f0deeb6f1d3f9b8591f9bec" sha1="038ff69106be839564d974822ac06db461ffbb97"/>
+		<rom name="Metalion (Japan).bin" size="20728176" crc="d27abb81" md5="1e29c73bdc963c142cdb8bc90411772d" sha1="11d2a201a1df832b09115a6c3c8806887e0ce984"/>
+	</game>
+	<game name="WingX (USA)">
+		<category>Applications</category>
+		<description>WingX (USA)</description>
+		<rom name="WingX (USA).cue" size="77" crc="8d3f3866" md5="30fbf6e14ec76d676f4e723e6e7f132b" sha1="b952f9aa9c95afc531744966848db03ed6334d12"/>
+		<rom name="WingX (USA).bin" size="51151296" crc="beeed783" md5="054f35686c55cdc620e9d7bfa5db7158" sha1="2d06785bc87130261e4161b3f7506bbd3f530dee"/>
+	</game>
+	<game name="Best Pocket PC Games &amp; Utilities, The (Europe)">
+		<category>Multimedia</category>
+		<description>Best Pocket PC Games &amp; Utilities, The (Europe)</description>
+		<rom name="Best Pocket PC Games &amp; Utilities, The (Europe).cue" size="112" crc="7113281c" md5="b7d386006dbc52ea6e334e7ada1a0927" sha1="333fcabc9a2d8a1810de3db094bcacb3309fd3a7"/>
+		<rom name="Best Pocket PC Games &amp; Utilities, The (Europe).bin" size="86814672" crc="b054205f" md5="0fac88797e967334daefd671dd36a245" sha1="54712eb214aba5c4489d13f1cf1886fa75315191"/>
+	</game>
+	<game name="Okigaru Igo Taikyoku (Japan)">
+		<category>Games</category>
+		<description>Okigaru Igo Taikyoku (Japan)</description>
+		<rom name="Okigaru Igo Taikyoku (Japan).cue" size="94" crc="fd57c092" md5="da34a049c2018424f3a17ed2eabe558e" sha1="844f13373daffd2908296997dff5b162cabf6096"/>
+		<rom name="Okigaru Igo Taikyoku (Japan).bin" size="6898416" crc="0f1eec42" md5="57274c19c16cde1fbba9827cdc14d2e5" sha1="350cb2c0f1ac92ca3a2afa5282577ece228a1508"/>
+	</game>
+	<game name="Pocket Zipper (Japan)">
+		<category>Applications</category>
+		<description>Pocket Zipper (Japan)</description>
+		<rom name="Pocket Zipper (Japan).cue" size="87" crc="4114a75b" md5="722fc1f15f91e67db89eaa2647ea42b1" sha1="6b0b5fbff5a03b202118e135c10b98bd10c93b86"/>
+		<rom name="Pocket Zipper (Japan).bin" size="1154832" crc="24089f95" md5="4c1d401fea0a1a609719189bb16dc53f" sha1="608c3c63cf96e09a75267cfe74bfa0ea6ec879fe"/>
+	</game>
+	<game name="Pocket Picture Viewer (Japan)">
+		<category>Applications</category>
+		<description>Pocket Picture Viewer (Japan)</description>
+		<rom name="Pocket Picture Viewer (Japan).cue" size="95" crc="cb0ceab1" md5="270bf81af4cd19c1c0ea13804376a33d" sha1="b34b64c4576f2f0006472bc81459ec7c26194b32"/>
+		<rom name="Pocket Picture Viewer (Japan).bin" size="2674224" crc="b4b9d129" md5="f2beafaf7f5f61fd0478a5daaa996137" sha1="1a45eb1150f6ba84dc923cf9a63e3c9c386a71e3"/>
+	</game>
+	<game name="Pocket Slide Show (Japan)">
+		<category>Applications</category>
+		<description>Pocket Slide Show (Japan)</description>
+		<rom name="Pocket Slide Show (Japan).cue" size="91" crc="e76cf2de" md5="e7faafd77b099e83d68a378137a84731" sha1="47a04f42457966202e1b9f3f7f898d6850f82259"/>
+		<rom name="Pocket Slide Show (Japan).bin" size="1227744" crc="b6afcf49" md5="c9e8275482d7a401f64f6431b8841489" sha1="dd2cd97f4722d7b5bc771509cd01d5270ed1e36b"/>
+	</game>
+	<game name="Pocket Flash Format (Japan)">
+		<category>Applications</category>
+		<description>Pocket Flash Format (Japan)</description>
+		<rom name="Pocket Flash Format (Japan).cue" size="93" crc="a6a69498" md5="33fbce84e90a8b509df2979781e089d3" sha1="0b1230790b2344c0ca3a6efa79e695286f2b708a"/>
+		<rom name="Pocket Flash Format (Japan).bin" size="1063104" crc="3fea55cf" md5="18fcd82600516797951fd9e9f08b61e0" sha1="d95f7386c1034e86f03f6d68946863751050d441"/>
+	</game>
+	<game name="Pocket CT-ART (Russia) (En,Fr,De,Es,It,Ru)">
+		<category>Educational</category>
+		<description>Pocket CT-ART (Russia) (En,Fr,De,Es,It,Ru)</description>
+		<rom name="Pocket CT-ART (Russia) (En,Fr,De,Es,It,Ru).cue" size="108" crc="c592bb3a" md5="d1c3dca9d64d35243c3c184d6077c2da" sha1="25742646be2fdb9d84e3cfdcf20baf4a2bb15821"/>
+		<rom name="Pocket CT-ART (Russia) (En,Fr,De,Es,It,Ru).bin" size="432591600" crc="3c63380c" md5="b6330cf6781448d3c84422f466dc90da" sha1="5676c6fc9376ac5d85df48f5ec021b8b4664d8f8"/>
+	</game>
+	<game name="Socket Low Power SDIO WLAN (USA)">
+		<category>Applications</category>
+		<description>Socket Low Power SDIO WLAN (USA)</description>
+		<rom name="Socket Low Power SDIO WLAN (USA).cue" size="98" crc="91fd1ee4" md5="c9fb92ac26f0ce13adeee13c6e5ed9c0" sha1="7ed896c6aa6858916a13554ef8e3c91e57800968"/>
+		<rom name="Socket Low Power SDIO WLAN (USA).bin" size="53776128" crc="127a39d8" md5="d6798ad193873876635b151e2eb6648f" sha1="bbdf6d602eba1c350f6c1d4eff4b81bd63f00439"/>
+	</game>
+	<game name="Pocket Bass Pro (USA)">
+		<category>Games</category>
+		<description>Pocket Bass Pro (USA)</description>
+		<rom name="Pocket Bass Pro (USA).cue" size="87" crc="7d4b6795" md5="175a0d4fe6708df5778de5dcd279bc9b" sha1="318ea8d1d82587a3a8df92e859814dc10bf18184"/>
+		<rom name="Pocket Bass Pro (USA).bin" size="17171952" crc="34b27175" md5="50b3a3cbe283188031e01e555f32431b" sha1="2f37606b06658cbc41dc39f3403e3f012f9cf39c"/>
+	</game>
+	<game name="Pocket Athlete (USA)">
+		<category>Games</category>
+		<description>Pocket Athlete (USA)</description>
+		<rom name="Pocket Athlete (USA).cue" size="86" crc="2502e5f4" md5="053dcde1b65281a848063b452f3c390f" sha1="5c05ca591c33b2817c6d775c1f46b6a673ae32f2"/>
+		<rom name="Pocket Athlete (USA).bin" size="29562288" crc="362b3aca" md5="2742ecc1b7c6a701dab0331b554eaf27" sha1="f5d58d85bf61440e36fd87dbe632ee5386672f3b"/>
+	</game>
+	<game name="Pocket PC StarterPak for Dummies (USA)">
+		<category>Multimedia</category>
+		<description>Pocket PC StarterPak for Dummies (USA)</description>
+		<rom name="Pocket PC StarterPak for Dummies (USA).cue" size="104" crc="fb675942" md5="5dfc91afafffd8f8408ab2abdb4e187a" sha1="0d9df68fb71b2c929a6907a39de5e35b66fffb6f"/>
+		<rom name="Pocket PC StarterPak for Dummies (USA).bin" size="145351248" crc="c152eadb" md5="9b3e02f05a1fbe81fdf757bbdd9cba59" sha1="b98ab06a184f85e8aaef8f51d1d025fd88110874"/>
+	</game>
+	<game name="Rom-Man Technologies' Windows CE Professional (USA)">
+		<category>Multimedia</category>
+		<description>Rom-Man Technologies' Windows CE Professional (USA)</description>
+		<rom name="Rom-Man Technologies' Windows CE Professional (USA).cue" size="140" crc="dc1c0eba" md5="6ac25ce9db2d1c59c3a3f2ad7a5b071b" sha1="d13aba741e76867759aa43206837602fb20e40df"/>
+		<rom name="Rom-Man Technologies' Windows CE Professional (USA).bin" size="105887040" crc="423531ce" md5="34d6e49952765ab889d3724ca967e325" sha1="ec474d535d5e5de8f2ea6c8f991350d7bbdaa5f0"/>
+	</game>
+	<game name="Graduate Chess (Europe) (En,Fr,De)">
+		<category>Games</category>
+		<description>Graduate Chess (Europe) (En,Fr,De)</description>
+		<rom name="Graduate Chess (Europe) (En,Fr,De).cue" size="100" crc="4d2bd83b" md5="18d44ba0d1943bfab30a3cfbb3f8dfdc" sha1="a64165369a74fc6ff6aae89a9f8f697df973e92b"/>
+		<rom name="Graduate Chess (Europe) (En,Fr,De).bin" size="5371968" crc="84cabce5" md5="1472c99660652a7706fd9c9a4d3f2cb3" sha1="cbebea91dc00a2453ef30e05b300d08e2df8d702"/>
+	</game>
+</datafile>
