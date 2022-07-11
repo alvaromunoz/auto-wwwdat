@@ -124,13 +124,6 @@ jobs:
               Expand-Archive -Path $file.FullName -DestinationPath ".\"
           }
 
-          # Rename individual dats
-          $dat_files = Get-ChildItem -Path $dats_dir | Where-Object { $_.Name -match ".+\.dat" }
-          foreach( $dat_file in $dat_files )
-          {
-            Rename-Item -Path $dat_file -NewName ($dat_file.Name -replace '( \(.+\))')
-          }
-
       - name: Upload Redump DATS
         uses: actions/upload-artifact@v3
         with:
@@ -207,16 +200,10 @@ jobs:
       - name: Generate Retool DATs
         working-directory: retool
         run: |
-          $datsdir = "dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}"
           New-Item $datsdir -Type "Directory"
-          python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider-dats }}" --output ("${{ github.workspace }}\" + $datsdir) -l --exclude aAbBcdDemMopPruv
-          $datfiles = Get-ChildItem -Path ("${{ github.workspace }}\" + $datsdir + "\*.dat")
-          foreach( $datfile in $datfiles )
-          {
-            Rename-Item -Path $datfile -NewName ($datfile.Name -replace '( \(-.+\))')
-          }
+          python3 ".\retool.py" "${{ github.workspace }}\${{ matrix.provider-dats }}" --output "${{ github.workspace }}\dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}" -l --exclude aAbBcdDemMopPruv
 
-      - name: Upload Redump DATS
+      - name: Upload Retool DATS
         uses: actions/upload-artifact@v3
         with:
           name: "dats-retool-${{ matrix.provider-dats }}-${{ matrix.region }}"
