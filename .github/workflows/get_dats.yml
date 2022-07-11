@@ -233,7 +233,7 @@ jobs:
           $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
           foreach( $file in $datfiles ) {
           [XML]$xmlfile = Get-Content -Path $file.FullName
-          $dat_filename = $file.Name -replace ".dat$", ".zip" # files must be zipped!
+          $dat_filename = $file.Name # -replace ".dat$", ".zip"
           $name = $xmlfile.datafile.header.name
           $description = $xmlfile.datafile.header.description
           $version = $xmlfile.datafile.header.version
@@ -263,16 +263,25 @@ jobs:
         run: |
           Move-Item -Path "${{ github.workspace }}\*.xml" -Destination "www"
 
-      - name: Compress Dats to www dir
+      # Nope, clrmamepro doesn't work with zipped dats when using www mode!
+      # - name: Compress Dats to www dir
+      #   run: |
+      #     $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*"
+      #     foreach( $datpath in $datpaths ) {
+      #       $www_zipped_dir_path = ("${{ github.workspace }}\www\" + ($datpath.Name -replace "^dats-"))
+      #       New-Item $www_zipped_dir_path -Type "Directory"
+      #       $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
+      #       foreach( $file in $datfiles ) {
+      #         Compress-Archive -Path $file.FullName -DestinationPath ($www_zipped_dir_path + "\" + ($file.Name -replace ".dat$", ".zip")) -CompressionLevel "Optimal" -Force
+      #       }
+      #     }
+
+      - name: Move Dats to www dir
         run: |
           $datpaths = Get-ChildItem -Path "${{ github.workspace }}\dats-*"
           foreach( $datpath in $datpaths ) {
-            $www_zipped_dir_path = ("${{ github.workspace }}\www\" + ($datpath.Name -replace "^dats-"))
-            New-Item $www_zipped_dir_path -Type "Directory"
-            $datfiles = Get-ChildItem -Path $datpath.FullName | Where-Object {$_.Name -match ".+\.dat"}
-            foreach( $file in $datfiles ) {
-              Compress-Archive -Path $file.FullName -DestinationPath ($www_zipped_dir_path + "\" + ($file.Name -replace ".dat$", ".zip")) -CompressionLevel "Optimal" -Force
-            }
+            $wwwpath = ("${{ github.workspace }}\www\" + ($datpath.Name -replace "^dats-"))
+            Move-Item -Path $datpath -Destination $wwwpath
           }
 
       - name: Checkout to publish directory
