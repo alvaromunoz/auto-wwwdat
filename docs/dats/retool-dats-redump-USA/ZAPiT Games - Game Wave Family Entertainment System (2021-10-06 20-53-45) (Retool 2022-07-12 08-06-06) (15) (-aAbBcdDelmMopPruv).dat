@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>ZAPiT Games - Game Wave Family Entertainment System (Retool 1.15)</name>
+		<description>ZAPiT Games - Game Wave Family Entertainment System (-aAbBcdDelmMopPruv) (15) (2021-10-06 20-53-45)</description>
+		<version>2021-10-06 20-53-45</version>
+		<date>2022-07-12 08-06-06</date>
+		<author>redump.org &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="4 Degrees - The Arc of Trivia - Bible Edition (USA)">
+		<category>Games</category>
+		<description>4 Degrees - The Arc of Trivia - Bible Edition (USA)</description>
+		<rom crc="10e6f6a6" md5="14e207e841a0c7129bbfb72a12b89cbc" name="4 Degrees - The Arc of Trivia - Bible Edition (USA).iso" sha1="21001ee96dea1fd92ce2756e684ff9087cbff47f" size="4430123008"/>
+	</game>
+	<game name="4 Degrees - The Arc of Trivia - Volume 1 (USA)">
+		<category>Games</category>
+		<description>4 Degrees - The Arc of Trivia - Volume 1 (USA)</description>
+		<rom crc="d0e92ad6" md5="8e410df0b5ae49bc80da79153c29bf83" name="4 Degrees - The Arc of Trivia - Volume 1 (USA).iso" sha1="7290b774ea4cafce0b5bc7fc84f4149fcb43fbac" size="4499558400"/>
+	</game>
+	<game name="4 Degrees - The Arc of Trivia - Volume 2 (USA)">
+		<category>Games</category>
+		<description>4 Degrees - The Arc of Trivia - Volume 2 (USA)</description>
+		<rom crc="b2e53902" md5="e44d9f5653f0c69fa2a2042ff6c91413" name="4 Degrees - The Arc of Trivia - Volume 2 (USA).iso" sha1="d074ca912ad3aa374a7db0fd2322c61545a0552c" size="4405088256"/>
+	</game>
+	<game name="Click! (USA)">
+		<category>Games</category>
+		<description>Click! (USA)</description>
+		<rom crc="43ee7f7f" md5="405815ee6ce6f0d9ea0388b2a9d1be21" name="Click! (USA).iso" sha1="98d978004f7d1c369f445aff7024c3c850a4e6f0" size="4327985152"/>
+	</game>
+	<game name="Gemz (USA)">
+		<category>Games</category>
+		<description>Gemz (USA)</description>
+		<rom crc="294f71de" md5="1ece469d9ff213a835d8d7d3761e65c2" name="Gemz (USA).iso" sha1="d39984aa1d244193fa59e9694fb86bc91e270032" size="2912833536"/>
+	</game>
+	<game name="Letter Zap! (USA)">
+		<category>Games</category>
+		<description>Letter Zap! (USA)</description>
+		<rom crc="cea3128f" md5="1542226515a30221031053b7d180c232" name="Letter Zap! (USA).iso" sha1="674cf8358020f9d608a9b153dd7354e664385311" size="3395833856"/>
+	</game>
+	<game name="Lock 5 (USA)">
+		<category>Games</category>
+		<description>Lock 5 (USA)</description>
+		<rom crc="0c9e6d49" md5="e04f4779268835220d15fa03909d9818" name="Lock 5 (USA).iso" sha1="ea08de08d53d0e727e5d6fcbcb3c71e6a3908664" size="560189440"/>
+	</game>
+	<game name="Rewind (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Rewind (USA) (Rev 1)</description>
+		<rom crc="d3cf238e" md5="4d66666e58c42545a554855c94cf7728" name="Rewind (USA) (Rev 1).iso" sha1="15e57f95ef5aa7dece2d4f70bc6b9da3b14ad786" size="4385525760"/>
+	</game>
+	<game name="Rewind 2005 (USA) (Disc A)">
+		<category>Games</category>
+		<description>Rewind 2005 (USA) (Disc A)</description>
+		<rom crc="7359f3d2" md5="582044dbf6f41030ccf266f27adb2683" name="Rewind 2005 (USA) (Disc A).iso" sha1="5ce59186744ddc25eef50475f0060643eef3949a" size="3469070336"/>
+	</game>
+	<game name="Rewind 2005 (USA) (Disc B)">
+		<category>Games</category>
+		<description>Rewind 2005 (USA) (Disc B)</description>
+		<rom crc="c6409e2a" md5="ede2fe4d671d06df1223b83d57691344" name="Rewind 2005 (USA) (Disc B).iso" sha1="928da4eb25cc6d81563351a771c22f8d668f292a" size="3505344512"/>
+	</game>
+	<game name="Rewind 2006 (USA) (Disc A)">
+		<category>Games</category>
+		<description>Rewind 2006 (USA) (Disc A)</description>
+		<rom crc="b512c56e" md5="e50c7f27bf1936d12142fe96357f5841" name="Rewind 2006 (USA) (Disc A).iso" sha1="7cbbf19bad2705d58bf220e30942b88c7861ad74" size="3808251904"/>
+	</game>
+	<game name="Rewind 2006 (USA) (Disc B)">
+		<category>Games</category>
+		<description>Rewind 2006 (USA) (Disc B)</description>
+		<rom crc="afdb72c9" md5="f8c43b59e50a4de476d857758569dd11" name="Rewind 2006 (USA) (Disc B).iso" sha1="062d1fe4760f1d02eb821eff576db97a5b2d6322" size="3781316608"/>
+	</game>
+	<game name="Sudoku (USA)">
+		<category>Games</category>
+		<description>Sudoku (USA)</description>
+		<rom crc="bc5a76e7" md5="b0a1c7f820731b22d51c46972e1fbd2f" name="Sudoku (USA).iso" sha1="f9fd892518b221d2e3519837c2ba1a031d5d45a2" size="3522482176"/>
+	</game>
+	<game name="VeggieTales - Veg-Out! Family Tournament (USA)">
+		<category>Games</category>
+		<description>VeggieTales - Veg-Out! Family Tournament (USA)</description>
+		<rom crc="babe1cb0" md5="f9c6fbea990445f26ae746b608c74ee4" name="VeggieTales - Veg-Out! Family Tournament (USA).iso" sha1="c6baa40ed4cd5654031a46f7ad48232b56b8e5db" size="4461875200"/>
+	</game>
+	<game name="Zap 21 (USA)">
+		<category>Games</category>
+		<description>Zap 21 (USA)</description>
+		<rom crc="af4e020b" md5="5327bf56d27c445896715dc866e2d02e" name="Zap 21 (USA).iso" sha1="77c8042df83c57cf2576a34d12ad4d528e78c4e8" size="361287680"/>
+	</game>
+</datafile>

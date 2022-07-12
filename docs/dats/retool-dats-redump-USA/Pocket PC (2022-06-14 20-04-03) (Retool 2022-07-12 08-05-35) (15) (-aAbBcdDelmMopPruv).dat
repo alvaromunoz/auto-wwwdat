@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Pocket PC (Retool 1.15)</name>
+		<description>Pocket PC (-aAbBcdDelmMopPruv) (15) (2022-06-14 20-04-03)</description>
+		<version>2022-06-14 20-04-03</version>
+		<date>2022-07-12 08-05-35</date>
+		<author>redump.org &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Empire of the Undead (USA)">
+		<category>Games</category>
+		<description>Empire of the Undead (USA)</description>
+		<rom crc="b3c66a24" md5="c29caadacfb1fccbb004d855dee496fc" name="Empire of the Undead (USA).cue" sha1="ccadd838f8f1eb67394f9d5a46bd7b3b37c7fa5b" size="115"/>
+		<rom crc="a3e8b738" md5="de51056553af09d49f4470c2109a7f80" name="Empire of the Undead (USA).bin" sha1="576e40a2a635169370c9e732c40e06b5a01b546d" size="20086080"/>
+	</game>
+	<game name="Links - Pocket PC Edition (USA)">
+		<category>Games</category>
+		<description>Links - Pocket PC Edition (USA)</description>
+		<rom crc="ceb7465e" md5="104e135f3ab4659dfacfca62e69d1eca" name="Links - Pocket PC Edition (USA).cue" sha1="691bce36a84e6fa52f3b1c326d04f05f508eccfe" size="97"/>
+		<rom crc="f054b7d5" md5="e5b2f83eba15c6be2eaa319b718dec44" name="Links - Pocket PC Edition (USA).bin" sha1="26f25eb263cccca09a021fc4c870a10f9b7a4e40" size="70390656"/>
+	</game>
+	<game name="Metalion (USA)">
+		<category>Games</category>
+		<description>Metalion (USA)</description>
+		<rom crc="97e8751e" md5="8d5d6664c9eac4dbb83f72b5fb651960" name="Metalion (USA).cue" sha1="2386c25c2e65c1eb605c93eb4798a78d57b17b17" size="80"/>
+		<rom crc="87c782e3" md5="505eeddc73673c679c55cc23c26ddce5" name="Metalion (USA).bin" sha1="8ffb00a7e6d5505324d2d92d2344abf666926927" size="33113808"/>
+	</game>
+	<game name="Microsoft Entertainment PocketPak (USA)">
+		<category>Games</category>
+		<description>Microsoft Entertainment PocketPak (USA)</description>
+		<rom crc="4a8b9368" md5="dc397bf95fd9bd45a388a240a10880e7" name="Microsoft Entertainment PocketPak (USA).cue" sha1="4198881bf8191fcd6399cb3cc8d36e565250455d" size="105"/>
+		<rom crc="1ae5d940" md5="2ba865242576076c8213d3c5166983cc" name="Microsoft Entertainment PocketPak (USA).bin" sha1="073b183f16eb4aa7e3a06c78569364c5bb5f90cb" size="4290048"/>
+	</game>
+	<game name="Midway Classics - Marble Madness (USA)">
+		<category>Games</category>
+		<description>Midway Classics - Marble Madness (USA)</description>
+		<rom crc="1554e090" md5="9d505092e8d780325dd52e710ca9a15a" name="Midway Classics - Marble Madness (USA).cue" sha1="6c3bc1d0883e98f95bb42c2ca8012dc6a19ac9d9" size="104"/>
+		<rom crc="172e8676" md5="21c414b6d8dc060ccf7878a7381615f5" name="Midway Classics - Marble Madness (USA).bin" sha1="ff57027ad0d15ad0bc9a82424c5edcf8edf42fd3" size="9617328"/>
+	</game>
+	<game name="Pocket Athlete (USA)">
+		<category>Games</category>
+		<description>Pocket Athlete (USA)</description>
+		<rom crc="2502e5f4" md5="053dcde1b65281a848063b452f3c390f" name="Pocket Athlete (USA).cue" sha1="5c05ca591c33b2817c6d775c1f46b6a673ae32f2" size="86"/>
+		<rom crc="362b3aca" md5="2742ecc1b7c6a701dab0331b554eaf27" name="Pocket Athlete (USA).bin" sha1="f5d58d85bf61440e36fd87dbe632ee5386672f3b" size="29562288"/>
+	</game>
+	<game name="Pocket Bass Pro (USA)">
+		<category>Games</category>
+		<description>Pocket Bass Pro (USA)</description>
+		<rom crc="7d4b6795" md5="175a0d4fe6708df5778de5dcd279bc9b" name="Pocket Bass Pro (USA).cue" sha1="318ea8d1d82587a3a8df92e859814dc10bf18184" size="87"/>
+		<rom crc="34b27175" md5="50b3a3cbe283188031e01e555f32431b" name="Pocket Bass Pro (USA).bin" sha1="2f37606b06658cbc41dc39f3403e3f012f9cf39c" size="17171952"/>
+	</game>
+	<game name="Pocket Gambler (USA)">
+		<category>Games</category>
+		<description>Pocket Gambler (USA)</description>
+		<rom crc="abe385e9" md5="5022fc6b27c6ccc727cc4712527440e6" name="Pocket Gambler (USA).cue" sha1="9317871313ff0e406a0c385cd0a05eea3eba0bd9" size="86"/>
+		<rom crc="7be9045c" md5="a03b51dea39732dd1243f6d8307cf292" name="Pocket Gambler (USA).bin" sha1="02cd73671ca926a9dd4d501b078b760ef2ebf17e" size="28901376"/>
+	</game>
+	<game name="RocketElite (USA) (En,Fr,De)">
+		<category>Games</category>
+		<description>RocketElite (USA) (En,Fr,De)</description>
+		<rom crc="ef8cf721" md5="7dd025847cd5bf70c6aa7f100523bdd8" name="RocketElite (USA) (En,Fr,De).cue" sha1="afc4b0e767364c139eed4c528f1d0677fa0501d8" size="94"/>
+		<rom crc="e420a72e" md5="b9e688ac85df786afe3cc4a27617e84a" name="RocketElite (USA) (En,Fr,De).bin" sha1="3f11f31b87dd5be1a7d71cd9d0162d863ba07931" size="52894128"/>
+	</game>
+	<game name="ShadowGate Classic (USA)">
+		<category>Games</category>
+		<description>ShadowGate Classic (USA)</description>
+		<rom crc="8efaa76b" md5="f1bd1c8f62768932dfb0b9a6407d4228" name="ShadowGate Classic (USA).cue" sha1="6f68f0650138a0a52b7f57a07a5e5d8118089c14" size="90"/>
+		<rom crc="97b15fa0" md5="0e5819df305102408321d269d57c495f" name="ShadowGate Classic (USA).bin" sha1="c9ce8daf026ac8eaca842bfbf2e421516e6de21f" size="15478512"/>
+	</game>
+	<game name="SimCity 2000 for Pocket PC (USA)">
+		<category>Games</category>
+		<description>SimCity 2000 for Pocket PC (USA)</description>
+		<rom crc="dcab58b4" md5="f1b3863125ae2a757823349c2492c25e" name="SimCity 2000 for Pocket PC (USA).cue" sha1="d1cff055ad1e4fe87c200bf3bb62fc8c52c67a30" size="98"/>
+		<rom crc="09849bda" md5="29313d76bd03d0d6dd0d7b0ac2e8459b" name="SimCity 2000 for Pocket PC (USA).bin" sha1="ce9fb12407cd4b85198f42659195bce311c0f5b2" size="13726272"/>
+	</game>
+	<game name="Tomb Raider for Pocket PC (USA)">
+		<category>Games</category>
+		<description>Tomb Raider for Pocket PC (USA)</description>
+		<rom crc="c77139ea" md5="5a32f7904279fd516ce7015f45cdf6ac" name="Tomb Raider for Pocket PC (USA).cue" sha1="17a55290de8ffd6f922774cbef3dbdca90fd0d12" size="97"/>
+		<rom crc="eb886a25" md5="02030d7f710cb42cf7c93e288d5d4ccb" name="Tomb Raider for Pocket PC (USA).bin" sha1="79ec8f45f39c5f0f186a1c0d0947397e0d28906a" size="91299936"/>
+	</game>
+	<game name="Tony Hawk's Pro Skater 2 (USA)">
+		<category>Games</category>
+		<description>Tony Hawk's Pro Skater 2 (USA)</description>
+		<rom crc="f48e6eb2" md5="de19a12043d56718a65916db606e767f" name="Tony Hawk's Pro Skater 2 (USA).cue" sha1="928e7c90386d25c0c388767a5a6f8a4b44848a1a" size="96"/>
+		<rom crc="8a749fd1" md5="4c1b0f1088c938174e81adad008a66b9" name="Tony Hawk's Pro Skater 2 (USA).bin" sha1="f0691c767cd596a80f3a3442e6da597769b83c93" size="69710928"/>
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (USA)">
+		<category>Games</category>
+		<description>Ultima Underworld - The Stygian Abyss (USA)</description>
+		<rom crc="5f8c958d" md5="8ef45c1001dd956b16919efdb653d6a2" name="Ultima Underworld - The Stygian Abyss (USA).cue" sha1="362b179d5846490a368a6d5a46b984c5b92713b1" size="109"/>
+		<rom crc="a3bc74a4" md5="e35eb00afac158fc5f27379e04ff3860" name="Ultima Underworld - The Stygian Abyss (USA).bin" sha1="6e7f7e1750eb449f691509c8b4a4409b25aa8825" size="18853632"/>
+	</game>
+	<game name="ZIOGolf 2 (USA)">
+		<category>Games</category>
+		<description>ZIOGolf 2 (USA)</description>
+		<rom crc="9472a9be" md5="30e4ef268ab52963a24587993564eef3" name="ZIOGolf 2 (USA).cue" sha1="7f269f08bdc812c38827cca2e54a3c1ab5c49497" size="81"/>
+		<rom crc="a0885558" md5="6e2d71e0eff4750ca330516c947c7b77" name="ZIOGolf 2 (USA).bin" sha1="aff774cfa3e466efd069a8fa804a33412e4a57f2" size="32902128"/>
+	</game>
+</datafile>

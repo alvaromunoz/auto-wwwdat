@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Atari - Lynx (Retool 1.15)</name>
+		<description>Atari - Lynx (-aAbBcdDelmMopPruv) (74) (20220513-205052)</description>
+		<version>20220513-205052</version>
+		<date>2022-07-12 08-05-13</date>
+		<author>BigFred, C. V. Reynolds, Flashfire42, Hiccup, kazumi213, norkmetnoil577, omonim2007, relax, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="A.P.B. (USA, Europe)">
+		<category>Games</category>
+		<description>A.P.B. (USA, Europe)</description>
+		<rom crc="f6fb48fb" md5="b425941149874c6371c40e85cc5b6241" name="A.P.B. (USA, Europe).lnx" sha1="c2bf00de769895cbed03c056eb9c8fa1a7ea59ef" size="262144"/>
+	</game>
+	<game name="Awesome Golf (USA, Europe)">
+		<category>Games</category>
+		<description>Awesome Golf (USA, Europe)</description>
+		<rom crc="0483cd2a" md5="49d6eeb3c983246ff4d7034497f7095c" name="Awesome Golf (USA, Europe).lnx" sha1="74441b96ce5bf2be68945fbe93bda259f97816b7" size="262144"/>
+	</game>
+	<game name="Baseball Heroes (USA, Europe)">
+		<category>Games</category>
+		<description>Baseball Heroes (USA, Europe)</description>
+		<rom crc="3943c116" md5="8c9a72ddbb5559293862684ec67bfa92" name="Baseball Heroes (USA, Europe).lnx" sha1="b30a1fe12dc3e69e1a179a5e4d1799d93996fc24" size="262144"/>
+	</game>
+	<game name="Basketbrawl (USA, Europe)">
+		<category>Games</category>
+		<description>Basketbrawl (USA, Europe)</description>
+		<rom crc="4161bb4a" md5="f19b95e4835c5fbc44b180dbd3f024fc" name="Basketbrawl (USA, Europe).lnx" sha1="46ae8e1504e2944525d535280a3ed32e0873788a" size="131072"/>
+	</game>
+	<game name="Batman Returns (USA, Europe)">
+		<category>Games</category>
+		<description>Batman Returns (USA, Europe)</description>
+		<rom crc="277f82c2" md5="6e9bbff3c7b66d3ec0411ffbe0e41dfd" name="Batman Returns (USA, Europe).lnx" sha1="2e25b17a221d4d9598811fbf84ab0da3016f26e4" size="262144"/>
+	</game>
+	<game name="Battle Wheels (USA, Europe)">
+		<category>Games</category>
+		<description>Battle Wheels (USA, Europe)</description>
+		<rom crc="779faece" md5="fddecd756abe5eaf613ca1db31d51df7" name="Battle Wheels (USA, Europe).lnx" sha1="4577550d20a22cb685d51b411396d5085a852be6" size="131072"/>
+	</game>
+	<game name="Battlezone 2000 (USA, Europe)">
+		<category>Games</category>
+		<description>Battlezone 2000 (USA, Europe)</description>
+		<rom crc="30fee726" md5="d405ea54b77390b06222f9dac7cea827" name="Battlezone 2000 (USA, Europe).lnx" sha1="fb50ddee638aa316c7eae6d50961e3b69b112c4f" size="262144"/>
+	</game>
+	<game name="Bill &amp; Ted's Excellent Adventure (USA, Europe)">
+		<category>Games</category>
+		<description>Bill &amp; Ted's Excellent Adventure (USA, Europe)</description>
+		<rom crc="143a313e" md5="87dff4f4d5e1e4a7132d19f94d4e9b3a" name="Bill &amp; Ted's Excellent Adventure (USA, Europe).lnx" sha1="f09ce08d93a479feaceceb79eb48b337aff49fae" size="262144"/>
+	</game>
+	<game name="Block Out (USA, Europe)">
+		<category>Games</category>
+		<description>Block Out (USA, Europe)</description>
+		<rom crc="3cd75df3" md5="c81abf2919effd525b83c2103b75e6ca" name="Block Out (USA, Europe).lnx" sha1="ae177cf76953b7e0a56b03096bb5c9c9c9051177" size="131072"/>
+	</game>
+	<game name="Blue Lightning (USA, Europe)">
+		<category>Games</category>
+		<description>Blue Lightning (USA, Europe)</description>
+		<rom crc="daf587b1" md5="f7b4775771bc25d9053af5c69a8c8b2a" name="Blue Lightning (USA, Europe).lnx" sha1="be08076586f76db368db1769380dcbb6de2a6513" size="131072"/>
+	</game>
+	<game name="Bubble Trouble (USA, Europe)">
+		<category>Games</category>
+		<description>Bubble Trouble (USA, Europe)</description>
+		<rom crc="333daece" md5="90841f8fed54862f8a8750ddf212eb84" name="Bubble Trouble (USA, Europe).lnx" sha1="cb9f78ffb02216979a03abb66301e4d3a8f01bfe" size="262144"/>
+	</game>
+	<game name="California Games (USA, Europe)">
+		<category>Games</category>
+		<description>California Games (USA, Europe)</description>
+		<rom crc="a08f0b59" md5="73e02bb77dcf857a6578f0e24b4ecb9e" name="California Games (USA, Europe).lnx" sha1="f13e010102ca527a9c393acb52bb949a1ba93e3e" size="131072"/>
+	</game>
+	<game name="Checkered Flag (USA, Europe)">
+		<category>Games</category>
+		<description>Checkered Flag (USA, Europe)</description>
+		<rom crc="19c5a7a5" md5="85b33c5e5985ab041ecc44555a8cfb42" name="Checkered Flag (USA, Europe).lnx" sha1="f115bb5f98992d98c8d11b1daa68bb1961b59660" size="262144"/>
+	</game>
+	<game name="Chip's Challenge (USA, Europe)">
+		<category>Games</category>
+		<description>Chip's Challenge (USA, Europe)</description>
+		<rom crc="6a5f53ed" md5="24611d1445ebd34ab79fb0ae996ff4e4" name="Chip's Challenge (USA, Europe).lnx" sha1="6a90e6627086e13d99bacbcaafea7ab2f6aba8a0" size="131072"/>
+	</game>
+	<game name="Crystal Mines II (USA, Europe)">
+		<category>Games</category>
+		<description>Crystal Mines II (USA, Europe)</description>
+		<rom crc="aec474c8" md5="b4acbd3c544a0d92cc8ad1380bf8a810" name="Crystal Mines II (USA, Europe).lnx" sha1="3364bde38508c5c4fed5575295cc80c6f72edebe" size="131072"/>
+	</game>
+	<game name="Desert Strike - Return to the Gulf (USA, Europe)">
+		<category>Games</category>
+		<description>Desert Strike - Return to the Gulf (USA, Europe)</description>
+		<rom crc="b9ac1fe5" md5="f764b88c44afa8b5ebefb8eb2e4d7b97" name="Desert Strike - Return to the Gulf (USA, Europe).lnx" sha1="3149d8ba5661fd61dc94d518a0cb6d7b3a8f319f" size="262144"/>
+	</game>
+	<game name="Dinolympics (USA, Europe)">
+		<category>Games</category>
+		<description>Dinolympics (USA, Europe)</description>
+		<rom crc="50386cfa" md5="9496be61fd0675553f05345c5fc2d15c" name="Dinolympics (USA, Europe).lnx" sha1="0dad2286934c6a317407db066f00233c27f54bbe" size="262144"/>
+	</game>
+	<game name="Dirty Larry - Renegade Cop (USA, Europe)">
+		<category>Games</category>
+		<description>Dirty Larry - Renegade Cop (USA, Europe)</description>
+		<rom crc="d565fbb7" md5="8cd77bec912c9b4dcebd8a82dcf91a0b" name="Dirty Larry - Renegade Cop (USA, Europe).lnx" sha1="ca856dc880663d7f105ae5aa2ff160b9fc209f92" size="262144"/>
+	</game>
+	<game name="Double Dragon (USA, Europe)">
+		<category>Games</category>
+		<description>Double Dragon (USA, Europe)</description>
+		<rom crc="fbfc0f05" md5="0e91b7ed60bb47d569ba24df671ad3a3" name="Double Dragon (USA, Europe).lnx" sha1="7fc3663bec878b138cfc51f14154823f9701c9e7" size="262144"/>
+	</game>
+	<game name="Dracula the Undead (USA, Europe)">
+		<category>Games</category>
+		<description>Dracula the Undead (USA, Europe)</description>
+		<rom crc="33bb74c7" md5="3ff35996887c2ff95e275085efbbbbed" name="Dracula the Undead (USA, Europe).lnx" sha1="8f393f0fa8ce832e6298db72f539ce4b961700e2" size="262144"/>
+	</game>
+	<game name="Electrocop (USA, Europe)">
+		<category>Games</category>
+		<description>Electrocop (USA, Europe)</description>
+		<rom crc="bd97116b" md5="c49ca94a908db219224c6d5baa206ab6" name="Electrocop (USA, Europe).lnx" sha1="5bd6614bc98a882ec2f465278fe4f1ed6a4e972b" size="131072"/>
+	</game>
+	<game name="European Soccer Challenge (USA, Europe)">
+		<category>Games</category>
+		<description>European Soccer Challenge (USA, Europe)</description>
+		<rom crc="f83397f9" md5="32e726ab7941eb1e833dcc4cf348a060" name="European Soccer Challenge (USA, Europe).lnx" sha1="f1d0390a36055ef2b7cb5f7ce44f622a63d82e80" size="131072"/>
+	</game>
+	<game name="Fat Bobby (USA, Europe)">
+		<category>Games</category>
+		<description>Fat Bobby (USA, Europe)</description>
+		<rom crc="9034ee27" md5="69abd21c83390dae54630919c3c150d0" name="Fat Bobby (USA, Europe).lnx" sha1="766ed1a28528535338e176559a145afaffacf3ef" size="262144"/>
+	</game>
+	<game name="Fidelity Ultimate Chess Challenge, The (USA, Europe)">
+		<category>Games</category>
+		<description>Fidelity Ultimate Chess Challenge, The (USA, Europe)</description>
+		<rom crc="7e4b5945" md5="19eb0ca77284b5d91a63eb02f6962930" name="Fidelity Ultimate Chess Challenge, The (USA, Europe).lnx" sha1="f6afa50f161fffe5975cf5688a9314b8039d940f" size="131072"/>
+	</game>
+	<game name="Gates of Zendocon (USA, Europe)">
+		<category>Games</category>
+		<description>Gates of Zendocon (USA, Europe)</description>
+		<rom crc="494cc568" md5="d5be9118bcb14243468001b08c4aa21a" name="Gates of Zendocon (USA, Europe).lnx" sha1="4eb4d3eb29231b2e36d8ef6ede64a568f469c5fe" size="131072"/>
+	</game>
+	<game name="Gauntlet - The Third Encounter (USA, Europe)">
+		<category>Games</category>
+		<description>Gauntlet - The Third Encounter (USA, Europe)</description>
+		<rom crc="7f0ec7ad" md5="0b572c0dfb938849eeec39b2c9583547" name="Gauntlet - The Third Encounter (USA, Europe).lnx" sha1="41d27f0717a93d05a9d3d1110f571f791d330f55" size="131072"/>
+	</game>
+	<game name="Gordo 106 (USA, Europe)">
+		<category>Games</category>
+		<description>Gordo 106 (USA, Europe)</description>
+		<rom crc="d20a85fc" md5="eb9b5b2b6160e5f3015bc2a669d886b6" name="Gordo 106 (USA, Europe).lnx" sha1="298163cf4355d0e8aaba264cd7dcd828b1fc6bec" size="262144"/>
+	</game>
+	<game name="Hard Drivin' (USA, Europe)">
+		<category>Games</category>
+		<description>Hard Drivin' (USA, Europe)</description>
+		<rom crc="6df63834" md5="c265f0de8c5bd77db8f9cf5a1f7ab68f" name="Hard Drivin' (USA, Europe).lnx" sha1="6d33abd50d46f900e8762d6e64b51e647ea98b07" size="131072"/>
+	</game>
+	<game name="Hockey (USA, Europe)">
+		<category>Games</category>
+		<description>Hockey (USA, Europe)</description>
+		<rom crc="e8b45707" md5="a08b8070ad613bdb2637162b3bf39574" name="Hockey (USA, Europe).lnx" sha1="707af2b63c75b777ec519b63f0b8e86565356357" size="262144"/>
+	</game>
+	<game name="Hydra (USA, Europe)">
+		<category>Games</category>
+		<description>Hydra (USA, Europe)</description>
+		<rom crc="e3041c6c" md5="76a48869c14fbcf85588001a1327253d" name="Hydra (USA, Europe).lnx" sha1="fc0c7cabf3a2ee821f7441b71d19d52205f97721" size="262144"/>
+	</game>
+	<game name="Ishido - The Way of Stones (USA, Europe)">
+		<category>Games</category>
+		<description>Ishido - The Way of Stones (USA, Europe)</description>
+		<rom crc="5cf8bbf0" md5="addc6c0ae7b535839815b8e7f7fd0f11" name="Ishido - The Way of Stones (USA, Europe).lnx" sha1="78c295af3a57b5bd7d7e1d13ab13ad67885c4e89" size="131072"/>
+	</game>
+	<game name="Jimmy Connors' Tennis (USA, Europe)">
+		<category>Games</category>
+		<description>Jimmy Connors' Tennis (USA, Europe)</description>
+		<rom crc="2455b6cf" md5="087e6ed018ad0573bd7ce3a91d34f2c9" name="Jimmy Connors' Tennis (USA, Europe).lnx" sha1="d9c4220653b2dfbd6b26c0a0c81c40cb3108ee85" size="524288"/>
+	</game>
+	<game name="Joust (USA, Europe)">
+		<category>Games</category>
+		<description>Joust (USA, Europe)</description>
+		<rom crc="5dba792a" md5="440462507cf5cffaa8d3d3a66f01ac6a" name="Joust (USA, Europe).lnx" sha1="ead01f532bcaf535065dfd66b26d04b484d0066e" size="131072"/>
+	</game>
+	<game name="Klax (USA, Europe)">
+		<category>Games</category>
+		<description>Klax (USA, Europe)</description>
+		<rom crc="a53649f1" md5="f96a0ddcc72c971226e8fdfd95607c88" name="Klax (USA, Europe).lnx" sha1="a1d2dc0771f4a30e539ab3261a21cc71adc71550" size="262144"/>
+	</game>
+	<game name="Krazy Ace - Miniature Golf (USA, Europe)">
+		<category>Games</category>
+		<description>Krazy Ace - Miniature Golf (USA, Europe)</description>
+		<rom crc="bed5ba2b" md5="7e82db12a5749ab983e2f3c8bf4c0f6e" name="Krazy Ace - Miniature Golf (USA, Europe).lnx" sha1="20e9011c922f06d9c8823f15c71e005ac2268295" size="262144"/>
+	</game>
+	<game name="Kung Food (USA, Europe)">
+		<category>Games</category>
+		<description>Kung Food (USA, Europe)</description>
+		<rom crc="cd1bd405" md5="e5e42190918847b8c6056e78316ee91d" name="Kung Food (USA, Europe).lnx" sha1="ae1bd18b30dd9ae67472c4c532f4d65d23324555" size="262144"/>
+	</game>
+	<game name="Lemmings (USA, Europe)">
+		<category>Games</category>
+		<description>Lemmings (USA, Europe)</description>
+		<rom crc="39b9b8cc" md5="3cae85572df3b43f0220326bf4bb3c8b" name="Lemmings (USA, Europe).lnx" sha1="4d430b1aacf207a631f81b2089688b82267d0394" size="262144"/>
+	</game>
+	<game name="Lynx Casino (USA, Europe)">
+		<category>Games</category>
+		<description>Lynx Casino (USA, Europe)</description>
+		<rom crc="1091a268" md5="05d28ab0e92b19147e7f5ea88c6efb6d" name="Lynx Casino (USA, Europe).lnx" sha1="4b82a9bc02330c9213c2bbd74d547d520c4e6fa3" size="262144"/>
+	</game>
+	<game name="Malibu Bikini Volleyball (USA, Europe)">
+		<category>Games</category>
+		<description>Malibu Bikini Volleyball (USA, Europe)</description>
+		<rom crc="aba6da3d" md5="280344c8b073895ecce286d1b9d87d8b" name="Malibu Bikini Volleyball (USA, Europe).lnx" sha1="9c3d8037d347c0ff23d941eff8b575a4f2f051da" size="262144"/>
+	</game>
+	<game name="Ms. Pac-Man (USA, Europe)">
+		<category>Games</category>
+		<description>Ms. Pac-Man (USA, Europe)</description>
+		<rom crc="7de3783a" md5="192b6b764a3a1c7831e0a785fa4b5453" name="Ms. Pac-Man (USA, Europe).lnx" sha1="ff644034cd840f8c13b643c44ec2c685290e0326" size="131072"/>
+	</game>
+	<game name="NFL Football (USA, Europe)">
+		<category>Games</category>
+		<description>NFL Football (USA, Europe)</description>
+		<rom crc="006fd398" md5="276b9be28571189912f05d321fcb04ef" name="NFL Football (USA, Europe).lnx" sha1="caea445bddcf75bcbe13920718279220d1acb869" size="262144"/>
+	</game>
+	<game name="Ninja Gaiden (USA, Europe)">
+		<category>Games</category>
+		<description>Ninja Gaiden (USA, Europe)</description>
+		<rom crc="22d47d51" md5="7ec4063eb6c7c74600d6a16fb3a3bdbd" name="Ninja Gaiden (USA, Europe).lnx" sha1="a40b5dabff9c2f6114fdbc587c72312704d7fabb" size="262144"/>
+	</game>
+	<game name="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)">
+		<category>Games</category>
+		<description>Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)</description>
+		<rom crc="f3e3f811" md5="c9ed2a3bdefd6d5fdf67302d87b5cfb2" name="Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).lnx" sha1="37861cc3025d9addbace8d07c8f65961cba29eaa" size="524288"/>
+	</game>
+	<game name="Pac-Land (USA, Europe)">
+		<category>Games</category>
+		<description>Pac-Land (USA, Europe)</description>
+		<rom crc="aa50dd22" md5="0a14754b351b4f11a1359e252b8eb992" name="Pac-Land (USA, Europe).lnx" sha1="58b57835703e3145a54e1c0ada38c9218bf4cd3d" size="131072"/>
+	</game>
+	<game name="Paperboy (USA, Europe)">
+		<category>Games</category>
+		<description>Paperboy (USA, Europe)</description>
+		<rom crc="4cdfbd57" md5="2a59d2ca6d6f07bc2791bf349e2778ee" name="Paperboy (USA, Europe).lnx" sha1="537bae2c336dc9925f10505d4040965ca7434f5d" size="131072"/>
+	</game>
+	<game name="Pinball Jam (USA, Europe)">
+		<category>Games</category>
+		<description>Pinball Jam (USA, Europe)</description>
+		<rom crc="14d38ca7" md5="29a248fbc87f477b49587581e29c1dc7" name="Pinball Jam (USA, Europe).lnx" sha1="d9f911dc35a6b70ba38569d47c96da25ffc7f40e" size="262144"/>
+	</game>
+	<game name="Pit-Fighter (USA, Europe)">
+		<category>Games</category>
+		<description>Pit-Fighter (USA, Europe)</description>
+		<rom crc="2393135f" md5="5565889a9a8817f99ec6dda322a70877" name="Pit-Fighter (USA, Europe).lnx" sha1="30f8c7acf41a988578768b251e88b636462752cb" size="524288"/>
+	</game>
+	<game name="Power Factor (USA, Europe)">
+		<category>Games</category>
+		<description>Power Factor (USA, Europe)</description>
+		<rom crc="99c42034" md5="b29414b8c81cc9ef28ef2f7a09d6d876" name="Power Factor (USA, Europe).lnx" sha1="1ad5386f43f60d848a40ee1237e5bd153faea23f" size="262144"/>
+	</game>
+	<game name="QIX (USA, Europe)">
+		<category>Games</category>
+		<description>QIX (USA, Europe)</description>
+		<rom crc="b9881423" md5="12e1eb0900402ef6de8b72dda5d22f47" name="QIX (USA, Europe).lnx" sha1="30b8369ea396347d4847990691d880c313aacae7" size="131072"/>
+	</game>
+	<game name="Rampage (USA, Europe)">
+		<category>Games</category>
+		<description>Rampage (USA, Europe)</description>
+		<rom crc="b10b7c8e" md5="e0cb426257761c3688a866332ed48340" name="Rampage (USA, Europe).lnx" sha1="771dbf246386da37670324d34066671f3f43ac0e" size="262144"/>
+	</game>
+	<game name="Rampart (USA, Europe)">
+		<category>Games</category>
+		<description>Rampart (USA, Europe)</description>
+		<rom crc="139f301d" md5="d8045ed542d5e58c779c884e0930e16c" name="Rampart (USA, Europe).lnx" sha1="3c3a0729bb4ddecf5e5fd2d9ced4671d2e0e702e" size="262144"/>
+	</game>
+	<game name="RoadBlasters (USA, Europe)">
+		<category>Games</category>
+		<description>RoadBlasters (USA, Europe)</description>
+		<rom crc="6867e80c" md5="39617ebb81f3c1df27354c18571bd6c3" name="RoadBlasters (USA, Europe).lnx" sha1="20233381f12a48bc61b2c4b7a8f602a2c8ebc8ba" size="262144"/>
+	</game>
+	<game name="Robo-Squash (USA, Europe)">
+		<category>Games</category>
+		<description>Robo-Squash (USA, Europe)</description>
+		<rom crc="d1dff2b2" md5="f9faa45e3c35e505249c3f9df801737b" name="Robo-Squash (USA, Europe).lnx" sha1="144e4aa67babc8f3e24c5547f8664c3c6cff8601" size="131072"/>
+	</game>
+	<game name="Robotron 2084 (USA, Europe)">
+		<category>Games</category>
+		<description>Robotron 2084 (USA, Europe)</description>
+		<rom crc="7a6049b5" md5="60c1dfbf112bbb2a49cf16eddb191842" name="Robotron 2084 (USA, Europe).lnx" sha1="04048aa47c0ff99647608d4d1ccf48ba881a0f89" size="131072"/>
+	</game>
+	<game name="Rygar (USA, Europe)">
+		<category>Games</category>
+		<description>Rygar (USA, Europe)</description>
+		<rom crc="67e5bdba" md5="ff6fff314446ab70dfecb21e2de4a2f6" name="Rygar (USA, Europe).lnx" sha1="8743769af583af681fd1d96aadb533d26b1b510d" size="262144"/>
+	</game>
+	<game name="S.T.U.N. Runner (USA, Europe)">
+		<category>Games</category>
+		<description>S.T.U.N. Runner (USA, Europe)</description>
+		<rom crc="8595c40b" md5="490f8063bbb299070c4aceab64195088" name="S.T.U.N. Runner (USA, Europe).lnx" sha1="aa570dbbf4682da3297286fc69617c3c9aca2f18" size="262144"/>
+	</game>
+	<game name="Scrapyard Dog (USA, Europe)">
+		<category>Games</category>
+		<description>Scrapyard Dog (USA, Europe)</description>
+		<rom crc="be166f3b" md5="0cf228912d2f8eeb29aa215abf416f6d" name="Scrapyard Dog (USA, Europe).lnx" sha1="df57cd7f119fa6af8f9b24942f0f12314b301075" size="262144"/>
+	</game>
+	<game name="Shadow of the Beast (USA, Europe)">
+		<category>Games</category>
+		<description>Shadow of the Beast (USA, Europe)</description>
+		<rom crc="eb78baa3" md5="f92d57198ef2da30dba63bdd7c15ff83" name="Shadow of the Beast (USA, Europe).lnx" sha1="8b891b5dafba71740294c8dc818717d3b00be3a5" size="262144"/>
+	</game>
+	<game name="Shanghai (USA, Europe)">
+		<category>Games</category>
+		<description>Shanghai (USA, Europe)</description>
+		<rom crc="192bcd04" md5="46634eb87e6380d4d10f7b80d177c1ff" name="Shanghai (USA, Europe).lnx" sha1="9e67e05545934a7d375597b0e8c469468c5748a4" size="131072"/>
+	</game>
+	<game name="Steel Talons (USA, Europe)">
+		<category>Games</category>
+		<description>Steel Talons (USA, Europe)</description>
+		<rom crc="5b2308ed" md5="8828c0042a1a397de67c4e49042161ff" name="Steel Talons (USA, Europe).lnx" sha1="773946365ecf3c862cfa21167750140e4b1adad2" size="262144"/>
+	</game>
+	<game name="Super Asteroids, Missile Command (USA, Europe)">
+		<category>Games</category>
+		<description>Super Asteroids, Missile Command (USA, Europe)</description>
+		<rom crc="2da7e2a8" md5="67dd69e6ffaf61bc85243d272d9ee9d9" name="Super Asteroids, Missile Command (USA, Europe).lnx" sha1="d15c7382346cae6296e83ef494a8aec3adaf949c" size="131072"/>
+	</game>
+	<game name="Super Off-Road (USA, Europe)">
+		<category>Games</category>
+		<description>Super Off-Road (USA, Europe)</description>
+		<rom crc="690caeb0" md5="6cd23cb37c4c4c34ef4e197468462f3f" name="Super Off-Road (USA, Europe).lnx" sha1="9bf10edfedde85467f159afb48d02f1ca43be8f4" size="262144"/>
+	</game>
+	<game name="Super Skweek (USA, Europe)">
+		<category>Games</category>
+		<description>Super Skweek (USA, Europe)</description>
+		<rom crc="dfa61571" md5="a19802bd3a7e390daf7e2cbe5a81ed38" name="Super Skweek (USA, Europe).lnx" sha1="d6c18bf5e625cbac7434ef0d600ad0da667f24cd" size="262144"/>
+	</game>
+	<game name="Switchblade II (USA, Europe)">
+		<category>Games</category>
+		<description>Switchblade II (USA, Europe)</description>
+		<rom crc="13657705" md5="4971dd8b47d3475dc8d31b5325c14459" name="Switchblade II (USA, Europe).lnx" sha1="256d55e8e9478c53e340321c858df6710a9f69a6" size="262144"/>
+	</game>
+	<game name="Todd's Adventures in Slime World (USA, Europe)">
+		<category>Games</category>
+		<description>Todd's Adventures in Slime World (USA, Europe)</description>
+		<rom crc="ae267e29" md5="4581ac0418679567dce041c88cc97719" name="Todd's Adventures in Slime World (USA, Europe).lnx" sha1="2b9c665456d17726ea57fd06ce2754a14382dc99" size="131072"/>
+	</game>
+	<game name="Toki (USA, Europe)">
+		<category>Games</category>
+		<description>Toki (USA, Europe)</description>
+		<rom crc="156a4a4c" md5="ec46311f47276e20cc43228c96d119a1" name="Toki (USA, Europe).lnx" sha1="242fee76ea2ae263511df5d8bd3f7b0ddc81757d" size="262144"/>
+	</game>
+	<game name="Tournament Cyberball (USA, Europe)">
+		<category>Games</category>
+		<description>Tournament Cyberball (USA, Europe)</description>
+		<rom crc="0590a9e3" md5="391dfaba9ab8b9b60e9d8ca2a73f5711" name="Tournament Cyberball (USA, Europe).lnx" sha1="e63cc54e34840a4e3c1aa5bbce4e406895e44534" size="262144"/>
+	</game>
+	<game name="Turbo Sub (USA, Europe)">
+		<category>Games</category>
+		<description>Turbo Sub (USA, Europe)</description>
+		<rom crc="a4b924d6" md5="8caaaf56f95ee0bb610ca14af2d12a61" name="Turbo Sub (USA, Europe).lnx" sha1="1186b3216830c5bbeac6b39aab1039eef27f0785" size="131072"/>
+	</game>
+	<game name="Viking Child (USA, Europe)">
+		<category>Games</category>
+		<description>Viking Child (USA, Europe)</description>
+		<rom crc="8d56828b" md5="44d7c4ea6b8d930075f5b05c94b5f973" name="Viking Child (USA, Europe).lnx" sha1="47c32e4d816dde797b6bba2019f2e296bdad02dd" size="262144"/>
+	</game>
+	<game name="Warbirds (USA, Europe)">
+		<category>Games</category>
+		<description>Warbirds (USA, Europe)</description>
+		<rom crc="b946ba49" md5="e7f118ac59f985ceea2ecfc0f17e9cc6" name="Warbirds (USA, Europe).lnx" sha1="2c376581ac20fb5de8538b51820e1f007cca8260" size="131072"/>
+	</game>
+	<game name="World Class Soccer (USA, Europe)">
+		<category>Games</category>
+		<description>World Class Soccer (USA, Europe)</description>
+		<rom crc="91233794" md5="7fcf204013cbedf7eaaf682ff5f216ba" name="World Class Soccer (USA, Europe).lnx" sha1="40100a0db681b4efca4a491c88bf76a19105336f" size="262144"/>
+	</game>
+	<game name="Xenophobe (USA, Europe)">
+		<category>Games</category>
+		<description>Xenophobe (USA, Europe)</description>
+		<rom crc="9bed736d" md5="69fb597cb4db019c48fd2e0c1cc7b75c" name="Xenophobe (USA, Europe).lnx" sha1="a1b4f7a4697310cafea1271bd4b41eeafae60ffa" size="131072"/>
+	</game>
+	<game name="Xybots (USA, Europe)">
+		<category>Games</category>
+		<description>Xybots (USA, Europe)</description>
+		<rom crc="89e2a595" md5="c145bfe904e5d56f479df44204b255da" name="Xybots (USA, Europe).lnx" sha1="5ff3c39a6919db6d2270bb22e80e7680550c47ba" size="262144"/>
+	</game>
+	<game name="Zarlor Mercenary (USA, Europe)">
+		<category>Games</category>
+		<description>Zarlor Mercenary (USA, Europe)</description>
+		<rom crc="cb27199d" md5="d008f41ec119e2c5c6a0782aebf148a8" name="Zarlor Mercenary (USA, Europe).lnx" sha1="7005cdfa0a2e4a9611266ce50493cbb32351e069" size="131072"/>
+	</game>
+</datafile>

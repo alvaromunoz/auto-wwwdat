@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega - PICO (Retool 1.15)</name>
+		<description>Sega - PICO (-aAbBcdDelmMopPruv) (1) (20211220-204306)</description>
+		<version>20211220-204306</version>
+		<date>2022-07-12 08-08-43</date>
+		<author>BigFred, C. V. Reynolds, Connie, fuzzball, Gefflon, Hiccup, Money_114, omonim2007, Powerpuff, relax, scorp256, TeamEurope, xNo, xuom2 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Pocahontas (Europe)">
+		<category>Games</category>
+		<description>Pocahontas (Europe)</description>
+		<rom crc="deefbfd9" md5="99b591162383355a437d589e03380528" name="Pocahontas (Europe).md" sha1="8376f01619def050fa7a2f53d48aa32ab0e860cd" size="1048576"/>
+	</game>
+</datafile>
