@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - New Nintendo 3DS (Encrypted) (Retool 1.15)</name>
+		<description>Nintendo - New Nintendo 3DS (Encrypted) (-aAbBcdDelmMopPruv) (2) (20220401-174642)</description>
+		<version>20220401-174642</version>
+		<date>2022-07-13 08-06-30</date>
+		<author>aci68, b2071988, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, SonGoku &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Fire Emblem Warriors (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Fire Emblem Warriors (Europe) (En,Fr,De,Es,It)</description>
+		<rom crc="372a3ba3" md5="59a7191e4b5b4e4d0b2349ee7a931062" name="Fire Emblem Warriors (Europe) (En,Fr,De,Es,It).3ds" sha1="575e165013c6e65200f190615cbf2df12e2e6307" size="2147483648"/>
+	</game>
+	<game name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1)">
+		<category>Games</category>
+		<description>Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+		<rom crc="d393b012" md5="7b497975721ec31cfed6737d7fedf32e" name="Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" sha1="5e7a8f086db246a66ce705ae74c21923c59d07c8" size="4294967296"/>
+	</game>
+</datafile>

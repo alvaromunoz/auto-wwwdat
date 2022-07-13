@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Microsoft - MSX2 (Retool 1.15)</name>
+		<description>Microsoft - MSX2 (-aAbBcdDelmMopPruv) (5) (20220712-010411)</description>
+		<version>20220712-010411</version>
+		<date>2022-07-13 08-05-30</date>
+		<author>C. V. Reynolds, gigadeath, omonim2007, Powerpuff, SonGoku &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Eidolon, The (Europe)">
+		<category>Games</category>
+		<description>Eidolon, The (Europe)</description>
+		<rom crc="14913432" md5="ff25f8ccde5cf7d49a758d19f46e41d0" name="Eidolon, The (Europe).rom" sha1="cd8ee800822ff0cd295621faafafc73be4bacad0" size="131072"/>
+	</game>
+	<game name="Koronis Rift (Europe)">
+		<category>Games</category>
+		<description>Koronis Rift (Europe)</description>
+		<rom crc="fb348de6" md5="e95759a5332959a0f497c99508f738cc" name="Koronis Rift (Europe).rom" sha1="523330d609ca0e527f3e28a078635b3d28489ec9" size="262144"/>
+	</game>
+	<game name="Metal Gear (Europe)">
+		<category>Games</category>
+		<description>Metal Gear (Europe)</description>
+		<rom crc="e85c5731" md5="e8c260a29aa082e5330827364aa86ba8" name="Metal Gear (Europe).rom" sha1="b656bd19df58fc1ba4628342b87beeec5948e0b3" size="131072"/>
+	</game>
+	<game name="Treasure of Usas, The (Japan, Europe)">
+		<category>Games</category>
+		<description>Treasure of Usas, The (Japan, Europe)</description>
+		<rom crc="30396650" md5="9aab75984b06c21ed8e6214474d3a68e" name="Treasure of Usas, The (Japan, Europe).rom" sha1="4ff2aad8371e382e203c7f29b665612a8c9d937c" size="131072"/>
+	</game>
+	<game name="Vampire Killer (Japan, Europe)">
+		<category>Games</category>
+		<description>Vampire Killer (Japan, Europe)</description>
+		<rom crc="5953d084" md5="92ba9dab3c7a4ac6c8a130f6ccbac91c" name="Vampire Killer (Japan, Europe).rom" sha1="5ef7d03b138a2023f6def241b671c666f97ed83b" size="131072"/>
+	</game>
+</datafile>

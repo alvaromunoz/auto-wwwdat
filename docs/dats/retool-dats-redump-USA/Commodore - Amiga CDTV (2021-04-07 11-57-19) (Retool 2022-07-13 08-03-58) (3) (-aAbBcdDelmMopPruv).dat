@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore - Amiga CDTV (Retool 1.15)</name>
+		<description>Commodore - Amiga CDTV (-aAbBcdDelmMopPruv) (3) (2021-04-07 11-57-19)</description>
+		<version>2021-04-07 11-57-19</version>
+		<date>2022-07-13 08-03-58</date>
+		<author>redump.org &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Fantastic Voyage (USA)">
+		<category>Games</category>
+		<description>Fantastic Voyage (USA)</description>
+		<rom crc="f56848e3" md5="4966e2d46a73f488ea7f34a76f3800e0" name="Fantastic Voyage (USA).cue" sha1="c8a0929895e91b0f2830ec33c9e7aa6b7a0ec2ae" size="88"/>
+		<rom crc="019d4fcb" md5="eee20caf9b36a2f8830f7aeb9584d57c" name="Fantastic Voyage (USA).bin" sha1="e32aebdac017a3f19cdbaa746c829fc3c817dcfa" size="5244960"/>
+	</game>
+	<game name="Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA)">
+		<category>Games</category>
+		<description>Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA)</description>
+		<rom crc="f97173db" md5="776780af5559d263235ba29da9e7a4c8" name="Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA).cue" sha1="08705572256b61bae0f6a89930c155a9349be46a" size="116"/>
+		<rom crc="9004e8a6" md5="40b64c56656a3f634688368540a4c176" name="Garden Fax - Trees, Shrubs, Roses &amp; Conifers (USA).bin" sha1="7abc58ae49c189f5b70f413d300052f9ece706d8" size="115196256"/>
+	</game>
+	<game name="Wrath of the Demon (USA)">
+		<category>Games</category>
+		<description>Wrath of the Demon (USA)</description>
+		<rom crc="0d833f61" md5="69a72804ea8794a89a1d30dad1a01648" name="Wrath of the Demon (USA).cue" sha1="1e7b9d5efb813a0bce13407eb1a7db57e51fd05a" size="90"/>
+		<rom crc="5397eb5c" md5="e92c37712b3bc5ab3d339a9e548e4710" name="Wrath of the Demon (USA).bin" sha1="5ad8d5b13cdd5bbbe5ea03c508804888f5fa344a" size="7756896"/>
+	</game>
+</datafile>
