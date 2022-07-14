@@ -1,0 +1,1235 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony - PlayStation (PS one Classics) (PSN) (Retool)</name>
+		<description>Sony - PlayStation (PS one Classics) (PSN) (217) (-aAbBcdDelmMopPruv) (20220402-020621) (Retool 1.16)</description>
+		<version>20220402-020621</version>
+		<date>2022-07-14 08-08-19</date>
+		<author>Hiccup, Landcross, norkmetnoil577, SonGoku &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="2Xtreme (USA)">
+		<category>Games</category>
+		<description>2Xtreme (USA)</description>
+		<rom name="5WjoPIyQtvxsN8n3wqbe59YuDq3SOtMQyPUquk57pPXlMv7LowFm7YSVxAoJPTyDey2lprVuSR0CYlGPoUsSFL8o3vfL8nn6Wom0S.pkg" size="62855424" crc="01020f88" md5="c14060b6e47eb79688eaaea353936bad" sha1="6659b4f6eb8ddb5b3848d5821b36d6e24f062b45"/>
+		<rom name="UP9000-NPUI94508_00-0000000000000001.rap" size="16" crc="f865fdfe" md5="1be30ea557d94cf7cfe2d432b06750a7" sha1="5cdfa521f2858e53c984ea6e276d3963a7db8990"/>
+	</game>
+	<game name="Aces in the Air (USA)">
+		<category>Games</category>
+		<description>Aces in the Air (USA)</description>
+		<rom name="cLIIofJSkYnoMHzcbRkVKrUcgopBcffOhyaWqOFqlWLkxaczrcCzEoDLvANrpMFb.pkg" size="70398768" crc="0f8c4001" md5="f966b2e7f9f0f68afee71beb2704d679" sha1="5f4131498036d74820077ff5eb2ded30afa54c11"/>
+		<rom name="UP9000-NPUJ01470_00-0000000000000001.rap" size="16" crc="51509eb5" md5="50a0a73382277b72e4483a6b724e857a" sha1="4a37cc23fd4b348678f1433ba1bd41036306431b"/>
+	</game>
+	<game name="All Star Slammin' D-Ball (USA)">
+		<category>Games</category>
+		<description>All Star Slammin' D-Ball (USA)</description>
+		<rom name="teefiHibuFeYwhmKzYFIMZiCmFoBIHJQegAXwkcJGldmzeapdozZfrrEIzfNcSLH.pkg" size="94606736" crc="f64297af" md5="960b3dbbbe31bd18636867aa0ab4b46e" sha1="7522ae2a959687652d1553db2ff4355a4b64bd58"/>
+	</game>
+	<game name="Alone in the Dark - The New Nightmare (USA)">
+		<category>Games</category>
+		<description>Alone in the Dark - The New Nightmare (USA)</description>
+		<rom name="gbGosIRCsdPzXwLslkBeQJNspoLtCLagDKmEfuGyAZEridaFBaTonBhvIDAqWjAbYUvqVoAQfpRFPXOGwrrwFvFeEHrIBzNcClxGN.pkg" size="752963968" crc="8c156c86" md5="e31265fd28efa6007359c9ec51f8add6" sha1="379c22f8abdc3d363b84cd1215a8cca6790863bd"/>
+		<rom name="UP9000-NPUJ01201_00-0000000000000001.rap" size="16" crc="55375dc3" md5="d69ab60afb4b4e667e19e4ae36c05c81" sha1="f695ea3f3fade830af0be327f046ce449d677d58"/>
+	</game>
+	<game name="Alundra (USA)">
+		<category>Games</category>
+		<description>Alundra (USA)</description>
+		<rom name="dfxod4JB4OsflgQkelAr3BXW2FTEGbDx3yWcwkyK30FqBEJPJ0xfgMT5BigoJeWqKn9EpsXuwGPBovQJl3LU7DsHwnpVfwSVDsLIi.pkg" size="333123280" crc="8cdee1d2" md5="951bd7232184a691d3715c2635efc9f4" sha1="b2e0fdf2b1a26e8ed7768fe265dd6bebb81565b1"/>
+		<rom name="UP9000-NPUJ00553_00-0000000000000001.rap" size="16" crc="495b05a7" md5="2a8dbdf6446f3f6ad50a97e8c2ed0bd4" sha1="53953c0e01943476be2c09da4965e07ba91d72a5"/>
+	</game>
+	<game name="Arc Arena - Monster Tournament (USA)">
+		<category>Games</category>
+		<description>Arc Arena - Monster Tournament (USA)</description>
+		<rom name="8Gd9qQdciNP95bsFScMwriDm4k3okuMVLfFlhl1GEvteCbJYNVRsrYWC226XXwDyQC6dNPJjjxKPlBwCTAb73T16rdie9NuTtmeQL.pkg" size="78281872" crc="86c55b60" md5="ffae262a8c367a4b0ed0f0ae62931401" sha1="f5c3fe17c3a83142a0f2e16cac700d3c62a2c668"/>
+		<rom name="UP9000-NPUJ01255_00-0000000000000001.rap" size="16" crc="5ae8d978" md5="ef8cd14fc7d7eb5a4dc3ae6564dc4052" sha1="a673ac9df0994fc50f18479e04ec7220cbbab417"/>
+	</game>
+	<game name="Arc the Lad (USA)">
+		<category>Games</category>
+		<description>Arc the Lad (USA)</description>
+		<rom name="CIYDIQ4y2cUPYBedmo0RvLAu2Na6SVmqmmSvaylxpK99lJ95HTK1ajQ41L2U1d5PRChDFLTYORXPkTSauWHHSULLuFRY00BVqDEV1.pkg" size="309065328" crc="4e7a06a7" md5="b3506d659552a2b5f5a99f9e76e3ff10" sha1="3ef9a5cc1cabd81a59d0c00f25ee0b03433ce441"/>
+		<rom name="UP9000-NPUJ01224_00-0000000000000001.rap" size="16" crc="41dd01de" md5="8f18fd7c79a700dabe08bb32c664b038" sha1="7b8ea48f07dab4b103a2c874e4eb58a8717a34b6"/>
+	</game>
+	<game name="Arc the Lad II (USA)">
+		<category>Games</category>
+		<description>Arc the Lad II (USA)</description>
+		<rom name="grSo7sI5YLyVDpMt0dTPu5wo5lLgMe2IKPxHyo4DcKuLLscNqv98xSISt3F3PduhLbvSJ8L1qJdr80XO7xyoW8OxXnuOraUpSdai8.pkg" size="357744688" crc="4aa16a72" md5="7171a84623a7a225e8193f296bb2e5c8" sha1="ed8db3b886083d3fbfec97635cc951e0131ad928"/>
+		<rom name="UP9000-NPUJ01252_00-0000000000000001.rap" size="16" crc="605a4e56" md5="ae736ba20a6052a3f75cbc44490a4325" sha1="5821721b673dea102b123959e7322166f00256bc"/>
+	</game>
+	<game name="Arc the Lad III (USA)">
+		<category>Games</category>
+		<description>Arc the Lad III (USA)</description>
+		<rom name="oTNnBFahDyPVwCeRDJMaQqoESbSfEpuNoJfbhaONudjZtFdmRHKYefxpvclkqkzvwgPXLssZroOeIvXUQWzQUFNAtGgNDLqjBHozW.pkg" size="651361936" crc="d64aaf58" md5="13d8fe2a4f87e265ebf8dcb5b2b7fb5f" sha1="d94e59b6c03c2b3834f6aebc2cbed60d00081ecc"/>
+		<rom name="UP9000-NPUJ01253_00-0000000000000001.rap" size="16" crc="7b4d30f6" md5="37da9e97e8aa835bf1d3f0e468eb623c" sha1="ad62800c8de415a24cb033731c4dce745a91c154"/>
+	</game>
+	<game name="Armored Core (USA)">
+		<category>Games</category>
+		<description>Armored Core (USA)</description>
+		<rom name="BGNwwxVBNmFYuDfTygIIUENgkDGZETeIPibKRgfgFgzsfhJnTofPNgqENjDbXLNO.pkg" size="224278608" crc="eca0a45a" md5="795360e3b2c78d8e0622dfd69ed44dcb" sha1="4b787867f75e6c7ff972a459872e9846560ca300"/>
+	</game>
+	<game name="Backstreet Billiards (USA)">
+		<category>Games</category>
+		<description>Backstreet Billiards (USA)</description>
+		<rom name="JKTIaGWqAJOaiY3y8fYo23yvqfYQbVKxxSm4oAFYahXbtBP8PYATM53V5BdWdVrog1riNTCP89A0rKHYyU04vqfm7fsAOK4ebvSmY.pkg" size="342688800" crc="4fe50863" md5="f7bbb5e5cb949e1b71197cfb98d252cf" sha1="9a14cc1bef13995d282bc623b409b73a9fb3562f"/>
+	</game>
+	<game name="Battle Hunter (USA)">
+		<category>Games</category>
+		<description>Battle Hunter (USA)</description>
+		<rom name="txyJvjskzxOpUjfNQJMGyCRFLRJywgpClRugmYyDUxlmguANVmjetAzHFIfwkIAj.pkg" size="14938240" crc="911bf118" md5="ffdb6479c0e337742ec76ee4cfbbb436" sha1="99b4dcc3a6d1ae804f62121cc8adba97c0df2bf5"/>
+	</game>
+	<game name="Blood Omen - Legacy of Kain (USA)">
+		<category>Games</category>
+		<description>Blood Omen - Legacy of Kain (USA)</description>
+		<rom name="GM71MBSs9F5wyap3k1KGXECIGQiRHNNLX1RCHqKr13viJfUd1cvk8FNMNitWWApgQAKrN2Ghru2FJXvPX9n6ACWIEt05lINMSpypO.pkg" size="474705504" crc="e846de56" md5="7530aa0e8757cb79387c5d7d30e23bd2" sha1="f30f97fd8ab18109b818f70da1d60f080d79e616"/>
+		<rom name="UP9000-NPUJ00027_00-0000000000000001.rap" size="16" crc="927c6500" md5="205f5a82a31d302a7a849405923e4848" sha1="ea3a9064ea1f415ab9436e9c64a9229cac6d60a5"/>
+	</game>
+	<game name="Bloody Roar (USA)">
+		<category>Games</category>
+		<description>Bloody Roar (USA)</description>
+		<rom name="TguU5dDeGSmWA9wFA6Fd0JBQop8QDQnjI5laPYLdUuPClRQM59bcUgVPQxWaOHlpKW6peKlcyMfq9WpAJXb8gUloyHvGPKgT3Qdw0.pkg" size="327911824" crc="88923403" md5="3acbd6b314c93b44f928df487b58acd6" sha1="61e5dc9181f87f701c7bac2ece4c23a3a01e80eb"/>
+		<rom name="UP9000-NPUI94199_00-0000000000000001.rap" size="16" crc="108f514b" md5="b0f9da74b868d9c4d2270f4a3f656820" sha1="142eb52934cf7a883b027e2b7b691a7a0553278f"/>
+	</game>
+	<game name="Bloody Roar II (USA)">
+		<category>Games</category>
+		<description>Bloody Roar II (USA)</description>
+		<rom name="oMRGEROyVq7UkxaqAjBa5okkI4faSQI79VvNCO4pMnf8ulSKc5d18FBtDqqIG92889M4L90kLmA0LpFQgSJD37aGolDXcOfjsBUYS.pkg" size="326304080" crc="9b88fb22" md5="6f5242063f9eed4888c01093b3d2dbd0" sha1="27016e896d1cb35523684dcb1fc5834fcb4d3f53"/>
+		<rom name="UP9000-NPUJ94424_00-0000000000000001.rap" size="16" crc="1fd908a8" md5="7cd651f2a83a94f8e87f2d86a4f4682a" sha1="8a75f33eae398926c80e0c9eea91d26c63537acf"/>
+	</game>
+	<game name="Bomberman - Party Edition (USA)">
+		<category>Games</category>
+		<description>Bomberman - Party Edition (USA)</description>
+		<rom name="HVtsGPmuN7l6P3oVkCRfdBFnfW44bu3RSqLeAHBqBhjhrlJ9wfidJvWgWD67vvSBad7kh0Uu8cGdtVLOu3jnMNo8xLy1gLMAbg5X7.pkg" size="271217232" crc="e2c62447" md5="4933663fe8760ea7a472cad14823f32f" sha1="c1d31583d68dabb572dbb052317475d0eeefdcb6"/>
+		<rom name="UP9000-NPUJ01189_00-0000000000000001.rap" size="16" crc="18d8c749" md5="0e30ea4335f283d3f403fe7ba8edf7de" sha1="5a740082ad11694ceedda58c8d3c6623d80d985e"/>
+	</game>
+	<game name="Bomberman Fantasy Race (USA)">
+		<category>Games</category>
+		<description>Bomberman Fantasy Race (USA)</description>
+		<rom name="maf001bKEHBwFhOpnFpSquCiSCGW83cSGPLEp4pmOb5et1DyyiY2VUQDBnPnEmw7O0xsqpCsXwRFkra9UErikg9SeVTKQd1ruu2tp.pkg" size="155476672" crc="f4823d48" md5="479feb56396585eaaa50902c525065be" sha1="a1d1326b850a70d83e81211e192cda89c1dd8e4c"/>
+	</game>
+	<game name="Bowling (USA)">
+		<category>Games</category>
+		<description>Bowling (USA)</description>
+		<rom name="DAw6OL0xSsUWuaFOmdWPt874oOsQyCF7ig1MO2bJ22lXXhe5nVJvrTea8OxQyGE4nCa5X90U7QrHl8WdlA1mdA8KSfmptrQdjnMtf.pkg" size="18117280" crc="5d75d8e3" md5="c5cbd31efad031820bb3b60e771b917d" sha1="18ea1bd6c6ce4ce691acab35f4382e904a20a9e2"/>
+	</game>
+	<game name="Boxing (USA)">
+		<category>Games</category>
+		<description>Boxing (USA)</description>
+		<rom name="mDCgMpHpzkXAXVWtwKrrkHynxxYoAuJtKHQggtJSzuuKXIaOwnuyWVbkUJzKdNSk.pkg" size="61587856" crc="90b2182a" md5="07a6e724a6c40322e13bbfcfbc62797b" sha1="1dc5c491f8928d964b1ff24930307e8bf2194f38"/>
+	</game>
+	<game name="Breath of Fire IV (USA)">
+		<category>Games</category>
+		<description>Breath of Fire IV (USA)</description>
+		<rom name="NDIvgIhuMqSiEGMIVTnTCTiOExyKCJTJJzFGpluLkMVWvdOVlkfyRlceIZBeDdljKbwJzARVipvQzOJbhvdsgleeGMAPFQrbJcHiE.pkg" size="215925104" crc="d114ad40" md5="726d8138f63dbc515314bcfc4b8f00b4" sha1="9670ba7da6479d0e90f8015cc4a015940fd4ed4b"/>
+		<rom name="UP9000-NPUJ01324_00-0000000000000001.rap" size="16" crc="16cdadfc" md5="b57e58ff00cf122e3bcc2eac60851da9" sha1="c5fcff3f4e29305e0a8cda5b901de40bad900d63"/>
+	</game>
+	<game name="Bust-A-Move 4 (USA)">
+		<category>Games</category>
+		<description>Bust-A-Move 4 (USA)</description>
+		<rom name="FTxLGFUfneOUAqSpzjLzDPJbQaIeIRaRmuOqdwFnZpqRxewOmQVutRxLLERAljHahLQAjUUKFNdTCdFDjheCKnxIAmaICKamyhTcv.pkg" size="68062448" crc="3dbc24d1" md5="895f5dd96a41d5b9c137c75ffc2ea529" sha1="7a9084dfbaf245c5ec980ff9b5a5570ade173a2c"/>
+		<rom name="UP9000-NPUJ00754_00-0000000000000001.rap" size="16" crc="046d5286" md5="4be49ad4bd423720697e16998f36b2fb" sha1="3936961460f2d4ec7687bba6422da550529ed5bc"/>
+	</game>
+	<game name="CTR - Crash Team Racing (USA)">
+		<category>Games</category>
+		<description>CTR - Crash Team Racing (USA)</description>
+		<rom name="sDfd5AMPKkE5fRQOexWn1inRM76kP8jO4EEv7mkH9rMlNItn82ybx5lltScmAyLoc9fqvgCjkv81SFS8LtkiiRvltqqT1vI6F0uVa.pkg" size="326550096" crc="872eacfc" md5="0b98d9878384e814852cf4716b212044" sha1="09f96e9941820476a783703ae1e6f3ff567fc794"/>
+		<rom name="UP9000-NPUI94426_00-0000000000000001.rap" size="16" crc="7a60649f" md5="d6167dd06539166e19716ea55810724e" sha1="e92b02864d9a8a478604ab9f50684eb61c3371b2"/>
+	</game>
+	<game name="Card Games (USA)">
+		<category>Games</category>
+		<description>Card Games (USA)</description>
+		<rom name="gupzTaBHXzqwvHOlYPwRSLXgzVTqTuFfuRDedrcaGSjPJxpXGfNDxjtrPhQDHaXt.pkg" size="19865824" crc="edcf3df3" md5="7d7abcfe878ce44bd5d57b24fbe191e1" sha1="bb31e32a1a1d22c3699e3f27ff74233bbeb6c79b"/>
+	</game>
+	<game name="Castlevania - Symphony of the Night (USA)">
+		<category>Games</category>
+		<description>Castlevania - Symphony of the Night (USA)</description>
+		<rom name="WjbIAlIcKn2mNhDuj9bfekwTUq3qQpbDa9elbSb0wsBOPAnRbGE0spiBH14dm87eLKgeXIY6Q4bqU247S71aRoNmkhitpeHF5udwL.pkg" size="372818688" crc="6d8afcc2" md5="d7d1669b8e5c2fd11a36bb81c59dcf93" sha1="f4d0785cdc69ade98eb1edbb31848eef6cfbabfe"/>
+		<rom name="UP9000-NPUJ00067_00-0000000000000001.rap" size="16" crc="a7cde4d2" md5="a7d0af02d2b9cb90b1c46796b94cbd54" sha1="ce118ecd3bc2ae69e51a2af0d2765aa98f8fdca7"/>
+	</game>
+	<game name="Castlevania Chronicles (USA)">
+		<category>Games</category>
+		<description>Castlevania Chronicles (USA)</description>
+		<rom name="TrUq4xSJdWHh1L3ctI38v4Kup5QsNW1k3RHQKQl6vVTiQ0dJXDQ2GJSdPIy3oSB5Ki5qxDMxL68VrRbYD6CbpRH3kQspQAMnKMulK.pkg" size="352294496" crc="74ca047c" md5="5e224ad30453647e8396803b47cae85d" sha1="6b81d8f7923f66aad3d47041261f31cf3fb6c4cf"/>
+		<rom name="UP9000-NPUJ01384_00-0000000000000001.rap" size="16" crc="6cdb0282" md5="bea25c4438496f44a58f8e3175207ecd" sha1="e876f7e2fade9f8c1dc2f98068ba693730ee4fa8"/>
+	</game>
+	<game name="Centipede (USA)">
+		<category>Games</category>
+		<description>Centipede (USA)</description>
+		<rom name="gyiVETKFIaJAPfStAvjxjmJIQkzDyGGoVDgJbWBvWEfLaYeBsrdQpbMeLRtLInikBbNYpkaSaXKbtIimFKfksHkrpmaBlPaKlWrIy.pkg" size="174680336" crc="da6f6ba6" md5="6f76c7f5d5a6fb424ce8da74ff2203bb" sha1="d51a6a4100e9081558605c6867c96ce1b2d577db"/>
+	</game>
+	<game name="Championship Bass (USA)">
+		<category>Games</category>
+		<description>Championship Bass (USA)</description>
+		<rom name="JqJj86WWudL6yN76qnID3jNYGCtTdQYJQ1aRss6bWPF3vIgggY4IiXnwLo3rcLFxkXL8bbQA230DldUhdgQbH5Oa9gbXKjwdP1oga.pkg" size="157608944" crc="ad578509" md5="159170bcfadb9815664b371cf0be4307" sha1="513ec2015f4b466c39d40af14c5f4f663e7d2c13"/>
+	</game>
+	<game name="Chess (USA)">
+		<category>Games</category>
+		<description>Chess (USA)</description>
+		<rom name="zCEvnfnXIYqwcAziEeToTfLgKEaShBjRWkEfPmMHjZOTrMhWwDQqZjZtqjLeMPkn.pkg" size="230115664" crc="4160e26e" md5="9634029c600bd045737fe8a2819029a4" sha1="98baa8d167d7ba4e05ecfdc387c1762be89102f2"/>
+	</game>
+	<game name="Chrono Cross (USA)">
+		<category>Games</category>
+		<description>Chrono Cross (USA)</description>
+		<rom name="wSpcEXvxHRJlwkRwhjMUwNprqrVwaExubFMGKqUxLCOBlZpxuFeeOIstUiNMBSbOamtEmlMsqespOIansJHbezkevMhuSHJxxkOvN.pkg" size="815561440" crc="8ae00257" md5="5321c69fcc2aa83076445a4787ebe9e0" sha1="baca857b3f4e2da774263dba67f429ca2eb6bdda"/>
+		<rom name="UP9000-NPUJ01041_00-0000000000000001.rap" size="16" crc="d2c4e76d" md5="8a2cd4ea1f33a1ea6e0c57eb5054aaf1" sha1="a00b72f766178803162e2533e072d5aab95a24d8"/>
+	</game>
+	<game name="Chrono Trigger (USA)">
+		<category>Games</category>
+		<description>Chrono Trigger (USA)</description>
+		<rom name="mtuabdACfOvEaxaMcuUbeNPDOtWXOfiUxltzypHyKCATWvhfGcbnWvdiJCIeykycMukQRawOsDwguTrBTzihaqdUBFbtKzwKmFPQF.pkg" size="295150080" crc="acdb055c" md5="f8598dffaf09495c988b9f3c27f9b51a" sha1="5438e2343065e9bbaa6295d67fce8b9e98e0ee48"/>
+		<rom name="UP9000-NPUJ01363_00-0000000000000001.rap" size="16" crc="c294ccbe" md5="45ab3848fa847b3895d741a7869fa04c" sha1="919e193da55e4007e85db845d952e0884a8f250a"/>
+	</game>
+	<game name="Command &amp; Conquer (USA)">
+		<category>Games</category>
+		<description>Command &amp; Conquer (USA)</description>
+		<rom name="9xLYGEfOpc5BIPm41owm4EWamqvK9Wy0FYeI731mcOx7PgF08v9LEhEpDFf4FgyQD0FySlbhehonVNsSeFPAiHFmmXn8AASllxqci.pkg" size="944434240" crc="c030ee6c" md5="a2835a941a32fe363ae1d3caf5e3ed5e" sha1="d1d7c7f0f565bd0c452d5064d377b815d8c78f1e"/>
+	</game>
+	<game name="Command &amp; Conquer - Red Alert (USA)">
+		<category>Games</category>
+		<description>Command &amp; Conquer - Red Alert (USA)</description>
+		<rom name="9IEyr6gjyY6PY3RUqgb5ueRKArWPKM7pAqx8oc7YE8apqXUN6JyNrRJLL8YbxdMpBEM3X3excDwUvGKa6wCvCfbH6bKJUKu3SO5ju.pkg" size="1025463776" crc="81e18633" md5="63aa5cadd0b2ea3b4456d5588971ebbc" sha1="335560d52d2ddea33b78c4bd9f4d44ee78343b53"/>
+		<rom name="UP9000-NPUJ00431_00-0000000000000001.rap" size="16" crc="5c99cb5f" md5="3f68af00de8ea5a4bb4629305f3a7a74" sha1="47bcf042d670f4b18dc8b9f34f8d6dbb1676bd6c"/>
+	</game>
+	<game name="Command &amp; Conquer - Red Alert - Retaliation (USA)">
+		<category>Games</category>
+		<description>Command &amp; Conquer - Red Alert - Retaliation (USA)</description>
+		<rom name="MMM7xoFUXX1GGcKgBR1TaCEFdB8mkedgtXaQgYgAYkvGOL7T8UH6Eqv9oPWy27DxHYOIraOE7mtkUxJB790Yh3wX9f7CXxDxOnQrR.pkg" size="736340784" crc="6f0c43ab" md5="f7f3f0b2691ada3aeea5bcb2875011b4" sha1="efcc5fd44574b46f9d130d4d81c1c75cc33e57df"/>
+		<rom name="UP9000-NPUJ00665_00-0000000000000001.rap" size="16" crc="fb92b1b6" md5="d9d5ee70919743311bba5b5ce1208503" sha1="4f9af388a5f6c626d739ca7dc2910b4a1f2d8b3f"/>
+	</game>
+	<game name="Cool Boarders (USA) (v1.00)">
+		<category>Games</category>
+		<description>Cool Boarders (USA) (v1.00)</description>
+		<rom name="PEqq9h68t1k87R6oLYbHARo8SsaGHSUEGFS5ukDeD2U44Mxf5ocpyMLmHxLXVb9S1IrmGahNlfFI1MomyslMcaSgQTI0SJSApr4or.pkg" size="43801296" crc="f04e988e" md5="94edb2ac5fe51b487d3eef723528d8de" sha1="79a014be65bbc78c2a9e1e85b5169bb211c954ee"/>
+	</game>
+	<game name="Cool Boarders 2 (USA)">
+		<category>Games</category>
+		<description>Cool Boarders 2 (USA)</description>
+		<rom name="w3HUB6Xol5dUs0gY2Cf6tvaEIKywRQ6t0TFXC5tC8GXtFe0XeGVjBvprnA81oqT9K17GpQP67Nad8UTP65AjOOWV5gFYqgfh4iYwa.pkg" size="142420528" crc="44197a0b" md5="9c606b7de0f9219bd6c23758ded54ebd" sha1="2413ed8631bf77ca327ecaf209d516f9154fda15"/>
+		<rom name="UP9000-NPUI94358_00-0000000000000001.rap" size="16" crc="906278ba" md5="02f5320afde5c20dfb10223a116197e0" sha1="0843915a0a9ad912e90e545193b64f18c586ee2a"/>
+	</game>
+	<game name="Cool Boarders 3 (USA)">
+		<category>Games</category>
+		<description>Cool Boarders 3 (USA)</description>
+		<rom name="yQv5Hok37uTbDfQJNkeBHp8uI54sgcpep5HIhFPCgAiI10D8OPxAKkXFl8Av0fNM57DDNWotDsAeRJ5qdxa5sbLIoP2nxvUT3XrHH.pkg" size="140864272" crc="78e279af" md5="07f3e1cd594f87725314aa83a248126a" sha1="e11dc1102be9495c874498ab51d42fed1a921824"/>
+		<rom name="UP9000-NPUI94251_00-0000000000000001.rap" size="16" crc="41105709" md5="35c5d09e48ec9b8735da59d67ae0fea3" sha1="9356859e173ba327415de7283e7fcd02523f465c"/>
+	</game>
+	<game name="Crash Bandicoot (USA) (v0.00)">
+		<category>Games</category>
+		<description>Crash Bandicoot (USA) (v0.00)</description>
+		<rom name="sbWE9gwk7yGqN9IxohaKm8vuXa5AYcs6WE5jfXwdS5i5gdpg5jMoQmqFX2K8yP7wdkygy7PR8tN4L3hIoIvOalK62AUTeFFCPBTdC.pkg" size="489609120" crc="49cc2ed5" md5="99a72cf457849134ce3f4046825c7cf1" sha1="51bb5dc868f3c1e80584e2de192203060385b030"/>
+	</game>
+	<game name="Crash Bandicoot - Warped (USA)">
+		<category>Games</category>
+		<description>Crash Bandicoot - Warped (USA)</description>
+		<rom name="VaYW7FE1iHpvQ76rpiwe3uy53E3Oq78xqPEMmQ8LIdHAHqB0cmJespqFypFXxwvL7KdHrYgNXomQd35FMEyNF4MhUcqAxUUxPrfEW.pkg" size="110333744" crc="bbd53031" md5="f09448a4cb8751a2a8330614361ff6eb" sha1="9baf720506f00f3310ad13e50523ac71030163a3"/>
+		<rom name="UP9000-NPUI94244_00-0000000000000001.rap" size="16" crc="9c3e63ed" md5="4a46441e5dfd351477a68718d08f1850" sha1="be9d4fba001a82dbaaeb3f5bb86d4364e97d33c4"/>
+	</game>
+	<game name="Crash Bandicoot 2 - Cortex Strikes Back (USA)">
+		<category>Games</category>
+		<description>Crash Bandicoot 2 - Cortex Strikes Back (USA)</description>
+		<rom name="9cshcpwoE1lsKOvng68CTEuqOIIuK3qNoR8YvW4XaaXomgkgPJh9ePXCE2kIPxvFsPhTs8sGuMWcKLtOaySq0RfTOLsjaFpGq3YjG.pkg" size="107711808" crc="b19533d6" md5="0fa264050b3a463b6e9d56e8c46d91e6" sha1="3a2242c7ce6ab8797fff359eff85306e1f3eb90a"/>
+		<rom name="UP9000-NPUI94154_00-0000000000000001.rap" size="16" crc="5950fbfd" md5="da247db82c84b05b620bddcf88309d43" sha1="be36bbcb090c33f9538b92a52f67250e97349d76"/>
+	</game>
+	<game name="Crossroad Crisis (USA)">
+		<category>Games</category>
+		<description>Crossroad Crisis (USA)</description>
+		<rom name="UP9000-NPUJ01342_00-0000000000000001_bg_1_f979f38c2612dc02dfe559051513f91642277ba8.pkg" size="8454640" crc="50893a1c" md5="930baff18668be0ca762e5503d045e89" sha1="00cf3e951f5ffb9dd25f16ea0af26a6569023253"/>
+	</game>
+	<game name="Cyber Sled (USA)">
+		<category>Games</category>
+		<description>Cyber Sled (USA)</description>
+		<rom name="mWHzhIGHVxhIvVmatGZWzwwKREfjfOohyLEElTLRdehxNfrLJAMyizCrSojSyfSL.pkg" size="105895600" crc="19e2c9aa" md5="55a8111009eece627288bfb3fad52e32" sha1="f3f9d2d7e559636c747a850c6ce1a08f41dad5d9"/>
+	</game>
+	<game name="Darkstalkers (USA)">
+		<category>Games</category>
+		<description>Darkstalkers (USA)</description>
+		<rom name="bqcHKOhiyhCQBeKuUjwhoEJUsgyJToiXJYgoWRfuJpZZqCPIuqQmgpIMHCealAaoJeGAjwxIHxkOIfxljQgSoOezPFpdoHnnEsitV.pkg" size="78648064" crc="482aa1fd" md5="45fb76bb6cab36668cbfdaf7821721bf" sha1="ab425a22e24753dbd2a80ab4d99d84cd3cf4c54b"/>
+	</game>
+	<game name="Darkstalkers 3 (USA)">
+		<category>Games</category>
+		<description>Darkstalkers 3 (USA)</description>
+		<rom name="GiSyKQgldWjqgkQkqYrUxwHijnAyDopeuxSYHinVQnMuijyvGmmrKBxmTZDFmwlHHmAEPZWRkgPtGUlfHHfiJSRZirkSxGFIOOhOW.pkg" size="508152656" crc="56e0ba85" md5="2d3a2e4dfb1c5f7e6ded59e27143fa09" sha1="ff01067ac0b5d6f6255ceb3ef1cad9be82158513"/>
+	</game>
+	<game name="Dead in the Water (USA)">
+		<category>Games</category>
+		<description>Dead in the Water (USA)</description>
+		<rom name="GDjj2wr7q8ToW0uJ2bA8iDht0IjBvStd8ncj7eDjIwjVcXrjnKSjv5WUdIn3YdOfYeDPg6xN0lcHGtowtFhEHcucjoTHvE8rClF9t.pkg" size="95050272" crc="67222353" md5="ac7fba246e19f271991289df43576404" sha1="303a4914b72fb4d3fa187d5a911699e54caad699"/>
+		<rom name="UP9000-NPUJ00693_00-0000000000000001.rap" size="16" crc="272f1b5c" md5="fd21d34d16480797beb4ba1efadbc366" sha1="5e7e0738e582b58432fe866cb805d48b1b642085"/>
+	</game>
+	<game name="Delta Force - Urban Warfare (USA)">
+		<category>Games</category>
+		<description>Delta Force - Urban Warfare (USA)</description>
+		<rom name="B7byBeNH9CpthOae3vpUDYlX4DpphUvJdot5IdgG6M7cMMOWnxEwOrlg1WRq2LEUXgmuyH8msO8XNTnQCQhFwSE1mHlrfTcch8WcS.pkg" size="117375392" crc="0734ab4c" md5="7c23088c0b363255920989c27fc59d0b" sha1="975b831ec7d6d63cd69f6908ef84e3c1fba0a56f"/>
+		<rom name="UP9000-NPUJ01429_00-0000000000000001.rap" size="16" crc="28a43e03" md5="54ab7e09a22a74329cba7850833ac1e6" sha1="149608bc23b137214cd5c3fc0b57204564dd1554"/>
+	</game>
+	<game name="Destrega (USA)">
+		<category>Games</category>
+		<description>Destrega (USA)</description>
+		<rom name="vLsvkDIGxzGFReAavalyzYrSPLydOtEtwugPuMvTTsRCUwBdmsnqAEuVWGVRDKOgcCXfoZhwmPfRQIvObIouzNJErTggALTwwoMgU.pkg" size="311968688" crc="9dd99b1d" md5="1a21946340b16a5a4afb73ea09f70657" sha1="b0b3669ece66487bde3b9c02c2e3255a1498afaa"/>
+	</game>
+	<game name="Destruction Derby (USA)">
+		<category>Games</category>
+		<description>Destruction Derby (USA)</description>
+		<rom name="hA6d2EHavC7LOpsUMTqOp9Hipb99mk7TwX6HnWPDW8NqW6VOeQ5N7ddVaGVWDwLhTcyv1nsGBKAvGlFMiaNwt3lJWcfN5LxWJrAkU.pkg" size="68570736" crc="b1227d30" md5="5342e1f889076060356fdd1aeac98b88" sha1="a1cc68218398e566042c668dfa64afd17d2c8ecc"/>
+		<rom name="UP9000-NPUI94302_00-0000000000000001.rap" size="16" crc="c1edd2ad" md5="fab2006a4fa53f7009862dcfa889f0a8" sha1="98a38b500703a1f95bdf09fc3ef5468358ae5815"/>
+	</game>
+	<game name="Dino Crisis (USA)">
+		<category>Games</category>
+		<description>Dino Crisis (USA)</description>
+		<rom name="WFPgC0U3H3bOo9C6LRNtNNbpqySR0tpUTcqu6NBAk2xlMqXVqjD8tbkxgywWNCW3OdGtvutr2jB6SA5oAc2rJbFRTfWGgUraivBH8.pkg" size="259959040" crc="763d81e4" md5="a38bc696ae2c629a97fd3efeac60cdbf" sha1="0f715ae0330fed69237b422a84c73b82cafe5aa5"/>
+		<rom name="UP9000-NPUJ00922_00-0000000000000001.rap" size="16" crc="43380c23" md5="65092f872634a6c41703c3f2f0e21e70" sha1="a7a8be574e983fc10ade1bd142ff0a081fc07471"/>
+	</game>
+	<game name="Dino Crisis 2 (USA)">
+		<category>Games</category>
+		<description>Dino Crisis 2 (USA)</description>
+		<rom name="CpjtuXoLhWqjrAUpRgPYGGdOuzrQbTlBvUhVLHkipsHkAdcHUEXitiIgrxnnJWvOnaEFTMPMYzVhlsWJwBEEpMILOkphTKQfIzwQw.pkg" size="333256592" crc="83e6120a" md5="cb2126f4c068578c8e541b015c543d36" sha1="2418e1f207f4f2d53ba13d8a73525f0be9132f60"/>
+		<rom name="UP9000-NPUJ01279_00-0000000000000001.rap" size="16" crc="9ba14527" md5="298581b96777aa7cc3c312c89883b5ad" sha1="db49b7d46a141592dab0ba612e59a76d1f62df91"/>
+	</game>
+	<game name="Dirt Jockey (USA)">
+		<category>Games</category>
+		<description>Dirt Jockey (USA)</description>
+		<rom name="RlJUueEkFNjduBXLHJJMogBA6HvvVYueEdO8Gxwj6H1dvpoJo7uCh5uIKYyXwlAQiHctLjEKFQmOP6WeVmDVjtxuskKWxDHubVPKt.pkg" size="233269440" crc="26ab0bf6" md5="b5a8b54b002fb3f84b0a350b885d1006" sha1="3b7ae27c9f6ed494753004ef6c087f92eebdb07c"/>
+	</game>
+	<game name="Disney's Hercules (USA)">
+		<category>Games</category>
+		<description>Disney's Hercules (USA)</description>
+		<rom name="Qi8EAbj85kBVNnXm18xkwEgrejBnQDnde6BDdV7YC2hEAnXAWLVjsBXw2jumlDbfAyNElB5E52WyH8RneBJ7lGJTEoRJ1t0VEx0Vh.pkg" size="222499088" crc="c73cb3f6" md5="df43a52fccfc30b7b8dcc4ebfec62bac" sha1="c0930137be54e085bb79a13583c192275fd8b4c6"/>
+	</game>
+	<game name="Disney's Lilo &amp; Stitch (USA)">
+		<category>Games</category>
+		<description>Disney's Lilo &amp; Stitch (USA)</description>
+		<rom name="afQfLLBLpaj5tnf31ww8TjhR29tpl9ShD7dCtgD1KxRKhn8FYde8psXciOjG60s1wwrdBvsU6UgXESbniC1C7qWltohdR5KTvKrxm.pkg" size="284623072" crc="430f8890" md5="38112723eaf6c6cffb2e4ea82e834e26" sha1="a387d1bda1127b5900ab8c97737472cf46614f1b"/>
+		<rom name="UP9000-NPUJ94646_00-0000000000000001.rap" size="16" crc="30e7e2c2" md5="7893ccb1fbf672d86ad17b7f7833bd5c" sha1="0d7d64462ed09b747aed319f38439bf5b977cc92"/>
+	</game>
+	<game name="Disney's Peter Pan - Return to Never Land (USA)">
+		<category>Games</category>
+		<description>Disney's Peter Pan - Return to Never Land (USA)</description>
+		<rom name="Tw8laDoanda9XX1QLB7pxkQpkaBuPw93Atfcf1ONqLVgFnaCsnfLsiEwiL4xwGqGJGmXAoPxud6Gi8n0CKkKVlXMdmMpEE4JwVeV1.pkg" size="366378032" crc="252aca6e" md5="1ce5a897e303065593b3958977d1ca67" sha1="2aee8301c28f666f54dd3972d1561ff2d7e4791f"/>
+	</game>
+	<game name="Disney's The Emperor's New Groove (USA)">
+		<category>Games</category>
+		<description>Disney's The Emperor's New Groove (USA)</description>
+		<rom name="m5hBwvuQN6ETWxF1rjDlSdObSiPGqwSrqqDAAkTnSPGguhOHXxMIlV87IuNYHE2Eaar5EhnIKhaihOnxDdrs10ywnCjvYXnrWmqOM.pkg" size="399168336" crc="4cd4fe67" md5="4daf16870f7a7a09313176bb7a503474" sha1="38c637146f3212c2eb31c0100608bbaf48e3a878"/>
+	</game>
+	<game name="Disney's The Little Mermaid II (USA)">
+		<category>Games</category>
+		<description>Disney's The Little Mermaid II (USA)</description>
+		<rom name="UNLgOvVKPSmHIikdsGOMVsjWVwnfmcvQHKVxhDtHnhqmDNcRnAHfwwFUeGPJRAirWSdBgAEUxraqcdwLIvgpsBZqUHmmlVrSSjwFK.pkg" size="348540656" crc="6f60e1f0" md5="500ad34eb2028aae5be3d822476e090f" sha1="0cebeeb738925506f9e8ff0e7cd0f043e3574fb5"/>
+	</game>
+	<game name="Disney-Pixar A Bug's Life (USA)">
+		<category>Games</category>
+		<description>Disney-Pixar A Bug's Life (USA)</description>
+		<rom name="15ltwy3YbdmyR3GOinKb4wrYDEFDHLRjoIdOQYYQ8kaChbeeTKHqI9aSaYwA9U5BDn51R45J1aV5ow6jjUQNiQt5VYSG1kE41a6DC.pkg" size="501853968" crc="181a278d" md5="5a6c7717889b0bee22dcad309f3de9e9" sha1="69b9ce14b5ed5b57a449df8f673750d675ef7ef2"/>
+	</game>
+	<game name="Disney-Pixar Monsters, Inc. - Scream Team (USA)">
+		<category>Games</category>
+		<description>Disney-Pixar Monsters, Inc. - Scream Team (USA)</description>
+		<rom name="KN5y38liSqH78hdsKUxVvji0Pr7UvtKQXV9Rn4rlGN0mUB2x9QiL8MKxNGpoCovAhvCogwfasWmtr2eUCHbJTV3uDjDvc08qWPT4K.pkg" size="404395392" crc="f185e25e" md5="60915caa2316d3fcb85164f8834eb8c4" sha1="51080b39d6a8b66fa9883e4b65a19782670d18df"/>
+	</game>
+	<game name="Disney-Pixar Toy Story 2 (USA)">
+		<category>Games</category>
+		<description>Disney-Pixar Toy Story 2 (USA)</description>
+		<rom name="RuLAWY9SMlcUInUjdltqqXDuQE5IiJbvQB9YqluIXtUXvtyjcXyoQb0xJhsre1Wx5P18OLNRHd3yGn8Gs8Ffl86kuFnuX5YCuA1Ka.pkg" size="423654192" crc="4b3a8031" md5="3811fa0f384021df3c01213771fb8ab6" sha1="d87bea6ebc95d57ec0eb03531ca841615e70e8b4"/>
+		<rom name="UP9000-NPUJ00893_00-0000000000000001.rap" size="16" crc="4b35ceb0" md5="04e452dd299dba2d1721ea29f58a368c" sha1="d2fd9627491b5cdb65870c243f1c8a4091de1512"/>
+	</game>
+	<game name="Disney-Pixar Toy Story Racer (USA)">
+		<category>Games</category>
+		<description>Disney-Pixar Toy Story Racer (USA)</description>
+		<rom name="9NKVjmvVwNKRBkirT86LXlc703Y9Xq76GY5rFmLN8rFOxHiCQkWpaqCrXwDGqmhnCpuL4u06cfkdHMhMepWG9xyDSVopi2hberaLj.pkg" size="143801712" crc="afb18b19" md5="59a28f6c8d93ff33232759bca80fab28" sha1="cde0cafed753536373ebef37f6f860c79c8f3261"/>
+	</game>
+	<game name="Echo Night (USA)">
+		<category>Games</category>
+		<description>Echo Night (USA)</description>
+		<rom name="UP9000-NPUJ00820_00-0000000000000001_bg_1_bfd605783812bc0a7f585124e2a42d1d13e474c8.pkg" size="219508448" crc="bc235e5e" md5="82845943f8c230903d64867b31369e6b" sha1="b45bf51e9b5c1fdf6b5a37cda0a3d9ee6028c530"/>
+	</game>
+	<game name="Extreme Pinball (USA)">
+		<category>Games</category>
+		<description>Extreme Pinball (USA)</description>
+		<rom name="h1dcfGXEAUDoURUKdv0XwH2VDL0p9N5yeEa9I1F6UptEoth1tM4OXrEUk0jPA2fLvaQCI4FkSAAYEq6Wsd3GKyanHh1wGUKRT2AMM.pkg" size="25040336" crc="8ea3e441" md5="23d825c0f78d6e7340d84e5258bb926c" sha1="a2a03b701efe1b031d3208b5542838f50a3f97f4"/>
+	</game>
+	<game name="Fighting Force (USA)">
+		<category>Games</category>
+		<description>Fighting Force (USA)</description>
+		<rom name="BJ2jDLH9GNq6K9jIhnmBRGFQtlj0AL8ugD51J2m9Vq2oTuEm4l8vhGuRFqSeVetADycXHRxPfs0r3UYT25TEvn2jgJkKR1v4MHKEu.pkg" size="88577712" crc="0bc39e24" md5="fb9e7d562577dca37b4ae747deb525db" sha1="276f5301facb9e704b26ffa910ca1f399d82e279"/>
+		<rom name="UP9000-NPUJ00433_00-0000000000000001.rap" size="16" crc="4303ac41" md5="de5c0b057c242ec0440dc803d765bd90" sha1="683b8f48d9ad5f5cc3e26296eccaedd44528ea75"/>
+	</game>
+	<game name="Final Fantasy IX (USA)">
+		<category>Games</category>
+		<description>Final Fantasy IX (USA)</description>
+		<rom name="PWGAlLtFgvvrHixNGbuyudySjOgAAn61AhLhoj0SNEfAhqDXWMbpyK28yyMbqV0YSHucGDCbd6vvrdJdEfesID51Ts3eu3eTGYjp3.pkg" size="1603458064" crc="6baf0a1b" md5="5163822417e2d7d5542f90e90d89a94f" sha1="1b339381d224e1cd49e28f841abc1b644c123355"/>
+		<rom name="UP9000-NPUJ01251_00-0000000000000001.rap" size="16" crc="b49794ff" md5="5c03f8d5fa39d0a7c9355047dcd38101" sha1="c9c92a81d68e16f70d09bb289eb48bf07ed92021"/>
+	</game>
+	<game name="Final Fantasy Origins (USA)">
+		<category>Games</category>
+		<description>Final Fantasy Origins (USA)</description>
+		<rom name="quITpIamFHAPmNIkyHnXTOCTmQOGwQPABFIVZlZbnnuRlkqidKKFfclhjJOASwPEspzTGDdBxCSttcmLZnRCVoKKPaYpZnMgTYPBz.pkg" size="124051504" crc="e416fd79" md5="8f242f82b07334e57cc2c1c2a9a51c94" sha1="e8be47146dc3bc93296fe1625d8573b31936e2b1"/>
+		<rom name="UP9000-NPUJ01541_00-0000000000000001.rap" size="16" crc="bd075733" md5="b3538b5b323e1cb0614942e904a22b54" sha1="1330516f7937b76a3ac6ba0f9f80b264b892a234"/>
+	</game>
+	<game name="Final Fantasy Tactics (USA)">
+		<category>Games</category>
+		<description>Final Fantasy Tactics (USA)</description>
+		<rom name="LxKDTQw7Fjc7Wo2qCoXaC1qa2eQnxBariSsNbIFDX82dPNrjX65f9vnWVr4wDRMHJYpCEtgXUOCHFiO3QPNIlR0v5C8CeXefNpRgb.pkg" size="224089440" crc="eddb65f0" md5="23dd99fd2a80beb6e018593ba1880c6d" sha1="092b258192f91da1f3856c50cc01928571631685"/>
+		<rom name="UP9000-NPUJ94221_00-0000000000000001.rap" size="16" crc="ac770b0d" md5="4b16f881dd15b8c6c8847ceec209cf9c" sha1="1bb2616fd2e67d2fe8984cc501061cd409abe769"/>
+	</game>
+	<game name="Final Fantasy V (USA)">
+		<category>Games</category>
+		<description>Final Fantasy V (USA)</description>
+		<rom name="GZnkJzlCwmDBOkwvDBGqOdgNjTnMfsZptXoxTUcXNiTjuDiaZuXivyyuWGHzbYtIPLOnQjTFeLOqtNYSCGmJxiciiWJmjebPrPTMQ.pkg" size="169891344" crc="b17bbc7a" md5="4b8c116f61a191789eb799cedd49aae4" sha1="e56c2319d4a5b99e6a2365ac6723b5be72133e86"/>
+		<rom name="UP9000-NPUJ00879_00-0000000000000001.rap" size="16" crc="1e213114" md5="1d0854a9bde2cfa1eb7eb546fff06e98" sha1="a1465f09b13a2bf48e186c46e8cd12f855250888"/>
+	</game>
+	<game name="Final Fantasy VI (USA)">
+		<category>Games</category>
+		<description>Final Fantasy VI (USA)</description>
+		<rom name="MRPtqmCeZnkhSIGxnuqxyOEkViOtNogQcPGLHpOBZepUCzYuhODYuGiPDrKEGOwXRHxmzJXldZTyKpnvWTXPKWZjtOeeZAzzHsSBX.pkg" size="201689904" crc="fd1e22a8" md5="e6cb6c86523650055590bd38afc37ff4" sha1="b01462a125e00b2d04684181807832a70114b701"/>
+		<rom name="UP9000-NPUJ00900_00-0000000000000001.rap" size="16" crc="831ea013" md5="32b86fd7d0df835fc36b3267970978b8" sha1="72fca4815cee29ba2f34be6b75255b9d471ea547"/>
+	</game>
+	<game name="Final Fantasy VII (USA)">
+		<category>Games</category>
+		<description>Final Fantasy VII (USA)</description>
+		<rom name="b0bdL9opU6JAsIxUpi29By0uOWU1QJKXG6yNkJjqodIjSmd6wBrIbYtulcL177SAAAojsvNii9pVFABkvguumKCFUGefIjRWRtBj0.pkg" size="1417420640" crc="68a44910" md5="1fecf0cfe8600a2d845ca51fa24909ca" sha1="20550a25f85ae9a8a45fb9c7331bf80aec551490"/>
+		<rom name="UP9000-NPUJ94163_00-0000000000000001.rap" size="16" crc="67045e11" md5="9910acf473b45d03dbb75f03348bd609" sha1="b0dccd46bf2867c7f86981258e3e8b8d87deb9a5"/>
+	</game>
+	<game name="Final Fantasy VIII (USA)">
+		<category>Games</category>
+		<description>Final Fantasy VIII (USA)</description>
+		<rom name="d9gUEyosXGVHaWAAGWmBagnDHQjSUaC6TDCcfQxSjhaUAKu2KJ4JiCW0LqbgGp9UgD4KGFU5cLaJWiPuUO9XuScKgPLKew0ya8OUQ.pkg" size="1908119328" crc="38535ade" md5="784200d572bf4fe15293d95e6827ecf3" sha1="f2f85716218fb028608998dd31a5881f5ba6cf49"/>
+		<rom name="UP9000-NPUJ00892_00-0000000000000001.rap" size="16" crc="56f624f8" md5="a0d993eb982dd831d7a57859f1ff172a" sha1="d0e68b111856b010cd1de5d045ca56ca4f7c7ecd"/>
+	</game>
+	<game name="Ford Racing (USA)">
+		<category>Games</category>
+		<description>Ford Racing (USA)</description>
+		<rom name="H3BLQOAWKa59wDmEE6XHatImEWg0dAgxN81WFY3pKsB64oLcpEqe3DoQPVWNk5pSuJCqiixdugVOyUxlBk0KiMoGX6NHkrbNPBDok.pkg" size="68759792" crc="a5e0fdc5" md5="f755d47dc978e5772689e598fe0c50d2" sha1="cea232145d082919550de4acf9311aae250ca42e"/>
+		<rom name="UP9000-NPUJ01301_00-0000000000000001.rap" size="16" crc="f7a3337a" md5="b68308e245274089804cdc0104078c4e" sha1="33305afe49c2446a86b85c8eaca348330bab69b5"/>
+	</game>
+	<game name="Front Mission 3 (USA)">
+		<category>Games</category>
+		<description>Front Mission 3 (USA)</description>
+		<rom name="WhslLAHlY4rlA6WXp8qr9yenTUR3KCPxs105GHlUiqbWuBNrUlSyHji4A4mkwjxcXmnLdjpBYE2GHMhHMpekueRRv1JfHaVoAhO11.pkg" size="336981776" crc="62822a6b" md5="0131fdd124d7b8b7f35a492f658ec59a" sha1="72728b781c30712d25fce7913d7f931c01376e9a"/>
+		<rom name="UP9000-NPUJ01011_00-0000000000000001.rap" size="16" crc="efa8acc6" md5="b0480412b496a15fa4c71437571f49fa" sha1="9850a80162769d1c6031ecc52a64f0c3aaa1838a"/>
+	</game>
+	<game name="Future Cop - L.A.P.D. (USA)">
+		<category>Games</category>
+		<description>Future Cop - L.A.P.D. (USA)</description>
+		<rom name="gcUhuAEzxShzsptPuLaoARtuGEpzSkcttpXnhZToSSJZhBpWlZppgimjPwFhBveRncXbIrwKRdevAumUuvqStbrZrQgcdQTsgZPRn.pkg" size="256905328" crc="74824a87" md5="ad1f209fe850c2cd529b64695d68a67d" sha1="508eb6677a9bd307ff70b6a14d54d1342cc8f644"/>
+		<rom name="UP9000-NPUJ00739_00-0000000000000001.rap" size="16" crc="262d01aa" md5="e45434be17aa2a3b11ae3039e6bf9d21" sha1="76a49dfba1be3ff3b96b81e6f82fcd83fdc1ca35"/>
+	</game>
+	<game name="Gex (USA)">
+		<category>Games</category>
+		<description>Gex (USA)</description>
+		<rom name="gUxAc0p8GTlPSeGxG0bjA6C9J0MKPst1ObnRto2eOOm1wrEH1EQGbyKlV4yAOxLDoEEJlV2qrhKXEK6qvjgIi0wiSpml1AFH5aCu1.pkg" size="126464288" crc="44f67def" md5="889de8ba3f0dd99004764e65f963edb1" sha1="39c3e18120f9cd26f803cd6cf64aeb7265ca5035"/>
+		<rom name="UP9000-NPUJ00042_00-0000000000000001.rap" size="16" crc="ed8b4661" md5="8abd4acf7e29ef847797f2f7221efa25" sha1="ab1cf74cd97a4a06e1865c7f4af47bf264c68bb6"/>
+	</game>
+	<game name="Gex 2 - Enter the Gecko (USA)">
+		<category>Games</category>
+		<description>Gex 2 - Enter the Gecko (USA)</description>
+		<rom name="rwBUPUCzPmqrCjTefMBDnlbDPDwALnLIFJTWZIacGGVTYaPqWwZsSqnrmbaVHDEJ.pkg" size="156806224" crc="f43667c6" md5="65b04ba1caf7f4cca4d7db032a44b0d6" sha1="df8e1aad4eb4706441d50d699b812322a0287227"/>
+	</game>
+	<game name="Gex 3 - Deep Cover Gecko (USA)">
+		<category>Games</category>
+		<description>Gex 3 - Deep Cover Gecko (USA)</description>
+		<rom name="EiexY3rF4wcYhMUaxCxuixv2BW32dF4FxtJGCrobmtrQvxvqdhaPJIcMkOQFWeSVbmTnik2jvNeQ7EbJyf3vdOK7neMULSSks4Dxm.pkg" size="270840832" crc="b7325fff" md5="00a6054dcbad88c639f961e7a60e1732" sha1="cd8a30aa103804ea351aecdfb356eb84affa14ad"/>
+		<rom name="UP9000-NPUJ00806_00-0000000000000001.rap" size="16" crc="db550563" md5="2bb62b316967fea65d7d83ce82e196dc" sha1="a8ec41d42caf69c65d2ec93c899c6942921348e9"/>
+	</game>
+	<game name="Grandia (USA)">
+		<category>Games</category>
+		<description>Grandia (USA)</description>
+		<rom name="38yjMO3yydtpELIeSrl9barnRKnpK9wKMq98vEBBE8fCKSFb8VUwG57wkBJoloBuuBvwVkD3GCbieH6DM1teyVrorKa1u1ukDSPgY.pkg" size="891821968" crc="e22de703" md5="0567fc6f79acd8a329399073d533564d" sha1="0a0e2f7ddcfd43ea5f57f1842b4d11c7c1b73b69"/>
+		<rom name="UP9000-NPUJ94457_00-0000000000000001.rap" size="16" crc="ada01d09" md5="2a6de035e07a53bffa2d1a79f91d9d68" sha1="a75fe43efc6f492acc39475371c9fff4093fed7c"/>
+	</game>
+	<game name="Gunship (USA)">
+		<category>Games</category>
+		<description>Gunship (USA)</description>
+		<rom name="LbaIRUAHgNyTlrePTHGIlNTWAPqvaQSmvGEeGVxWZwUJWbYijthXWbKvZAwOYkQQpQuXCWgKpbZiqqwdutvtnTBTKFqzWjmLmaFOi.pkg" size="103843552" crc="6fc0e55d" md5="65c735faf57c604e67a8270c2ea35278" sha1="6bad7e9f7606becfa518661e2c6cf5b47f4c29a3"/>
+		<rom name="UP9000-NPUJ00313_00-0000000000000001.rap" size="16" crc="b25e7524" md5="b6624ac3e72e45a82e350a60e796d28f" sha1="957dcfc5ea11dbf8ae55ba2995d1231475a61f0b"/>
+	</game>
+	<game name="Hardcore 4x4 (USA)">
+		<category>Games</category>
+		<description>Hardcore 4x4 (USA)</description>
+		<rom name="iQ7WE9WJRyYSGxqLTaVITdAFpGv7993qQCw0vxsFbhTy9KlT3P0eK7sVTJgVXRJucJaavJmFU75cH3O1BIasBRJOQX4hx1n9NpCXA.pkg" size="92804608" crc="0ed15390" md5="35a46907092197db47139860309144b1" sha1="56a709da71737fe6b7c8c57979556b58d64d3f76"/>
+	</game>
+	<game name="Harvest Moon - Back to Nature (USA)">
+		<category>Games</category>
+		<description>Harvest Moon - Back to Nature (USA)</description>
+		<rom name="vbfeOPoVXyPEwnDPWLlCkJZomdxWmFFFJQXilyKaJhjLZIfcVnuqpxSBUKbNxecKvmrWJhYkbpHZWKdiFesMEAWGYtOABBTYfVkFs.pkg" size="70678000" crc="6651ad8a" md5="424ca792aa94d881d69cf2abebb884f5" sha1="dc18880cc34d1b7292174b555e8610f815a6de13"/>
+		<rom name="UP9000-NPUJ01115_00-0000000000000001.rap" size="16" crc="231476fd" md5="ed0374eeb8fc3c965bbd5d816f34d91a" sha1="5aa84c76ca24b7be9be0060e7f9886558a9a96d2"/>
+	</game>
+	<game name="Herc's Adventure (USA)">
+		<category>Games</category>
+		<description>Herc's Adventure (USA)</description>
+		<rom name="kxHALgxmyZRHOdKFphITComwHlPWinTpUZtPHKgVFrxWxJUlXiPYysotzjYZXWBx.pkg" size="146939088" crc="eeb996e1" md5="ec831bc991cb2cda41a66b77c357eb01" sha1="7374e57bb9e630890759faee953df4071e2627e8"/>
+		<rom name="UP9000-NPUJ00298_00-0000000000000001.rap" size="16" crc="595fac27" md5="af9913e1822d9097ea412bb00171e53f" sha1="b004710f7a24c821be0321069e39897c1885df03"/>
+	</game>
+	<game name="Hi-Octane - The Track Fights Back (USA)">
+		<category>Games</category>
+		<description>Hi-Octane - The Track Fights Back (USA)</description>
+		<rom name="pukjpvSVJ1GQ2HwA1hmBTpeRlQVXXvyPKELYvddmWSlJt5kqIAvpagvwtOyMY6u494RjUHYTjJ8HG22o8yXbYxcPaKK29v5XccblB.pkg" size="36090032" crc="fe706d55" md5="18d78c3043113bf57016452abc087df3" sha1="7b78b6786afbb0e5a6ddbfafe2b40a8d4bcc17f6"/>
+	</game>
+	<game name="Hogs of War (USA)">
+		<category>Games</category>
+		<description>Hogs of War (USA)</description>
+		<rom name="MYBQMdWCWHXhPZITpjsFHeYDHcUCxaYPRsePsZbxCkrqfTZhhnOOvophtaWmZUvkVIebOcoRumdHYXgnhtpInWHqWCsWPiKRMKDJk.pkg" size="227726080" crc="87a33044" md5="7db7a22f70b96f299136082bce7b2bce" sha1="8853d5438930daf1a2387b423a4cd27d73cd87a1"/>
+	</game>
+	<game name="Hot Shots Golf 2 (USA)">
+		<category>Games</category>
+		<description>Hot Shots Golf 2 (USA)</description>
+		<rom name="gBT3Gj0AJTSpl92SdC4SmJruk5G0YHnlxuarehJUoGPvxxdtuvDA7DEyfnANTD9rFN9CsWTQqnI2XjTnLdfMm9i86QGPXExK0O6bG.pkg" size="163498144" crc="9b46d308" md5="361d8e7fcb8b66f24ca06a1341ffbb5b" sha1="6cb28d57001e95af329e8c2e29dfcb290ecee6b1"/>
+		<rom name="UP9000-NPUI94476_00-0000000000000001.rap" size="16" crc="2813764f" md5="bddd2f60078641b68cb009e206a9e744" sha1="2b1916f08fd9719dc8ad20828b7fa5fc2ff01273"/>
+	</game>
+	<game name="International Track &amp; Field (USA)">
+		<category>Games</category>
+		<description>International Track &amp; Field (USA)</description>
+		<rom name="hqXbnmDG8TA9HbC2raKr0i9muqLMSPVb727l0XKL0xYSwCDuKsteMtDtOuiikBBJ3G5mCAyIulfipW9Ko4hRUUREVg5xDh1Kc0SVE.pkg" size="73506176" crc="1bb7104a" md5="9eb42f5ad9f30296bbe31c276dea6262" sha1="d5b89a668fa7d7d37ebb43a14fa02c465b8efa86"/>
+		<rom name="UP9000-NPUJ00238_00-0000000000000001.rap" size="16" crc="a0c15d39" md5="f0f42ffa423d8583df9fd2d788549a8a" sha1="4e690375f7e256f7a27c336ac43dcea2452e543e"/>
+	</game>
+	<game name="Jet Moto (USA)">
+		<category>Games</category>
+		<description>Jet Moto (USA)</description>
+		<rom name="lufvGlvqmC6QTd3MMFPiwqh821hUqh4IlcvFtle7Me0HFar5oDDLxxqJVJ8nbd6Vp4xj7iOXItpehACli6dp0Nv6a9e7xXKp63aNi.pkg" size="76734816" crc="f2b9d180" md5="c2b2b844c2fccfbfce0c4ba3043ee638" sha1="2bad16e24bfeaf8bcf4d15a35d4e3cd5b049224b"/>
+		<rom name="UP9000-NPUI94309_00-0000000000000001.rap" size="16" crc="ce4d3e89" md5="029078e1519c8ccbd92572395219d5a9" sha1="eb839e9242cc9aee9f9e67d75779d93b3fefcdfa"/>
+	</game>
+	<game name="Jet Moto 2 (USA)">
+		<category>Games</category>
+		<description>Jet Moto 2 (USA)</description>
+		<rom name="XfKFuP9lyPK8L0QEp4NEDFeXJKHWS7Mvc7JKaa5JUrDJqRGlfAHaLhkk8ksXMgxow6vYNb6ddO8VdXGL7aTVFpJd0g5TRTBWso14K.pkg" size="120412208" crc="bd54d5d9" md5="64c0048b33a9ce42e24969de1178f9f1" sha1="0626f469452d6d24a61937acd83e6ecce24b1e33"/>
+	</game>
+	<game name="Jigsaw Madness (USA)">
+		<category>Games</category>
+		<description>Jigsaw Madness (USA)</description>
+		<rom name="21VyJNym6Fqwo7LoNWxMbUi53hNB8hA3yfbC9jP5BSSOrAALjgmImo8Wi1eDEvCIf0kopMpO9paiY0F3RH9gtWYicn33MyjgEXQlY.pkg" size="217950800" crc="98de45cc" md5="c623c15bc3adf206acf472eea633aade" sha1="4e9099d28eeef93e879bbd01e4d39af13a286d80"/>
+		<rom name="UP9000-NPUJ01509_00-0000000000000001.rap" size="16" crc="65bf1234" md5="0abf6f7cb2aec3d15eafb87345645a1b" sha1="05dadbdaff0a06628dbe8fdb8a1fc28f2e4a6a6c"/>
+	</game>
+	<game name="Jumping Flash! (USA)">
+		<category>Games</category>
+		<description>Jumping Flash! (USA)</description>
+		<rom name="4StqNd048WQFXjr6muRdWueQB2uCt7LtjxF3T6ULRugqmYYJPUcgKTAfxidyraocKe0MCmU9BaL2R62cehHxCL8OB7qnuqmJdrWLt.pkg" size="282028944" crc="71d3cc91" md5="74c7cbc690f05efde5537c06568cbfd7" sha1="74c562c95f72148da6d61563d456ff451978d401"/>
+		<rom name="UP9000-NPUI94103_00-0000000000000001.rap" size="16" crc="1dc1c1e2" md5="69bd39dc0c93eb164b06695fc2a3083d" sha1="5be5e68d598d3beaf0cff4ec9b83eff52daa30d9"/>
+	</game>
+	<game name="Jumping Flash! 2 (USA)">
+		<category>Games</category>
+		<description>Jumping Flash! 2 (USA)</description>
+		<rom name="n02nOMMOfS33IWmPbJ3csWe6MA4soLajLYkDGHukUvuymMWeeonyoLfPmgoclP2Ppy5qDHnRn3h2yXaGeNfP1Gyi73NBU8kJVja54.pkg" size="282020192" crc="b22e4798" md5="e0ee785ab1044e28eae2228970e1b800" sha1="f3cf036c7f43a48e0cee97e386e2bc62358afda6"/>
+		<rom name="UP9000-NPUI94108_00-0000000000000001.rap" size="16" crc="ce057390" md5="5657194df2e397cf531a99e9094b577b" sha1="ab66567e7f58718e7ca25228a4d5e472da3d0eb1"/>
+	</game>
+	<game name="Kickboxing (USA)">
+		<category>Games</category>
+		<description>Kickboxing (USA)</description>
+		<rom name="RcRPTJwWoigWCEJhZMdfowhvLgNmlhWNvaernQzJyVdVOxDIWuusYELqQkLCgfgv.pkg" size="86445664" crc="d49e132f" md5="ae6003d7b1c80a3af18f372aaa4180ee" sha1="e1f90a2ee64b74f6631217769724283742817f7d"/>
+	</game>
+	<game name="King of Fighters '99, The (USA)">
+		<category>Games</category>
+		<description>King of Fighters '99, The (USA)</description>
+		<rom name="lmPVOXEPsccaIPkYPHw1Vw4dY3OgYGlsOaWREomIVsrfnO3f4gv5L3NnjJotmoK4HWOKQMO9wmsjLc6TrCEHySd63Cqc8qS4cEoKN.pkg" size="164515744" crc="a5f8c3ea" md5="f4d912fed3ce2d2dac9a0c457e6849ca" sha1="53aed7f3f96d8737b8ba44f3fe22eca068d7cfb5"/>
+		<rom name="UP9000-NPUJ01332_00-0000000000000001.rap" size="16" crc="f61f03b3" md5="e8292e0d1c3c9e04e6c7802036c4bd49" sha1="5e5f2a2c78ce9a809c0ff66a1c892afb07dc59a5"/>
+	</game>
+	<game name="Klonoa - Door to Phantomile (USA)">
+		<category>Games</category>
+		<description>Klonoa - Door to Phantomile (USA)</description>
+		<rom name="EpbYPaKrMdMpaKXzKIHXNHbNQoCMHMxcHhlcnkovXFbCIfvssxzpTFKZzOeiuhmbpxZLBVIRljqYtenAhlBYpDYPnrcUUfPORVOeg.pkg" size="453253760" crc="7059e5fa" md5="37523e1dfc4a10ee6dde9aaa4b94f346" sha1="8966769127b0f4db8ea31a061bfc03fae39b25ad"/>
+		<rom name="UP9000-NPUJ00585_00-0000000000000001.rap" size="16" crc="08c02b57" md5="6995d506cebec825dec3e5785b93b298" sha1="f9fec7be2b368d3b7b811ea538ac970dc5e23535"/>
+	</game>
+	<game name="Legacy of Kain - Soul Reaver (USA)">
+		<category>Games</category>
+		<description>Legacy of Kain - Soul Reaver (USA)</description>
+		<rom name="B6v9utvFUX1d6GUbMRGJowviWIlMS89LY9Mbjdt7sKHfwXLWV2gL4baUvtni3r3HFT3pdCeAbQoHHXfDrf4nGM6Bs6vsI5AJDy8NJ.pkg" size="399139264" crc="17576552" md5="17f290097c70bd3e65a23dbc77b568f3" sha1="09363313ec00224db771e3604eecf745fb4ea882"/>
+		<rom name="UP9000-NPUJ00708_00-0000000000000001.rap" size="16" crc="d35ba9ec" md5="89bc5d028ef93821c0f10372c7845347" sha1="4c427235dac26e1aa90916439d8a7dcfe75a7101"/>
+	</game>
+	<game name="Legend of Dragoon, The (USA)">
+		<category>Games</category>
+		<description>Legend of Dragoon, The (USA)</description>
+		<rom name="vJzbbLXJBZBkTYJglqvnZHJYTFzVXxmzUthTOiopcauxXIbfUYpyrrVanoNiClVlxiwkEbEplNiJTIMtVxKQNPbWXynAvndZOTqlI.pkg" size="1218779792" crc="65c686d1" md5="de279c2c8e1b7b4374ef48743de6c250" sha1="2b3ed08c9118d8a5647b3fadaf81837a29fa6dc1"/>
+		<rom name="UP9000-NPUI94491_00-0000000000000001.rap" size="16" crc="218365fb" md5="bce5f9a6d8ce5c7ea06b85e58f0f852e" sha1="215d7c3c4e60e3e4f083c7424693e20ad12f7132"/>
+	</game>
+	<game name="Legend of Mana (USA)">
+		<category>Games</category>
+		<description>Legend of Mana (USA)</description>
+		<rom name="NMvEKZiePqYTHXbUseJoqkXzawbLsbIhYGLyQnurbZFlKQpyGEHWQXvmUNqRcnoGeJyYQUYazEqNmulyytVWwIvTHscZsgfIIcDIo.pkg" size="369062896" crc="2dd02cf6" md5="b210f364f48f856738d52a7e88fefd01" sha1="8c7c52f35bb3bc3bbf1de2d887fb267c62d5bad8"/>
+		<rom name="UP9000-NPUJ01013_00-0000000000000001.rap" size="16" crc="c8f8a542" md5="2886207279f7e5f530f1d61839af4110" sha1="2a806da0ffb16e16ab8e65b9c2bde539a5a81a62"/>
+	</game>
+	<game name="Magic Carpet (USA)">
+		<category>Games</category>
+		<description>Magic Carpet (USA)</description>
+		<rom name="P6YVMVI2kB1pigAWAR29byvqF4VwdveNbJEXFYiACep2IPOnwCLNMMNbPP18h4doOE0qWtYPhT2E32BQKSi2EFXeBPyag8RB6brbv.pkg" size="87465696" crc="48ffe533" md5="bd68a548ad2ae03b4848614090fe2415" sha1="a7b7bc1f2652df244279b4bd2099a578aba3bfff"/>
+	</game>
+	<game name="Mass Destruction (USA)">
+		<category>Games</category>
+		<description>Mass Destruction (USA)</description>
+		<rom name="7jHvYvHbLd9yFYpYDytoWnpYf1NkluIVSb4t2OyV4aeqmkD0xAtbmVeKll9AMTWPpIIxjJI1QkUMo8lIV52pK40YI5CbM9DjRapol.pkg" size="90850240" crc="04af145f" md5="e1c1375eb836e6ebeb50163c7c57eaac" sha1="7ed685d50dd0f6cfb49a9868eef23de919682091"/>
+		<rom name="UP9000-NPUJ00462_00-0000000000000001.rap" size="16" crc="e961049b" md5="ba2f2b68a74e704fa192ee0d0da47019" sha1="20cf022f75ed7ca76b62d4c2388ccfc4a246ad1f"/>
+	</game>
+	<game name="Medal of Honor (USA)">
+		<category>Games</category>
+		<description>Medal of Honor (USA)</description>
+		<rom name="K8wif2XJ3kXn45A2S7CakbXnjpVKPYuw0k8ayIXrYplMwS0xbfehDendWb46q30GtRk9kTu7PRQJ9ycnXatXIBJEAI3p3vQM78eUA.pkg" size="468710848" crc="7ea12185" md5="8b3cd867bf0680bac08dfa0cb7b1a573" sha1="e57c979ca84fd612377fb7dd94fd70e7973436a9"/>
+		<rom name="UP9000-NPUJ00974_00-0000000000000001.rap" size="16" crc="6b1a8122" md5="f8d6303ed5bb79a9a6e5eb4d20f71656" sha1="8d5ca5b4eba00a8b214a1d14a9cf2039857dfd72"/>
+	</game>
+	<game name="Medal of Honor - Underground (USA)">
+		<category>Games</category>
+		<description>Medal of Honor - Underground (USA)</description>
+		<rom name="xUQaB5RHHEbw2FXwqaQH9inmkCsBM7BYs5pEiT4IFebfUCesWr3gXC5KwtTXF2dLCycGrImXhuQqnBrWq7Sc4mqPHwxPiPQgrVKO6.pkg" size="496091088" crc="aa72b665" md5="3c3185e18164ffb6bcc84d4ba5339906" sha1="7a2b5ee045b489b4e01c1427072fcc0a717a74d0"/>
+	</game>
+	<game name="MediEvil (USA) (v0.00)">
+		<category>Games</category>
+		<description>MediEvil (USA) (v0.00)</description>
+		<rom name="Psidl1HsWitDCPT3RLYJUyrwhMEru2DvrDnsPUqcwXOb7tiv7UhV9jEDBMYVo7dI3waAYfxRBsxHgwb8hMxpECbgnEayo83caxgGu.pkg" size="345104912" crc="5f41f23f" md5="99bf8521ffb97a70d49adc74665894b4" sha1="52160ba305b89fb9d8b67739ba0626a2bd3e713f"/>
+	</game>
+	<game name="Mega Man 8 (USA)">
+		<category>Games</category>
+		<description>Mega Man 8 (USA)</description>
+		<rom name="UP9000-NPUJ00453_00-0000000000000001_bg_1_a0dd5bce4702ad38c59ec938e745244a66b0467a.pkg" size="246857712" crc="17dcfab9" md5="edcfbdc191e2498445a5fae7e73fb952" sha1="aeef5c6ab18e65bc980494c0bdfde316195e6ba2"/>
+		<rom name="UP9000-NPUJ00453_00-0000000000000001.rap" size="16" crc="f9891513" md5="50f0fec1682f44be1c469c85ad3d5e8e" sha1="114425016ff91222127055b367a6316ae84779dc"/>
+	</game>
+	<game name="Mega Man Legends (USA)">
+		<category>Games</category>
+		<description>Mega Man Legends (USA)</description>
+		<rom name="UP9000-NPUJ00603_00-0000000000000001_bg_1_ece768cc797f8cbf52a466157b2bd0aea1dd32e0.pkg" size="225519584" crc="ad15ebd2" md5="d51bf61cf89216d9d3a969188dee6207" sha1="b25f6d7909853a066f4b6fc94e50b86e4fbbcbf6"/>
+		<rom name="UP9000-NPUJ00603_00-0000000000000001.rap" size="16" crc="b1c93bac" md5="9bfe3868e7ec680700a5aa24bb66c469" sha1="adb9c10c7ea669f09e2489aac0a8ed863fee521d"/>
+	</game>
+	<game name="Mega Man Legends 2 (USA)">
+		<category>Games</category>
+		<description>Mega Man Legends 2 (USA)</description>
+		<rom name="UP9000-NPUJ01140_00-0000000000000001_bg_2_f1b34ec314c11326c6cbb3175816ae44e3c6a0e9.pkg" size="239562176" crc="36dc1ab7" md5="3bc76e8c71c55444f189576d4e5e9a09" sha1="a804eb2f65ca22bf2097df9447b3e7fc42de43d7"/>
+	</game>
+	<game name="Mega Man X4 (USA)">
+		<category>Games</category>
+		<description>Mega Man X4 (USA)</description>
+		<rom name="IpOsRmynxUhAhhEoIZPOdlSjygSFWcHLeyjDOqqyCvoMUNgQIHDaOOjKaVhIIDrB.pkg" size="390043168" crc="0b64c5e2" md5="693dba486de48af8a05b4175fdf16729" sha1="106ab61580ce9595b8b29e983c88e54f61e3b70f"/>
+		<rom name="UP9000-NPUJ00561_00-0000000000000001.rap" size="16" crc="4a5b997c" md5="bba41115e8696e9278a2aab6a1b0540f" sha1="d13e38bc47de236814335de2545b6441e30b5bac"/>
+	</game>
+	<game name="Mega Man X5 (USA)">
+		<category>Games</category>
+		<description>Mega Man X5 (USA)</description>
+		<rom name="rQOuUKfwBvjRpVftbKlpTRVmSOGKrAeGfxSnotAeQSPMAvgpCsRZXUnMOGehShbk.pkg" size="361237808" crc="d6b02937" md5="b26d1da7b0c98f44b2cd665db046eb78" sha1="b32374def15c05db45f65bb8bb9bda145787c1dd"/>
+		<rom name="UP9000-NPUJ01334_00-0000000000000001.rap" size="16" crc="a086cf3a" md5="b65e753d52906c1c59ba121c87ed63de" sha1="26f709b2744ac2e983df6bd6840b1da0f885342d"/>
+	</game>
+	<game name="Metal Gear Solid (USA)">
+		<category>Games</category>
+		<description>Metal Gear Solid (USA)</description>
+		<rom name="8BrEWinG8ghPsDVpmYVOmlh3btFfrkYxHjjmVn6X6qeqGKM2RB4eklmBljPYNeDyEVVT9cF0OPMNREpuscT8nIHygRSfHo9JsfeJm.pkg" size="817593632" crc="1ae87df4" md5="16333b4b4fdacfb70e2bc99befe18cee" sha1="64e112a524347fb61fe775e302313068d015f024"/>
+		<rom name="UP9000-NPUJ00594_00-0000000000000001.rap" size="16" crc="5f9adf37" md5="e721f168efb2ab85f55e16c21cf4b4b1" sha1="02051a4e041b6a787d75f011897b7b10a8bdf9f7"/>
+	</game>
+	<game name="Metal Gear Solid - VR Missions (USA)">
+		<category>Games</category>
+		<description>Metal Gear Solid - VR Missions (USA)</description>
+		<rom name="DlJTspPjcHNBnPZtiYnSNdjzvyIAGnsSREChVcuLvpdowlMzzDQhscxQYqeGxlkqLwdUlrmftklpcBDOzjzdwOPwNocVKwuxFAxJG.pkg" size="325443904" crc="4b6de813" md5="c0a2303990e7e9e04a3500f927617efc" sha1="3dd1ff19d3bb315df2355aace8d302b8c8631ebc"/>
+		<rom name="UP9000-NPUJ00957_00-0000000000000001.rap" size="16" crc="68fabe40" md5="12c77d3fbe03562b6107a0c959a32044" sha1="62d91b56cecab3f3233f41dec1ab48ac76e7080a"/>
+	</game>
+	<game name="Metal Slug X (USA)">
+		<category>Games</category>
+		<description>Metal Slug X (USA)</description>
+		<rom name="HkjkhIE3UtslhEQaFqsvi4g3Ildbp9RJfk6wndrokliiXYteEgJGgK4WAl1VAWe61v5ivOV0ltV6V4kCMyrr41eg6N3yNFtwnIoY6.pkg" size="73740512" crc="e3af8d67" md5="68de9265d4cdc71cdf57b9ca482c4c15" sha1="9dbb47a59e7099b8d75316f6c771adea533d2357"/>
+		<rom name="UP9000-NPUJ01212_00-0000000000000001.rap" size="16" crc="e74278dd" md5="4e5c80f90226bca70d4be68198e6b539" sha1="058f8a99cd35ccaa4c5beae596ff8de1eb23ea60"/>
+	</game>
+	<game name="Misadventures of Tron Bonne, The (USA)">
+		<category>Games</category>
+		<description>Misadventures of Tron Bonne, The (USA)</description>
+		<rom name="UP9000-NPUJ00896_00-0000000000000001_bg_1_12100ad0ce9ba84f440bdccda3c86fc3023ac8c7.pkg" size="139025200" crc="ae72b861" md5="5fbf3ef3a1e262b8d8a972f21f9a5fe2" sha1="29174b3852d86296067fe9d3fa4b9941e511a393"/>
+	</game>
+	<game name="Missile Command (USA)">
+		<category>Games</category>
+		<description>Missile Command (USA)</description>
+		<rom name="EMQbTICjxsPUotUwcLsaMXIcGzNgdiznNrtZvmhxfMHKpQJORwlkOhlusgZoTpTxmSYUjPFDlipoJpiekftgiAEtXnhaBFNVKNsFz.pkg" size="201365760" crc="33ce26ce" md5="b4216830449862ed2efe5bb0ab6b7ee0" sha1="4cd479469ce9771ce08266cafc7f42dd0f5f54eb"/>
+	</game>
+	<game name="Mobile Light Force (USA)">
+		<category>Games</category>
+		<description>Mobile Light Force (USA)</description>
+		<rom name="KHrGAauCuGcNpq8iIYUTJJvvcAFDoVmSYGAdTmhKlEvT8StHeNj8K0KpcRyOysGbdgGuHQCoGqWhFbKjKT4vfkw6EsNws5rJsrF0x.pkg" size="71553104" crc="042baa62" md5="e03a0925396653e4c6663b71df1b870f" sha1="9a987c1aebd4956353e2169c22d47564736d8717"/>
+	</game>
+	<game name="Monster Bass! (USA)">
+		<category>Games</category>
+		<description>Monster Bass! (USA)</description>
+		<rom name="pjyjiSWrKAPQuObjHktwOUVREUlDhXwVIvFgJFWGhTadZeLGyuqLXqTcdxChyFAPfBjUkDXjblASIDFpIQkFuNtLexsrzbUMXqcks.pkg" size="165924896" crc="222ce2df" md5="366cba9b15ceb5d7c712c0085446c684" sha1="cf87161285036d7973424d6c97ca2da54f30cb24"/>
+	</game>
+	<game name="Motor Toon Grand Prix (USA)">
+		<category>Games</category>
+		<description>Motor Toon Grand Prix (USA)</description>
+		<rom name="WDlQG2tX4Yhx72tlq365kGPAHjH6rmcFe442PmdQpvQmvTpjCai99KCdnh91NC13PmDpoV6xy87xjSVQTE58sdkfbWG1D3XsYRlvR.pkg" size="262797072" crc="1f86e3cd" md5="07c86ee83a2fe5e0cd01eeaea7a956f4" sha1="e07ed6cd600f19bc860f16f0169b9ba2526e86bd"/>
+	</game>
+	<game name="Motorhead (USA)">
+		<category>Games</category>
+		<description>Motorhead (USA)</description>
+		<rom name="cYZuGsbMhSeDukpMAxzwVMzxmWXqnPDgVRXVJrPpVyNuMuPhfdRNqWDscXylxYYRcJlqpIaKHeJeifknXPEWRWeudlGcRVSTFfIeD.pkg" size="179469168" crc="1e3ce0c3" md5="2fb79a56218363a8ff83af15a6ba440e" sha1="da20789c3d73adb19e26c1d3aa73174389a3ade8"/>
+	</game>
+	<game name="Mr. Driller (USA)">
+		<category>Games</category>
+		<description>Mr. Driller (USA)</description>
+		<rom name="rapBaOByKbZeOoxjesQHndyBnvwWmJJHqldkcklpQoacOhNlPTLZCKeoINmKxXZB.pkg" size="180862304" crc="c6572e78" md5="c7348a1c544e15daf7d11bd219a27c27" sha1="9d66b37191cfa169e4ec7a45ae932cbaf452bd2b"/>
+		<rom name="UP9000-NPUJ01111_00-0000000000000001.rap" size="16" crc="b9eb0b12" md5="cd6d49658bb9f8e4b9b7f679806a37b4" sha1="1607d72ce96a66ba666ffe92b1ee89923213141a"/>
+	</game>
+	<game name="Myst (USA)">
+		<category>Games</category>
+		<description>Myst (USA)</description>
+		<rom name="BBpiXamycCumSDzldMmRtpRIDwAEUuxTHJdoyABVgVhyybwyBTEWzULFvWgPtaMmbMiFLRbmGNIGWydzMcQitGRWdXlKqSVbzRWhI.pkg" size="365609984" crc="f397bc21" md5="a8893c20b8a4ed2b18c111053874862a" sha1="5bcf8f598905d7dcbdc2b29c21b6d825a30ba4a3"/>
+	</game>
+	<game name="N2O - Nitrous Oxide (USA)">
+		<category>Games</category>
+		<description>N2O - Nitrous Oxide (USA)</description>
+		<rom name="BnntcppItUd43y9VQubdxwMgPuUXM8VxGombguIipsYgWNc5fY9wdbm5BGA7UJJ0V6OgjfpBjOGwvkXvrE2XbjHpwqUm4j1St6gTA.pkg" size="73167040" crc="835168eb" md5="6fdc8021ecdaafc3ac4d4b0ecba632cd" sha1="97c38fb525630a40dd90df06fa07361df14d2e21"/>
+		<rom name="UP9000-NPUJ00637_00-0000000000000001.rap" size="16" crc="8507fd5d" md5="ce587159553e173ea0398425073af0fe" sha1="e20cd26fe48600717f9d2674d0176460c6f68262"/>
+	</game>
+	<game name="Namco Museum Vol. 1 (USA)">
+		<category>Games</category>
+		<description>Namco Museum Vol. 1 (USA)</description>
+		<rom name="ojSSCUQDgcpcHThpVSfvYLeTTAWpDdrHAQLKUTcjwZLPaKrAFLMWIaYUfUauchYP.pkg" size="56087392" crc="f7d95665" md5="4a1ae5705b934d80d131b93153cfa37d" sha1="5fe9ac3ef269911468b7ff450c9e1ce9d0cdeb16"/>
+	</game>
+	<game name="Namco Museum Vol. 2 (USA)">
+		<category>Games</category>
+		<description>Namco Museum Vol. 2 (USA)</description>
+		<rom name="wDsIULPMVeJKCPPBYAcnUecZKDypPHXNNfECgxifhXLzdLrQiqvqLaPJYvEAWDYz.pkg" size="110060144" crc="8d7f78b0" md5="f4a6a398ee38e111182e39c670860f32" sha1="16d306e5f42b5717c77fb83bc1970b36384b33aa"/>
+	</game>
+	<game name="Namco Museum Vol. 3 (USA)">
+		<category>Games</category>
+		<description>Namco Museum Vol. 3 (USA)</description>
+		<rom name="dkmTZtPKhfNAJRnFfzQkERFXgLUljKPnYvMvLpuEjTuFdqOjUSfwNXVKeZsSXpHX.pkg" size="207379376" crc="3ad14a74" md5="efc436d40e0b9b712c31e80876ba6350" sha1="4a39063542236d60fd5a03157c0bae0ad1ac7c66"/>
+	</game>
+	<game name="Namco Museum Vol. 4 (USA)">
+		<category>Games</category>
+		<description>Namco Museum Vol. 4 (USA)</description>
+		<rom name="tzFGnXylvfdbBUiQXXphRwinxIblXlQNSYETldOwykwtDYRqpgCnffzYQPVjRBpY.pkg" size="423713920" crc="78735205" md5="35a99d732777c92f172520ad1a61f93d" sha1="53912ab4c819d63ac3ddfa5118852df36eb40a08"/>
+	</game>
+	<game name="Namco Museum Vol. 5 (USA)">
+		<category>Games</category>
+		<description>Namco Museum Vol. 5 (USA)</description>
+		<rom name="UBQiyyBrunGothtkwFaNLmtiHbXPmelOxLcvfavHTGuYpPHxmFPmFkpCnklFrXcF.pkg" size="252308080" crc="0a4a5f30" md5="12e057223316d5beb04ea98967eaaa88" sha1="a6250b40016c34b9615d105e0d7eb0ebc64e2e07"/>
+	</game>
+	<game name="Nuclear Strike (USA)">
+		<category>Games</category>
+		<description>Nuclear Strike (USA)</description>
+		<rom name="DWC4L5Iv4J5QWyhqpQyxKVBPop2J2cYSuIe21epF7lLnRee1gXq0m9I00xVU7fRYujVOcsQMd1N4fRFnWwJRojeWbeyy0o7yH3qHd.pkg" size="498561440" crc="d49c943a" md5="4beaa3f150cc203088215e8c7079b7d1" sha1="7d94b9cf3a85bd4491d09751f3cba2ae2c04f921"/>
+		<rom name="UP9000-NPUJ00518_00-0000000000000001.rap" size="16" crc="d114eb17" md5="7fc95f4da696c398950b08322afa1495" sha1="d5c16004a573dcb6957a78ab641918763a4bdb11"/>
+	</game>
+	<game name="Oddworld - Abe's Exoddus (USA)">
+		<category>Games</category>
+		<description>Oddworld - Abe's Exoddus (USA)</description>
+		<rom name="jIlns5FqsgNERwsTuxqgU4IdgWKK7T90DYxPBXkT9xwACqiBeSuKxAXLADFCqbewolmiIRTDIK2uu03C4uhlPPNrCgMaAnU3LYDAM.pkg" size="789355568" crc="b9155dd5" md5="e3f4fc9c477d264a3c7f0a9ab01fcd5b" sha1="23be6901c02b3ac9eba363f23bde3b35a804c8d6"/>
+		<rom name="UP9000-NPUJ00710_00-0000000000000001.rap" size="16" crc="a14a51ad" md5="f2fbce6825704348d0a04be4b3c87c07" sha1="c0c31e54842e02ca9d5f4a0177dfc6d7239a31bf"/>
+	</game>
+	<game name="Oddworld - Abe's Oddysee (USA)">
+		<category>Games</category>
+		<description>Oddworld - Abe's Oddysee (USA)</description>
+		<rom name="x5wvwhxg1q3d7hGVPOHKW8xR3hn9G70UCQnR3fSOlsbgIV72hfyvku0CL0aqK1F8T6hsaowWmNl6vN6aCOCkDywbPyUFO0VnD4hQK.pkg" size="491897568" crc="48cc7953" md5="133cea6cf997e8eef682b7df817f822d" sha1="fda2beb433f2f7f161a634452614eb4e5673956f"/>
+		<rom name="UP9000-NPUJ00190_00-0000000000000001.rap" size="16" crc="9899a6b7" md5="73ceb87c7fda5c5a8b6d16de8cde6ce9" sha1="061048bb12cc46e9fee2d57ad053d8ace9758a0f"/>
+	</game>
+	<game name="One (USA)">
+		<category>Games</category>
+		<description>One (USA)</description>
+		<rom name="vnucksxIWLkFaFp4bw7umYkQVr2DGyt5dGsjDmrIwyaNp30CsheP506nw5G3uCoSBWSdUulnEUuApD3vNlu77QgR5cdaAoOHeXPkD.pkg" size="38234176" crc="5a400a2d" md5="90a60f33e4a3d5bb4e9397f5b00101fc" sha1="ad6b3f949d9029750ce43517429d68e16e769438"/>
+		<rom name="UP9000-NPUJ00469_00-0000000000000001.rap" size="16" crc="0f7aebaf" md5="6d0bce7188c5f4a1c4bf56446bc6a681" sha1="9ae9074a0f0e0eeb4265f9c82aff611cf20d98ff"/>
+	</game>
+	<game name="Pac-Man World 20th Anniversary (USA)">
+		<category>Games</category>
+		<description>Pac-Man World 20th Anniversary (USA)</description>
+		<rom name="AraFNdZaCyTAsHeTUsMbamRVwKHQWiGAmjMWgCWHYiMVmOqvvqUCUcqXcyNBsffr.pkg" size="246195216" crc="b3ffd1b2" md5="1fda8eb6f2a20cf25b4c43db23b8d092" sha1="6439f8a008de597c95efc252659b2a61e72db60b"/>
+		<rom name="UP9000-NPUJ00439_00-0000000000000001.rap" size="16" crc="5ad6d4b2" md5="e40abc97705f2a0edf1bec9ad9b3258a" sha1="71ed7fde67b92688ead8c30434861f5b7633ce8a"/>
+	</game>
+	<game name="Pandemonium! (USA)">
+		<category>Games</category>
+		<description>Pandemonium! (USA)</description>
+		<rom name="v9aB9IL8GMQTPmIFKucFVUEuRSHfCKErWBGSOAExoQoCLdFooC0993jwKTDwhjqhyHorc8pr3nhbIbOvOPoE3hmc8hOIQvwyVKqTA.pkg" size="86543856" crc="229ffa28" md5="fe55a13abf397a060dc51b995f79f27b" sha1="9df8660f3d55e49c3fe08a0ce1788d7158406120"/>
+		<rom name="UP9000-NPUJ00232_00-0000000000000001.rap" size="16" crc="8a66de0e" md5="f4fddacfa2b2f25ad9901b6a8b5de996" sha1="082e913f8b7ed4579f35a93a36cae215be9064dc"/>
+	</game>
+	<game name="Parasite Eve (USA)">
+		<category>Games</category>
+		<description>Parasite Eve (USA)</description>
+		<rom name="nkecymPHyIjQSpohRghsgdQUSQBWWGkLAkrgRPfNeQTVyUdVwJpfMBfdDynbEbzBRIzHoaNsBpasTuMRHnfanhFvZOhDDAUKSyayq.pkg" size="578940496" crc="5fdb4b02" md5="68b8fd1147c0d7fbd3f01544febf1148" sha1="7729047f5f22427103bb50daab72ea82a35e81de"/>
+		<rom name="UP9000-NPUJ00662_00-0000000000000001.rap" size="16" crc="2cbb2a5c" md5="4ba64c22837d52499fd1f5ab75da41fc" sha1="42d6b829a9694f31b976f48ef3ddb082f98b552d"/>
+	</game>
+	<game name="Parasite Eve II (USA)">
+		<category>Games</category>
+		<description>Parasite Eve II (USA)</description>
+		<rom name="vrfGpkwuVOqvLvTZRuyyNqwYtdLVVFjoDAaQNcyCClXhvpzatmmwwwsZrrzyowOYPFgLyiajRyfDDXugoMyFhMkdRUfDGmNNuAiBe.pkg" size="812095248" crc="626d86c5" md5="4072f9e4c35fb5e6958d7e81f8877fc7" sha1="efa78586a341a3a11bac4b07c9120ddf3238d5f2"/>
+		<rom name="UP9000-NPUJ01042_00-0000000000000001.rap" size="16" crc="3dcf3b9b" md5="8d96e15caeefcba8cc82db490fa3b750" sha1="789d739615adf42ebaf9425a8f063048d9e02230"/>
+	</game>
+	<game name="Perfect Weapon (USA)">
+		<category>Games</category>
+		<description>Perfect Weapon (USA)</description>
+		<rom name="x0YM15wNVWNeB0W09tNt1AYhwV00DWSBRYj5BhKP6NkSxLFhTLuMOccBt4t2j3hQfi3tLb2X6i6cDylQWApIW23ka0P7fTFpDvyBk.pkg" size="216018096" crc="8592c36e" md5="0a2f042eedf67f12f3eece9c41879428" sha1="9754d33ef6683c3a17080a723299c6b528de9d17"/>
+	</game>
+	<game name="Persona 2 - Eternal Punishment (USA)">
+		<category>Games</category>
+		<description>Persona 2 - Eternal Punishment (USA)</description>
+		<rom name="gPEqVpBZaCUJJCBWvyQVAPtzGBHJLHoHrCuwfgGIttiOAxKfjtnMlAYyvknkUxSa.pkg" size="461923680" crc="522102b5" md5="0aeea73b637728a7944c83d9a22c2287" sha1="0a8076d9bb65e71e1847bd269d2605241946fa82"/>
+		<rom name="UP9000-NPUJ01158_00-0000000000000001.rap" size="16" crc="b5198c06" md5="57feddd3efa323191cdeb8b210336b95" sha1="591a2dc750afe8091e66238daef149e72fe5f80c"/>
+	</game>
+	<game name="Pocket Fighter (USA)">
+		<category>Games</category>
+		<description>Pocket Fighter (USA)</description>
+		<rom name="gSqPhXcnjRUfWvdTFUHEeDeqBWwRbpscsffbMGwgzdXFrAJxLZtGlwBoAZylSxSdmIHWwhgHavnZlotiHNFmjMGlKUqqHrmTuOcyt.pkg" size="166490672" crc="2fcc70b2" md5="1bf663d25ff429dbb118810afc9bab6c" sha1="238b551dbbf92d277eaff5849827b110f1e9ab69"/>
+	</game>
+	<game name="Pong (USA)">
+		<category>Games</category>
+		<description>Pong (USA)</description>
+		<rom name="PBBgsvRYOvCFIUvIMOycFZnnnQbxZXccdLpycukzSlNXbrHfjGQgVQgwZKebaENTlnbjQtyaqqAWhGxvxtEltIuTgrytynuJuDKrC.pkg" size="44617568" crc="5681ff28" md5="7b426129d638f133cb0582cff1c1a8ca" sha1="28d9a2c14ada53a6310e530ada52a0622a8801f6"/>
+		<rom name="UP9000-NPUJ00889_00-0000000000000001.rap" size="16" crc="620a8fc2" md5="d54a03ff46c749173e559323004999fe" sha1="2367a16fa786f2cc90d544f47ca5835a92f45bf0"/>
+	</game>
+	<game name="Populous - The Beginning (USA)">
+		<category>Games</category>
+		<description>Populous - The Beginning (USA)</description>
+		<rom name="R8ExHyRwccEc1jKDT85Ubo1yhToIuohijQRJmwtNT5GRkXEpLM9OgU640FiNsV6cus3J2xxVQMVobYEUVVue4StqUn1I8JAeyPfAu.pkg" size="261821744" crc="76121467" md5="ae91152c4ab8d0c8949d4fbe43a6b480" sha1="f0ae54823ab4f881fb91d7b76bba4ab3d8ae918b"/>
+		<rom name="UP9000-NPUJ00277_00-0000000000000001.rap" size="16" crc="151d4788" md5="4a9e7e4eb5e243c608230a33478a2b9b" sha1="a992b0f3107853daa40d2bf196f2bf19a4231d6d"/>
+	</game>
+	<game name="Putter Golf (USA)">
+		<category>Games</category>
+		<description>Putter Golf (USA)</description>
+		<rom name="vzbwjCnDkJpHEIzWUNCCbzjEHXDkDMzejaWulsjaoVhTXbupcskkNoLlcUVGfcBV.pkg" size="107236544" crc="ac34fec4" md5="34d4d0d0631858cf3d3f4bd86b993a66" sha1="b43673f0e683c890878a76a38230fa41fb139649"/>
+	</game>
+	<game name="Puzzle - Star Sweep (USA)">
+		<category>Games</category>
+		<description>Puzzle - Star Sweep (USA)</description>
+		<rom name="UP9000-NPUJ01307_00-0000000000000001_bg_1_a31a1934cc9014aa868cb720189b5f8be1b25c4f.pkg" size="93848208" crc="f5af3e5d" md5="c7ba7a860ae67ab58c3a673d3a098c48" sha1="7923b2579a1e823a558a6a7d21cabc37e0246871"/>
+	</game>
+	<game name="R-4 Ridge Racer Type 4 (USA)">
+		<category>Games</category>
+		<description>R-4 Ridge Racer Type 4 (USA)</description>
+		<rom name="yVidDxiCwhPNqQDeHWdlsOBcBDUNccyckMQtYUGgbMuXYQxfvtzWCmrpIXaOTvPCzuvmzCKlPpuDeGCEBlMeXXTbnOrrFoFKUHvHd.pkg" size="368706144" crc="8d3f5ebd" md5="8cc53c86210a206b884553017f6a3784" sha1="4d88cd5d7f17022536afeada01cd35227d7b04cf"/>
+		<rom name="UP9000-NPUJ00797_00-0000000000000001.rap" size="16" crc="3cf7f716" md5="123d55a5c635f81dde643339dd39449d" sha1="c04980aa1150daeed1e8e5ff0097cacd2f22812f"/>
+	</game>
+	<game name="R-Type Delta (USA)">
+		<category>Games</category>
+		<description>R-Type Delta (USA)</description>
+		<rom name="7nmFOvYQnEovgd2vQR5qvuGL0t9vBrEcJGsbyAhve95pMKfGebhdqOfqwKwoYALmvII1HAtnn71mNCKtDHvovuL1iuEJLj6AUytjb.pkg" size="228915552" crc="65c3b561" md5="6b38c8aaad21042c8b802c23b1cf35b9" sha1="61150fc9e77bf8d248b8e04748e32a1927e89494"/>
+	</game>
+	<game name="R-Types (USA)">
+		<category>Games</category>
+		<description>R-Types (USA)</description>
+		<rom name="gxpFi5NgHiIsiRVVP9YxUCcgGPtFUgBSOOOSsHnQK6LJDGlVErd1Mk3pJPwmoyErNONTLBXCRegQtvHVg19EvGJtWXSUdxFNRSiuc.pkg" size="255495296" crc="99316546" md5="148810733713dda03fe92df862bb022a" sha1="fcb4de63231aa731bf32b8eaff4b495827770c2a"/>
+		<rom name="UP9000-NPUJ00753_00-0000000000000001.rap" size="16" crc="da3e2198" md5="0f8602f990ba5eff94a797b948bccc3c" sha1="d5a3e7d385c8a7856f28b7a5690993d8ad7e7421"/>
+	</game>
+	<game name="Racing (USA)">
+		<category>Games</category>
+		<description>Racing (USA)</description>
+		<rom name="UP9000-NPUJ01291_00-0000000000000001_bg_1_fd4bff46a3706434b0a59b66088a9c7885197342.pkg" size="71252160" crc="b1320987" md5="761b446d9de9d1f48b89f5a29d3e5ae4" sha1="6bf0f30d1b7d25110d272602f685ec81a1fc84e8"/>
+	</game>
+	<game name="Rally Cross (USA)">
+		<category>Games</category>
+		<description>Rally Cross (USA)</description>
+		<rom name="HBa6nIeus554kJNHlYgXg5j64CpSsMIPgfImsgHoVV3S973866P2wW1g5XbMyFm2eegdtXpEFm2ioiaCA8OG8uhskh9fB6P5U7KvM.pkg" size="107083792" crc="35b3b922" md5="1c2d72c545fa6c496abd95b811c104c6" sha1="b5a79cb8dabf162c687b15d43bee9aaa5a7bc30c"/>
+		<rom name="UP9000-NPUI94308_00-0000000000000001.rap" size="16" crc="652208db" md5="bfac2a81d78be4bb80b4e5902c6a2c2e" sha1="fd3390545c6d9279a1c270b7f46960bdc61b01cb"/>
+	</game>
+	<game name="Rayman (USA)">
+		<category>Games</category>
+		<description>Rayman (USA)</description>
+		<rom name="cHtWVHG9fi4YsqyedrJBX6fwMb5Grjo7NH2XgTnDRVM2VG5O2BABGuiGTMOs0a0DFjUMhEKWkaxmPFT8RqGsGFDmTXLElm6WMlQYd.pkg" size="101209520" crc="74bb9ee5" md5="52e983719acf70de0c1f2cbb2136f602" sha1="2946e08300b764159e979dc3ab52407952b3f2d9"/>
+		<rom name="UP9000-NPUJ00005_00-0000000000000001.rap" size="16" crc="4075f364" md5="e07f577909f7bb355856c292e4645790" sha1="46e6e7b0581e42786c389a5fa9e41aab0dc30ef0"/>
+	</game>
+	<game name="Rayman 2 - The Great Escape (USA)">
+		<category>Games</category>
+		<description>Rayman 2 - The Great Escape (USA)</description>
+		<rom name="W26PBvItFq3VQiWutuEhiaRCKsOGAHc9LEIIVFiKvv9crlvEcIKnPefHCy0VYPtFeCSjOik1GvnwP4e6bxQQRnSV4JeLCobMVEUAS.pkg" size="399242576" crc="1f5528da" md5="d7cce57d5e9aa06039215b16918caccd" sha1="04f8683f5f0d270919706b1f85b8930cf337fa69"/>
+		<rom name="UP9000-NPUJ01235_00-0000000000000001.rap" size="16" crc="b5886adf" md5="fbcfff7b31a0d541ae9b70d08815b1ff" sha1="baff70dabd40bded30614afb54b8080bc8976d98"/>
+	</game>
+	<game name="Reel Fishing (USA)">
+		<category>Games</category>
+		<description>Reel Fishing (USA)</description>
+		<rom name="Y6qBHCVy0gs6bJss2cUSopGTwrigUCm6he9URm4e9gjaCQStFG7Mmu6FKDwsNuf4sUPIGF3uxaBEBeqKDOyC8MCArB9GdVUm3iFQG.pkg" size="141116512" crc="df67b774" md5="93d17ef77fc1c2d12bc5f4198b9d07d1" sha1="5aa05ad4be77dbf6a593a258fc109340e93999a9"/>
+	</game>
+	<game name="Reel Fishing II (USA)">
+		<category>Games</category>
+		<description>Reel Fishing II (USA)</description>
+		<rom name="hOvFjHdOvAwRNXNpyhZLdEGZwurLiYPpIaFKMXLxpYfYBoNzkAyJJLxTxAcWpFnIqLSNXVqdEzFZfNVmKAzBoipSPseJzGcvZnQTL.pkg" size="237722464" crc="b6dd6329" md5="57f00859b31f2938dd245515a81d5090" sha1="600650e54ba7ead9b70fe0ba04ac7e5ce5e76c4f"/>
+	</game>
+	<game name="Reloaded (USA)">
+		<category>Games</category>
+		<description>Reloaded (USA)</description>
+		<rom name="V6kysU1OL4TKPdUE7wEWgssGUUpQlKmP6i6SQrWgfNQwxLEVnbByWdEiQeVsnRWCMRH1q50BlFyMo5gsKegRr97rh2UEFvQaeMNQ4.pkg" size="150538192" crc="3a6e0d20" md5="1547fae0533650f8df7c8dec80548159" sha1="8ec1c9f9e211053d54def6d53734cf086fd320a6"/>
+	</game>
+	<game name="Resident Evil - Director's Cut (USA)">
+		<category>Games</category>
+		<description>Resident Evil - Director's Cut (USA)</description>
+		<rom name="O2cCX3ls2763VBGNLoYynELr2F0iigf1bxgjg8Bi5T4HOkTJcSS0uSTuVicTVc9WcMvVWNaF3KwCk1IxWhbNQD92idWDkyNfF61Nr.pkg" size="313459952" crc="d7f8e74d" md5="17864d103261f48a14d38e0b97b0647e" sha1="88fcb5187d087ab54bd96a2161d5f590dd3b5592"/>
+		<rom name="UP9000-NPUJ00747_00-0000000000000001.rap" size="16" crc="83006f76" md5="ac08b2a9d1617944ca6770f62e64de5a" sha1="dc078da38d4c8a8686a84e25c1c25992a3858b6a"/>
+	</game>
+	<game name="Resident Evil 2 - Dual Shock Ver. (USA)">
+		<category>Games</category>
+		<description>Resident Evil 2 - Dual Shock Ver. (USA)</description>
+		<rom name="iJJAibaIAJubbD11GHT0aJWF2uRCI9435vae1KMEeoqmlMyRA2OjvM97pKQrcjiKFwIaOBHr4XhdEFDosoOxKptqg4qBuG1tbv8MM.pkg" size="793571088" crc="9e7f2105" md5="733ec50daf3b731885a2635661debe8d" sha1="491a5e75b55ef3673956fedd6d810459be1804a7"/>
+		<rom name="UP9000-NPUJ00748_00-0000000000000001.rap" size="16" crc="9880208e" md5="7502c55b9d013a642d91cb3202d6ca98" sha1="3d3de230b7155589c946bd7abf45c02751f780c2"/>
+	</game>
+	<game name="Resident Evil 3 - Nemesis (USA)">
+		<category>Games</category>
+		<description>Resident Evil 3 - Nemesis (USA)</description>
+		<rom name="pbL4QOKwcNgE3QN8rlUNjC0HfnKMRxeUQhwbMBcwdIDOP9xLV6OKUhbgwgIiVq9AcMwpX6nHvwxHkDfnjuXnTaJbCxe0dRqcOuFAC.pkg" size="382817648" crc="0a1a52d5" md5="3ca4b4fd262fff2a767c3bbf410b7df9" sha1="389beb25977c0c28506135c59db5252a0fa7c3dd"/>
+		<rom name="UP9000-NPUJ00923_00-0000000000000001.rap" size="16" crc="6d1fcdb8" md5="21e633b7dee947853c92985b15232733" sha1="0cd82f56790c51c922ff46c48aeb662d1cd5d6c5"/>
+	</game>
+	<game name="Romance of the Three Kingdoms IV - Wall of Fire (USA)">
+		<category>Games</category>
+		<description>Romance of the Three Kingdoms IV - Wall of Fire (USA)</description>
+		<rom name="PvhITXHeSDLEwjCJiWMImIQMvtnXuBUEIkklrqqOcvKIZTvXqdtIoJJxbQHgNYXYcjEQukVjsbdREDbDmEuufdKIKWatLUJkCslDC.pkg" size="191012608" crc="2fe11db8" md5="e837a1c00203c9a917dc07d6d73f8fbc" sha1="68dd8623f5e1b2130673141b641eefd8577c102c"/>
+	</game>
+	<game name="Saiyuki - Journey West (USA)">
+		<category>Games</category>
+		<description>Saiyuki - Journey West (USA)</description>
+		<rom name="nEGJycearwdrhWAIeWLNnDCeaWOyjpwbRWUenrciMZayIsmrSTWWDkZFpyBrmUxnEFhJyEQySsLwKeYhAPYwYMNcTEQYqaVTwIOGU.pkg" size="351708656" crc="862d7332" md5="d1ef85684682b7c9259362aac0464dc5" sha1="c723a77b2b320acd288eee24c70cb574d9e5e574"/>
+		<rom name="UP9000-NPUJ01381_00-0000000000000001.rap" size="16" crc="21bd595c" md5="ad6caa80441d0751318c19135ad9907e" sha1="b9efbadb6cfdcdb011afa9919f09298ff0c206b9"/>
+	</game>
+	<game name="Shadow Tower (USA)">
+		<category>Games</category>
+		<description>Shadow Tower (USA)</description>
+		<rom name="UP9000-NPUJ00863_00-0000000000000001_bg_1_0009cae9e5cbe34045a4f93336123b8a7564252d.pkg" size="164753200" crc="ceee62a5" md5="302522895f3b5ef005c8b6373686df7e" sha1="8ec803ae9dad81b59d9aacbf74f7f1d7a36d6eea"/>
+		<rom name="UP9000-NPUJ00863_00-0000000000000001.rap" size="16" crc="7b38c7c5" md5="8a2d28c6a509455630d2af931dc49d64" sha1="95f85fd8f24829772e8acbbec6c8438337507253"/>
+	</game>
+	<game name="Shooter Space Shot (USA)">
+		<category>Games</category>
+		<description>Shooter Space Shot (USA)</description>
+		<rom name="UP9000-NPUJ01308_00-0000000000000001_bg_1_8d3f0edbb4cfc114dca8b2cd7c712220ccaad884.pkg" size="384455472" crc="07a070c2" md5="b0a4113161b740aa3ac15aea3b295812" sha1="b5c7639b0caf10232941e013524aabe49ef252cf"/>
+		<rom name="UP9000-NPUJ01308_00-0000000000000001.rap" size="16" crc="a028594d" md5="ac4fd9f473e572c0edd058a69f5a48ac" sha1="88202af382a41faec182826bac31c8cf310ddece"/>
+	</game>
+	<game name="Silent Hill (USA)">
+		<category>Games</category>
+		<description>Silent Hill (USA)</description>
+		<rom name="HSfdPrKvPwk5Itfn0cC6iRYeFxcByQVfKDgLB5HLsfHK8jNVOovnKI6Olj3WoNiaEbYliriVTIcCjGcWPrHCmdG83qE1RfRJqDDC4.pkg" size="308225872" crc="59453393" md5="84dbecba2d661bcf7dc8c8a43ee2dd1c" sha1="843634dc57cd851ae432ef2ad498f4b83e3f68a2"/>
+		<rom name="UP9000-NPUJ00707_00-0000000000000001.rap" size="16" crc="caaff44c" md5="c85679a3b50c4008fd0c4e6bbe933b01" sha1="97be7f4fb922321c75d7ba24665d18849740b9d1"/>
+	</game>
+	<game name="Sim Theme Park (USA)">
+		<category>Games</category>
+		<description>Sim Theme Park (USA)</description>
+		<rom name="kM2wsQALGLxUBV5j2Y2RGoTaEHTwDbON98YimDvfu3CCFaP27NKbLsxPVX2tHWuMw2qcsmv9I6bvbhSRmVonXwYvIftAO1VJkC9Fq.pkg" size="296186224" crc="826bb9dd" md5="88e1dad7c83e15e7b5376b589e13e316" sha1="4b3b7277f03cbb7a98c678e1ac31cc58017147d0"/>
+		<rom name="UP9000-NPUJ01069_00-0000000000000001.rap" size="16" crc="6e94e50d" md5="23db4a8ede6122dd1bc6775b70df4ac6" sha1="687bf0d6c1c3992ab872e4c808b3d6f30be259ed"/>
+	</game>
+	<game name="SimCity 2000 (USA)">
+		<category>Games</category>
+		<description>SimCity 2000 (USA)</description>
+		<rom name="06oBEHiCnUBUaLWsSYH19klEXCw3nKfj9PmTi8y8RCYFr5qvQMa9TgtWtw8WnmBucBP4KdSDJc66LsTe9oF1qRMDgFJIa2io4gwA0.pkg" size="36880464" crc="7e8f974a" md5="7792826b230b0e68c5941359ee3fb741" sha1="7720c65f15cbd28b539a58cf5634cf8fd346f648"/>
+		<rom name="UP9000-NPUJ00113_00-0000000000000001.rap" size="16" crc="2bd37c50" md5="7c96ef12d3de43dde6d994d9837cfcbc" sha1="9fdba3752f06dd9ecdc3c420eadd32094c556865"/>
+	</game>
+	<game name="Sno-Cross Championship Racing (USA)">
+		<category>Games</category>
+		<description>Sno-Cross Championship Racing (USA)</description>
+		<rom name="KBgdxaadkQCj6VtwyBNBsI5ysXGAND1MLoDf1xkSeB25EXfid9wNdQVweBQX10hvMWguElhhFyTJ6x1xMVKkGPews4GfgqDpCLMhQ.pkg" size="181656800" crc="b365b3d1" md5="435a8d99cd694481d10ea2882a4fcc00" sha1="0a5bc0284aa9f7b9783c5ac2b6a940e5f8806407"/>
+		<rom name="UP9000-NPUJ01093_00-0000000000000001.rap" size="16" crc="ba1bd05f" md5="7cee1acc4f0e842df25a693181cee4a9" sha1="11132bd02214c083d4f8a5b5e139bab7aa80371c"/>
+	</game>
+	<game name="Sorcerer's Maze (USA)">
+		<category>Games</category>
+		<description>Sorcerer's Maze (USA)</description>
+		<rom name="EwiOWQ0Qkna1BOo5vLeDSFUeUfg6tEho6hak7Y8rVkiOD8xMM61GBDr3bKMJBCoPdF8p8oBdMIorqYodHuJcar99CNtmIXbTgN08A.pkg" size="25986000" crc="c03642d5" md5="9a69cad75df0410a47f4c387d8e2c1df" sha1="1358d6fe07c290ad5e7ce78282801f5369861291"/>
+	</game>
+	<game name="Soviet Strike (USA)">
+		<category>Games</category>
+		<description>Soviet Strike (USA)</description>
+		<rom name="uo1h0noBCnsNKWLJGwmX6P0L62o4VbWkHkFdJlWI9VjPMyvWmDrmyH354CamXKVdNxWqXHcGtONlSfjtjkn1qCEaXTDn1RUMaPimm.pkg" size="506769040" crc="debc9d37" md5="a40edbc5903667e13af4caa5b1751272" sha1="6eb9bd04a145e0c3d0ad674a0b74ad0841e09613"/>
+	</game>
+	<game name="Spec Ops - Airborne Commando (USA)">
+		<category>Games</category>
+		<description>Spec Ops - Airborne Commando (USA)</description>
+		<rom name="xRpGQ9n5vlMcKo8eqYjIEukC8lyhI5GMNIF6K0g5ITo4RIcu4YJ1n5lEyOogYNMixJ9a07WVJMi3EqP2kc1pBAncNIWlBbHPqTjXF.pkg" size="117395488" crc="aa376571" md5="62078fe2f0c4f6f7ed71efdd3800d500" sha1="17d05e0d15d2d7aaa9de9e6a18fa29c0f8327237"/>
+	</game>
+	<game name="Spec Ops - Covert Assault (USA)">
+		<category>Games</category>
+		<description>Spec Ops - Covert Assault (USA)</description>
+		<rom name="P977mnJcLxq8h5VBckOXhMuNDaMiaVsThotnvJ3KWRFRq34mERCDXs5r913C3yD9Taam6eQWdSJmOliSmUC5Kq0b6HI2ka7oHaqHN.pkg" size="66822160" crc="ae0c0d04" md5="88d78b07e0f35ae5ea3f6455eb6b52eb" sha1="70214dc5e578e3c651295e3ba24f3d33e0b82d88"/>
+	</game>
+	<game name="Spec Ops - Ranger Elite (USA)">
+		<category>Games</category>
+		<description>Spec Ops - Ranger Elite (USA)</description>
+		<rom name="99djm0HtaqYYQXuDHL3cX7CBJ2hPQcYkMNX1hvS3Mgv57uiBs1stdkY9cQjIt3PhLRvUA853bIjcauEGT1BVrjeVrPqwFvDCR4P6x.pkg" size="96297104" crc="cf0dc136" md5="615d3c537cf244c0c40af3b3aca9c8cc" sha1="a262b9129e7984346c1f1f5a6e6b5ee9a9b706af"/>
+	</game>
+	<game name="Spec Ops - Stealth Patrol (USA)">
+		<category>Games</category>
+		<description>Spec Ops - Stealth Patrol (USA)</description>
+		<rom name="NQEK9sENp9vLeoUXBgSo0FXfuGnDmldIEfRiUFLg3bPWYk9Xm86f5fNiLUV3YNbgiTsgam9tqeum5rMCVgadQOlX2uw4Qs1LqT26a.pkg" size="167703792" crc="9d7684d7" md5="a04aedf9e6a2c53e23d668e1e3dc397d" sha1="0f3fac8e83db23e61f7dcb6a6182895ff64147f6"/>
+	</game>
+	<game name="Spyro - Year of the Dragon (USA)">
+		<category>Games</category>
+		<description>Spyro - Year of the Dragon (USA)</description>
+		<rom name="BDDd651NGlwvhPa5RmrNC11vBi25TLTIROpd8bL4tYGP2ljT9JqtPL4Yh52Yam26kQ1HatBupVypfqiC0bEsUJHfIoCahGSHLR6pE.pkg" size="361745728" crc="bd5d989a" md5="4da57e724556308b116363f13c33b8f5" sha1="01ca1d3b2cb6dd9ddcfac86104f504075816ba00"/>
+		<rom name="UP9000-NPUI94467_00-0000000000000001.rap" size="16" crc="4d27a5ec" md5="1c85afb7f15e59783172af1d2038c176" sha1="2a9c4f5f3036d3af0f8180a3e21a7baef1d83f81"/>
+	</game>
+	<game name="Spyro 2 - Ripto's Rage! (USA)">
+		<category>Games</category>
+		<description>Spyro 2 - Ripto's Rage! (USA)</description>
+		<rom name="5G4knNdfu0F5vyeuxDgd9InFBOPQdELq5qp9aPfgqRIFIVBjVSNXP0yufdnKU8WQXCr3cg5PSTlOAXOIRkwqS7bQTMoWpOkv55nyv.pkg" size="367922000" crc="a94ff2d2" md5="2deab47f51e7d9be86a9799934fe782c" sha1="102d802b7ae7b25aa01791e02e2acbe53e08aede"/>
+		<rom name="UP9000-NPUI94425_00-0000000000000001.rap" size="16" crc="9bad570e" md5="604d70bdd6d9f1fcb609d6b1cce7723a" sha1="f6bef93aece7e1f3f1a5c6bc12fa1d9b501903d0"/>
+	</game>
+	<game name="Spyro the Dragon (USA)">
+		<category>Games</category>
+		<description>Spyro the Dragon (USA)</description>
+		<rom name="DvJRvk5lQtonAnxJYmW6bYAahsuKrxq5TACJddlqpTXe8P5lIqPVXccjd3w5yIRrynrKlcOkMaTJ0EeeBptbCDFnRd8Qc8rOqgNce.pkg" size="358365712" crc="22f8a210" md5="cde1914a9e9c5147849913d6d2c73ff8" sha1="39a42c9c78b840be98f0113bab9714c7aa1c22fd"/>
+		<rom name="UP9000-NPUI94228_00-0000000000000001.rap" size="16" crc="b97e97e0" md5="5294e6709e7a6efa6f27a6c08bfe3ee0" sha1="d6cef35d303abf800c615e1b6dbb76218d2e9062"/>
+	</game>
+	<game name="Star Wars - Dark Forces (USA)">
+		<category>Games</category>
+		<description>Star Wars - Dark Forces (USA)</description>
+		<rom name="pl04j0b65JkqnKf0dM6QCG9G5DftBBLnL9YgRObBMbXNy9gAMlqqfPXEQgExPij7f9OFgsYtWKwH9RNeT1tSHOTyin2e98Cy0SGIt.pkg" size="323417744" crc="a22d3936" md5="4e9119881c7c8b903a8124316ce041b9" sha1="b6d10d9ed099dcacfd9629676e9afc6e14ad65f8"/>
+		<rom name="UP9000-NPUJ00297_00-0000000000000001.rap" size="16" crc="8cc19f15" md5="b851571be1d78e27cbc3311e1a5e41b2" sha1="bc8fda1092df421cb4df5db87706bc585963d575"/>
+	</game>
+	<game name="Starfighter Sanvein (USA)">
+		<category>Games</category>
+		<description>Starfighter Sanvein (USA)</description>
+		<rom name="UP9000-NPUJ01302_00-0000000000000001_bg_1_1b8a40c3732b6fe98fe76c13c3bafde4f3021695.pkg" size="83734080" crc="f56ee6d6" md5="eba10f5cb2d42cbc197fbbebc6e74cbe" sha1="6d8f9456b6f16cd179fd8f77177a7e060cdae16b"/>
+	</game>
+	<game name="Street Fighter Alpha - Warriors' Dreams (USA)">
+		<category>Games</category>
+		<description>Street Fighter Alpha - Warriors' Dreams (USA)</description>
+		<rom name="VkDFaeIQKInIAcJ7IRELbURONBFbpWVtCpV5xO9f9CNsqkqr6iFhORgPeNw0fyRvrDPmmFCScyN08N3GF3NLG5MTWLRistliJSBGv.pkg" size="83661552" crc="801ff53b" md5="7457ca40930d5deaf88a7bed1e7bdb21" sha1="afa5eb6e5076e6a3162b9e9c3f45924ebaa28f94"/>
+		<rom name="UP9000-NPUJ00197_00-0000000000000001.rap" size="16" crc="655152a7" md5="cad86c2f80835d0c5cc0745f7babc1cb" sha1="64c25c88563af343755432280c7664844f247af9"/>
+	</game>
+	<game name="Street Fighter Alpha 2 (USA)">
+		<category>Games</category>
+		<description>Street Fighter Alpha 2 (USA)</description>
+		<rom name="2sQE9MKkDWQaDC4nugiP86M9adL4onSJrkc8PvDNXKj1bXeTAOnkQ1w0iCGpinqGOLUYqK4FFsuoI1AANMx7rG6NjoqNxsaU8gMG2.pkg" size="364798272" crc="aa369a4a" md5="1f5f4df568db02785b31a4c3f67aad43" sha1="ea8fb9642e9b5cc58dda230e906679a8a0bf440e"/>
+		<rom name="UP9000-NPUJ00258_00-0000000000000001.rap" size="16" crc="c9da5478" md5="9b6b4fe5ad4caf9d05aca299ef778638" sha1="a2b6beb6e4f90d277812a60d215acb8d81112b76"/>
+	</game>
+	<game name="Street Fighter Alpha 3 (USA)">
+		<category>Games</category>
+		<description>Street Fighter Alpha 3 (USA)</description>
+		<rom name="DykevyWECGPRohgbylrvvwOBfRdIenvkQlvRtMOOSpKuygfapmrlRrWtoDuFDnCyEFRqufpOXjZdtFdltRJOhmcyXnqAQcvmOCMzT.pkg" size="343301456" crc="9a623163" md5="ca8916b2169cf9329b06f1fae6c826dc" sha1="c3a1b97f25f06214671954e53a44779851f3d5b6"/>
+		<rom name="UP9000-NPUJ00821_00-0000000000000001.rap" size="16" crc="963fab7c" md5="339fcd5479f8c780508343f603db4faa" sha1="2d369236497946e4d7f09f1787f528654d497980"/>
+	</game>
+	<game name="Street Racquet Ball (USA)">
+		<category>Games</category>
+		<description>Street Racquet Ball (USA)</description>
+		<rom name="UP9000-NPUJ01450_00-0000000000000001_bg_1_6d84bb67ee5f40387ad4c104930e706956cab252.pkg" size="41547840" crc="893c0940" md5="3feda7fc4ff4541f0fcce63fb3db6805" sha1="fad7b9a750cbf3115142468110894d4f29ccba19"/>
+	</game>
+	<game name="Strider 1 &amp; 2 (USA)">
+		<category>Games</category>
+		<description>Strider 1 &amp; 2 (USA)</description>
+		<rom name="RkVhiaRpJhLLkXqfXYgeHELOrRFgdpJdsSlZLmJpNTVZqYwTDToXWSFXpRGJApLN.pkg" size="274928656" crc="3d6df263" md5="3085953e418397ec9436352191f87fae" sha1="6c3d88caf6cbdd8d5697aad25edd5d2b85df6ae8"/>
+		<rom name="UP9000-NPUJ01142_00-0000000000000001.rap" size="16" crc="dbca7592" md5="b8b465bc2f64208cb24c4ae265d89f9d" sha1="cbd7bff132b7885619b0956a7cec36fd3a59ff90"/>
+	</game>
+	<game name="Suikoden (USA)">
+		<category>Games</category>
+		<description>Suikoden (USA)</description>
+		<rom name="N5GcCYgMXoJG5pi0QDEDWnyh5qaaNAo5RLgryESTuw5cFfb99ir6AY2rnUSBShKEwQbm2BKj73FnaGk77SkKJa7TFWm58uIx5CHE4.pkg" size="347697520" crc="01ba8a05" md5="40ae1d6101e5213de8a5e3a9ca770017" sha1="cdd76f4d0239dcdd23680db5797cef525acd4d87"/>
+		<rom name="UP9000-NPUJ00292_00-0000000000000001.rap" size="16" crc="bd0f168f" md5="7ab59686e6a468c245bfaacfcf0961ae" sha1="14c497c1fddc4cb1d02dea2ef2ff72c2f185a2ad"/>
+	</game>
+	<game name="Suikoden II (USA)">
+		<category>Games</category>
+		<description>Suikoden II (USA)</description>
+		<rom name="efQMPQyXMRQTqxYmMeuFwETDksrNwxOEdLcVdMxbIXJgcKwIVcHGuABQjUemlFdt.pkg" size="330160416" crc="a421a2f9" md5="48f9286cf0e29efb0366ed26993a004d" sha1="6ce5faa0603a6b6c57bb1a3ee085adc33c18f3a2"/>
+		<rom name="UP9000-NPUJ00958_00-0000000000000001.rap" size="16" crc="ca9d51c7" md5="bfb2517bd03aa20fb4d0ee2266cf4834" sha1="63f2a6abc597839a97646b3e696fe42c989fafbe"/>
+	</game>
+	<game name="Syphon Filter (USA) (v1.00)">
+		<category>Games</category>
+		<description>Syphon Filter (USA) (v1.00)</description>
+		<rom name="JYtb8Un5R8pG7CVDoFmsNA60owTyeKMWl7ElIxfX0Vnex49wG25PQg34GVyLHBV0gEUUxCmQ6smk8KU7rt8lTnDfddbKWrdIGeH4W.pkg" size="401911728" crc="d52f7e48" md5="7ffb3aa92452d59f2a8061547bc98820" sha1="de2e498fe05e6d7e1ca4a1d5e687e0ea370ef2f7"/>
+		<rom name="UP9000-NPUI94240_00-0000000000000001.rap" size="16" crc="ba96248f" md5="fc18aa09cd1db6ea0b08fb508e43dd35" sha1="e4ca662277171356b361d20323452bec30018ff0"/>
+	</game>
+	<game name="Syphon Filter 2 (USA)">
+		<category>Games</category>
+		<description>Syphon Filter 2 (USA)</description>
+		<rom name="9fhc5BkSLQ8Oesl9jYLqrlXJoBSCTYIFYjWqmefxkXiPVRNA0gj98Wm6MYqY1Mv1D71DxqHtv4huHVmAWYwLQNT844WNcI0yAl61K.pkg" size="942143792" crc="b3706a8c" md5="8d9365cf44574f5b971226bd755bc13a" sha1="5fd6738182603ae2cf17ba42dfdb218fec423186"/>
+		<rom name="UP9000-NPUI94451_00-0000000000000001.rap" size="16" crc="98f243f8" md5="faa8496919c56322720c624fe4079237" sha1="2a6ce257a8a06739857e5cc2653d1c7fb5767d44"/>
+	</game>
+	<game name="Syphon Filter 3 (USA)">
+		<category>Games</category>
+		<description>Syphon Filter 3 (USA)</description>
+		<rom name="6T9oa3YoBbedd7dkdANxL4JKbICVoo9lu4IWqIQ2Bvs69Pvi5ESPgLynqgqDQHPwo7huj7nX98N7rV7KGju5C70GQn0IJQe1cPfAJ.pkg" size="417868992" crc="8ec454a3" md5="6cd0a341c2064a0067f55fc632577db9" sha1="c8b7354cb0e4360eb380c71f6346073dc5b565da"/>
+		<rom name="UP9000-NPUI94640_00-0000000000000001.rap" size="16" crc="51c72f7a" md5="ab199bb24ce8ac6a46c1115b933b5d01" sha1="2dc199ac13a0333b10a6e6b58564753a02836508"/>
+	</game>
+	<game name="TNN Motorsports HardCore TR (USA)">
+		<category>Games</category>
+		<description>TNN Motorsports HardCore TR (USA)</description>
+		<rom name="YAIxvTvYDeMpCtFgGYzyVNXZoyAFuIugSfUDAHCIsDZWbZHfYhNYsGNRzDzbKXQe.pkg" size="140695904" crc="4099fdd4" md5="5066954e2e8751db59f9af10d90f56f0" sha1="e079944ad71e21339dca1ddbd8ee9ef2ddeecd6f"/>
+	</game>
+	<game name="Tecmo's Deception - Invitation to Darkness (USA)">
+		<category>Games</category>
+		<description>Tecmo's Deception - Invitation to Darkness (USA)</description>
+		<rom name="UP9000-NPUJ00340_00-0000000000000001_bg_1_e54cdaef6f5001b95a571a1ee85bc04d32d672cf.pkg" size="194878288" crc="e7bd4172" md5="e089dfb2ec9bda0ada0250ec377e9d0b" sha1="6fdd9ecd22082c1e5bd5538df0b37895ef79c2c7"/>
+	</game>
+	<game name="Tekken (USA)">
+		<category>Games</category>
+		<description>Tekken (USA)</description>
+		<rom name="KxMH1iA7S07OLxfFp8AoxOiXWkOIHlA3X9k7JooCBHhkUl3L1wajVMkoosuYyQY85vTYNvV57oQo28NVdbynJGopCoIio7p2SLYas.pkg" size="153669296" crc="b5f7a780" md5="7bb7f9631b15ee68d571b04da4ae27a3" sha1="79da51ce403ad5392ae9546a90d3c505cdc838c7"/>
+		<rom name="UP9000-NPUJ00006_00-0000000000000001.rap" size="16" crc="2ffd3816" md5="c18ff9b93ce2dc25d14b7b0c0ee1f4ed" sha1="f8104dd8edbbb4d39d08150c670348e8a764ac4e"/>
+	</game>
+	<game name="Tekken 2 (USA) (PSP v3.01)">
+		<category>Games</category>
+		<description>Tekken 2 (USA) (PSP v3.01)</description>
+		<rom name="shcvucNWxPtMPH2aav1HBwkTDGPrhK5J65YuTeB0NsNeXDKilDIbEi1xN6JXcbYFrb30Ik0y6MKTDMoPi0VRdqjNWNSiNNVsAb5E2.pkg" size="559242096" crc="2027f4ad" md5="35b5f7322dadf1d3e1810a2beb3c609c" sha1="a180d13d03d2b645c32ad71fd6deb943a9d51072"/>
+	</game>
+	<game name="Tekken 2 (USA) (PSP v3.01) (PARAM.SFO)">
+		<category>Games</category>
+		<description>Tekken 2 (USA) (PSP v3.01) (PARAM.SFO)</description>
+		<rom name="F2qTrRJEAPrrhbOl1pl52nPDjdesfvSNPB1j2tPqIwvsC0VvPknwjHaDSjc8wBo2K8sQH98eOSUBjRK012UiWneiXiLd9UMe6ImKS.pkg" size="102400" crc="1f421085" md5="c677f21022418c41e0c2c2cc665808db" sha1="8b170f065f4ebdd912bfa73bfd4f63e09430376a"/>
+		<rom name="UP0700-NPUJ00213_00-0000000000000001.rap" size="16" crc="42ebed28" md5="4a387621dc8828a0106be9a208f1873e" sha1="c1d2872c96f2eb80d42448c4e2d7a9084d50e42c"/>
+	</game>
+	<game name="Tekken 2 (USA) (PSP v3.40)">
+		<category>Games</category>
+		<description>Tekken 2 (USA) (PSP v3.40)</description>
+		<rom name="esgNLJQGhCeCUXqlGN7v3M8UO1ulnuDJ6w3Q9KERVMCHo4sGilUBv5nvoNqOuQ1oibeULfFwnfP4TyvRacfaKeeamNoaQiXLdIP19.pkg" size="507993456" crc="422225a6" md5="41a6f8be8cc5741e1e1bbf70eee588d7" sha1="48031600034b07bb7b10e0881b8c4e65e370611f"/>
+		<rom name="UP0700-NPUJ00213_00-0000000000000001.rap" size="16" crc="42ebed28" md5="4a387621dc8828a0106be9a208f1873e" sha1="c1d2872c96f2eb80d42448c4e2d7a9084d50e42c"/>
+	</game>
+	<game name="Ten Pin Alley (USA)">
+		<category>Games</category>
+		<description>Ten Pin Alley (USA)</description>
+		<rom name="nS6iFE2JpK6rHPeYLyYYsTfuJW1abWrXEm1lBlEEMHKkEI9edlbGbboeVURck2OlF2VNVwT7RFMcF7vOT87h6HrEQXV4giJCw78vJ.pkg" size="106201456" crc="e94c2ddf" md5="422a61b4af35e0b741173f3b3e287aad" sha1="05e739c03f81b75998917480cb4d4f9b2f909356"/>
+		<rom name="UP9000-NPUJ00377_00-0000000000000001.rap" size="16" crc="3faa6950" md5="8c3a0cf18b40ab37d9b6211eb5004e92" sha1="607d613027661b9f17fa27e0a6230f26da8e946a"/>
+	</game>
+	<game name="Theme Hospital (USA)">
+		<category>Games</category>
+		<description>Theme Hospital (USA)</description>
+		<rom name="VOhIlmyhy9KOeT8hKxkrbfVPqpqI9rrFaJw3je1yhEkGR8CKoNXn4vV8Rmc3bclkd0hisDjlaHkWH95CdOY057v67tk5mxARxeNKa.pkg" size="128617520" crc="64d7c18c" md5="121c3973cb97b97170de546ff925e21e" sha1="7404217cc8d21799357aba7de6a58c01657a90d0"/>
+		<rom name="UP9000-NPUJ00275_00-0000000000000001.rap" size="16" crc="34b2c872" md5="dfd144edcd5f4541f981574c49607c30" sha1="afc977726b04e7070d65f9414a5d4eafc5056f03"/>
+	</game>
+	<game name="Threads of Fate (USA)">
+		<category>Games</category>
+		<description>Threads of Fate (USA)</description>
+		<rom name="ITTmxPFbRxBfkoxdPLbDJliYeRfDAsFnqMTOBgCMYfQFVNgwatPYKsHscwYfOlGWDnkwpmsxXyhguISdqjVklWZRgKpCMDbxhgqXy.pkg" size="201904944" crc="cfc630b1" md5="013cbb1f68d488d4ea3124bd7f68edb0" sha1="1db77f2d4ed857a4aabe21a866c764bfa76bdd0f"/>
+		<rom name="UP9000-NPUJ01019_00-0000000000000001.rap" size="16" crc="47bc501a" md5="f99cead043fa72f1dcb33a68e8d87836" sha1="600f39d83fd313a11ca7d0787547f50bcdfb9dbf"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six (USA)">
+		<category>Games</category>
+		<description>Tom Clancy's Rainbow Six (USA)</description>
+		<rom name="nAop9EmslqYTLSdMwiNFEExVukwf2dfV01Qrsu5sEm9bES4Mpljr5Cv81qK0mhJ78UJ1OnSAikEU7X9CkgacH0Dwkl4XJoaNdfTRU.pkg" size="118120752" crc="f21a227d" md5="78e97ce84157df16dc16db3dd90bd553" sha1="61b1e9b3f61bdf1f9c36b2190b7c06ef3ab0bf2c"/>
+	</game>
+	<game name="Tomb Raider (USA)">
+		<category>Games</category>
+		<description>Tomb Raider (USA)</description>
+		<rom name="AvEqCuMBnISjsmw82U04IvjOMTy1r4q5sVUBgxHwN2ojTFwVkPn9wC4HHy9NJ5GAXmWnewlYOrHY7KjimG9b4uj8o2cEk8eDh50Ne.pkg" size="220420944" crc="7dccab43" md5="104385bab78991a5e8a5ab2f94f192d2" sha1="5326aef7ce8fea8ae90cbb37accfbbd512916934"/>
+		<rom name="UP9000-NPUJ00152_00-0000000000000001.rap" size="16" crc="6e2eecdd" md5="e0003dbbc8cdd4e5d330cdbd3a7726a7" sha1="0e480cc30dc720929bd00f218fc77174f7e6729a"/>
+	</game>
+	<game name="Tomb Raider - The Last Revelation (USA)">
+		<category>Games</category>
+		<description>Tomb Raider - The Last Revelation (USA)</description>
+		<rom name="wAiDvyi2JH3uWuElBh9kRa8LT7hXpEgLXNVNrEC31iP3wyJQvdLa6bAmpABdAWXifnGhKDwa7qARb17dLkO4cv2H5vKP6tOMdc2i2.pkg" size="507920992" crc="e4f6d96e" md5="04e2ceda51ccd2e59f5ed66e8b44a8fc" sha1="e8641c0b6b6632b611159ae7e3c5a7f2bad2a1b6"/>
+		<rom name="UP9000-NPUJ00885_00-0000000000000001.rap" size="16" crc="dc9219d9" md5="af53d154f74df004973c2bc31ae776df" sha1="f8d7ee41bbb1ba04f441d7ede42bcca6fa429bac"/>
+	</game>
+	<game name="Tomb Raider II - Starring Lara Croft (USA)">
+		<category>Games</category>
+		<description>Tomb Raider II - Starring Lara Croft (USA)</description>
+		<rom name="MRahys4Uk79j98Yg5tHdVvAQta0IUCFja0BICaXrLxn8C0recXq1dUKyV14D5SJtIHDSUD3XLfp7oxeLAYrNHB2H6iCsAc9cTqJiH.pkg" size="205613104" crc="a1d6d360" md5="bb1869fd0e0a68313a4f0a424a2bb3e5" sha1="244b19cb0da48c5a20c0ba4dd314cbee7b48313e"/>
+		<rom name="UP9000-NPUJ00437_00-0000000000000001.rap" size="16" crc="2caca0e2" md5="76cf29e5aae464d4cf43d9554a0a3844" sha1="4dfdded790a647198f67c46d3b4c67a7e2ecd808"/>
+	</game>
+	<game name="Tomb Raider III - Adventures of Lara Croft (USA)">
+		<category>Games</category>
+		<description>Tomb Raider III - Adventures of Lara Croft (USA)</description>
+		<rom name="IVAmGpRylMP1drG84QxJty6InSs9N4IAHC5pUp0xHiQST1vkyh6qBmBGFD5sBcfkxGFuo26WWsMhedYoBJMFojmYprmmNWVNLFMmD.pkg" size="383617440" crc="e3ef670a" md5="670cb1b5eb4d9e6fd2c004a157a624e2" sha1="8de2dbe72a36d595dc0eeae160169a6caf7e870b"/>
+		<rom name="UP9000-NPUJ00691_00-0000000000000001.rap" size="16" crc="063f9d87" md5="68db81c3e4176cdaec5ce9c2b5aae556" sha1="9760db0159ea36699b33368c3c7e46370df23348"/>
+	</game>
+	<game name="Tomba! (USA)">
+		<category>Games</category>
+		<description>Tomba! (USA)</description>
+		<rom name="SFktNuwUECohYCPnZIAEUcofaZnfMmGWcJGGEXmUJitXUWmShCeHUxSgpmivFDpGJCfbbfpJZfLwvKppeHsQsVPSNSJjvnpnfULTp.pkg" size="171106816" crc="8cdfe624" md5="6072e363b0c7c3ec3602c7b56e2e1da4" sha1="9ee45aa486e621c6cf169babf3f896c68896c305"/>
+		<rom name="UP9000-NPUJ94236_00-0000000000000001.rap" size="16" crc="c69cb364" md5="9f7626ec46bed0c663ccf1080d9ad02e" sha1="e067c4c365b39d52df806ccade3a9720cdf90d8a"/>
+	</game>
+	<game name="Tomba! 2 - The Evil Swine Return (USA)">
+		<category>Games</category>
+		<description>Tomba! 2 - The Evil Swine Return (USA)</description>
+		<rom name="UP9000-NPUJ94454_00-0000000000000001_bg_1_97cfeec83be23dd88043ecfaaa48c89209f29642.pkg" size="243466976" crc="4963d1f2" md5="5b79649cb149adaf7b86eeff5a0f9007" sha1="51de77e716076ad67e68b268bdb79ff7805de276"/>
+	</game>
+	<game name="Turnabout (USA)">
+		<category>Games</category>
+		<description>Turnabout (USA)</description>
+		<rom name="BLuToHkinCLtzAKkVLhVlZRBEyALRwffyiZFgjIsXWbbiScFEDnugqXeVEnapaYi.pkg" size="30088800" crc="21c26ca2" md5="e19debac7a033e3c1e3096531b50cf87" sha1="4f4c45f4a410dc916b5292518d13420e8ad38d62"/>
+	</game>
+	<game name="Twisted Metal (USA)">
+		<category>Games</category>
+		<description>Twisted Metal (USA)</description>
+		<rom name="MiRLFmPhvovacfUNnlUlPvsYNASEKALNPOPgsoFcbPAMnGQpCjscADzqWtFxHgsMTLaztDFeunDHENQUUlnvCJjHBLDnDGKVfeTfd.pkg" size="75374416" crc="1e2a79be" md5="508aaba2c7b8a3e697016f47e734bb68" sha1="5e0bb7b8eb830ead46f11851fe5fd5a34bf45f87"/>
+		<rom name="UP9000-NPUI94304_00-0000000000000001.rap" size="16" crc="b7a16d95" md5="224a967b8279cff21025f0f966569993" sha1="5a211dcc7f2a8d32978db546a6db92c1e6646108"/>
+	</game>
+	<game name="Twisted Metal 2 (USA)">
+		<category>Games</category>
+		<description>Twisted Metal 2 (USA)</description>
+		<rom name="w7BMhB9wmqmfJP2XN6BgkusVr94jHqDvyISU1H488Uclod8QAg0YbDnB4tNPVt3ybW3DYvGgvXdCGrj6NrDoINVpNbxkrtNWxoiB7.pkg" size="337859728" crc="fc1c27b2" md5="b2ab4fdb9272ac9f73bafda112374332" sha1="2f4a2939ace2b5581b8bd827cf35682ba78656e5"/>
+		<rom name="UP9000-NPUI94306_00-0000000000000001.rap" size="16" crc="59dccaa3" md5="61e7bfd070bfeefd0d35158842878d91" sha1="a537fa4678ec64f865dd6eba17351d7a74f036f8"/>
+	</game>
+	<game name="UP9000-NPUI94308_00-0000000000000002 (USA)">
+		<category>Games</category>
+		<description>UP9000-NPUI94308_00-0000000000000002 (USA)</description>
+		<rom name="Rj8x4wYyHrTlOm7XsYbYB75aR5IeixwICm0gjwyYVllVuJYkFSuDoWRAevxiVuoDGwhGTc63E0dsXKHbQpIIvggyrSSQ6NfAe1q8G.pkg" size="105840848" crc="a7893de6" md5="634df60e25ba45ca680e49e72e96a12c" sha1="f9b10cd7b440af0cee45170f4302d3a954577194" sha256="9ee1df305fa089f85d7e392336ee16d2636bf150c376fb936567cdc7aff22070"/>
+	</game>
+	<game name="Um Jammer Lammy (USA)">
+		<category>Games</category>
+		<description>Um Jammer Lammy (USA)</description>
+		<rom name="yBFTVDBQNR8p7JkAv7e2xXKDg25fe2lMGE6RPdFRFUeFR8UJiLW3KY30uPMsmPQKM7AuvBIObqbAHYx1vPChXWF8cDbN4uuC0OnSS.pkg" size="536460048" crc="8169daa9" md5="45b46dc2d8013fde0b8da1f7ede5d8b5" sha1="cf9752a7952d89a0cfc2693f620618f933663272"/>
+		<rom name="UP9000-NPUI94448_00-0000000000000001.rap" size="16" crc="56c2d9cf" md5="d05113274f110f6a8777781e676b87d1" sha1="b37119592b804d438790fbcc493e7770de3e5740"/>
+	</game>
+	<game name="Vagrant Story (USA)">
+		<category>Games</category>
+		<description>Vagrant Story (USA)</description>
+		<rom name="SzLQGCdChbyHiTqFrkDmAMACbswnDlMVcgczyVczwcFtyyoHYKmfSiakGiXvYLoXHHaPlhgoYalWDedqckLSNoVsXNIsFcIZqGsMp.pkg" size="100681520" crc="e0971fa1" md5="594c76bcf24150516dbe57145ffdbd67" sha1="c713a09ba2ac112da8ae73458393ca906e7c7324"/>
+		<rom name="UP9000-NPUJ01040_00-0000000000000001.rap" size="16" crc="3dc01139" md5="f9b8ebe5b880d0b0def6d2847c98dab6" sha1="a6fb4a806e7c45f6e8938a28a4df43bb127b57b2"/>
+	</game>
+	<game name="Vanguard Bandits (USA)">
+		<category>Games</category>
+		<description>Vanguard Bandits (USA)</description>
+		<rom name="TISwxUWpwbsKQrqArdYxfPLChNmiseXKarXPUITXCcZVTqzPjWFCBhUGBUMEskKxIEHORXnqkcfNMkDhaXeBcmeshDcnVvDJsBbve.pkg" size="403775696" crc="b191fd3b" md5="a12b1c70f9383a6d1f7ab7215ef3ce2f" sha1="bc47ccc55c2855ebb506ed6c04430934f053f8ff"/>
+	</game>
+	<game name="Vib-Ribbon (USA)">
+		<category>Games</category>
+		<description>Vib-Ribbon (USA)</description>
+		<rom name="AohAnvUWgMaMsmeiuQmNvPnBNCjZGpERqFrwPfTeOnrTULmiLzXWBtrXbYEECcGR.pkg" size="27909024" crc="33e2eb69" md5="963fd389126510830f1e00bbe51ae09e" sha1="67d78a884bcadc45100715c8c46b954eebe03b8d"/>
+	</game>
+	<game name="Virtual Pool 3 (USA)">
+		<category>Games</category>
+		<description>Virtual Pool 3 (USA)</description>
+		<rom name="QcqoB0Rj6yBb3jEuRKF6wDlSXFiyRvW7PaTk2oNhmFRQfflvjMOKBhfWjguSa2tHPX8PRID9UbWBnPV3rAvt8yxubU6UnxKdA4xqh.pkg" size="128360624" crc="d250247c" md5="87fa188b26eb0f63e23bda12054ffd8a" sha1="368dfed835f64b86cc6ed599ded0ae701e8eefc0"/>
+	</game>
+	<game name="Warhawk (USA)">
+		<category>Games</category>
+		<description>Warhawk (USA)</description>
+		<rom name="7FMAuGG86YiR8B0ee3MSh1kSh987sxHLiX2D9tTUQjHWHLBbKufjR25U4Q0B2slLEuqmAx3XNhrcQHyjl0e5TdU3VLm6sjNlfruo7.pkg" size="254831840" crc="54ff9b61" md5="518dabbbff36b6690f27014e83e92374" sha1="ac9a8de4c2bb77ed7e475ec6f8bc0809bd96e1d3"/>
+		<rom name="UP9000-NPUI94305_00-0000000000000001.rap" size="16" crc="710fc9a8" md5="3fbfeda48e8ff740742daf3f74239d5f" sha1="8b44c177415bbc8a4a82fa6ed3ca4498b9d7fda0"/>
+	</game>
+	<game name="Wild Arms (USA)">
+		<category>Games</category>
+		<description>Wild Arms (USA)</description>
+		<rom name="F1WNqCJ1dsSTEAwiGA9NIyltOq9HmeQNhbG9IMLYXneUacHfOcgRte22RRg1rs0CMgSdjAARxDtYcR7QHqlsOBXqamClSff7FUbgU.pkg" size="313802400" crc="e15a98d6" md5="7e33ab865e9c87c9d4f23da64d0bad8a" sha1="9e0c58d6acd9d4ba72c7c1028c06490c61b9be0f"/>
+		<rom name="UP9000-NPUI94608_00-0000000000000001.rap" size="16" crc="e1a62c99" md5="95f0978c2621cf57a908770792d4c8cd" sha1="002fc00dd821927d0f31bab52777ee1cbff34bd4"/>
+	</game>
+	<game name="Wild Arms 2 (USA)">
+		<category>Games</category>
+		<description>Wild Arms 2 (USA)</description>
+		<rom name="IxN4i3HdVg3E030QUS40D3yqjykwDcGPfBXw4i1C8LmuetVwMlsUJc7kBl5d2ON3Je2gnJgiqDSml3EqwbFjpHrTqFueOR0C01BaQ.pkg" size="643874448" crc="0dde642f" md5="e476df7e12215837d1bfbb57ed69d771" sha1="d8e7e22570ef53c082b54aa028d461547e796f08"/>
+		<rom name="UP9000-NPUI94484_00-0000000000000001.rap" size="16" crc="384243b8" md5="7435caa90ccbeb055abd1a388338dd7c" sha1="b14f1e53e90960a4d590218e4728456a37b6e82a"/>
+	</game>
+	<game name="Wing Commander IV - The Price of Freedom (USA)">
+		<category>Games</category>
+		<description>Wing Commander IV - The Price of Freedom (USA)</description>
+		<rom name="WudIpRGTwnIk8LkWwknyDvEQMSFJM6mbgnKFiWF9970xDRbPoEr4nsl7P6OmVFRDQCJ9A7KkfdpI6DA82AbT5a5np7trTQn2GOGML.pkg" size="2417120528" crc="f1fab31f" md5="0942901590468f4fc5d74b081600e994" sha1="398f55cfe9865f893af2974e3e158ef9e8528bc8"/>
+	</game>
+	<game name="WipEout (USA)">
+		<category>Games</category>
+		<description>WipEout (USA)</description>
+		<rom name="Bor1bQSj7yQo5YATEyrj6Pqx0JVlTCAeRJLRMxpvCMx2woaNPCuu9n81ce5UDeNsqjpeASJX6T6oEA9xaI7ohxmHPQ92bruI0CY0H.pkg" size="78411600" crc="7fb2a5f8" md5="427d53ad37f2a6597b5606ef422c9a53" sha1="a825f547b850809cb5266c8e3d4e8f3b9f24c4b1"/>
+		<rom name="UP9000-NPUI94301_00-0000000000000001.rap" size="16" crc="92250e03" md5="d3e9ee7ad16fd5e2184219d0bdd566de" sha1="3f76d17f65ce89f6d464d8e4bffa7d909aa81395"/>
+	</game>
+	<game name="XS Airboat Racing (USA)">
+		<category>Games</category>
+		<description>XS Airboat Racing (USA)</description>
+		<rom name="ixGvrsMDsslK8WCAiHi8Jiy60yE1p4klJDj762EqQkpYDr3V7ybDoFSsIEEUEvBbBa0yYyj4EvRUGWpN4Qnlm1nXYaTyaouWFvCQr.pkg" size="42447232" crc="b184d369" md5="6a8a34394b9672883563a3165a096577" sha1="e1c2fb5c1f6a81c14ee7c209897379347e66eb65"/>
+		<rom name="UP9000-NPUJ01566_00-0000000000000001.rap" size="16" crc="5de48360" md5="27c0d90906463b0cb6cf8faaf5df4b2f" sha1="89cdb2215669004e743961a6d7062299384a0b42"/>
+	</game>
+	<game name="XS Junior League Dodgeball (USA)">
+		<category>Games</category>
+		<description>XS Junior League Dodgeball (USA)</description>
+		<rom name="0YeMmQDgiBdjLhdGioRsmREwvUDFBcIaIQsrakBy0JRL6gESjHkShCMh7iT71BItjy5BMnAaYsqHB6J8OnWnQRLu6AR0Lbx26vvFv.pkg" size="255190352" crc="e23be3c6" md5="88fee37c0db6e918a6f72f2d03cf6675" sha1="bc940144c9719ddba30f31c2cb0cc14abf837c60"/>
+		<rom name="UP9000-NPUJ01560_00-0000000000000001.rap" size="16" crc="4e7b797a" md5="763a5fbe7919f5f84800f60ed9ad93e4" sha1="4ac8a4b4791e4863c73524f2bbeb554f1863368b"/>
+	</game>
+	<game name="XS Junior League Football (USA)">
+		<category>Games</category>
+		<description>XS Junior League Football (USA)</description>
+		<rom name="wHLfoanQTKJcPnVCqxqSTawgLIgPdCKzxFwgXubWRjddUEnCztFIpVIzUUJznDdxzVNyiwQLuRpfBHttvckKMkeJVtAsbYnRsNjlX.pkg" size="32772208" crc="e574f29c" md5="3fa59ce14bfb7ffb54f02191bb483e9e" sha1="c45470e64e878d3d67c6c25a021bde007b842648"/>
+		<rom name="UP9000-NPUJ01554_00-0000000000000001.rap" size="16" crc="f2b7fe1f" md5="e86bd4e7a360756550b27e926e6300de" sha1="c682ff66d98508abc8c06d46c1fbc513f240877e"/>
+	</game>
+	<game name="XS Junior League Soccer (USA)">
+		<category>Games</category>
+		<description>XS Junior League Soccer (USA)</description>
+		<rom name="d3DgIUDEneJanOLOcpCyX4mh7aKvMUEXGeiCCweu2gDElGkH1RBW8dO1k76Cr2aKE6JF2VmnQbn1Pw337ceICkCYaTBOWTCJLO3AB.pkg" size="44952992" crc="cd2512aa" md5="f130db5404a5792d22c529b2ba39204e" sha1="72ccaecc4cb8286292cda5f9ba226e0f428df912"/>
+		<rom name="UP9000-NPUJ01520_00-0000000000000001.rap" size="16" crc="dbaa4164" md5="c9b7cbe34afacab57a86786bb2c2a30e" sha1="befbe485a18c0b534550d61163b9e526fe583bc8"/>
+	</game>
+	<game name="XS Moto (USA)">
+		<category>Games</category>
+		<description>XS Moto (USA)</description>
+		<rom name="8AaUg3TNDbokcTI4mnplUb1ihcUU8UVSJ1ieLdN0OT90d7D9svVTlFpJPHi1rFXQn7cE1UfW4pWjFq0hObWuJgCGAuLOva6VDaE9S.pkg" size="61366560" crc="14f030ac" md5="071676b648f7cace0a304d007fa28978" sha1="31ec3febac5f179dddb617d6ddf0af3496cc4d8d"/>
+		<rom name="UP9000-NPUJ01506_00-0000000000000001.rap" size="16" crc="9c9b1152" md5="cab27d7f4d18e5b78cc73a507316167a" sha1="23d98b4bbce3442ecd52bdae34c8dab7e6bafc26"/>
+	</game>
+	<game name="Xenogears (USA)">
+		<category>Games</category>
+		<description>Xenogears (USA)</description>
+		<rom name="DHCpjzQQMiGvSOkjGCyyLURgooacUmkzWPmZSKjGjECYzlelvOmXLQybZXHjLSNSAUnahhvThEAjprxqKKioZxpXlxQgvVIwRseIO.pkg" size="758743056" crc="1957f322" md5="723c52a8539260cb136f400534cd143f" sha1="b7e23aba0171194752cedf32c976489c033a3c66"/>
+		<rom name="UP9000-NPUJ00664_00-0000000000000001.rap" size="16" crc="83e06b68" md5="148202b7ec6265bedb5781fda6968f7c" sha1="4ccbfbdaf08ec823e54f3c3afac5cfecf4e9ec30"/>
+	</game>
+	<game name="Xevious 3D-G+ (USA)">
+		<category>Games</category>
+		<description>Xevious 3D-G+ (USA)</description>
+		<rom name="JeMYoOTLIVtviTOFwGGddRUckKArsgZqgOZWRELqMRunXLVwatMgCvvCQMCBGkXsppZQBavYQYtBNInhHgugPFpyRhMWcvoDZXBkQ.pkg" size="420575104" crc="a208a844" md5="a91418b2ae03b0fdf26b086d11fea4a2" sha1="ee224df1983cca1262b9e79a06a4b5675a02f004"/>
+		<rom name="UP9000-NPUJ00461_00-0000000000000001.rap" size="16" crc="a61f0c5c" md5="7d0d35a07f9dff69c414035ef76ddd9a" sha1="6461168823c4dd1c90f347951f6e1d296c4e570e"/>
+	</game>
+	<game name="Xevious 3D-G+ (USA) (Placeholder)">
+		<category>Games</category>
+		<description>Xevious 3D-G+ (USA) (Placeholder)</description>
+		<rom name="IlSocPCwoWHxuiMhKrLZNmYiolUWeofHvOHpKpGaXAVGVGnnMPwacaHZuPVQSnAm.pkg" size="229136" crc="a90b5cf4" md5="f778f3c4cc5997f05f8ff7224908fa14" sha1="2fd3d7e94470be6dd1a227f47c3e04977a7824ed" sha256="9fb806dac16b6d852c2114b19de27d6445d584d202c40aebe6a6904b6d418395"/>
+	</game>
+</datafile>

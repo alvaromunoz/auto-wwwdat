@@ -1,0 +1,1848 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - Nintendo DSi (Digital) (Retool)</name>
+		<description>Nintendo - Nintendo DSi (Digital) (366) (-aAbBcdDelmMopPruv) (20220506-190731) (Retool 1.16)</description>
+		<version>20220506-190731</version>
+		<date>2022-07-14 08-07-10</date>
+		<author>aci68, Densetsu, einstein95, Gefflon, Hiccup, jimmsu, Money_114, norkmetnoil577, ohnootp, SonGoku, xuom2, zg &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="1001 Blockbusters (Europe)">
+		<category>Games</category>
+		<description>1001 Blockbusters (Europe)</description>
+		<rom name="00000000" size="6066176" crc="bf7060df" md5="eabdb473b369678f5818241584c6cfaf" sha1="219f92c87bf47756aa88029d72317d6074b0c114"/>
+	</game>
+	<game name="1001 Crystal Mazes Collection (Europe)">
+		<category>Games</category>
+		<description>1001 Crystal Mazes Collection (Europe)</description>
+		<rom name="00000000" size="11330560" crc="43bd1ddd" md5="f35ac528070bd9eb07272b91c6e0f7ab" sha1="1740d785bed0720e718dc8fe4fa92c5b32b70650"/>
+	</game>
+	<game name="101 Pinball World (Europe)">
+		<category>Games</category>
+		<description>101 Pinball World (Europe)</description>
+		<rom name="00000000" size="10177536" crc="8d3f9bc5" md5="8b5f9e3fedacdec3ca28f1ab8f433760" sha1="71e754c939b9659dda68945e1f6adc006a2e2718"/>
+	</game>
+	<game name="101 Shark Pets (Europe)">
+		<category>Games</category>
+		<description>101 Shark Pets (Europe)</description>
+		<rom name="00000001" size="12377088" crc="7471974b" md5="62aaa24153f9d302a5fe74a24c3dbd7b" sha1="24aa4b26d2d39ca4f63fdbf71620b0787a6dcbaa"/>
+	</game>
+	<game name="16 Shot! Shooting Watch (Europe, Australia)">
+		<category>Games</category>
+		<description>16 Shot! Shooting Watch (Europe, Australia)</description>
+		<rom name="00000000" size="2179072" crc="cb29ceae" md5="7f7e17fe186cfad5264f7da7854e438d" sha1="e2c0cd0c1b2e53fdd60fc942ae5caf69cbc1a21b"/>
+	</game>
+	<game name="18th Gate (Europe, Australia)">
+		<category>Games</category>
+		<description>18th Gate (Europe, Australia)</description>
+		<rom name="00000000" size="9988096" crc="96ad804a" md5="794c17c8f688255a611c12fe9085cf0a" sha1="900a85f4586673d1130b7193bba8fe513cc98afe"/>
+	</game>
+	<game name="1950s Lawn Mower Kids (Europe, Australia)">
+		<category>Games</category>
+		<description>1950s Lawn Mower Kids (Europe, Australia)</description>
+		<rom name="00000000" size="11580416" crc="a489f898" md5="2f69d5f85af30b326dad71e405321086" sha1="0622693ce00176eb0c19c11a70e94acb97bb9b7a"/>
+	</game>
+	<game name="2-in-1 Solitaire (Europe, Australia)">
+		<category>Games</category>
+		<description>2-in-1 Solitaire (Europe, Australia)</description>
+		<rom name="00000000" size="783360" crc="36eaffc0" md5="1003221ff54e433d29e3b67e2adbb2e4" sha1="9f7e37f2c60c5cd24d9010999c8afe2931e8e066"/>
+	</game>
+	<game name="21 - Blackjack (Europe)">
+		<category>Games</category>
+		<description>21 - Blackjack (Europe)</description>
+		<rom name="00000000" size="5602304" crc="081922e6" md5="854482a4d1f125459b70c94883557cf1" sha1="1415a03c87672aa37adffe61556083d27cad95dd"/>
+	</game>
+	<game name="24-7 Solitaire (Europe)">
+		<category>Games</category>
+		<description>24-7 Solitaire (Europe)</description>
+		<rom name="00000002" size="2831360" crc="ad93b7e8" md5="1e10b4f23a113b52d5d5b835139dc6fa" sha1="db56d7783eb58e0192c286b178bd61b4afa11555"/>
+	</game>
+	<game name="2Puzzle It - Fantasy (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>2Puzzle It - Fantasy (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000005" size="12169216" crc="fe1474a6" md5="326aca904ac14f1767b960fd5a584944" sha1="13c24633a6425a11c589af25b1d752dc7a6bd3e2"/>
+	</game>
+	<game name="3 Heroes - Crystal Soul (Europe, Australia)">
+		<category>Games</category>
+		<description>3 Heroes - Crystal Soul (Europe, Australia)</description>
+		<rom name="00000000" size="12121088" crc="3af83c09" md5="97c9833c2a99fc2fbb3e746c84405397" sha1="de92ca38ee687b56d2f21895d0693b81698b2a21"/>
+	</game>
+	<game name="3,2,1...WordsUp! (Europe)">
+		<category>Games</category>
+		<description>3,2,1...WordsUp! (Europe)</description>
+		<rom name="00000000" size="6274048" crc="b4c69c59" md5="ac6f2e7b5482232b1b234980847d8d81" sha1="a6b1501517f4580d914d3721322fbaf93070b40d"/>
+	</game>
+	<game name="3D Space Tank (Europe, Australia)">
+		<category>Games</category>
+		<description>3D Space Tank (Europe, Australia)</description>
+		<rom name="00000000" size="16519168" crc="dda258b7" md5="f3cc64f4f00fa109e8eb1dac6b53b493" sha1="89339a17dc3b14e679723d5baec8e4e407a76ea5"/>
+	</game>
+	<game name="3D Twist &amp; Match (Europe)">
+		<category>Games</category>
+		<description>3D Twist &amp; Match (Europe)</description>
+		<rom name="00000003" size="6113280" crc="8e551462" md5="983bbab1f0b7d22d9f1c142d1e3c0433" sha1="2a75bd3d4141457129d940ce71a1575e0893a706"/>
+	</game>
+	<game name="4 Travellers - Play French (Europe) (En,De,Es,It,Nl,Sv,No,Da,Fi)">
+		<category>Games</category>
+		<description>4 Travellers - Play French (Europe) (En,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+		<rom name="00000002" size="13962240" crc="48f9232a" md5="6753373964c6a4a13bde9ce3ac444b46" sha1="6fcba8870170ed55b32959ca56618662015885d2"/>
+	</game>
+	<game name="4 Travellers - Play Spanish (Europe)">
+		<category>Games</category>
+		<description>4 Travellers - Play Spanish (Europe)</description>
+		<rom name="00000002" size="12759040" crc="4e712402" md5="733500fdd2b3af5424dfe6c11c45f364" sha1="34503e97542dfa03687696e0440017d59102bd28"/>
+	</game>
+	<game name="5 in 1 Mahjong (Europe)">
+		<category>Games</category>
+		<description>5 in 1 Mahjong (Europe)</description>
+		<rom name="00000003" size="5059584" crc="c227e6fd" md5="8cc477d5daae7110d05f444370b88b67" sha1="bc3236595fd399303ea0919d265b8564b6537dfd"/>
+	</game>
+	<game name="5 in 1 Solitaire (Europe)">
+		<category>Games</category>
+		<description>5 in 1 Solitaire (Europe)</description>
+		<rom name="00000001" size="5711872" crc="f6a71f2b" md5="f7ada6cde63b3878f944726cd0de42d0" sha1="81b0b31cd770fa0fa5ce8fd5354e58ddff44f57c"/>
+	</game>
+	<game name="505 Tangram (Europe)">
+		<category>Games</category>
+		<description>505 Tangram (Europe)</description>
+		<rom name="00000000" size="3552256" crc="659bc3da" md5="511478cd35716c9bacd66abd944786b6" sha1="f3a341eb0f6b7b881af07bd0e95187dc645e3143"/>
+	</game>
+	<game name="90's Pool (Europe)">
+		<category>Games</category>
+		<description>90's Pool (Europe)</description>
+		<rom name="00000000" size="5475328" crc="13e9171c" md5="c90ed82f8d77697f588293cf77f07769" sha1="f9f4bfeeed4c0e1360573aa920327e4e2bc0ff88"/>
+	</game>
+	<game name="99Bullets (Europe)">
+		<category>Games</category>
+		<description>99Bullets (Europe)</description>
+		<rom name="00000000" size="6202368" crc="ad349622" md5="dd339d6353838ef3839828520737a387" sha1="729077cf8e843172807c162c6d6dfa776b90011f"/>
+	</game>
+	<game name="99Moves (Europe)">
+		<category>Games</category>
+		<description>99Moves (Europe)</description>
+		<rom name="00000000" size="5302272" crc="a579d095" md5="4973cf1b5630561ad944ac48a83a887d" sha1="ba6a4da1afde3832b5b769a3f156b04c10469695"/>
+	</game>
+	<game name="99Seconds (Europe)">
+		<category>Games</category>
+		<description>99Seconds (Europe)</description>
+		<rom name="00000000" size="6071296" crc="c7f39bd8" md5="b5f228cbbf9471adfa028922e47bef17" sha1="6eae77d65236610dddcc126f9086bec880fda39c"/>
+	</game>
+	<game name="Aahh! Spot the difference (Europe)">
+		<category>Games</category>
+		<description>Aahh! Spot the difference (Europe)</description>
+		<rom name="00000000" size="4692992" crc="8298739d" md5="a5a67d4fbf81d7d8442f7b84e7f86eec" sha1="d53819fa368429886a19d1c77bdcea33e3034be0"/>
+	</game>
+	<game name="Abyss (Europe)">
+		<category>Games</category>
+		<description>Abyss (Europe)</description>
+		<rom name="00000000" size="4814848" crc="3736dfef" md5="118be5974653106eb08078fa5f1c0901" sha1="4dabd03c71a58fd2d81be1df1f922c71aa0a93f0"/>
+	</game>
+	<game name="Academy - Checkers (Europe)">
+		<category>Games</category>
+		<description>Academy - Checkers (Europe)</description>
+		<rom name="00000000" size="4432896" crc="dee7ba9a" md5="415ecf65e9bcf06d16960da64fac9bfa" sha1="b863707558151b230243d6f68f158f717bec96dc"/>
+	</game>
+	<game name="Academy - Chess Puzzles (Europe)">
+		<category>Games</category>
+		<description>Academy - Chess Puzzles (Europe)</description>
+		<rom name="00000000" size="5150720" crc="17e34965" md5="6c8865da83f39607f791785e55c02d09" sha1="f22b06ac1a0a6846820caa7639bec6fb170b2183"/>
+	</game>
+	<game name="Academy - Tic-Tac-Toe Noughts &amp; Crosses (Europe, Australia)">
+		<category>Games</category>
+		<description>Academy - Tic-Tac-Toe Noughts &amp; Crosses (Europe, Australia)</description>
+		<rom name="00000003" size="3677184" crc="0492efd5" md5="c9cde9341ae32ee539912bc35a6f98a7" sha1="7a195010f541356cf63403476a3713fe3f9e9400"/>
+	</game>
+	<game name="Ace Mathician (Europe, Australia)">
+		<category>Games</category>
+		<description>Ace Mathician (Europe, Australia)</description>
+		<rom name="00000001" size="4653056" crc="550f8caa" md5="20d1ab576c93492f7f65605d59925ad6" sha1="a2d6f36249f2f6bac8f8c9f4a8ce0162f6a7637a"/>
+	</game>
+	<game name="Advanced Circuits (Europe, Australia)">
+		<category>Games</category>
+		<description>Advanced Circuits (Europe, Australia)</description>
+		<rom name="00000002" size="6042624" crc="4a88f94c" md5="974dd948e81e7398cb2992d1d5ca935f" sha1="dac4e7d2bb573a9bb9ffd50249d581ff37968956"/>
+	</game>
+	<game name="Adventure in Vegas - Slot Machine (Europe, Australia)">
+		<category>Games</category>
+		<description>Adventure in Vegas - Slot Machine (Europe, Australia)</description>
+		<rom name="00000002" size="10419200" crc="b6a7ff64" md5="144c33ceaf23990f3226f9c3204d131b" sha1="ee3f3c126a449cd508548e9768c2c290072b1c68"/>
+	</game>
+	<game name="Afterzoom (Europe)">
+		<category>Games</category>
+		<description>Afterzoom (Europe)</description>
+		<rom name="00000001" size="10084352" crc="9e2aa25f" md5="e62ffbc729b63a9f07991eaecc1eca06" sha1="418a52bb30744e5a843c36e95fd255db01bc47f9"/>
+	</game>
+	<game name="Ah! Heaven (Europe)">
+		<category>Games</category>
+		<description>Ah! Heaven (Europe)</description>
+		<rom name="00000000" size="5694464" crc="ff524f6b" md5="d011adac8b44260f0e4b37cf20cfc4b8" sha1="5af932e2546030d07fdb9dcc7f007d4c41f853fc"/>
+	</game>
+	<game name="AiRace (Europe, Australia)">
+		<category>Games</category>
+		<description>AiRace (Europe, Australia)</description>
+		<rom name="00000002" size="12342272" crc="288ce9da" md5="9833699b6e96bdcecdc877e85ff9aadb" sha1="3ab6f371d9b294848f53504ae704e30f30b10b30"/>
+	</game>
+	<game name="AiRace - Tunnel (Europe, Australia)">
+		<category>Games</category>
+		<description>AiRace - Tunnel (Europe, Australia)</description>
+		<rom name="00000000" size="5136384" crc="da398112" md5="c3e47592aa69a8c5e67f0b31a4dc755f" sha1="b7e25e83df2b42d2be45da17e8e614c637a522b0"/>
+	</game>
+	<game name="Airport Mania - First Flight (Europe, Australia)">
+		<category>Games</category>
+		<description>Airport Mania - First Flight (Europe, Australia)</description>
+		<rom name="00000002" size="6060032" crc="b863c40d" md5="f0c90017723e7f3ca2a86cfd90f42401" sha1="02b1774d2ac91909d240158c86d6f15fd6b1a5d2"/>
+	</game>
+	<game name="Airport Mania - Non-Stop Flights (Europe, Australia)">
+		<category>Games</category>
+		<description>Airport Mania - Non-Stop Flights (Europe, Australia)</description>
+		<rom name="00000002" size="6032384" crc="7707bb90" md5="cd3862384931e2e34169e54e397a2d62" sha1="d7c76539ee121da42ecbcd69e3cc3ba70bad8fb6"/>
+	</game>
+	<game name="Alien Puzzle Adventure (Europe, Australia)">
+		<category>Games</category>
+		<description>Alien Puzzle Adventure (Europe, Australia)</description>
+		<rom name="00000000" size="11384832" crc="6601b515" md5="1bc4187cb35727413dfae922bb011401" sha1="227b491a21ed1a8d529ede1ae5f3b6029f1fa634"/>
+	</game>
+	<game name="AlphaBounce (Europe, Australia)">
+		<category>Games</category>
+		<description>AlphaBounce (Europe, Australia)</description>
+		<rom name="00000003" size="8052736" crc="79215a49" md5="08651558438a567af22964fcf97bd8b3" sha1="95f307bffb986a0e5cb0669b616c5f0de8417b00"/>
+	</game>
+	<game name="Alt-Play - Jason Rohrer Anthology (Europe)">
+		<category>Games</category>
+		<description>Alt-Play - Jason Rohrer Anthology (Europe)</description>
+		<rom name="00000004" size="5825536" crc="bc141b9e" md5="66b12f9e7ac6c34f23c53c126e4e7298" sha1="4b6c74eef7a9328a39ac7a5cf149752f623a2143"/>
+	</game>
+	<game name="Animal Crossing Calculator (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Animal Crossing Calculator (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000001" size="2476032" crc="82d99cdd" md5="1d2a6f4a3d94c77b3487e202535df95f" sha1="a162265de4263dc88fa01eb68da9b646295a4df8"/>
+	</game>
+	<game name="Animal Crossing Clock (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Animal Crossing Clock (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="2115584" crc="ff610d36" md5="6695c2d9b25d44201eebfe5e4904e8a6" sha1="4c9bcf6e59ba2b70ea2d8a73f2e995e7e892c152"/>
+	</game>
+	<game name="Anonymous Notes 1 - From the Abyss (Europe)">
+		<category>Games</category>
+		<description>Anonymous Notes 1 - From the Abyss (Europe)</description>
+		<rom name="00000003" size="6049792" crc="4b4f584f" md5="eb361dc455f0ce8f4895523e69579327" sha1="8a1483d3ad18857da8fa6909d46cfa9bea304cef"/>
+	</game>
+	<game name="Anonymous Notes 2 - From the Abyss (Europe)">
+		<category>Games</category>
+		<description>Anonymous Notes 2 - From the Abyss (Europe)</description>
+		<rom name="00000003" size="5867520" crc="d58ff863" md5="9d2dcc1bd9afe484ba11902b68e33511" sha1="a068bf3a29e841f262c09f259693c6210e8460a1"/>
+	</game>
+	<game name="Antipole (Europe)">
+		<category>Games</category>
+		<description>Antipole (Europe)</description>
+		<rom name="Antipole (Europe).nds" size="11044864" crc="d2ad4b24" md5="12037698b345987a60c47b10e7272c09" sha1="b9b80676779883dc108be62ebd3a40d981b016ea"/>
+	</game>
+	<game name="Aquarium of Luck, The (Europe)">
+		<category>Games</category>
+		<description>Aquarium of Luck, The (Europe)</description>
+		<rom name="00000001" size="7638016" crc="d9b918a5" md5="b6bd44e20513763286ad12b6e13760f6" sha1="4c0bf4448c8886aa9e7527546456603b7ca59bc4"/>
+	</game>
+	<game name="Armageddon Operation Dragon (Europe)">
+		<category>Games</category>
+		<description>Armageddon Operation Dragon (Europe)</description>
+		<rom name="00000000" size="9382912" crc="7b30718d" md5="c50ab17055f2535b3a686c5c31286acf" sha1="ef31e894ee4720e5e75b88c62ce892b7839d2dd6"/>
+	</game>
+	<game name="Army Defender (Europe)">
+		<category>Games</category>
+		<description>Army Defender (Europe)</description>
+		<rom name="00000002" size="4913152" crc="dea25ea2" md5="1407039e48134f9e6af00df60bb5aa1b" sha1="32940b0f0233b568da36176cf0e9290b9f1ed3f2"/>
+	</game>
+	<game name="Around the World in 80 Days (Europe, Australia) (En,Fr,De)">
+		<category>Games</category>
+		<description>Around the World in 80 Days (Europe, Australia) (En,Fr,De)</description>
+		<rom name="00000000" size="15497216" crc="23a94422" md5="0070bd8025fbf0be12e52ea4bdebf717" sha1="42d982c88e3e6026c562bce512e2359000224c11"/>
+	</game>
+	<game name="Art Academy - First Semester (Europe, Australia)">
+		<category>Games</category>
+		<description>Art Academy - First Semester (Europe, Australia)</description>
+		<rom name="00000000" size="14099456" crc="b1954d71" md5="cb9bcfaa0fbe130518e68faa2fd023f0" sha1="5d8165002e4e532f1387d7dde39b5a1ec59c85aa"/>
+	</game>
+	<game name="Art Academy - Second Semester (Europe, Australia)">
+		<category>Games</category>
+		<description>Art Academy - Second Semester (Europe, Australia)</description>
+		<rom name="00000000" size="15436800" crc="45015200" md5="149a0095e0e1a7e627861203f84ff66e" sha1="fb3c3cd3c2278a5cdbebd04ef44c7c7ca147ff6b"/>
+	</game>
+	<game name="Art Style - AQUITE (Europe, Australia)">
+		<category>Games</category>
+		<description>Art Style - AQUITE (Europe, Australia)</description>
+		<rom name="00000000" size="11972608" crc="0b355060" md5="d54d85e928dbf210b146f49cb7b47e1c" sha1="d3d7b8ed70bff635101126c5f4aa0fa4051205cb"/>
+	</game>
+	<game name="Art Style - BOXLIFE (Europe, Australia)">
+		<category>Games</category>
+		<description>Art Style - BOXLIFE (Europe, Australia)</description>
+		<rom name="00000001" size="9040896" crc="0e8b0688" md5="e0fcbf3900daf26adbccd8edff2f7417" sha1="e5dfcb6578c710353af68b1e21ed9bccb6732cd2"/>
+	</game>
+	<game name="Art Style - CODE (Europe, Australia)">
+		<category>Games</category>
+		<description>Art Style - CODE (Europe, Australia)</description>
+		<rom name="00000000" size="12837888" crc="f5f7e502" md5="c53cc6467ecaa20e842d3aa6221fa99b" sha1="887954bf242007d341da03f253f908eea88f5467"/>
+	</game>
+	<game name="Art Style - INTERSECT (Europe, Australia) (Rev 1)">
+		<category>Games</category>
+		<description>Art Style - INTERSECT (Europe, Australia) (Rev 1)</description>
+		<rom name="Art Style - INTERSECT (Europe, Australia) (Rev 1).nds" size="11777024" crc="46d995d0" md5="a122a201ca52b90554117cd0eb8180fb" sha1="5bd29dc98d8f48573f5c593ffd166972029f32f6"/>
+	</game>
+	<game name="Art Style - KUBOS (Europe, Australia)">
+		<category>Games</category>
+		<description>Art Style - KUBOS (Europe, Australia)</description>
+		<rom name="00000000" size="7690240" crc="6d7ec5f3" md5="ede8d8bf821684196f1ef74fe18c1f9c" sha1="87b9a2be3c43267be8c245a1f302e3cb53b00c97"/>
+	</game>
+	<game name="Art Style - NEMREM (Europe, Australia)">
+		<category>Games</category>
+		<description>Art Style - NEMREM (Europe, Australia)</description>
+		<rom name="00000000" size="8837120" crc="4ab55f91" md5="0aa7ce9d8f13c02b77b4a44ce01e670e" sha1="fa6eaa54c552b10c3d2a988bcc6c9618cc8d457e"/>
+	</game>
+	<game name="Art Style - PiCOPiCT (Europe, Australia)">
+		<category>Games</category>
+		<description>Art Style - PiCOPiCT (Europe, Australia)</description>
+		<rom name="00000000" size="5816320" crc="408e7b05" md5="3b2a5638ef775afc815a5d1538cf5fee" sha1="da9b7327e7b538b8802d02a797ff2fc40d8c51f6"/>
+	</game>
+	<game name="Art of Ink (Europe)">
+		<category>Games</category>
+		<description>Art of Ink (Europe)</description>
+		<rom name="00000000" size="12248064" crc="7e45c406" md5="1e1405aea42310b328c5d5ca9297c7db" sha1="edd01b464364b98adc59b304745597c6cb13b7a5"/>
+	</game>
+	<game name="Artillery - Knights vs. Orcs (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Artillery - Knights vs. Orcs (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000003" size="7623680" crc="e1c3e858" md5="9015d45351b21f1b3d5c411a121dec8d" sha1="ec1dbefcc09f67a9c750cb654274f6070caa09a3"/>
+	</game>
+	<game name="Asphalt 4 - Elite Racing (Europe, Australia)">
+		<category>Games</category>
+		<description>Asphalt 4 - Elite Racing (Europe, Australia)</description>
+		<rom name="00000000" size="14448640" crc="5676f49f" md5="4aa27ce0355978d5263d99cf7980a851" sha1="f47c6ee13ce75fb3fb9b73f1525498f255f80347"/>
+	</game>
+	<game name="Aura-Aura Climber (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Aura-Aura Climber (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="5992448" crc="6d09c918" md5="7882f8097236519f4297fc371ca0bb17" sha1="d936289ddb66d26b3355aefdb369fa31fc511d4d"/>
+	</game>
+	<game name="Battle of the Elements (Europe)">
+		<category>Games</category>
+		<description>Battle of the Elements (Europe)</description>
+		<rom name="00000000" size="8577024" crc="38eca11e" md5="d520a3fa18d8fb64512cc40aa7d50b0c" sha1="9d30fe99cd65b7aa846def0f9026db4062c62612"/>
+	</game>
+	<game name="Bejeweled Twist (Europe, Australia)">
+		<category>Games</category>
+		<description>Bejeweled Twist (Europe, Australia)</description>
+		<rom name="00000002" size="11963392" crc="84fc9a00" md5="47c6d5e1f11b1a1b67b9f47b39788b3d" sha1="d933564f5c35c75758891ba6e0423fd74df24fd6"/>
+	</game>
+	<game name="Bird &amp; Bombs (Europe, Australia)">
+		<category>Games</category>
+		<description>Bird &amp; Bombs (Europe, Australia)</description>
+		<rom name="00000000" size="3248128" crc="35c5836e" md5="d3a354b18b8a2afa2fdd642277701583" sha1="a6933144b5e4d333cf9df20e165cd92540c551d8"/>
+	</game>
+	<game name="Bloons TD 4 (Europe)">
+		<category>Games</category>
+		<description>Bloons TD 4 (Europe)</description>
+		<rom name="00000000" size="7065600" crc="734c4633" md5="e1905726352b423673e9a73313b3c415" sha1="c4d8d77403138eb5cdc3075c91943b266d258cdf"/>
+	</game>
+	<game name="Bomberman Blitz (Europe, Australia)">
+		<category>Games</category>
+		<description>Bomberman Blitz (Europe, Australia)</description>
+		<rom name="00000002" size="8569856" crc="c9287c95" md5="c0f0ba49b88ff84778271d2ca33317db" sha1="75ed6ff5e3253d4bf404b37fa6274ba773ce77f0"/>
+	</game>
+	<game name="Bookstore Dream (Europe, Australia)">
+		<category>Games</category>
+		<description>Bookstore Dream (Europe, Australia)</description>
+		<rom name="Bookstore Dream (Europe, Australia).nds" size="4490240" crc="b672e654" md5="cbb8c3ebae40eea99de8ab1263974a20" sha1="7835549cd3073a800ee45d18626aef7be19d3f83"/>
+	</game>
+	<game name="Bookworm (Europe, Australia)">
+		<category>Games</category>
+		<description>Bookworm (Europe, Australia)</description>
+		<rom name="00000004" size="6943744" crc="709e54a4" md5="3b60c3d296065d2b342fbd695b343c6b" sha1="fdad8e55d74c3583e7e96458f6c12bd256689a47"/>
+	</game>
+	<game name="Boom Boom Squaries (Europe, Australia)">
+		<category>Games</category>
+		<description>Boom Boom Squaries (Europe, Australia)</description>
+		<rom name="00000000" size="3745792" crc="e473ef0c" md5="8ee7a46fd8d656a7fc235c2da4ac9cb5" sha1="a8a6c4775da0957883ec4da8d87d8dff38e72a23"/>
+	</game>
+	<game name="Bounce &amp; Break (Europe)">
+		<category>Games</category>
+		<description>Bounce &amp; Break (Europe)</description>
+		<rom name="00000003" size="5824512" crc="22ee9bd5" md5="afb27f113586e56b97a8e038c167e778" sha1="a21d31450ad6f65afa92be93c4a22def442fec77"/>
+	</game>
+	<game name="Box Pusher (Europe)">
+		<category>Games</category>
+		<description>Box Pusher (Europe)</description>
+		<rom name="00000000" size="4214784" crc="b3405180" md5="9e12be56b702654a31afda0b4176630a" sha1="52f914350e7d7eab4ec73dffe901357c262d2091"/>
+	</game>
+	<game name="Brain Challenge (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Brain Challenge (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="14786560" crc="d625a137" md5="10c81650713fc8728d37324b4038f073" sha1="7409cf2c01b36c6ce9985ea26ae037665b382d65"/>
+	</game>
+	<game name="Break Tactics (Europe)">
+		<category>Games</category>
+		<description>Break Tactics (Europe)</description>
+		<rom name="00000000" size="4403200" crc="76cc0c64" md5="4498b1596a0ed57b6366ee38f04f26c6" sha1="adda653ecbdefe5b7e16d193c576de23e28285bd"/>
+	</game>
+	<game name="Bugs'N'Balls (Europe)">
+		<category>Games</category>
+		<description>Bugs'N'Balls (Europe)</description>
+		<rom name="00000000" size="6273024" crc="fa27385e" md5="b85af7ae4c4ec749716da7054a9de653" sha1="a9f253d205dbed5df09e9e991b8b2a636cc08a05"/>
+	</game>
+	<game name="Cake Ninja - XMAS (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Cake Ninja - XMAS (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="5654528" crc="e916201e" md5="819c8c5da0f5d263fa429c085a3192a7" sha1="ad853059d3239ebf7942792bbc8ab2ea75f689c5"/>
+	</game>
+	<game name="Cake Ninja 2 (Europe)">
+		<category>Games</category>
+		<description>Cake Ninja 2 (Europe)</description>
+		<rom name="00000000" size="8547328" crc="6b1c4e6d" md5="4b0dd869aa300e83fac6c537cf4db6d8" sha1="dd073e3edc259eccfbad2dc41ee878a7f6fe5671"/>
+	</game>
+	<game name="Calculator (Europe, Australia)">
+		<category>Games</category>
+		<description>Calculator (Europe, Australia)</description>
+		<rom name="00000002" size="1917952" crc="dbd6d114" md5="9d64d00a7cdb55dd862d28fbb0329aa9" sha1="2fc405d0e9134666b7c092b1c2264a3d002c1f3b"/>
+	</game>
+	<game name="Candle Route (Europe)">
+		<category>Games</category>
+		<description>Candle Route (Europe)</description>
+		<rom name="00000000" size="6155264" crc="19be945a" md5="4fefeeedce3badc0d4085fbc3420e86f" sha1="f2fbf1fc8f06fc07ee52435c96ed9816a81422df"/>
+	</game>
+	<game name="Car Jack Streets (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Car Jack Streets (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000002" size="16673792" crc="101170c5" md5="8a51f0c98ae80dbc0702652b889c7f0c" sha1="f0c24ab96395c6fa97589ed26e921f7c3987a909"/>
+	</game>
+	<game name="Castle Conqueror (Europe)">
+		<category>Games</category>
+		<description>Castle Conqueror (Europe)</description>
+		<rom name="00000002" size="9342976" crc="99da936c" md5="0af0e6aba7a754c3cea3ad59afab64f8" sha1="28864cc604d4f6d26b92ecfda4737c1ef025dd2f"/>
+	</game>
+	<game name="Castle Conqueror - Against (Europe, Australia)">
+		<category>Games</category>
+		<description>Castle Conqueror - Against (Europe, Australia)</description>
+		<rom name="00000000" size="8417280" crc="dbdc6c15" md5="7bd43a52489eb8802813025c7d9b662a" sha1="5ef0b62855bd67745b66d2d299872755216ff045"/>
+	</game>
+	<game name="Castle Conqueror - Heroes (Europe, Australia)">
+		<category>Games</category>
+		<description>Castle Conqueror - Heroes (Europe, Australia)</description>
+		<rom name="00000001" size="10281984" crc="8b95dc26" md5="99fc1509ee43c4312197e771eae43165" sha1="86be3c2a037efb01cff54bc320958993616af2ce"/>
+	</game>
+	<game name="Castle Conqueror - Heroes 2 (Europe, Australia)">
+		<category>Games</category>
+		<description>Castle Conqueror - Heroes 2 (Europe, Australia)</description>
+		<rom name="00000000" size="8970240" crc="0bd90f69" md5="0164b1ac47e0d1a6f9cbc8cf17500b8b" sha1="4ce45a95d63031539f33fc3402c79fc48c4d0db9"/>
+	</game>
+	<game name="Castle Conqueror - Revolution (Europe, Australia)">
+		<category>Games</category>
+		<description>Castle Conqueror - Revolution (Europe, Australia)</description>
+		<rom name="00000000" size="11513856" crc="f35dc515" md5="fab6a11b86490ed048bd8fda498f8ff4" sha1="b90601e8fe05e59d0df697a1d26d8dcde9d35d58"/>
+	</game>
+	<game name="Castle of Magic (Europe, Australia)">
+		<category>Games</category>
+		<description>Castle of Magic (Europe, Australia)</description>
+		<rom name="00000003" size="12213248" crc="228a3666" md5="0216d376576b00e2483958b4ae56722e" sha1="10636aea98424e19d8c784eed76d11976fa9df3d"/>
+	</game>
+	<game name="Cat Frenzy (Europe)">
+		<category>Games</category>
+		<description>Cat Frenzy (Europe)</description>
+		<rom name="00000000" size="5303296" crc="44fd8731" md5="3d9d90aa57d1c3eeef4047b6f80b8c50" sha1="4faac6e1d389c5cdffdd07ca80c54c8ce806bad6"/>
+	</game>
+	<game name="Chess Challenge! (Europe, Australia)">
+		<category>Games</category>
+		<description>Chess Challenge! (Europe, Australia)</description>
+		<rom name="00000002" size="7471104" crc="e43274a2" md5="47d9a5b6aa1299090d59f6ae8e513447" sha1="af2aee1ad4af226ebdee969c2c25e8a25be1481a"/>
+	</game>
+	<game name="Christmas Wonderland (Europe)">
+		<category>Games</category>
+		<description>Christmas Wonderland (Europe)</description>
+		<rom name="00000000" size="13050880" crc="aaa441c8" md5="bac874ac65c041bd4f3baa79a7c125cf" sha1="7bdaadfb1e4f04dcf55701868fa0562699ebba15"/>
+	</game>
+	<game name="Christmas Wonderland 2 (Europe)">
+		<category>Games</category>
+		<description>Christmas Wonderland 2 (Europe)</description>
+		<rom name="00000000" size="16556032" crc="d053645b" md5="966c6a31b1f1f00d702e33ad7c0b903e" sha1="1b547246f9b4ecc09cba06f4ad4bad72f894e204"/>
+	</game>
+	<game name="Chronos Twins - One Hero in Two Times (Europe)">
+		<category>Games</category>
+		<description>Chronos Twins - One Hero in Two Times (Europe)</description>
+		<rom name="00000007" size="7628800" crc="7e2a48ba" md5="00c8c2c673b5bf2d209e959eecfdd2bb" sha1="6c216c50c7e755a868df3e118c220d411f65592c"/>
+	</game>
+	<game name="Clash of Elementalists (Europe)">
+		<category>Games</category>
+		<description>Clash of Elementalists (Europe)</description>
+		<rom name="00000000" size="10274816" crc="41dc1401" md5="741d0f2a160fe474efbae67448283b4c" sha1="8e43d73ec5bd91d55518d775b3d8d756824e81c9"/>
+	</game>
+	<game name="Color Commando (Europe) (Rev 1)">
+		<category>Games</category>
+		<description>Color Commando (Europe) (Rev 1)</description>
+		<rom name="Color Commando (Europe) (Rev 1).nds" size="4751360" crc="d141c20b" md5="1c914a4bf8ca5e7f24b91e40c7f1d778" sha1="56c51221646372f71f53122d7dcf15ed7ed5c4b5"/>
+	</game>
+	<game name="Combat of Giants - Fight for Survival (Europe, Australia)">
+		<category>Games</category>
+		<description>Combat of Giants - Fight for Survival (Europe, Australia)</description>
+		<rom name="00000001" size="16418816" crc="97b927e3" md5="5a660a5f049b227b5a7ef506bbd5e7cd" sha1="4900cebf09676a192ee0675c4f476a79e726e1a8"/>
+	</game>
+	<game name="Come On! Dragons (Europe)">
+		<category>Games</category>
+		<description>Come On! Dragons (Europe)</description>
+		<rom name="00000000" size="4515840" crc="80a70ca8" md5="e7f929d7eca486a086f25db6e7b70420" sha1="e4c58db93f3f9e456c8faca1a11c7d07b3655d0b"/>
+	</game>
+	<game name="Come On! Heroes (Europe, Australia)">
+		<category>Games</category>
+		<description>Come On! Heroes (Europe, Australia)</description>
+		<rom name="00000000" size="5393408" crc="0ec99a4d" md5="66a56d57d565af718154a52636b28435" sha1="57b67e356c2cdc582437d27d2e1e33948f7156b7"/>
+	</game>
+	<game name="Cosmos X2 (Europe)">
+		<category>Games</category>
+		<description>Cosmos X2 (Europe)</description>
+		<rom name="00000000" size="4084736" crc="8ef528da" md5="daf4a138f3130423d7b9c30133d79a55" sha1="bc59248fb9eacb69e2655ad7c0c98fe762490ecc"/>
+	</game>
+	<game name="Crazy Cheebo - Puzzle Party (Europe)">
+		<category>Games</category>
+		<description>Crazy Cheebo - Puzzle Party (Europe)</description>
+		<rom name="00000000" size="6013952" crc="bfaf2c73" md5="9f3a4d7535f772752075759c363b06a8" sha1="ee584445aae9db6af26cb3d4e135e41e79d0cae0"/>
+	</game>
+	<game name="Crazy Chicken - Director's Cut (Europe)">
+		<category>Games</category>
+		<description>Crazy Chicken - Director's Cut (Europe)</description>
+		<rom name="00000000" size="11573248" crc="9b5d3c58" md5="3b45d4b66c07fe8a57f7388ae0db4635" sha1="3c8ca459151ef166b43a46a2a43085f5ad6b9bd1"/>
+	</game>
+	<game name="Crazy Chicken - Pirates (Europe)">
+		<category>Games</category>
+		<description>Crazy Chicken - Pirates (Europe)</description>
+		<rom name="00000000" size="6216704" crc="bcafef16" md5="e45b34a2be36d00bc438341c4c10d71d" sha1="c04401299d77d003afd070123e1cf7ee7f9e04a0"/>
+	</game>
+	<game name="Crazy Golf (Europe, Australia)">
+		<category>Games</category>
+		<description>Crazy Golf (Europe, Australia)</description>
+		<rom name="00000005" size="6037504" crc="5c93912e" md5="04b8fc5d6593366afd9fab7d6b34b54b" sha1="1b580a5008babbdb9ba8fbc34b805efffad09d43"/>
+	</game>
+	<game name="Crazy Hamster (Europe)">
+		<category>Games</category>
+		<description>Crazy Hamster (Europe)</description>
+		<rom name="00000000" size="5661696" crc="3f55f631" md5="146812f9c4b0f1df9bf48a2db7ffdb59" sha1="c79f19c1a807288ae42ae561fe85142117d4b21b"/>
+	</game>
+	<game name="Crazy Hunter (Europe)">
+		<category>Games</category>
+		<description>Crazy Hunter (Europe)</description>
+		<rom name="00000000" size="6736896" crc="ae845985" md5="36f3adc9750d42ee06ff62670c8bf007" sha1="123dc0ce2389d5c17849c5dd3c3f6b8c5f62e50f"/>
+	</game>
+	<game name="Crazy Sudoku (Europe, Australia)">
+		<category>Games</category>
+		<description>Crazy Sudoku (Europe, Australia)</description>
+		<rom name="00000001" size="2306048" crc="d99de9af" md5="5c882fe006f97b535fd38a94392610f3" sha1="6258b01c90948b29b76ad60926eb5f63955964e3"/>
+	</game>
+	<game name="Crystal Adventure (Europe)">
+		<category>Games</category>
+		<description>Crystal Adventure (Europe)</description>
+		<rom name="00000000" size="4874240" crc="8e0ab2d6" md5="04278f80cc4e6c6be6dcfe15e567df10" sha1="c9dcceee507c98f6ddd769c0be1ec2b66cce25c2"/>
+	</game>
+	<game name="Crystal Caverns of Amon-Ra (Europe)">
+		<category>Games</category>
+		<description>Crystal Caverns of Amon-Ra (Europe)</description>
+		<rom name="00000000" size="7010304" crc="7f3980de" md5="607736dfaf42c51f877ad3e3060d8adf" sha1="51aa457833d216e6623bcfe85e458f42116f929d"/>
+	</game>
+	<game name="Crystal Monsters (Europe, Australia)">
+		<category>Games</category>
+		<description>Crystal Monsters (Europe, Australia)</description>
+		<rom name="00000000" size="9491456" crc="bba104c6" md5="82f2f2b1e2f497174133e03f356652cc" sha1="94e132f3e7f51cc3bf5f144beeea2c1a5609375f"/>
+	</game>
+	<game name="Curling Super Championship (Europe)">
+		<category>Games</category>
+		<description>Curling Super Championship (Europe)</description>
+		<rom name="00000000" size="12167168" crc="d7bd0b85" md5="65497ddd9d446019730adbe75d3d023d" sha1="c30bc9b5efb50312a3620cc573a8241a525d460f"/>
+	</game>
+	<game name="Cut the Rope (Europe, Australia)">
+		<category>Games</category>
+		<description>Cut the Rope (Europe, Australia)</description>
+		<rom name="00000000" size="12132352" crc="b7833d51" md5="7fe65324bd66984f2c9c310ea8daf071" sha1="8f4a417b3881286332749ac15df35f9849835556"/>
+	</game>
+	<game name="Cute Witch! Runner (Europe)">
+		<category>Games</category>
+		<description>Cute Witch! Runner (Europe)</description>
+		<rom name="00000000" size="5272576" crc="8ceb9c9a" md5="88f1d2c4369caead4484f8a7f71e7781" sha1="8f094b398107811d8282caf0f120f34ef01ce282"/>
+	</game>
+	<game name="Dark Void Zero (Europe, Australia)">
+		<category>Games</category>
+		<description>Dark Void Zero (Europe, Australia)</description>
+		<rom name="Dark Void Zero (Europe, Australia).nds" size="9525248" crc="d3efccc3" md5="c2b23281d1089509514b7b012f272e08" sha1="e1539ae3b724307e5e747fcd23ac1d338b09b3fd"/>
+	</game>
+	<game name="Datamine (Europe)">
+		<category>Games</category>
+		<description>Datamine (Europe)</description>
+		<rom name="00000001" size="6454272" crc="2cff1749" md5="a8b80c814d3c69a153997c1807dc9094" sha1="5e52a8930acc5fd1030af4413b7f69454b25220c"/>
+	</game>
+	<game name="Date Or Ditch (Europe, Australia)">
+		<category>Games</category>
+		<description>Date Or Ditch (Europe, Australia)</description>
+		<rom name="00000000" size="8945664" crc="05df3346" md5="c2c66530d4aaf75b5919eb6f39ede46f" sha1="f2730d527d96f9042ccacb75c5dc1e0cee21b441"/>
+	</game>
+	<game name="Decathlon 2012 (Europe)">
+		<category>Games</category>
+		<description>Decathlon 2012 (Europe)</description>
+		<rom name="00000001" size="8884224" crc="9ffb1702" md5="a0e1d2359f1e7d62e77ce7cfddf88408" sha1="8c3c50add3db20d92c4865fe95d9be95e0a8f8f8"/>
+	</game>
+	<game name="Delbo (Europe, Australia)">
+		<category>Games</category>
+		<description>Delbo (Europe, Australia)</description>
+		<rom name="00000000" size="5998592" crc="e6eeabe7" md5="d359972e50a7278e554a8fda3f00d280" sha1="a0e37bcaddc954f3174b51034f132a61d47b9990"/>
+	</game>
+	<game name="Devil Band - Rock the Underworld (Europe, Australia)">
+		<category>Games</category>
+		<description>Devil Band - Rock the Underworld (Europe, Australia)</description>
+		<rom name="00000000" size="5995520" crc="b335b9ce" md5="3946044f5b3d734123564c04355ce16e" sha1="7ce048ab8f0e266cb666e05d60df914502f2f57f"/>
+	</game>
+	<game name="Dictionary 6 in 1 with Camera Function (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)">
+		<category>Games</category>
+		<description>Dictionary 6 in 1 with Camera Function (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)</description>
+		<rom name="Dictionary 6 in 1 with Camera Function (Europe, Australia) (En,Fr,De,Es,It) (Rev 1).nds" size="12342272" crc="20e0aa37" md5="e76b934ba62c0fdd78919b9c55a35743" sha1="4822b5fb20bb95df60ee11f35f4812d08c7c7252"/>
+	</game>
+	<game name="Digger Dan &amp; Kaboom (Europe)">
+		<category>Games</category>
+		<description>Digger Dan &amp; Kaboom (Europe)</description>
+		<rom name="00000003" size="6825984" crc="fa626707" md5="6acdcfedad56639176e611b19ce404b5" sha1="7138a38a55b85e619a5e2cb7bbdaca6195ae81ce"/>
+	</game>
+	<game name="Discolight (Europe)">
+		<category>Games</category>
+		<description>Discolight (Europe)</description>
+		<rom name="00000003" size="3032064" crc="a8270b6d" md5="321cf90b4bc4cd7ac36aa153949188f6" sha1="53a8fcacc606b3062aa8b97d4ec3875b23c96804"/>
+	</game>
+	<game name="DodoGo! (Europe, Australia)">
+		<category>Games</category>
+		<description>DodoGo! (Europe, Australia)</description>
+		<rom name="00000002" size="16411648" crc="ee26cb48" md5="b0026e45b8029c13a601eff96cd9b1c7" sha1="c319036d10e2374a75fde3f6657f95e3111136c7"/>
+	</game>
+	<game name="DodoGo! Robo (Europe, Australia)">
+		<category>Games</category>
+		<description>DodoGo! Robo (Europe, Australia)</description>
+		<rom name="00000001" size="5602304" crc="1407ea9d" md5="e714c0fc9fd3a2f7445584d71deebf57" sha1="86b1573fb7fd9a0eb14b683d371fa561abc2b07a"/>
+	</game>
+	<game name="DotMan (Europe)">
+		<category>Games</category>
+		<description>DotMan (Europe)</description>
+		<rom name="00000000" size="4546560" crc="38884ab7" md5="983d8764b12aacd2fb83b80f9dd650ed" sha1="e3355aa273fe6051e12d0692917abb60f80ad9e2"/>
+	</game>
+	<game name="Dragon Quest Wars (Europe, Australia)">
+		<category>Games</category>
+		<description>Dragon Quest Wars (Europe, Australia)</description>
+		<rom name="00000000" size="11000832" crc="fb024049" md5="95b7a00cf6ecd8eb2f27c00ce2db0a2f" sha1="3a86869a0432e3438e4e33b154789062f987413d"/>
+	</game>
+	<game name="Dragon's Lair (Europe, Australia)">
+		<category>Games</category>
+		<description>Dragon's Lair (Europe, Australia)</description>
+		<rom name="00000001" size="16492544" crc="4d54c0ca" md5="681833acf944af6d7864613753f130ce" sha1="b2223c1c765c01e8d4f53816f4a8dd4858a90ed4"/>
+	</game>
+	<game name="Dragon's Lair II (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Dragon's Lair II (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000002" size="15843328" crc="425749da" md5="51f8e08126e1ea4fdaafad4f0242d32a" sha1="ee404799a4d50d203bfa3af0b3175e2bb19955b3"/>
+	</game>
+	<game name="Drift Street International (Europe, Australia)">
+		<category>Games</category>
+		<description>Drift Street International (Europe, Australia)</description>
+		<rom name="00000001" size="9626624" crc="9ade01a2" md5="a00a7aa0c8202fa9f946a488a673c678" sha1="2ea03d1c0582b9420f5364b93536fcf9f252e310"/>
+	</game>
+	<game name="Earthworm Jim (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Earthworm Jim (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="12119040" crc="69dd08d6" md5="5d711b4da72765a9bc991d459f5c1f02" sha1="e39e62a9c9e99186c41a419943cb34129bbb4f66"/>
+	</game>
+	<game name="Easter Eggztravaganza (Europe) (En,Fr,De)">
+		<category>Games</category>
+		<description>Easter Eggztravaganza (Europe) (En,Fr,De)</description>
+		<rom name="00000000" size="15472640" crc="9c5a2aeb" md5="404fa7f9bd3fe1911081e879582de982" sha1="a2769e31bd63cce40506de85366bbd492c02c7e0"/>
+	</game>
+	<game name="Electroplankton - Beatnes (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Beatnes (Europe, Australia)</description>
+		<rom name="00000000" size="4391936" crc="159e8d71" md5="6cf8590f43aa797de0be5023777c80e1" sha1="c1706ca4b0d3904b0b23be61d859d6ea381d2a07"/>
+	</game>
+	<game name="Electroplankton - Hanenbow (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Hanenbow (Europe, Australia)</description>
+		<rom name="00000000" size="4005888" crc="cbe8a760" md5="d3c48b3281d2b16278091543a98b4128" sha1="cad53f73335fb7aca3d85e0b7bd2ef6173b60246"/>
+	</game>
+	<game name="Electroplankton - Lumiloop (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Lumiloop (Europe, Australia)</description>
+		<rom name="00000000" size="4641792" crc="c45c98f8" md5="b5c941c79e00f079b24caf5073643e43" sha1="9381ccf9ec28132a7b0939785d13651ab1ac2e41"/>
+	</game>
+	<game name="Electroplankton - Luminarrow (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Luminarrow (Europe, Australia)</description>
+		<rom name="00000000" size="4216832" crc="a264a91c" md5="e931302f4c92a79676328ab5f9ffdee3" sha1="1a2874e3d1211b576fc1ef5c00bed42398c4a101"/>
+	</game>
+	<game name="Electroplankton - Marine-Crystals (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Marine-Crystals (Europe, Australia)</description>
+		<rom name="00000000" size="4028416" crc="948003a9" md5="ce126175395913dd66e697295a15fd67" sha1="fe7921c21d3a422017b6dff828d1b8b7784724ca"/>
+	</game>
+	<game name="Electroplankton - Nanocarp (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Nanocarp (Europe, Australia)</description>
+		<rom name="00000000" size="4102144" crc="1d5b9992" md5="13f41c859121c22f1b4168abe045e326" sha1="3e4cc9a57c972aeb7ab2f1dab8fd7683141a251e"/>
+	</game>
+	<game name="Electroplankton - Rec-Rec (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Rec-Rec (Europe, Australia)</description>
+		<rom name="00000000" size="4673536" crc="43422b5f" md5="ee76dcc486ed1a8fa2b4175fe3bdf6e2" sha1="fdf3142ce595f4fc264e5d1c764b407e24884898"/>
+	</game>
+	<game name="Electroplankton - Sun-Animalcule (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Sun-Animalcule (Europe, Australia)</description>
+		<rom name="00000000" size="4118528" crc="bf6b3c75" md5="d23c98a67584023057c4d48ec15f5c72" sha1="6b09a06b4a7fc65a01409e4dd2e53888d7ed33ce"/>
+	</game>
+	<game name="Electroplankton - Trapy (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Trapy (Europe, Australia)</description>
+		<rom name="00000000" size="4132864" crc="005f612a" md5="93b30779e5bf2f33c2f9d575a80b2e8d" sha1="9b376e867aea8ac8c0f276dc9ced9c1c9349fc58"/>
+	</game>
+	<game name="Electroplankton - Varvoice (Europe, Australia)">
+		<category>Games</category>
+		<description>Electroplankton - Varvoice (Europe, Australia)</description>
+		<rom name="00000000" size="4271104" crc="c3d70b2a" md5="76ea772b5b1cd1b0245d22ce7c4651d7" sha1="22d983c479a0367072dd1e1730fafaab645aaa0c"/>
+	</game>
+	<game name="Elemental Masters (Europe) (En,De)">
+		<category>Games</category>
+		<description>Elemental Masters (Europe) (En,De)</description>
+		<rom name="00000006" size="16707584" crc="dd1c6a59" md5="985460acc04f59580bb860db7bc9cd8d" sha1="570119c265c83cc41ea80766d3aca8af6e135a59"/>
+	</game>
+	<game name="Escape the Virus - Shoot'em Up! (Europe)">
+		<category>Games</category>
+		<description>Escape the Virus - Shoot'em Up! (Europe)</description>
+		<rom name="00000000" size="5281792" crc="aa7a5cef" md5="a486ab70e5a3592d90897414639ef865" sha1="19ed23218dda6feb38711e73eee84a1786f8078b"/>
+	</game>
+	<game name="Escape the Virus - Swarm Survival (Europe)">
+		<category>Games</category>
+		<description>Escape the Virus - Swarm Survival (Europe)</description>
+		<rom name="00000000" size="5274624" crc="44220c65" md5="e2608d815a2728eb4238b19920658d43" sha1="68eeeb15718056b98fbd9bf217efef98ca8e262b"/>
+	</game>
+	<game name="Extreme Hangman (Europe, Australia)">
+		<category>Games</category>
+		<description>Extreme Hangman (Europe, Australia)</description>
+		<rom name="00000003" size="4597760" crc="b26fbfb2" md5="d905c03447523f5db8a6ace1662a7205" sha1="b0c0a5acfe4e3f75abe2fdaf343acf4bcfdb218a"/>
+	</game>
+	<game name="Extreme Hangman 2 (Europe, Australia)">
+		<category>Games</category>
+		<description>Extreme Hangman 2 (Europe, Australia)</description>
+		<rom name="00000000" size="4875264" crc="be105cf0" md5="66a2c4e08ef435481bd283ef77f22e9f" sha1="7d1a059c72adf2b54b72c288d61dba138ada0c3f"/>
+	</game>
+	<game name="Face Pilot - Fly with Your Nintendo DSi Camera! (Europe, Australia)">
+		<category>Games</category>
+		<description>Face Pilot - Fly with Your Nintendo DSi Camera! (Europe, Australia)</description>
+		<rom name="00000000" size="11937792" crc="3b65b8cf" md5="9c41ed7d555336e352c5dcbe59897d55" sha1="424c5ec7d6f8917a531dbceea0fee2b586cccdda"/>
+	</game>
+	<game name="Faceez (Europe, Australia)">
+		<category>Games</category>
+		<description>Faceez (Europe, Australia)</description>
+		<rom name="00000003" size="5016576" crc="9d30d8f5" md5="a36ff7a1f217226237c7e92ac2e490b0" sha1="5f400c468157e74a67f19cec9b2ac4c3f9744868"/>
+	</game>
+	<game name="Faceez - Monsters! (Europe)">
+		<category>Games</category>
+		<description>Faceez - Monsters! (Europe)</description>
+		<rom name="00000003" size="5112832" crc="0e98f13e" md5="55820c3f392cc9f98b89c8d6d889c1fa" sha1="f1f43a409c419e84feebf56e5b7587a88712c292"/>
+	</game>
+	<game name="Fairy Tale, A (Europe, Australia)">
+		<category>Games</category>
+		<description>Fairy Tale, A (Europe, Australia)</description>
+		<rom name="00000003" size="6171648" crc="2ef1f3dd" md5="af2c688cd346cad4b98916f6d0b3a592" sha1="fbb747d984a8b9079666609257d37accf5272a48"/>
+	</game>
+	<game name="Fashion Tycoon (Europe)">
+		<category>Games</category>
+		<description>Fashion Tycoon (Europe)</description>
+		<rom name="00000000" size="9086976" crc="62d3733c" md5="3bc345071c0bc82f453ace093458014a" sha1="432c84974ff758aac860a5c902713ed3b7689e5f"/>
+	</game>
+	<game name="Ferrari GT - Evolution (Europe, Australia) (Rev 1)">
+		<category>Games</category>
+		<description>Ferrari GT - Evolution (Europe, Australia) (Rev 1)</description>
+		<rom name="Ferrari GT - Evolution (Europe, Australia) (Rev 1).nds" size="15775744" crc="ca73d9ef" md5="0135344ad77095d66de3dfc244315402" sha1="c9cab307e117d9ea033b80a9d5c3a6cc56ebf112"/>
+	</game>
+	<game name="Ferryman Puzzle (Europe)">
+		<category>Games</category>
+		<description>Ferryman Puzzle (Europe)</description>
+		<rom name="00000001" size="5102592" crc="70e39bdd" md5="01eb46c88fc8bb441c9521da931c9d9b" sha1="81e37f5ac15ff160c5a4411049c587c37943de71"/>
+	</game>
+	<game name="Fieldrunners (Europe, Australia)">
+		<category>Games</category>
+		<description>Fieldrunners (Europe, Australia)</description>
+		<rom name="Fieldrunners (Europe, Australia).nds" size="13372416" crc="5dea0768" md5="df2fec41beeed1c45e692856de7c1624" sha1="aa718f03b801e52668e689e0b4e9360714600b10"/>
+	</game>
+	<game name="Fire Panic (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Fire Panic (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000001" size="2608128" crc="3d682613" md5="28e4165636d127a52e2d0f2b44b00085" sha1="cfbfe3afbf8257ca9c9e3691a71153d164f6b7f1"/>
+	</game>
+	<game name="Fishdom (Europe)">
+		<category>Games</category>
+		<description>Fishdom (Europe)</description>
+		<rom name="00000000" size="8323072" crc="052a525c" md5="be9984e83fd2bf0c09df26efaee75bcf" sha1="517843c6cc2b8d8c830b3f92685dd7ccd8a17775"/>
+	</game>
+	<game name="Flashlight (Europe)">
+		<category>Games</category>
+		<description>Flashlight (Europe)</description>
+		<rom name="00000003" size="2949120" crc="d29006bc" md5="1e09b577e9fd0eec57438574728e9d44" sha1="a88aea02a67c63645c75ae55d351a09b61ecf7d7"/>
+	</game>
+	<game name="Flight Control (Europe, Australia)">
+		<category>Games</category>
+		<description>Flight Control (Europe, Australia)</description>
+		<rom name="00000003" size="7081984" crc="48660382" md5="2e7d42daa47f29c6eb8c1e9dd47bc6c5" sha1="2d4500b32f39f4e47274dab054c8c71fcb2fe802"/>
+	</game>
+	<game name="Flip the Core (Europe)">
+		<category>Games</category>
+		<description>Flip the Core (Europe)</description>
+		<rom name="00000000" size="9355264" crc="0ca02cb2" md5="eda5d995c62c8e1dd3a036a533b94c1d" sha1="b17b13158396c893a634ca349c5de1fea05e1db6"/>
+	</game>
+	<game name="Flipnote Studio (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Flipnote Studio (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Flipnote Studio (Europe, Australia) (En,Fr,De,Es,It).nds" size="3441664" crc="0b8c37d3" md5="e39406bb35aa2ca134dbf11418f134d7" sha1="c64e975ed548e563df96cd36a6f79cd0e290cc59"/>
+	</game>
+	<game name="Flipper (Europe) (En,Fr,De,Es)">
+		<category>Games</category>
+		<description>Flipper (Europe) (En,Fr,De,Es)</description>
+		<rom name="00000001" size="7700480" crc="be43c31e" md5="787c05219fdc1e454ae93dded8d40899" sha1="2e278273383d69e09c450a0c37cb6acc1deca92f"/>
+	</game>
+	<game name="Foto Face - The Face Stealer Strikes (Europe, Australia)">
+		<category>Games</category>
+		<description>Foto Face - The Face Stealer Strikes (Europe, Australia)</description>
+		<rom name="00000000" size="14718976" crc="cb0c5aee" md5="25603a9bb6b35d422962efe46c080bc1" sha1="e3b7576ff193cd8385cf1ae054a9b7df2735a060"/>
+	</game>
+	<game name="Frenzic (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Frenzic (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000001" size="4628480" crc="611c36c6" md5="0370b44b78499908df60878b38e68bb2" sha1="9378b83e5cab5a5c2b354dd04b3a534db0711cfc"/>
+	</game>
+	<game name="Furry Legends (Europe)">
+		<category>Games</category>
+		<description>Furry Legends (Europe)</description>
+		<rom name="00000000" size="6863872" crc="eb85c444" md5="041620b40cedb82d3649b1028415d672" sha1="229ce5d8cd809fd7aa5e7655cc88e6bcd716527a"/>
+	</game>
+	<game name="GO Series - 10 Second Run (Europe)">
+		<category>Games</category>
+		<description>GO Series - 10 Second Run (Europe)</description>
+		<rom name="00000001" size="5472256" crc="7156ebae" md5="6792b876dbdde2f12b359f48701ecd3f" sha1="6177b7c816226362021fc11f3c04ff97b5c2d7d5"/>
+	</game>
+	<game name="GO Series - Dark Spirits (Europe)">
+		<category>Games</category>
+		<description>GO Series - Dark Spirits (Europe)</description>
+		<rom name="00000001" size="3558400" crc="942b7c60" md5="855946382f750faeacf84d9cfd9cee8d" sha1="f038cb88c1cd9974cedfa31fa2568ebaf1c62d78"/>
+	</game>
+	<game name="GO Series - Fatal Blow (Europe)">
+		<category>Games</category>
+		<description>GO Series - Fatal Blow (Europe)</description>
+		<rom name="00000001" size="4271104" crc="ac8c545c" md5="565ccbb4f1e75c916010dfb8e24c8be7" sha1="3d411e6d985b72cdd10dff141ab2ddddaae19b9f"/>
+	</game>
+	<game name="GO Series - Fishing Resort (Europe)">
+		<category>Games</category>
+		<description>GO Series - Fishing Resort (Europe)</description>
+		<rom name="00000001" size="5745664" crc="bd44df79" md5="a1db279bd9318383957ddd96d364a678" sha1="5983f34175e99c629b546ed823195497c0015185"/>
+	</game>
+	<game name="GO Series - Ivy the Kiwi mini (Europe, Australia)">
+		<category>Games</category>
+		<description>GO Series - Ivy the Kiwi mini (Europe, Australia)</description>
+		<rom name="00000001" size="8094720" crc="c98045e5" md5="c3e8300fa350b45513b5409713888b9f" sha1="f4c10f0b14e039a3c1808ce736d4cfe5eecaca9f"/>
+	</game>
+	<game name="GO Series - Picdun (Europe) (Rev 1)">
+		<category>Games</category>
+		<description>GO Series - Picdun (Europe) (Rev 1)</description>
+		<rom name="GO Series - Picdun (Europe) (Rev 1).nds" size="12324864" crc="26862ca7" md5="2b3a85aa5a9b2efc0b68ee7ed0fae1f5" sha1="a22df23e6f430a6579087106e151c1698763faeb"/>
+	</game>
+	<game name="GO Series - Pinball Attack! (Europe)">
+		<category>Games</category>
+		<description>GO Series - Pinball Attack! (Europe)</description>
+		<rom name="00000001" size="7910400" crc="6f5551a1" md5="4e1c44781bb688ff619a2b8394c085fc" sha1="f1cbbfd6b647befee68680e202cd74c37feb558e"/>
+	</game>
+	<game name="GO Series - Tower of Deus (Europe)">
+		<category>Games</category>
+		<description>GO Series - Tower of Deus (Europe)</description>
+		<rom name="00000000" size="4248576" crc="87b1c638" md5="fe9167f18e0b7f622c65438d300664aa" sha1="2a4584d38055c7ca421f173091faeabc7aff07d7"/>
+	</game>
+	<game name="GO Series - Undead Storm (Europe)">
+		<category>Games</category>
+		<description>GO Series - Undead Storm (Europe)</description>
+		<rom name="00000000" size="6334464" crc="4b59c861" md5="c5a62d28ffab2c9049d09db3b5277d4b" sha1="35e10427ac7265a1dda278e8d5657b15381c1f1f"/>
+	</game>
+	<game name="Gaia's Moon (Europe)">
+		<category>Games</category>
+		<description>Gaia's Moon (Europe)</description>
+		<rom name="00000000" size="6204416" crc="c2223bf2" md5="0c7c9bf28ee300fded58d95bcc8b2ba9" sha1="dfbe634c2e01b88ad484e8d15a1eb03c94608a19"/>
+	</game>
+	<game name="Game &amp; Watch - Ball (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Ball (USA, Europe)</description>
+		<rom name="00000000" size="1550336" crc="b90286ed" md5="53528fbc90c389b43c1fc6665f93ba5d" sha1="d17d261cc73490387faf2d408148a7ff7778d6ef"/>
+	</game>
+	<game name="Game &amp; Watch - Chef (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Chef (USA, Europe)</description>
+		<rom name="00000001" size="1713152" crc="bdc410c7" md5="d094745ba23676bcb92e328e73e2082e" sha1="53241deb0cb707b505804d7607077f2159738e82"/>
+	</game>
+	<game name="Game &amp; Watch - Donkey Kong Jr. (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Donkey Kong Jr. (USA, Europe)</description>
+		<rom name="00000000" size="1775616" crc="7466c798" md5="4e9783feb7aa34003ef63dd129393b38" sha1="7fd4b4f69d780561a3d9007ef14b4eea329e5edc"/>
+	</game>
+	<game name="Game &amp; Watch - Flagman (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Flagman (USA, Europe)</description>
+		<rom name="00000000" size="1679360" crc="740219c3" md5="79ec581cfe13896b68b200c311249c3d" sha1="19775ceae005c49e774df617910928b28abd27d3"/>
+	</game>
+	<game name="Game &amp; Watch - Helmet (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Helmet (USA, Europe)</description>
+		<rom name="00000001" size="1639424" crc="5dd8a0f3" md5="a279ecba06cde09bf555039c3453fe53" sha1="701ab85b4f0173a0910f8c8f4c2c673d4c039619"/>
+	</game>
+	<game name="Game &amp; Watch - Judge (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Judge (USA, Europe)</description>
+		<rom name="00000000" size="1666048" crc="4a119577" md5="c0cb744f6e249741ed0288775011358e" sha1="f0cfff1afe7aaf00c899a88598d59d6574806ffc"/>
+	</game>
+	<game name="Game &amp; Watch - Manhole (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Manhole (USA, Europe)</description>
+		<rom name="00000000" size="1697792" crc="558c0829" md5="5e09c25539a3eb9a6ecba33806beebfc" sha1="feed99bfc504345bba80484b40fb55744f7324d2"/>
+	</game>
+	<game name="Game &amp; Watch - Mario's Cement Factory (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Mario's Cement Factory (USA, Europe)</description>
+		<rom name="00000000" size="1750016" crc="e0533a2f" md5="fce41d85502ddaf7276d34b7c38d5acf" sha1="ae9dc2c076d417a1862f7e4ac406ba67027b7f41"/>
+	</game>
+	<game name="Game &amp; Watch - Vermin (USA, Europe)">
+		<category>Games</category>
+		<description>Game &amp; Watch - Vermin (USA, Europe)</description>
+		<rom name="00000000" size="1593344" crc="2030b307" md5="f33881a314ac069110f32bea28a25643" sha1="9618b5956895ab1893778240741feefde92b919b"/>
+	</game>
+	<game name="Gangstar 2 - Kings of L.A. (Europe, Australia)">
+		<category>Games</category>
+		<description>Gangstar 2 - Kings of L.A. (Europe, Australia)</description>
+		<rom name="00000000" size="12009472" crc="d44a3645" md5="1947c415fe4208e7ce8686b394d7ec34" sha1="866d4433641e329d2ddd5b4aa56c13abc1e7fe39"/>
+	</game>
+	<game name="Globulos Party (Europe)">
+		<category>Games</category>
+		<description>Globulos Party (Europe)</description>
+		<rom name="00000003" size="7701504" crc="8c3755f2" md5="bffb0fc08c59044e557dc481b211daf3" sha1="0a778425ef36d0e16f1a3f723c9636467979a743"/>
+	</game>
+	<game name="Glory Days - Tactical Defense (Europe)">
+		<category>Games</category>
+		<description>Glory Days - Tactical Defense (Europe)</description>
+		<rom name="00000001" size="6216704" crc="ed56fc73" md5="1205e23384ffe5c8200a76eafbcacf1e" sha1="87108a30554c5c81ab8b3b5d60446aab2099e0ef"/>
+	</game>
+	<game name="Glow Artisan (Europe, Australia)">
+		<category>Games</category>
+		<description>Glow Artisan (Europe, Australia)</description>
+		<rom name="00000000" size="8307712" crc="d8cd3b7f" md5="8484689726f684a278724169e7ca06e5" sha1="011b229b9467df957ca167e0ea9d233225173771"/>
+	</game>
+	<game name="Go! Go! Island Rescue! (Europe, Australia) (En,Fr,De)">
+		<category>Games</category>
+		<description>Go! Go! Island Rescue! (Europe, Australia) (En,Fr,De)</description>
+		<rom name="00000003" size="10701824" crc="624e3b72" md5="132942fef18bace87d957033255596ef" sha1="863c122da1784bf3e4290ee4f5aa4f34d4c3c802"/>
+	</game>
+	<game name="Go! Go! Kokopolo (Europe) (Rev 1)">
+		<category>Games</category>
+		<description>Go! Go! Kokopolo (Europe) (Rev 1)</description>
+		<rom name="Go! Go! Kokopolo (Europe) (Rev 1).nds" size="16730112" crc="e66c53a5" md5="fe3a46dec992e4a3e2f3f409c3d04400" sha1="bda4e8da922471bc99a4a342c339e3e34ce05bae"/>
+	</game>
+	<game name="Gold Fever (Europe, Australia)">
+		<category>Games</category>
+		<description>Gold Fever (Europe, Australia)</description>
+		<rom name="00000002" size="4428800" crc="a94a5ea7" md5="52d278b071a35bf7c746dadc711d7495" sha1="282fbfa5f6eca5ed61059a14ebba6fba7dd71d81"/>
+	</game>
+	<game name="Goony (Europe)">
+		<category>Games</category>
+		<description>Goony (Europe)</description>
+		<rom name="Goony (Europe).nds" size="5348352" crc="203c85f2" md5="ab98350333207ae9fe35925bf4b0156f" sha1="1369f339257e59d0aa06860bbbd8706ca43f07ce"/>
+	</game>
+	<game name="Guitar Rock Tour (Europe, Australia)">
+		<category>Games</category>
+		<description>Guitar Rock Tour (Europe, Australia)</description>
+		<rom name="00000001" size="10792960" crc="bf816450" md5="d5ae526787dff1bab544e56302de9c6f" sha1="09dc0547712cf9ba85afc1ca1242b4f96ad0811d"/>
+	</game>
+	<game name="Halloween - Trick or Treat (Europe)">
+		<category>Games</category>
+		<description>Halloween - Trick or Treat (Europe)</description>
+		<rom name="00000000" size="15993856" crc="f758b3d2" md5="22b081c942436e45bce48909014d41b4" sha1="0a821e422dd5c945ebc9f0d3a123619054f07f24"/>
+	</game>
+	<game name="Hellokids - Vol. 1 - Coloring and Painting! (Europe)">
+		<category>Games</category>
+		<description>Hellokids - Vol. 1 - Coloring and Painting! (Europe)</description>
+		<rom name="00000009" size="4830208" crc="d47f6ca6" md5="334ec5c83feb1aef7d8a23b6ead61c65" sha1="aeeaf4a404b1737d332b196c65a6ecc580b5b61c"/>
+	</game>
+	<game name="Hero of Sparta (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Hero of Sparta (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Hero of Sparta (Europe, Australia) (En,Fr,De,Es,It).nds" size="12598272" crc="85943ee3" md5="d7069237c489aa93f6e706c80c1e477d" sha1="cdd882cb5460cf9caa1cfed32769e631ab606e44"/>
+	</game>
+	<game name="Hints Hunter (Europe)">
+		<category>Games</category>
+		<description>Hints Hunter (Europe)</description>
+		<rom name="00000001" size="11845632" crc="5f4aa12c" md5="146a6e8991d9b3369387e21cea8be761" sha1="654a33115d3241a091af749ca5e2fd6be58d9cf9"/>
+	</game>
+	<game name="Hooked on Bass Fishing (Europe)">
+		<category>Games</category>
+		<description>Hooked on Bass Fishing (Europe)</description>
+		<rom name="00000000" size="6965248" crc="0928fcdf" md5="20fbb88c899d725d04687520d20beb82" sha1="24191056a814f5a1badf85ddd905639d6f9be7be"/>
+	</game>
+	<game name="Hospital Havoc (Europe)">
+		<category>Games</category>
+		<description>Hospital Havoc (Europe)</description>
+		<rom name="00000004" size="11419648" crc="b12801fa" md5="ad490550586ba4d17b960379bb2c743e" sha1="1c5abcc2c43fc8a4c18022a937f810b303bca7c9"/>
+	</game>
+	<game name="I Am in the Movie (Europe)">
+		<category>Games</category>
+		<description>I Am in the Movie (Europe)</description>
+		<rom name="00000000" size="3059712" crc="bb199ba4" md5="578347443754aa891f27513330d7fd56" sha1="17c6ec66cc3524646bd57d3bdd16832a196dfd15"/>
+	</game>
+	<game name="I Must Run! (Europe)">
+		<category>Games</category>
+		<description>I Must Run! (Europe)</description>
+		<rom name="00000000" size="5520384" crc="7279bffd" md5="d440f7ff3a2ccdcde57d43e702b51a53" sha1="d7951d790545e2a17db9167bcc13927ad7dbf7ab"/>
+	</game>
+	<game name="Ice Hockey Slovakia 2011 (Europe)">
+		<category>Games</category>
+		<description>Ice Hockey Slovakia 2011 (Europe)</description>
+		<rom name="00000001" size="6221824" crc="46f4c6e0" md5="bc7a5316a60eb3c91df34a011906afb0" sha1="8146a502f0339ba0962111294a83917621851629"/>
+	</game>
+	<game name="Inchworm Animation (Europe)">
+		<category>Games</category>
+		<description>Inchworm Animation (Europe)</description>
+		<rom name="00000000" size="4713472" crc="ed7dd324" md5="96787230dbb479eadea47f9c881d8c57" sha1="3ae538fcb4d2e6d1930b6b651eb3e194e4991df6"/>
+	</game>
+	<game name="Jagged Alliance (Europe)">
+		<category>Games</category>
+		<description>Jagged Alliance (Europe)</description>
+		<rom name="00000002" size="12444672" crc="edcb14b7" md5="94c58055c490f92cdfcb5fd7ab5e9883" sha1="a1c515ebe5d2816728566060329d6b4ae21ef6e2"/>
+	</game>
+	<game name="Jewel Match (Europe)">
+		<category>Games</category>
+		<description>Jewel Match (Europe)</description>
+		<rom name="00000000" size="8908800" crc="7594fa28" md5="86d31fa95f5aa72160ffec9567f4ef0f" sha1="150400bde76e661ca86f89be6c0b8abe2d573f63"/>
+	</game>
+	<game name="Jewel Quest 5 - The Sleepless Star (Europe, Australia)">
+		<category>Games</category>
+		<description>Jewel Quest 5 - The Sleepless Star (Europe, Australia)</description>
+		<rom name="00000000" size="16190464" crc="f332a356" md5="6ff497afdd63fd255b8634847ca5221e" sha1="1b704e2175450a201ed803aac57430972c3b7c48"/>
+	</game>
+	<game name="Just Sing! Christmas Songs (Europe)">
+		<category>Games</category>
+		<description>Just Sing! Christmas Songs (Europe)</description>
+		<rom name="00000002" size="6182912" crc="2d5f93ca" md5="28a46a87947dd98c30aafccfe7cf8aaa" sha1="6364daa2e15f2b3a4f612189429ed88a6f3a5cf1"/>
+	</game>
+	<game name="Kung Fu Dragon (Europe)">
+		<category>Games</category>
+		<description>Kung Fu Dragon (Europe)</description>
+		<rom name="00000000" size="3881984" crc="5cbc2b4d" md5="6d895a4d4c91f689234742d2bfa8020c" sha1="cc01d4d7db23aea9d6fbd59e6ca6340df6c10710"/>
+	</game>
+	<game name="Legend of Zelda, The - Four Swords Anniversary Edition (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Four Swords Anniversary Edition (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000001" size="14848000" crc="d5b25cc5" md5="017874c19380006fc5e540588f2c8c5d" sha1="f151325756b6804d5c27e20ab8e70fe69239cbbf"/>
+	</game>
+	<game name="Legends of Exidia (Europe, Australia)">
+		<category>Games</category>
+		<description>Legends of Exidia (Europe, Australia)</description>
+		<rom name="Legends of Exidia (Europe, Australia).nds" size="9628672" crc="2acb2e9f" md5="8e38ee2997fc93f47b490cda7a6092fd" sha1="85db5c2f5b912f272c538894bfe76a46e7f3d568"/>
+	</game>
+	<game name="Let's Create! Pottery (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Let's Create! Pottery (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="10376192" crc="136989b3" md5="c1db519d506023af9ae342de8edbec31" sha1="f6104e77cfa9a4b51e851581b89197b88923b87b"/>
+	</game>
+	<game name="Let's Golf! (Europe, Australia)">
+		<category>Games</category>
+		<description>Let's Golf! (Europe, Australia)</description>
+		<rom name="00000000" size="16638976" crc="60799326" md5="e7e7532d4b5c298db379a1e98683fdbd" sha1="70aba7a0abdd29292f8185c815fb8dc465ef5eb8"/>
+	</game>
+	<game name="Libera Wing (Europe)">
+		<category>Games</category>
+		<description>Libera Wing (Europe)</description>
+		<rom name="00000003" size="15809536" crc="6b8906d4" md5="50b12bb7083b959456402bf8f3a27cc0" sha1="8527aea3866ba01db9431a499c62adfc301e24ff"/>
+	</game>
+	<game name="Link 'n' Launch (Europe, Australia)">
+		<category>Games</category>
+		<description>Link 'n' Launch (Europe, Australia)</description>
+		<rom name="00000000" size="5317632" crc="289220a2" md5="cf03d27dafeeb4cae9594752e0522606" sha1="4b913597b4c21cf88596e95739d82cea1aa79617"/>
+	</game>
+	<game name="Little Bit of... Brain Training, A - Arts Edition (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)">
+		<category>Games</category>
+		<description>Little Bit of... Brain Training, A - Arts Edition (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)</description>
+		<rom name="Little Bit of... Brain Training, A - Arts Edition (Europe, Australia) (En,Fr,De,Es,It) (Rev 1).nds" size="12608512" crc="5f79b5ff" md5="b17a8bbeee9ff3540611690c17d89992" sha1="a38d586557515db910d68c9a3560f6c216f38cf2"/>
+	</game>
+	<game name="Little Bit of... Brain Training, A - Maths Edition (Europe, Australia) (Rev 1)">
+		<category>Games</category>
+		<description>Little Bit of... Brain Training, A - Maths Edition (Europe, Australia) (Rev 1)</description>
+		<rom name="Little Bit of... Brain Training, A - Maths Edition (Europe, Australia) (Rev 1).nds" size="10689536" crc="19900ddb" md5="4e7e1fc86da513e5b31adbb13c080d7b" sha1="348c06c588f1bdc82a80af9c4d170b004e449c9d"/>
+	</game>
+	<game name="Little Bit of... Brain Training, A - Sudoku (Europe, Australia) (Rev 1)">
+		<category>Games</category>
+		<description>Little Bit of... Brain Training, A - Sudoku (Europe, Australia) (Rev 1)</description>
+		<rom name="Little Bit of... Brain Training, A - Sudoku (Europe, Australia) (Rev 1).nds" size="3425280" crc="a80e8494" md5="c68f52e2fe7b05d59d85bf0c4420b86a" sha1="c2a0dfa23544c7991f7d38fd7f2e2ee58e2c489f"/>
+	</game>
+	<game name="Little Bit of... Magic Made Fun, A - Deep Psyche (Europe)">
+		<category>Games</category>
+		<description>Little Bit of... Magic Made Fun, A - Deep Psyche (Europe)</description>
+		<rom name="00000000" size="2374656" crc="2bb74c5a" md5="e58f9c8f85e6cd844fa34f8562ad19c8" sha1="2e489aaf4dc2e01d0a630e4d82ea9afbb21ebbe7"/>
+	</game>
+	<game name="Little Bit of... Magic Made Fun, A - Funny Face (Europe) (Fr,De,It) (Rev 1)">
+		<category>Games</category>
+		<description>Little Bit of... Magic Made Fun, A - Funny Face (Europe) (Fr,De,It) (Rev 1)</description>
+		<rom name="Little Bit of... Magic Made Fun, A - Funny Face (Europe) (Fr,De,It) (Rev 1).nds" size="5121024" crc="31649f03" md5="b4193b1bed981e0df96f57249de029aa" sha1="62a96716917629918e7da7254b58c1a0af82d85a"/>
+	</game>
+	<game name="Little Bit of... Magic Made Fun, A - Matchmaker (Europe)">
+		<category>Games</category>
+		<description>Little Bit of... Magic Made Fun, A - Matchmaker (Europe)</description>
+		<rom name="00000000" size="6076416" crc="9afd0add" md5="df18baf13d8494a62bb3ee978de2e415" sha1="0cf92b0c5216fbc067a768c1fd06fc0aa047a55c"/>
+	</game>
+	<game name="Little Bit of... Magic Made Fun, A - Mind Probe (Europe)">
+		<category>Games</category>
+		<description>Little Bit of... Magic Made Fun, A - Mind Probe (Europe)</description>
+		<rom name="00000000" size="3720192" crc="4cd25746" md5="8408b88e6d4eeccb84e9ec283d47d4fe" sha1="ea6938eaf142d00e860485eddf75044be5959504"/>
+	</game>
+	<game name="Little Bit of... Magic Made Fun, A - Psychic Camera (Europe)">
+		<category>Games</category>
+		<description>Little Bit of... Magic Made Fun, A - Psychic Camera (Europe)</description>
+		<rom name="00000000" size="4884480" crc="e8be3fbb" md5="187daf5c3aa8169142e3e9be3dcf28dd" sha1="3afaa9b52637e2905bb0e659501434f23bb191ee"/>
+	</game>
+	<game name="Little Bit of... Magic Made Fun, A - Shuffle Games (Europe)">
+		<category>Games</category>
+		<description>Little Bit of... Magic Made Fun, A - Shuffle Games (Europe)</description>
+		<rom name="00000000" size="2565120" crc="d427764d" md5="b7547567b1f55a0d2a1045d0bc424e70" sha1="e2fa16f2a75586d38ba60e0c563e712114ca648d"/>
+	</game>
+	<game name="Little Bit of..., A - Dr. Mario (Europe, Australia)">
+		<category>Games</category>
+		<description>Little Bit of..., A - Dr. Mario (Europe, Australia)</description>
+		<rom name="00000000" size="4083712" crc="4beac667" md5="03b0b420af66ade359ad4ed8fb8c040f" sha1="c1f98203d38a1a8ee5136738fc7e1149e5270364"/>
+	</game>
+	<game name="Little Bit of..., A - Nintendo Touch Golf (Europe, Australia)">
+		<category>Games</category>
+		<description>Little Bit of..., A - Nintendo Touch Golf (Europe, Australia)</description>
+		<rom name="00000000" size="15370240" crc="242adbc2" md5="0f4a736a6bbf7f416142cd480d342d4c" sha1="ff378c450e419766c66f73e2707334135256dfdf"/>
+	</game>
+	<game name="Little Bit of..., A - Puzzle League (Europe, Australia)">
+		<category>Games</category>
+		<description>Little Bit of..., A - Puzzle League (Europe, Australia)</description>
+		<rom name="Little Bit of..., A - Puzzle League (Europe, Australia).nds" size="5714944" crc="fc414ae1" md5="b6fe5c082994648b01b5e3a4acf7e4e8" sha1="f1758bc437222e247861b2b8b8aa5b14121e894e"/>
+	</game>
+	<game name="Little Red Riding Hood's Zombie BBQ (Europe)">
+		<category>Games</category>
+		<description>Little Red Riding Hood's Zombie BBQ (Europe)</description>
+		<rom name="00000001" size="15818752" crc="4da7bc12" md5="d028a398f758599c7e2ed1d4179e3df4" sha1="bedfdaabea142999f11b060c0002ebad3d9d34d4"/>
+	</game>
+	<game name="Littlest Pet Shop (Europe, Australia)">
+		<category>Games</category>
+		<description>Littlest Pet Shop (Europe, Australia)</description>
+		<rom name="00000000" size="14834688" crc="da878154" md5="da802f5448cf16ed1fba606b8f3eed30" sha1="dcfc7ff058df05b3b4b2a66bc7e4901bc7e1ead6"/>
+	</game>
+	<game name="Lola's Alphabet Train (Europe)">
+		<category>Games</category>
+		<description>Lola's Alphabet Train (Europe)</description>
+		<rom name="00000000" size="5451776" crc="185aa997" md5="ad38a62c6ab6fe6adc403a4d82b75d78" sha1="f06cb850160f7038ca98c7d00e54847c568f3c36"/>
+	</game>
+	<game name="Lola's Fruit Shop Sudoku (Europe)">
+		<category>Games</category>
+		<description>Lola's Fruit Shop Sudoku (Europe)</description>
+		<rom name="00000001" size="5750784" crc="cf32ae4f" md5="1ed37ffa61e59651b66807f8919ea967" sha1="62b601577b718a8b60d6e87944f3e7f078545884"/>
+	</game>
+	<game name="Lost Town - The Jungle, The (Europe, Australia)">
+		<category>Games</category>
+		<description>Lost Town - The Jungle, The (Europe, Australia)</description>
+		<rom name="00000000" size="11422720" crc="17a18bfa" md5="c51c3e68d0ea2e5c960209d515f6428b" sha1="52b36f66f8e53e4bfdf6512b812087d5b9675329"/>
+	</game>
+	<game name="Lost Treasures of Alexandria (Europe)">
+		<category>Games</category>
+		<description>Lost Treasures of Alexandria (Europe)</description>
+		<rom name="00000000" size="11746304" crc="740a9742" md5="3fc33615bcaadd2e183b3616c73f94df" sha1="3ec6106616ce47713037cfab1fc3b243dc6bb261"/>
+	</game>
+	<game name="Maestro! Green Groove (Europe, Australia)">
+		<category>Games</category>
+		<description>Maestro! Green Groove (Europe, Australia)</description>
+		<rom name="00000001" size="11755520" crc="7a05b34e" md5="51b2f0afe4a84aba2d33ccadc36aac17" sha1="0fe543de1c2dabecda4cd87cf733b6177d909b1f"/>
+	</game>
+	<game name="Magical Whip (Europe)">
+		<category>Games</category>
+		<description>Magical Whip (Europe)</description>
+		<rom name="00000000" size="6124544" crc="ad16bd83" md5="f13ae5a976f294e690d3e379948e0a8a" sha1="478881722fa0bf8354d550e32efa180084c56c34"/>
+	</game>
+	<game name="Mahjong (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Mahjong (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="5706752" crc="93d0a1c0" md5="652247e6dde95f25dd5046a75755c81b" sha1="162304b9643f97cc1dfb007a96b800720e3336d7"/>
+	</game>
+	<game name="Mario Calculator (Europe, Australia)">
+		<category>Games</category>
+		<description>Mario Calculator (Europe, Australia)</description>
+		<rom name="00000001" size="1932288" crc="155aede0" md5="492fd0e0794d635dad05a300a6780ccd" sha1="d7bcf8b9dfae00883135a2850ca65ec87bcfafe5"/>
+	</game>
+	<game name="Mario Clock (Europe, Australia)">
+		<category>Games</category>
+		<description>Mario Clock (Europe, Australia)</description>
+		<rom name="00000000" size="2931712" crc="e385b8a6" md5="e37d351fdd29102d340bc584075ddeac" sha1="3a843a6306f4f8efc3d8f7dd0fb2819fe7a94924"/>
+	</game>
+	<game name="Mario vs. Donkey Kong - Minis March Again! (Europe, Australia)">
+		<category>Games</category>
+		<description>Mario vs. Donkey Kong - Minis March Again! (Europe, Australia)</description>
+		<rom name="00000000" size="16011264" crc="b6862e23" md5="eb65b06136ee43512c7c9aa695a7236a" sha1="12cfd4fa75f34cbcfe9163b68d2bb7dfdbd5f3f9"/>
+	</game>
+	<game name="Match Up! (Europe)">
+		<category>Games</category>
+		<description>Match Up! (Europe)</description>
+		<rom name="00000001" size="5636096" crc="0f6663e9" md5="97ed4f33a01497b8a90b297b0384ff43" sha1="a781999e03460a0078203d5eb810fd857b5706c3"/>
+	</game>
+	<game name="Mega Words (Europe)">
+		<category>Games</category>
+		<description>Mega Words (Europe)</description>
+		<rom name="00000000" size="8598528" crc="0be9967a" md5="63f937be049e1f8885660cfb26c8089a" sha1="004a9cdacca044fc6c234172b43ef6bd02b20707"/>
+	</game>
+	<game name="Metal Torrent (Europe, Australia)">
+		<category>Games</category>
+		<description>Metal Torrent (Europe, Australia)</description>
+		<rom name="00000000" size="4540416" crc="d63835f2" md5="4249499bc580552eed95b4db18cf5829" sha1="8e08cbd015d857a3573ed37e9f02bce15a55de11"/>
+	</game>
+	<game name="Mighty Flip Champs! (Europe, Australia)">
+		<category>Games</category>
+		<description>Mighty Flip Champs! (Europe, Australia)</description>
+		<rom name="00000000" size="6898688" crc="0ece6de1" md5="97818e5178b0247bb296cdf10033f522" sha1="7c1cf00f91251ff522ffeaae7ab3110a3e1e97ee"/>
+	</game>
+	<game name="Mighty Milky Way (Europe)">
+		<category>Games</category>
+		<description>Mighty Milky Way (Europe)</description>
+		<rom name="00000002" size="11446272" crc="44ed6d43" md5="45a5c6ff7b550ae50e4e747d2471e4f1" sha1="cd5a883961d7bf9b732de9e073eb9c4226aa346c"/>
+	</game>
+	<game name="Missy Mila - Twisted Tales (Europe)">
+		<category>Games</category>
+		<description>Missy Mila - Twisted Tales (Europe)</description>
+		<rom name="00000002" size="9604096" crc="fa335b5f" md5="88c4d133636e9452990bf46545dfcd6e" sha1="463eb4b0ceec46b8d0a7b2db1de11886d1d4c39a"/>
+	</game>
+	<game name="Mixed Messages (Europe, Australia)">
+		<category>Games</category>
+		<description>Mixed Messages (Europe, Australia)</description>
+		<rom name="00000000" size="6073344" crc="73f6a5c8" md5="4849f9ad49cfd39aadb7949fb821e21c" sha1="7b18ea81650d7006d7960e8558f99f7c2aa8a6ea"/>
+	</game>
+	<game name="Moto eXtreme (Europe, Australia)">
+		<category>Games</category>
+		<description>Moto eXtreme (Europe, Australia)</description>
+		<rom name="00000004" size="15883264" crc="8facb9ec" md5="05191199971c7ab407ec21798e7b6948" sha1="01ae99ab51117a15efaee1bb0140ed00aaeb12f8"/>
+	</game>
+	<game name="Mr. Driller - Drill till you Drop (Europe, Australia)">
+		<category>Games</category>
+		<description>Mr. Driller - Drill till you Drop (Europe, Australia)</description>
+		<rom name="00000001" size="7465984" crc="d144ee7f" md5="6ef5d7ed7d518a751272b39120316763" sha1="c046851399120646b9c5ed45fcf8f74044123bc6"/>
+	</game>
+	<game name="Music On - Retro Keyboard (Europe, Australia)">
+		<category>Games</category>
+		<description>Music On - Retro Keyboard (Europe, Australia)</description>
+		<rom name="00000000" size="3543040" crc="13fba44f" md5="eacd133a1fcca29a0416aecb1ae47678" sha1="b5df6e6e3e3b9048f03e2d0d16dc8fa616a470b6"/>
+	</game>
+	<game name="Music on - Acoustic Guitar (Europe, Australia)">
+		<category>Games</category>
+		<description>Music on - Acoustic Guitar (Europe, Australia)</description>
+		<rom name="00000000" size="3267584" crc="2e4e79ac" md5="2b54ebdc887acf60cc9664fc755514a7" sha1="ed41b909024f361b00d703827dc304bb6d57fb2e"/>
+	</game>
+	<game name="Music on - Electric Guitar (Europe, Australia)">
+		<category>Games</category>
+		<description>Music on - Electric Guitar (Europe, Australia)</description>
+		<rom name="00000000" size="3329024" crc="5bfab51e" md5="8f0f0408b8b5c3922c06bf8144a14f78" sha1="c7d3276006e2c384f9676854b988f0546cf15f67"/>
+	</game>
+	<game name="Music on - Electronic Keyboard (Europe, Australia)">
+		<category>Games</category>
+		<description>Music on - Electronic Keyboard (Europe, Australia)</description>
+		<rom name="00000005" size="3434496" crc="0dedd41c" md5="cdbe9ad27b566cdb47b3f48a55ca2bd8" sha1="34a69fc94870826a18c3e5d896be5b28b3f5dab3"/>
+	</game>
+	<game name="Music on - Learning Piano (Europe)">
+		<category>Games</category>
+		<description>Music on - Learning Piano (Europe)</description>
+		<rom name="Music on - Learning Piano (Europe).nds" size="4483072" crc="4dc86859" md5="b052cde2576e3450acb81962b26df406" sha1="f99d96c40e4fbe01ec5143502f59a39612e936b7"/>
+	</game>
+	<game name="Music on - Learning Piano Vol. 2 (Europe)">
+		<category>Games</category>
+		<description>Music on - Learning Piano Vol. 2 (Europe)</description>
+		<rom name="Music on - Learning Piano Vol. 2 (Europe).nds" size="4387840" crc="84ddab32" md5="478c474e9a159315e3c05f760c4e7d15" sha1="245adc30b7caee20b7f816671eaca7d7fac6facd"/>
+	</game>
+	<game name="Music on - Playing Piano (Europe)">
+		<category>Games</category>
+		<description>Music on - Playing Piano (Europe)</description>
+		<rom name="00000000" size="4577280" crc="a046286e" md5="02f8ccb96758d54c2f4df3c6d1990a0f" sha1="5e5757cf513d16b4c0861449b81b3d922c283872"/>
+	</game>
+	<game name="My Aquarium - Seven Oceans (Europe)">
+		<category>Games</category>
+		<description>My Aquarium - Seven Oceans (Europe)</description>
+		<rom name="00000000" size="10893312" crc="e9da72ea" md5="366d93300fb122dc28b342ca915ec746" sha1="db66280b91feff537d9f7df096f8bcb68ea1891f"/>
+	</game>
+	<game name="My Asian Farm (Europe)">
+		<category>Games</category>
+		<description>My Asian Farm (Europe)</description>
+		<rom name="00000000" size="5884928" crc="7fcf8a50" md5="f58c9165f44b2697806fd179bcf00135" sha1="4655a818dd536970c251ff78ca766e8b42af31cc"/>
+	</game>
+	<game name="My Australian Farm (Europe)">
+		<category>Games</category>
+		<description>My Australian Farm (Europe)</description>
+		<rom name="00000000" size="5647360" crc="1524a2d6" md5="1ef01b3348ce2e2e825776e1cd20f20e" sha1="beab0eca91a937a1b4e50be7db4d0c4731b6e65c"/>
+	</game>
+	<game name="My Exotic Farm (Europe, Australia)">
+		<category>Games</category>
+		<description>My Exotic Farm (Europe, Australia)</description>
+		<rom name="00000008" size="5673984" crc="4b5b0a39" md5="aaf45477c12654ab363036dc4abac839" sha1="836d022ca2814a2e8106cb3b39f4c12f7f1ca844"/>
+	</game>
+	<game name="My Farm (Europe, Australia)">
+		<category>Games</category>
+		<description>My Farm (Europe, Australia)</description>
+		<rom name="My Farm (Europe, Australia).nds" size="5809152" crc="720cefd1" md5="2d42462485f368f7d01b674c5af5784b" sha1="235d45014d3cfe827275da3028f98758af4e18d3"/>
+	</game>
+	<game name="My Little Restaurant (Europe, Australia)">
+		<category>Games</category>
+		<description>My Little Restaurant (Europe, Australia)</description>
+		<rom name="00000002" size="6961152" crc="7df08759" md5="8ce86633d327960ebc43a964626dc0c1" sha1="f36491a5f0e6b32d7c0c6f02acc8311b0e8f3f06"/>
+	</game>
+	<game name="MySims Camera (Europe, Australia)">
+		<category>Games</category>
+		<description>MySims Camera (Europe, Australia)</description>
+		<rom name="00000002" size="4978688" crc="4aa291c6" md5="0ea27b06dcf37624e07e6dee71378f26" sha1="e74c9274e837550379bb6d42bc65dc54240f5eee"/>
+	</game>
+	<game name="Need for Speed - Nitro-X (Europe, Australia) (En,Fr,De,Es)">
+		<category>Games</category>
+		<description>Need for Speed - Nitro-X (Europe, Australia) (En,Fr,De,Es)</description>
+		<rom name="00000002" size="16111616" crc="e6fe837b" md5="f30cd831a4889c264a1a5842a0534eb0" sha1="14e2aab74903ccb96f68e3959a0ec36af85d3f47"/>
+	</game>
+	<game name="Nintendo Countdown Calendar (Europe, Australia)">
+		<category>Games</category>
+		<description>Nintendo Countdown Calendar (Europe, Australia)</description>
+		<rom name="00000001" size="4583424" crc="6e97d2a1" md5="3bd1d1b83385b784202752cdb898bdee" sha1="6ddbb995b93b590fbd98b6747ab3a3b9df4d66c9"/>
+	</game>
+	<game name="Nintendo DSi + Internet (Europe) (En,Fr,De,Es,It) (Rev 1) (Pre-install)">
+		<category>Games</category>
+		<description>Nintendo DSi + Internet (Europe) (En,Fr,De,Es,It) (Rev 1) (Pre-install)</description>
+		<rom name="Nintendo DSi + Internet (Europe) (En,Fr,De,Es,It) (Rev 1) (Pre-install).nds" size="10766336" crc="b584c546" md5="916905e1e6efc2a472427598328a755f" sha1="286a2c7fabedb4c5d4beca09ca1086659f4b5fcc"/>
+		<rom name="tmd.1" size="2312" crc="7adb88a5" md5="b5864ea5e08d4f228903065ee10eff4e" sha1="acd6cd06f8b17b97b04f32adcf5273ad3f79a3c5"/>
+		<rom name="tik" size="676" crc="cad41813" md5="3df8486dbac363f5302c183c8e4d4b8d" sha1="451850e1bdf31191b13a06fa9011f0adf74438f5"/>
+	</game>
+	<game name="Nintendo DSi Browser (Europe) (En,Fr,De,Es,It) (Rev 3)">
+		<category>Games</category>
+		<description>Nintendo DSi Browser (Europe) (En,Fr,De,Es,It) (Rev 3)</description>
+		<rom name="Nintendo DSi Browser (Europe) (En,Fr,De,Es,It) (Rev 3).nds" size="9378816" crc="19a68cd8" md5="1d0435377f4bcc7a0652f72a3d8d7c1a" sha1="89c83d534428427540731e21823e120be3e07eab"/>
+	</game>
+	<game name="Oscar in Movieland (Europe, Australia)">
+		<category>Games</category>
+		<description>Oscar in Movieland (Europe, Australia)</description>
+		<rom name="00000003" size="4697088" crc="a2353f58" md5="a7b96ad780f4df15ed47d24c5e045c16" sha1="67e36388a1957c83626b63bb483730ba703bb3ea"/>
+	</game>
+	<game name="Oscar in Toyland 2 (Europe)">
+		<category>Games</category>
+		<description>Oscar in Toyland 2 (Europe)</description>
+		<rom name="00000002" size="4360192" crc="32cb42a9" md5="4ae28943eebf265532885774baa92591" sha1="4cea5c08b0ff9e0ae584cbc4c54db18e3a948f66"/>
+	</game>
+	<game name="Oscar's World Tour (Europe)">
+		<category>Games</category>
+		<description>Oscar's World Tour (Europe)</description>
+		<rom name="00000000" size="5353472" crc="3b2aaae5" md5="7f80ac368b0cbc7962b36feb47272c67" sha1="074650c5197af1b97c6b299ad850e7261953e072"/>
+	</game>
+	<game name="Paper Plane (Europe, Australia)">
+		<category>Games</category>
+		<description>Paper Plane (Europe, Australia)</description>
+		<rom name="00000000" size="1518592" crc="140e6830" md5="c436366f4150266a2e10e99bc6b0f1a5" sha1="51cfad2792df7357ceddd6d2466c3295e9f54ba8"/>
+	</game>
+	<game name="Petit Computer (Europe)">
+		<category>Games</category>
+		<description>Petit Computer (Europe)</description>
+		<rom name="Petit Computer (Europe).nds" size="4432896" crc="6e7f7435" md5="80eb6d31c7e7ba0ff9db8561900bbaab" sha1="fe3bf1e3b4124c544f130143b4963466e8f41cdd"/>
+	</game>
+	<game name="Petz - Dog Superstar (Europe, Australia)">
+		<category>Games</category>
+		<description>Petz - Dog Superstar (Europe, Australia)</description>
+		<rom name="00000002" size="12163072" crc="f866c2b5" md5="f8ea97c4f8959bb6dfe11a3473712b49" sha1="95af2be1cc2ca3f3f506e8009768ea0db7a48b0e"/>
+	</game>
+	<game name="Photo Clock (Europe, Australia) (Rev 1)">
+		<category>Games</category>
+		<description>Photo Clock (Europe, Australia) (Rev 1)</description>
+		<rom name="Photo Clock (Europe, Australia) (Rev 1).nds" size="672768" crc="fa61e6f8" md5="912fe90f67c68477316349fd80c49ebf" sha1="10894a4b70ed62e05ab65f9422fd982dce8903a7"/>
+	</game>
+	<game name="Photo Dojo (Europe, Australia)">
+		<category>Games</category>
+		<description>Photo Dojo (Europe, Australia)</description>
+		<rom name="00000000" size="2531328" crc="a55d63fb" md5="89c87040e291774e95b53d17998a7693" sha1="e4cc0d01399e3ccb9f2e4278f29c5b5aea2c4646"/>
+	</game>
+	<game name="PictoChat (World) (En,Ja,Fr,De,Es,It) (Pre-install)">
+		<category>Games</category>
+		<description>PictoChat (World) (En,Ja,Fr,De,Es,It) (Pre-install)</description>
+		<rom name="PictoChat (World) (En,Ja,Fr,De,Es,It) (Pre-install).nds" size="479168" crc="965e5f8e" md5="edb157dd0ea3f8dc398c7fd056a37b4c" sha1="434735c1abf25fcf1c7355b83381d69f9f40f108"/>
+		<rom name="tmd.0" size="2312" crc="bba0fbde" md5="0a61da00900109bec956dbcdac8a78b3" sha1="95975c7ee504fa6de034b431808769f28ab3a6e2"/>
+		<rom name="tik" size="676" crc="8187dbdc" md5="b98f0443e9eb99dbf1cb24e5ab0dba30" sha1="5170f6d413d9209533cf4e3e862aeb90d79efe60"/>
+	</game>
+	<game name="Pinball Pulse - The Ancients Beckon (Europe, Australia)">
+		<category>Games</category>
+		<description>Pinball Pulse - The Ancients Beckon (Europe, Australia)</description>
+		<rom name="00000000" size="11442176" crc="97f96300" md5="bf3381b5d6834f290592a89e015f7d85" sha1="2424c3677abc3bc7d37f51653af84cd32caec9c4"/>
+	</game>
+	<game name="Pirates Assault (Europe, Australia)">
+		<category>Games</category>
+		<description>Pirates Assault (Europe, Australia)</description>
+		<rom name="00000000" size="3275776" crc="a1e5ac4e" md5="cd9fd1f7edcc143fa5159e4c5147c093" sha1="c65788cce4dc88d3c340fc98a36fd5ac1a459457"/>
+	</game>
+	<game name="Plants vs. Zombies (Europe, Australia)">
+		<category>Games</category>
+		<description>Plants vs. Zombies (Europe, Australia)</description>
+		<rom name="00000001" size="16609280" crc="537ae1f3" md5="35dd9f290eb70b0065716130ec944bca" sha1="0ec09d2d1879e5490eb4e5f52b6b5b9976dbe903"/>
+	</game>
+	<game name="Pocket Pack - Words &amp; Numbers (Europe)">
+		<category>Games</category>
+		<description>Pocket Pack - Words &amp; Numbers (Europe)</description>
+		<rom name="00000006" size="7622656" crc="caf182c4" md5="dcbd98b9267efa66a8700c92ca78c07d" sha1="4264dd2123358d6b9c0760bcd72edd0eee8b8b75"/>
+	</game>
+	<game name="Pop Island (Europe)">
+		<category>Games</category>
+		<description>Pop Island (Europe)</description>
+		<rom name="00000004" size="12483584" crc="3d58c8b9" md5="068dd593bb5e1d06ca6036da2c113e85" sha1="e5bf2c1470fa7ce650707907dfde6ff0dba17cb0"/>
+	</game>
+	<game name="Pop Island - Paperfield (Europe)">
+		<category>Games</category>
+		<description>Pop Island - Paperfield (Europe)</description>
+		<rom name="00000001" size="6242304" crc="4fb53ea0" md5="2dc30fe2595b5a3c298f0bf9bdadf58d" sha1="275972ecc51c92d7d07ae1b407b776797346b89e"/>
+	</game>
+	<game name="Pop Superstar - Road to Celebrity (Europe, Australia)">
+		<category>Games</category>
+		<description>Pop Superstar - Road to Celebrity (Europe, Australia)</description>
+		<rom name="00000002" size="16314368" crc="2550fd39" md5="445ec09706ef46487030d58372e24b57" sha1="eec1fc7f1d671d6510a5381c56e308fa1967f6e8"/>
+	</game>
+	<game name="Pop+ Solo (Europe, Australia)">
+		<category>Games</category>
+		<description>Pop+ Solo (Europe, Australia)</description>
+		<rom name="00000000" size="3173376" crc="c2537184" md5="138ca473dcd230fb3ed7f632a33490b8" sha1="eac8ff4a1a8da2b50542719555d11eae56b23eab"/>
+	</game>
+	<game name="Prehistorik Man (Europe, Australia)">
+		<category>Games</category>
+		<description>Prehistorik Man (Europe, Australia)</description>
+		<rom name="00000002" size="4191232" crc="3c3a8c93" md5="a8be52e569abb10b11bc0390c6e04610" sha1="22e7573afb0c45ad81f741c4f238c84893121752"/>
+	</game>
+	<game name="Primrose (Europe)">
+		<category>Games</category>
+		<description>Primrose (Europe)</description>
+		<rom name="00000001" size="5486592" crc="ef7af976" md5="7431153d795f7ac5f710799300d37908" sha1="a912052221fae99f34e3bf8acc939b3f2c03f275"/>
+	</game>
+	<game name="Publisher Dream (Europe)">
+		<category>Games</category>
+		<description>Publisher Dream (Europe)</description>
+		<rom name="00000000" size="5376000" crc="a6d475ee" md5="29316fbe625714c568baa934846c9362" sha1="f3c3de4ef44477081a803ec7419be57bfbfc0236"/>
+	</game>
+	<game name="Pucca - Noodle Rush (Europe)">
+		<category>Games</category>
+		<description>Pucca - Noodle Rush (Europe)</description>
+		<rom name="00000001" size="3243008" crc="42371747" md5="334656520a74a92abd3c041e2f354884" sha1="c5c3c061769d081fd6e6e162fa29041a21cc7f6f"/>
+	</game>
+	<game name="Puffins - Let's Fish! (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Puffins - Let's Fish! (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000004" size="11724800" crc="3eacb36f" md5="f6273b0533967de14b455130840253f5" sha1="98dee4575bbd7c74a8d18d1e639197bf0dc2f8b5"/>
+	</game>
+	<game name="Puffins - Let's Race! (Europe)">
+		<category>Games</category>
+		<description>Puffins - Let's Race! (Europe)</description>
+		<rom name="00000003" size="10383360" crc="e7c7da8d" md5="e786690286816ee6041b955ccd97de7d" sha1="a90bb52b8c9c3ac2131d4f5389c2e231500f390f"/>
+	</game>
+	<game name="Puffins - Let's Roll! (Europe)">
+		<category>Games</category>
+		<description>Puffins - Let's Roll! (Europe)</description>
+		<rom name="00000002" size="10545152" crc="30afb19e" md5="a2cc1f1c80357de0348ed1f607cd2113" sha1="762d344047749c19d4bbce43570792fa3b2cd001"/>
+	</game>
+	<game name="Puzzle Fever (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Puzzle Fever (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000001" size="9659392" crc="75de5dfa" md5="d509d758708ad8890faac5b380440557" sha1="b83b4652c3086112dd25374fef0280223ad796c6"/>
+	</game>
+	<game name="Puzzle Quest - Challenge of the Warlords (Europe)">
+		<category>Games</category>
+		<description>Puzzle Quest - Challenge of the Warlords (Europe)</description>
+		<rom name="00000000" size="15754240" crc="084a8d58" md5="ee82aecab26dc5285482ddad9a55be34" sha1="69c77db702032c30bf373310252e52046dea2a61"/>
+	</game>
+	<game name="Puzzle Rocks (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Puzzle Rocks (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000001" size="10995712" crc="f52abbc8" md5="9df77789c67c793f00f9e62d73c01b7f" sha1="4532f13642f62c5097c198cfe1f76b74a0de98f9"/>
+	</game>
+	<game name="Pyoro (Europe, Australia)">
+		<category>Games</category>
+		<description>Pyoro (Europe, Australia)</description>
+		<rom name="00000000" size="1416192" crc="486760cb" md5="2198ee4c1b84654ca2a47d256c2b5482" sha1="8634fb6ca7f626ff3c88ee8686352131a3b0b320"/>
+	</game>
+	<game name="Quick Fill Q (Europe)">
+		<category>Games</category>
+		<description>Quick Fill Q (Europe)</description>
+		<rom name="00000000" size="3941376" crc="b8823ccc" md5="72f4384784a61a58a241021f7aad0510" sha1="7e5950f98500bb1b3dfcb3fdb515c1d149d5a007"/>
+	</game>
+	<game name="QuickPick Farmer (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>QuickPick Farmer (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000002" size="3148800" crc="0b3cf3d4" md5="bc7f1720f74078a1fb7378ccc970e944" sha1="007bf9c6bd26fd7d97bdcb0264bee33892307b16"/>
+	</game>
+	<game name="Rabi Laby (Europe)">
+		<category>Games</category>
+		<description>Rabi Laby (Europe)</description>
+		<rom name="00000000" size="4333568" crc="2473be52" md5="bc935d9fbb681cf19bedac44e615008c" sha1="15d4fe180ee2d2358264983ddb415c047074cd64"/>
+	</game>
+	<game name="Rabi Laby 2 (Europe)">
+		<category>Games</category>
+		<description>Rabi Laby 2 (Europe)</description>
+		<rom name="00000000" size="4647936" crc="880603f3" md5="1f3935bc3de971d3261554505982235f" sha1="efcdd63ff15d8c5066402a9fcf5adda0560b8671"/>
+	</game>
+	<game name="Rayman (Europe, Australia)">
+		<category>Games</category>
+		<description>Rayman (Europe, Australia)</description>
+		<rom name="00000000" size="16137216" crc="2cc34362" md5="388668c81cc6d868ded98d55ef1bd53a" sha1="1c1f4a70a61d74fe7cfb3e9cbe4ff2f5bcedfc5d"/>
+	</game>
+	<game name="Reflect Missile (Europe, Australia)">
+		<category>Games</category>
+		<description>Reflect Missile (Europe, Australia)</description>
+		<rom name="00000000" size="5396480" crc="adc5a5a6" md5="624fdb118e031cf06eeec5f3465b8d39" sha1="93321c8a5ff6b83c2f25510e6247ccdf1831b073"/>
+	</game>
+	<game name="Remote Racers (Europe, Australia)">
+		<category>Games</category>
+		<description>Remote Racers (Europe, Australia)</description>
+		<rom name="00000001" size="6285312" crc="b8ec9749" md5="3847a8666d7ee018c01345fbb9f579a2" sha1="4f3a9688f99a50260a21c2884e5ad1a386307d95"/>
+	</game>
+	<game name="Rhythm Core Alpha (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Rhythm Core Alpha (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000005" size="5485568" crc="b222537d" md5="ee8bfec51ff3fd69abe7a49159fcd2d5" sha1="5ac7c1f0222e85a76f64b7af85e5197f0c1e8c5a"/>
+	</game>
+	<game name="Rhythm Core Alpha 2 (Europe, Australia)">
+		<category>Games</category>
+		<description>Rhythm Core Alpha 2 (Europe, Australia)</description>
+		<rom name="00000000" size="7872512" crc="b01259c8" md5="5427a416cc223335a0ac8c037aab4b1a" sha1="acb32798badee903377b535cb5d22701c01fa906"/>
+	</game>
+	<game name="Robot Rescue (Europe, Australia)">
+		<category>Games</category>
+		<description>Robot Rescue (Europe, Australia)</description>
+		<rom name="00000003" size="5681152" crc="fa2a06c9" md5="23b147ada3577a084bc3acda12968bfe" sha1="d88e7c62a01cd0b4f358ea6308046c4ebfd5c296"/>
+	</game>
+	<game name="Robot Rescue 2 (Europe)">
+		<category>Games</category>
+		<description>Robot Rescue 2 (Europe)</description>
+		<rom name="00000000" size="6004736" crc="0889f61d" md5="dff9e4ddb5e8fef5b6d1d24536fdbf73" sha1="a569938030adc11c9da2d8fb501d9d556359132d"/>
+	</game>
+	<game name="Rummikub (Europe)">
+		<category>Games</category>
+		<description>Rummikub (Europe)</description>
+		<rom name="00000000" size="9248768" crc="5075a600" md5="75b91215c91ace05e77384145d6ff79e" sha1="16de3e9297abf66cfefd457b9649818a60ca23cd"/>
+	</game>
+	<game name="Rytmik (Europe, Australia)">
+		<category>Games</category>
+		<description>Rytmik (Europe, Australia)</description>
+		<rom name="00000003" size="12987392" crc="2f391b7f" md5="a5dc7a1f315c70dc2691ca75f2ea67ef" sha1="6348d9937f6925d328a453fb26dab8748e70315b"/>
+	</game>
+	<game name="Rytmik Retrobits (Europe, Australia)">
+		<category>Games</category>
+		<description>Rytmik Retrobits (Europe, Australia)</description>
+		<rom name="00000000" size="13609984" crc="b66d2cba" md5="90573c82d3ca3e18c344e668e639f066" sha1="3fb4c56c787a5b50591d0a4c456904e87ce4ba65"/>
+	</game>
+	<game name="Rytmik Rock Edition (Europe, Australia)">
+		<category>Games</category>
+		<description>Rytmik Rock Edition (Europe, Australia)</description>
+		<rom name="Rytmik Rock Edition (Europe, Australia).nds" size="13701120" crc="b7e0232f" md5="edbe83f7e0f60ab36ea7141cdd028acd" sha1="fb2e0e91e47aded3b99cedcad559e464715b17c1"/>
+	</game>
+	<game name="Rytmik World Music (Europe, Australia)">
+		<category>Games</category>
+		<description>Rytmik World Music (Europe, Australia)</description>
+		<rom name="00000000" size="13544448" crc="18e9f745" md5="54d3279e5e86484740998a3d7c483fce" sha1="e05b2c3a65f869e3767e9b711582aace42ca2835"/>
+	</game>
+	<game name="Save the Turtles (Europe, Australia)">
+		<category>Games</category>
+		<description>Save the Turtles (Europe, Australia)</description>
+		<rom name="00000004" size="12477440" crc="fc2b312f" md5="04c196ca89a56228a1c7f22dbd259750" sha1="f876dc759c511ca0b6045df77d0af3477a13aef2"/>
+	</game>
+	<game name="Sea Battle (Europe)">
+		<category>Games</category>
+		<description>Sea Battle (Europe)</description>
+		<rom name="00000000" size="12140544" crc="1db193a8" md5="2ec98ec1125439f052d653c6fc29b319" sha1="41ae2874ee211fcd65c815f0f1331edfe62a9ea4"/>
+	</game>
+	<game name="Seller, The (Europe)">
+		<category>Games</category>
+		<description>Seller, The (Europe)</description>
+		<rom name="00000004" size="6934528" crc="2575439a" md5="0bf113927b7d4a1e160acd6b7c7a2e23" sha1="a74c33ef68cdc9c037eac54c5c3dc288bdc3216d"/>
+	</game>
+	<game name="Shantae - Risky's Revenge (Europe)">
+		<category>Games</category>
+		<description>Shantae - Risky's Revenge (Europe)</description>
+		<rom name="00000002" size="16739328" crc="84ffb275" md5="8b01e13c9c8a574b8130048c6560ab84" sha1="720481dc79cfb6d225d58b282b17bec28cce14cf"/>
+	</game>
+	<game name="Simply Mahjong (Europe)">
+		<category>Games</category>
+		<description>Simply Mahjong (Europe)</description>
+		<rom name="00000002" size="3647488" crc="d4e5f4c4" md5="c910f342f5abd48635d54c0984333d59" sha1="853845d8ba583789c13845cfc9a43df3f4c5253f"/>
+	</game>
+	<game name="Simply Minesweeper (Europe)">
+		<category>Games</category>
+		<description>Simply Minesweeper (Europe)</description>
+		<rom name="00000001" size="3483648" crc="2ce628b9" md5="839bd50eff94557fb38f167b0dd9ec5a" sha1="d3fcc5a8c9c046be69633fb3aa4deb590cd4e3b9"/>
+	</game>
+	<game name="Simply Solitaire (Europe)">
+		<category>Games</category>
+		<description>Simply Solitaire (Europe)</description>
+		<rom name="00000001" size="3544064" crc="c435a21d" md5="210a0270f326bc82f56903103242c6ae" sha1="7a125c9efdc280232def69a96951e9139fe278bc"/>
+	</game>
+	<game name="Simply Sudoku (Europe)">
+		<category>Games</category>
+		<description>Simply Sudoku (Europe)</description>
+		<rom name="00000003" size="3045376" crc="f0981b3e" md5="d2d75f482415af3d9fc2c889ddb79d9d" sha1="ada13cedf9f110b0ae0498f07525118634b47616"/>
+	</game>
+	<game name="Sleep Clock (Europe, Australia)">
+		<category>Games</category>
+		<description>Sleep Clock (Europe, Australia)</description>
+		<rom name="00000000" size="5464064" crc="cda6565c" md5="be8cfb873cf7a2fcb0dbbc21c400b9bf" sha1="e6701429451d4dcab8c6c70e9c8636fccbe2958e"/>
+	</game>
+	<game name="Snakenoid (Europe)">
+		<category>Games</category>
+		<description>Snakenoid (Europe)</description>
+		<rom name="00000002" size="12426240" crc="d76fb660" md5="e130d7f7f36a1c5e5012afeb4fd36e36" sha1="411143b1b215eb241804b821145d4a1c7323c33f"/>
+	</game>
+	<game name="SnowBoard Xtreme (Europe)">
+		<category>Games</category>
+		<description>SnowBoard Xtreme (Europe)</description>
+		<rom name="00000000" size="6083584" crc="6d1d842d" md5="8c8ba69879912e2f59cc44ef193328de" sha1="fc3ca02de6f89cfe92eccc42eebad2fe891102f9"/>
+	</game>
+	<game name="Sokomania (Europe)">
+		<category>Games</category>
+		<description>Sokomania (Europe)</description>
+		<rom name="00000003" size="3865600" crc="47a21a26" md5="24db9222acc34b62d525edd9478087e9" sha1="b08a536ad32010586faba217153dc6f9ee92aef4"/>
+	</game>
+	<game name="Sokomania 2 - Cool Job (Europe)">
+		<category>Games</category>
+		<description>Sokomania 2 - Cool Job (Europe)</description>
+		<rom name="00000000" size="5671936" crc="96a3a09c" md5="6975e02daa56c4f392d6bbfaff010043" sha1="9b322dfa57b221e3602ba54b97c16ef302d8553a"/>
+	</game>
+	<game name="Soul of Darkness (Europe, Australia)">
+		<category>Games</category>
+		<description>Soul of Darkness (Europe, Australia)</description>
+		<rom name="00000000" size="9934848" crc="5cab4831" md5="184da884dbbaf53b8a956cf6130a7f63" sha1="227ffebc935c15d01b16f7aa3214231e215f4ddb"/>
+	</game>
+	<game name="Sparkle Snapshots (Europe, Australia)">
+		<category>Games</category>
+		<description>Sparkle Snapshots (Europe, Australia)</description>
+		<rom name="00000000" size="11979776" crc="22749af6" md5="ba1385be8d80a6feb6c65eb4ee3e19e3" sha1="fa52f0ab44548736040078a36cbf85433b896f34"/>
+	</game>
+	<game name="Spin Six (Europe, Australia)">
+		<category>Games</category>
+		<description>Spin Six (Europe, Australia)</description>
+		<rom name="00000001" size="13102080" crc="a19ff3cc" md5="d4afa47239925cb79fbf5cbf8f187d46" sha1="ee7d303888f15da85660b49acf9f1d7f3d23f1fd"/>
+	</game>
+	<game name="Starship Patrol (Europe, Australia)">
+		<category>Games</category>
+		<description>Starship Patrol (Europe, Australia)</description>
+		<rom name="00000000" size="9558016" crc="5d11f20e" md5="406e60a525935d1a6f8c48d8008d340c" sha1="a3c6ab030cc6a53afd961808e77c1e07e58a901c"/>
+	</game>
+	<game name="SteamWorld Tower Defense (Europe, Australia)">
+		<category>Games</category>
+		<description>SteamWorld Tower Defense (Europe, Australia)</description>
+		<rom name="00000000" size="6305792" crc="122562ae" md5="4a0ae273994563051ededadd6c7decaa" sha1="0d7a5b5a66aa51ff77b46beffdd52b4235190c61"/>
+	</game>
+	<game name="Successfully Learning English - Year 3 (Europe)">
+		<category>Games</category>
+		<description>Successfully Learning English - Year 3 (Europe)</description>
+		<rom name="00000001" size="16685056" crc="a8605136" md5="bf41ac83ca7ded46411d8a945836f204" sha1="7d42ccb8964d07fe41afe666c68b661f5fd7a940"/>
+	</game>
+	<game name="Successfully Learning Mathematics - Year 3 (Europe)">
+		<category>Games</category>
+		<description>Successfully Learning Mathematics - Year 3 (Europe)</description>
+		<rom name="00000003" size="8016896" crc="3dfef42f" md5="9de4f3625797ee84d0d787979293e981" sha1="8653d9fd9855a2ca2917463261617b8cadc22e84"/>
+	</game>
+	<game name="Sudoku (Europe, Australia) (Rev 1)">
+		<category>Games</category>
+		<description>Sudoku (Europe, Australia) (Rev 1)</description>
+		<rom name="Sudoku (Europe, Australia) (Rev 1).nds" size="3580928" crc="2fdad1dc" md5="aa2f1afcdf1b5931340d50cf95318121" sha1="8c594132b6490155fc395c4436e5f48df1de58fb"/>
+	</game>
+	<game name="Sudoku 150! For Challengers (Europe, Australia)">
+		<category>Games</category>
+		<description>Sudoku 150! For Challengers (Europe, Australia)</description>
+		<rom name="00000001" size="4330496" crc="fdf0e9df" md5="7d3b25fe56a92437ea1914d3ff1bd3c3" sha1="9c3e26374017a3e83124054c96dec09ccbb49880"/>
+	</game>
+	<game name="Sudoku 4Pockets (Europe)">
+		<category>Games</category>
+		<description>Sudoku 4Pockets (Europe)</description>
+		<rom name="00000002" size="2254848" crc="7d618a35" md5="9e9a9bb16df983e26a4a81ee82105dca" sha1="ccbbab96312cb1375c7416ed0fd0f48d8bbff147"/>
+	</game>
+	<game name="Sudoku 50! For Beginners (Europe, Australia)">
+		<category>Games</category>
+		<description>Sudoku 50! For Beginners (Europe, Australia)</description>
+		<rom name="00000001" size="4257792" crc="a05b3231" md5="4f04d322152d614ed0793fe2388afbf6" sha1="4cb3b081bfd1b973f5eeaf74c34075bb6ee744a7"/>
+	</game>
+	<game name="Sudoku Sensei (Europe, Australia)">
+		<category>Games</category>
+		<description>Sudoku Sensei (Europe, Australia)</description>
+		<rom name="00000000" size="4260864" crc="da13c2b8" md5="c0f50e6e95e31aabbdc508da099a8693" sha1="a3b050efbaa235ef8a1770f9d12ad212996357b4"/>
+	</game>
+	<game name="Sujin Taisen - Number Battles (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Sujin Taisen - Number Battles (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="8074240" crc="621572f2" md5="3968c33e022895ceaa8888e9ea6d4e80" sha1="d62e35292abdaa8ce883a24569b9ef320e335072"/>
+	</game>
+	<game name="Super Swap (Europe)">
+		<category>Games</category>
+		<description>Super Swap (Europe)</description>
+		<rom name="00000001" size="10182656" crc="7ff09d90" md5="e557e699d4fe41393eed80cb4b42f1d6" sha1="155c3bdf1d33fa0854ed988fd7deb36938b1c431"/>
+	</game>
+	<game name="Super Yum Yum - Puzzle Adventures (Europe, Australia)">
+		<category>Games</category>
+		<description>Super Yum Yum - Puzzle Adventures (Europe, Australia)</description>
+		<rom name="00000006" size="12226560" crc="a7638fb8" md5="97f7cc1c3bf947c8a057cd0214399556" sha1="382a085b2f019ce43dbff4188f46a9525d9b7f4d"/>
+	</game>
+	<game name="Surfacer+ (Europe) (En,Fr,Es)">
+		<category>Games</category>
+		<description>Surfacer+ (Europe) (En,Fr,Es)</description>
+		<rom name="00000002" size="3067904" crc="d9578481" md5="5061a1ee2d2b2da1dc07e098bf02ff15" sha1="5d15eb8ddb3f9dd316538ea01bab18b498e2bffc"/>
+	</game>
+	<game name="Surviving High School (Europe, Australia)">
+		<category>Games</category>
+		<description>Surviving High School (Europe, Australia)</description>
+		<rom name="00000002" size="14829568" crc="4215dc9e" md5="3beb09ab7b8261c8382a74e46c3c2f61" sha1="6f067be13b82de817fbe0618c74c2cb2e64ba617"/>
+	</game>
+	<game name="Tales in a Box - Hidden Shapes in Perspective! (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Tales in a Box - Hidden Shapes in Perspective! (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="9933824" crc="e0832c8b" md5="d73a1d29c1daf02976bd7f093de98d34" sha1="22619d5eafd0e1dd0d0295849ebb1f22565a900b"/>
+	</game>
+	<game name="Telegraph Sudoku &amp; Kakuro (Europe)">
+		<category>Games</category>
+		<description>Telegraph Sudoku &amp; Kakuro (Europe)</description>
+		<rom name="00000004" size="3826688" crc="41fe64bc" md5="7c0f9959db436d90bcd7af1df85f8d2b" sha1="f7065adc645880e6ddf11f63820283483a7871ad"/>
+	</game>
+	<game name="Tetris Party Live (Europe, Australia)">
+		<category>Games</category>
+		<description>Tetris Party Live (Europe, Australia)</description>
+		<rom name="00000000" size="12081152" crc="4aa1755f" md5="1bd959e63c7a24225bed613f88e6d433" sha1="01619b92aae59b0fa3a6511e2b3d739179cf71f2"/>
+	</game>
+	<game name="Thorium Wars (Europe)">
+		<category>Games</category>
+		<description>Thorium Wars (Europe)</description>
+		<rom name="00000002" size="14886912" crc="f249236f" md5="31ed2fc2b49a03df1047b0693578f6f9" sha1="a1b0cfc9c1250be503079f14becb2159199bb9ae"/>
+	</game>
+	<game name="Titanic Mystery (Europe)">
+		<category>Games</category>
+		<description>Titanic Mystery (Europe)</description>
+		<rom name="00000000" size="16448512" crc="349354dd" md5="7fa6052c448d437e63f54fcc5fe99e8c" sha1="669fd584e14d77e96a3c4a2fa4d6c22b8a40b70a"/>
+	</game>
+	<game name="Topoloco (Europe)">
+		<category>Games</category>
+		<description>Topoloco (Europe)</description>
+		<rom name="00000000" size="10999808" crc="c01b7560" md5="27fa879a059e728ec734f64685936ab2" sha1="be351951f3425f092558f21c5234954e1e3840a4"/>
+	</game>
+	<game name="Topsy Turvy Life, A - The Turvys Strike Back (Europe)">
+		<category>Games</category>
+		<description>Topsy Turvy Life, A - The Turvys Strike Back (Europe)</description>
+		<rom name="00000001" size="6113280" crc="6af9fd22" md5="65f41189c4772216b2718268636706de" sha1="36cb7ed4a4be1a435330c1b881a2cdc92fe3fc89"/>
+	</game>
+	<game name="Topsy Turvy Life, A - Turvy Drops (Europe)">
+		<category>Games</category>
+		<description>Topsy Turvy Life, A - Turvy Drops (Europe)</description>
+		<rom name="00000001" size="4803584" crc="fa298a23" md5="9adf005d380e55c58442ef464a5dc58a" sha1="a0967b0f1868fe7547a4da10e31dc488dd554183"/>
+	</game>
+	<game name="Trailblaze - Puzzle Incinerator (Europe, Australia)">
+		<category>Games</category>
+		<description>Trailblaze - Puzzle Incinerator (Europe, Australia)</description>
+		<rom name="00000000" size="7527424" crc="5e67dcb6" md5="319397b0ecd86d68d8f3be648f95f914" sha1="d60ff1c188d4bd47e30ac1697244fd5f89058201"/>
+	</game>
+	<game name="Treasure Hunter X (Europe)">
+		<category>Games</category>
+		<description>Treasure Hunter X (Europe)</description>
+		<rom name="00000000" size="3268608" crc="8c7d7383" md5="8918cd74f02ba2c9a163b2ca01a22932" sha1="def2fded80b6355feb37049181058b1de01c39a6"/>
+	</game>
+	<game name="Uno (Europe, Australia) (Rev 1)">
+		<category>Games</category>
+		<description>Uno (Europe, Australia) (Rev 1)</description>
+		<rom name="00000008" size="8420352" crc="a5bc7443" md5="c80806ccb148a8fd764c3a49f327046b" sha1="f628b1286a82f2d82d254a7dad136429c581e25d"/>
+	</game>
+	<game name="Valet Parking 1989 (Europe, Australia)">
+		<category>Games</category>
+		<description>Valet Parking 1989 (Europe, Australia)</description>
+		<rom name="00000004" size="11523072" crc="b98179a4" md5="4af7a78dec3f9e85426b2c1be982e0ba" sha1="c34d5d5b310425b96691151df900fe1f4ab9cb34"/>
+	</game>
+	<game name="Viking Invasion (Europe, Australia)">
+		<category>Games</category>
+		<description>Viking Invasion (Europe, Australia)</description>
+		<rom name="00000000" size="13118464" crc="6bae702a" md5="4f8d88a19d28479a09b9feb19497b4fb" sha1="d76b717489a45d69d4a3b630eca3ee00b01754d9"/>
+	</game>
+	<game name="Wakugumi - Monochrome Puzzle (Europe, Australia)">
+		<category>Games</category>
+		<description>Wakugumi - Monochrome Puzzle (Europe, Australia)</description>
+		<rom name="00000000" size="5754880" crc="548db874" md5="0275d5904884db70e17f7aa0e6495d44" sha1="19bd6d1db75518b7847b0c739eb4e4db439ac60f"/>
+	</game>
+	<game name="WarioWare - Snapped! (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>WarioWare - Snapped! (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000000" size="9951232" crc="469813af" md5="a680bcb0b2c3640d8321efa3a6ee116d" sha1="584faa72e93b72a64ec82ee3eb2ffedf4e926b6a"/>
+	</game>
+	<game name="WarioWare - Touched! DL (Europe) (3DS Only)">
+		<category>Games</category>
+		<description>WarioWare - Touched! DL (Europe) (3DS Only)</description>
+		<rom name="WarioWare - Touched! DL (Europe) (3DS Only).nds" size="30485504" crc="e6927ec5" md5="8bb8bed06837e914e893b5ad35e2dca1" sha1="a782eb33619ecad6040ce7f2c5e0b9dc2bb9946d"/>
+	</game>
+	<game name="Where's Wally - The Fantastic Journey - Travel Pack 1 (Europe, Australia)">
+		<category>Games</category>
+		<description>Where's Wally - The Fantastic Journey - Travel Pack 1 (Europe, Australia)</description>
+		<rom name="00000003" size="15859712" crc="2a11494b" md5="b78058926945c561bc43a5c1789e409c" sha1="2a63d08c1168192dd2b754d2c350190649bd6566"/>
+	</game>
+	<game name="Wizard Defenders (Europe)">
+		<category>Games</category>
+		<description>Wizard Defenders (Europe)</description>
+		<rom name="00000000" size="6212608" crc="024fff79" md5="cb2aebd96457a00d6900998a30025004" sha1="0704230ebc0d0879ac83af185c2139e2111037e3"/>
+	</game>
+	<game name="World Poker Tour - Texas Hold 'Em (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>World Poker Tour - Texas Hold 'Em (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="00000006" size="9031680" crc="2ff7a3ea" md5="0d99763be96cee32fe70af6409460188" sha1="28cc6b677a5aa1d94ee40879f5f6653b76e10e39"/>
+	</game>
+	<game name="Yummy Yummy Cooking Jam (Europe, Australia)">
+		<category>Games</category>
+		<description>Yummy Yummy Cooking Jam (Europe, Australia)</description>
+		<rom name="00000001" size="12496896" crc="74cb8075" md5="5b01e984be35565d2b9a64874957a7dc" sha1="1dc0bdfa162ec5caea85c1d0b4fdb7a13fae594f"/>
+	</game>
+	<game name="ZENONIA (Europe, Australia)">
+		<category>Games</category>
+		<description>ZENONIA (Europe, Australia)</description>
+		<rom name="00000005" size="13771776" crc="0a4a7dc3" md5="7d3fea386e7636aeb06b05889ef40575" sha1="2ba5349dffcff85604f45b4e6a9c93e2d0faefcb"/>
+	</game>
+	<game name="Zombie Skape (Europe)">
+		<category>Games</category>
+		<description>Zombie Skape (Europe)</description>
+		<rom name="00000000" size="5415936" crc="e9b8bc96" md5="0b211b6af1d4f39292e695c53d19a3da" sha1="48a0589414bef0236e1bca2ffb9580fd2cd3e6d1"/>
+	</game>
+	<game name="Zoonies - Escape from Makatu (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Zoonies - Escape from Makatu (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="00000003" size="10141696" crc="ef97b228" md5="c7b02a6bde9f5b1bb15994fe32516e9e" sha1="a3def86e05eb27495ee843681688cbffc1d043c4"/>
+	</game>
+	<game name="iSpot Japan (Europe)">
+		<category>Games</category>
+		<description>iSpot Japan (Europe)</description>
+		<rom name="00000000" size="6256640" crc="c92279c7" md5="b8f353eeabe631d96768a03da42d840d" sha1="471e0185cf561818ef7e79f4b011ec7314f59048"/>
+	</game>
+	<game name="myDiary (Europe, Australia)">
+		<category>Games</category>
+		<description>myDiary (Europe, Australia)</description>
+		<rom name="00000000" size="1751040" crc="1db1d2d4" md5="f92b89e1f549dfeda31204c05e0f22d1" sha1="9416aed12fdfc2e627825e084294a9497540d1d1"/>
+	</game>
+	<game name="myNotebook - Blue (Europe, Australia)">
+		<category>Games</category>
+		<description>myNotebook - Blue (Europe, Australia)</description>
+		<rom name="00000004" size="2310144" crc="945af801" md5="8f8eef521a134b40ea962a86e425d7b2" sha1="95bd14d60abc126c8523c0ba25ede424f13c77da"/>
+	</game>
+	<game name="myNotebook - Carbon (Europe, Australia)">
+		<category>Games</category>
+		<description>myNotebook - Carbon (Europe, Australia)</description>
+		<rom name="00000003" size="2705408" crc="91445b49" md5="60f6e6efe8838c9dbbf0a5367a7abe69" sha1="94e07bbb2527060c6f4cc4b8aeefd3622adc346d"/>
+	</game>
+	<game name="myNotebook - Green (Europe, Australia)">
+		<category>Games</category>
+		<description>myNotebook - Green (Europe, Australia)</description>
+		<rom name="00000004" size="2311168" crc="628acfaa" md5="5870ec2710c29555348692334b3ecffd" sha1="5eb5f5d85267f8bdce9b848448751f704cc8791a"/>
+	</game>
+	<game name="myNotebook - Red (Europe, Australia)">
+		<category>Games</category>
+		<description>myNotebook - Red (Europe, Australia)</description>
+		<rom name="00000004" size="2311168" crc="edfe3e81" md5="2af482e81e6cdcdd3c5fe9c323fa91a4" sha1="7f6b23222ee319bd72cce684d400c0fac043c963"/>
+	</game>
+	<game name="myPostcards (Europe, Australia)">
+		<category>Games</category>
+		<description>myPostcards (Europe, Australia)</description>
+		<rom name="00000001" size="4076544" crc="1942f58f" md5="f36625e59b85295093f07d1069397dc1" sha1="ae22c4d411e73690cf3260bcd2ac4e066dee6b87"/>
+	</game>
+</datafile>

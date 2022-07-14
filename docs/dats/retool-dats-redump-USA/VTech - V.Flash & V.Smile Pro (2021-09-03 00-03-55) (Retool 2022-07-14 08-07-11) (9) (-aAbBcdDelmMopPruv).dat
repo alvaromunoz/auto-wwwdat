@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>VTech - V.Flash &amp; V.Smile Pro (Retool)</name>
+		<description>VTech - V.Flash &amp; V.Smile Pro (9) (-aAbBcdDelmMopPruv) (2021-09-03 00-03-55) (Retool 1.16)</description>
+		<version>2021-09-03 00-03-55</version>
+		<date>2022-07-14 08-07-11</date>
+		<author>redump.org &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://redump.org/</url>
+	</header>
+	<game name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2)">
+		<category>Games</category>
+		<description>Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2)</description>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2).cue" size="123" crc="3ad6fad8" md5="d12b344dec26285677f9519326ac26ae" sha1="1c1d7b93145a4458e7b9feacbe56d919ca9983fa"/>
+		<rom name="Amazing Spider-Man, The - Countdown to Doom (USA) (Rev 2).bin" size="377178480" crc="8b81146a" md5="a3f58172b73a46fc256e9fe04f1ee8aa" sha1="eb1627908b34bedfab60d61088d5ff67069ffb48"/>
+	</game>
+	<game name="Bratz - Fashion Pixiez - The Secret Necklace (USA)">
+		<category>Games</category>
+		<description>Bratz - Fashion Pixiez - The Secret Necklace (USA)</description>
+		<rom name="Bratz - Fashion Pixiez - The Secret Necklace (USA).cue" size="116" crc="3b839ef9" md5="d2bb33ce80501cfc6107cb99e1d32743" sha1="e684b48f76a3710e4402db993c21882f0aa92fb1"/>
+		<rom name="Bratz - Fashion Pixiez - The Secret Necklace (USA).bin" size="559354992" crc="46e8e1fd" md5="ee5ea1200d6077c11171ad918a5bc81e" sha1="d63b998729e990ceb7f1fa3842fd1c9e58f57bbe"/>
+	</game>
+	<game name="Cars - In the Fast Lane (USA) (Rev 3)">
+		<category>Games</category>
+		<description>Cars - In the Fast Lane (USA) (Rev 3)</description>
+		<rom name="Cars - In the Fast Lane (USA) (Rev 3).cue" size="103" crc="c18ddf78" md5="c8bac0120ebdfe8f0e786fee636d5aad" sha1="94d48432374788b61c6b8ccf942fac806228a2ed"/>
+		<rom name="Cars - In the Fast Lane (USA) (Rev 3).bin" size="505884624" crc="27f1e33f" md5="bff9c53e5d77eeae9b2217819129a4ea" sha1="73676fed26539ad7d770cb7950de80ed9467b3e4"/>
+	</game>
+	<game name="Disney Princess - The Crystal Ball Adventure (USA)">
+		<category>Games</category>
+		<description>Disney Princess - The Crystal Ball Adventure (USA)</description>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA).cue" size="116" crc="093460b9" md5="01a183d9af7d7948cdd42aa318938839" sha1="57d150380b1210df4901113cbaa620f3860932c6"/>
+		<rom name="Disney Princess - The Crystal Ball Adventure (USA).bin" size="470098944" crc="49f568d1" md5="89da78bb92eeba6235cf27956c658cf3" sha1="b5dd0d446da323db37b671a06d14ba4d6a900ea7"/>
+	</game>
+	<game name="Incredibles, The - Mission Incredible (USA)">
+		<category>Games</category>
+		<description>Incredibles, The - Mission Incredible (USA)</description>
+		<rom name="Incredibles, The - Mission Incredible (USA).cue" size="109" crc="c6212a97" md5="a393eb1485ff0f707fa0ff031a956bdf" sha1="6b6bc9877ea95585be81caf6b15151ecdbd4e4a6"/>
+		<rom name="Incredibles, The - Mission Incredible (USA).bin" size="358705872" crc="8fffffeb" md5="7be97725dff4fdd59bb26c6305dc0edf" sha1="859bab005788a5c23bb7c40c0e729eed04da6750"/>
+	</game>
+	<game name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2)">
+		<category>Games</category>
+		<description>Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2)</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2).cue" size="127" crc="d99e21ba" md5="febc3ea819ab5e15d3405d8c736eacc4" sha1="cddfd0e74e8bad170abeca30e1a76674f272d156"/>
+		<rom name="Nickelodeon SpongeBob SquarePants - Idea Sponge (USA) (Rev 2).bin" size="373038960" crc="f3dcd059" md5="a5e9a13e2cd70e40c724fd79c96a28c2" sha1="bc70d3a4017b6282bea065e4ed8a05c601471069"/>
+	</game>
+	<game name="Scooby-Doo! Ancient Adventure (USA) (Rev 1)">
+		<category>Games</category>
+		<description>Scooby-Doo! Ancient Adventure (USA) (Rev 1)</description>
+		<rom name="Scooby-Doo! Ancient Adventure (USA) (Rev 1).cue" size="109" crc="91facd96" md5="75e1f4d95f10a16ead360813cfb24929" sha1="ae284ce6d797b88feca7d51266fd0166e9ba29d1"/>
+		<rom name="Scooby-Doo! Ancient Adventure (USA) (Rev 1).bin" size="638582112" crc="d6d3c531" md5="df166d1c3ba243a372264b18c28730b3" sha1="24e753c394d8a6d9aed462be4c0c2b41dd6e79e6"/>
+	</game>
+	<game name="Shrek the Third - The Search for Arthur (USA)">
+		<category>Games</category>
+		<description>Shrek the Third - The Search for Arthur (USA)</description>
+		<rom name="Shrek the Third - The Search for Arthur (USA).cue" size="111" crc="14ab2aad" md5="5f0da75612da6162ed18f402ce0fdaf2" sha1="c6162d17394aa39c86e8cc748c25838d7fa63056"/>
+		<rom name="Shrek the Third - The Search for Arthur (USA).bin" size="614031936" crc="6c27be68" md5="3ee572ee6603fe2828ee4c4bc758ab72" sha1="e671b64b248cbe976a131c6e5bc229d26f0c60c6"/>
+	</game>
+	<game name="Wacky Race on Jumpin' Bean Island (USA) (Rev 3)">
+		<category>Games</category>
+		<description>Wacky Race on Jumpin' Bean Island (USA) (Rev 3)</description>
+		<rom name="Wacky Race on Jumpin' Bean Island (USA) (Rev 3).cue" size="113" crc="4ffe1356" md5="5eb207d93cb170a32257e7c0a517a4f1" sha1="a52b6679c97e43a21568d00f408447600d967210"/>
+		<rom name="Wacky Race on Jumpin' Bean Island (USA) (Rev 3).bin" size="394752624" crc="6af8435e" md5="f438c0f7a042be1bf7db03de5778561c" sha1="b643d8fd3f0f46459d2313e2c256bc6b5f33fd54"/>
+	</game>
+</datafile>
