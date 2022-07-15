@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Atari - 8-bit Family (Retool)</name>
+		<description>Atari - 8-bit Family (4) (-aAbBcdDelmMopPruv) (20211202-051003) (Retool 1.16)</description>
+		<version>20211202-051003</version>
+		<date>2022-07-15 08-05-37</date>
+		<author>MeguCocoa &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="3-D Tic-Tac-Toe (USA)">
+		<category>Games</category>
+		<description>3-D Tic-Tac-Toe (USA)</description>
+		<rom name="3-D Tic-Tac-Toe (USA).bin" size="8192" crc="4660c404" md5="907780d5740b3ecb9a843918bd0cbf83" sha1="9e70098ab2598edd9c2913d787554590733c49a0" sha256="733a582bc7c4f499f3911d4ff8e9f5c5d33635bcdf0b2d56cbe5fdcc1c4d7a74"/>
+	</game>
+	<game name="A.E. (USA) (Side A)">
+		<category>Games</category>
+		<description>A.E. (USA) (Side A)</description>
+		<rom name="A.E. (USA) (Side A).atx" size="95312" crc="8b22deaf" md5="d0e52b931caa7dc7e3bf137bcbb2f0a9" sha1="c65516fde218f1950d7fa8a96f1ad0222bf90b65" sha256="d94ec39b33627072152ec26d955df7dab6354b8ea95141f02d71093e9439073d"/>
+	</game>
+	<game name="Acey-Deucey (USA)">
+		<category>Games</category>
+		<description>Acey-Deucey (USA)</description>
+		<rom name="Acey-Deucey (USA).atx" size="100208" crc="5a2c7194" md5="828d2d2a8e76790af1e562bfee08da7e" sha1="d7efdbab8d6da98a0effb9feb0afbf1046a6d212" sha256="530fef228c89595803dbdf506b6a1edec6982a4ed5c32bdd3411889eed4e149e"/>
+	</game>
+	<game name="Air Rescue I (USA)">
+		<category>Games</category>
+		<description>Air Rescue I (USA)</description>
+		<rom name="Air Rescue I (USA).atx" size="100208" crc="a219e8ee" md5="09f11ad7f67d4cf76fbb8a911b9bbeff" sha1="95e6f407cb4bc83f4bdd63ff1b42cc4d9675b723" sha256="661ce90eda8f542172586d17034138ecd3316a0c7feaeee76ba353f33d9fc867"/>
+	</game>
+</datafile>
