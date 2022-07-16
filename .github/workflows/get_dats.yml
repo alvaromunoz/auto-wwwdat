@@ -233,7 +233,9 @@ jobs:
           $datfiles = Get-ChildItem -Path ($datpath.FullName + "\*.dat")
           foreach( $file in $datfiles ) {
           [XML]$xmlfile = Get-Content -Path $file
-          $dat_filename = $file.Name # -replace ".dat$", ".zip"
+          $xmlfile.datafile.header.description = $xmlfile.datafile.header.name
+          $xmlfile.Save($file.Fullname)
+          $dat_filename = $file.Name
           $name = $xmlfile.datafile.header.name
           $description = $xmlfile.datafile.header.description -replace '( \([0-9,\-].+\))'
           $version = $xmlfile.datafile.header.version
