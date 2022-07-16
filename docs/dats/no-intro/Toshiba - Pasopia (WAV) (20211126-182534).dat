@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
 <datafile>
-	<header>
-		<name>Toshiba - Pasopia (WAV)</name>
-		<description>Toshiba - Pasopia (WAV)</description>
-		<version>20211126-182534</version>
-		<author>MeguCocoa</author>
-		<homepage>No-Intro</homepage>
-		<url>http://www.no-intro.org</url>
-		<clrmamepro forcenodump="required"/>
-	</header>
-	<game name="Golf, The (Japan)">
-		<description>Golf, The (Japan)</description>
-		<rom name="Golf, The (Japan).wav" size="19156507" crc="916e814e" md5="4cdb3ca53709dabe42c5811ebd7711c1" sha1="2e2c61129cc2359b35e1aa9d88130326b7b5ca66" sha256="594970560dd744a821188ed060d75d4df153b1ae578fd4fd2c09d8df751fc44e"/>
-	</game>
-	<game name="Pasopia Derby (Japan)">
-		<description>Pasopia Derby (Japan)</description>
-		<rom name="Pasopia Derby (Japan).wav" size="13059875" crc="0c2702f7" md5="1d9872f5e3b9e557664d390ea6ae73a6" sha1="544e120e0dc5d226072371841e5e1982f015353b" sha256="123d16d7c3c6a24c8ab17594d51be18c079250e924d29e032c17510c7950b8ba"/>
-	</game>
-	<game name="Pasopia Game Highlight (Japan)">
-		<description>Pasopia Game Highlight (Japan)</description>
-		<rom name="Pasopia Game Highlight (Japan).wav" size="80066535" crc="5849a0f8" md5="5e62fe3581b5d4cad42e10b0a68faba6" sha1="7c64bb429033b0f39a703524546bc96ae706d3cf" sha256="d29713dcf6a1cbbb0a3f590a5a7143d1131c7322365f5025fbdd785bb95631f5"/>
-	</game>
-	<game name="Pasopia Game Shuu (Japan)">
-		<description>Pasopia Game Shuu (Japan)</description>
-		<rom name="Pasopia Game Shuu (Japan).wav" size="68596062" crc="f8a3ea13" md5="12b4f18bed3271f6c517ca4f356214c8" sha1="01436203bb2e7a1b7f3adec812f6d2edebcb2cc7" sha256="b2f07df8b98bfd21b27ca4393ec3de639f252a2610b392b31f2ae14cfd84f81b"/>
-	</game>
+  <header>
+    <name>Toshiba - Pasopia (WAV)</name>
+    <description>Toshiba - Pasopia (WAV)</description>
+    <version>20211126-182534</version>
+    <author>MeguCocoa</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Golf, The (Japan)">
+    <description>Golf, The (Japan)</description>
+    <rom name="Golf, The (Japan).wav" size="19156507" crc="916e814e" md5="4cdb3ca53709dabe42c5811ebd7711c1" sha1="2e2c61129cc2359b35e1aa9d88130326b7b5ca66" sha256="594970560dd744a821188ed060d75d4df153b1ae578fd4fd2c09d8df751fc44e" />
+  </game>
+  <game name="Pasopia Derby (Japan)">
+    <description>Pasopia Derby (Japan)</description>
+    <rom name="Pasopia Derby (Japan).wav" size="13059875" crc="0c2702f7" md5="1d9872f5e3b9e557664d390ea6ae73a6" sha1="544e120e0dc5d226072371841e5e1982f015353b" sha256="123d16d7c3c6a24c8ab17594d51be18c079250e924d29e032c17510c7950b8ba" />
+  </game>
+  <game name="Pasopia Game Highlight (Japan)">
+    <description>Pasopia Game Highlight (Japan)</description>
+    <rom name="Pasopia Game Highlight (Japan).wav" size="80066535" crc="5849a0f8" md5="5e62fe3581b5d4cad42e10b0a68faba6" sha1="7c64bb429033b0f39a703524546bc96ae706d3cf" sha256="d29713dcf6a1cbbb0a3f590a5a7143d1131c7322365f5025fbdd785bb95631f5" />
+  </game>
+  <game name="Pasopia Game Shuu (Japan)">
+    <description>Pasopia Game Shuu (Japan)</description>
+    <rom name="Pasopia Game Shuu (Japan).wav" size="68596062" crc="f8a3ea13" md5="12b4f18bed3271f6c517ca4f356214c8" sha1="01436203bb2e7a1b7f3adec812f6d2edebcb2cc7" sha256="b2f07df8b98bfd21b27ca4393ec3de639f252a2610b392b31f2ae14cfd84f81b" />
+  </game>
 </datafile>

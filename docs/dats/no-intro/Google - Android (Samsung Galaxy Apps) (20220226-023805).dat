@@ -1,33 +1,33 @@
 <?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
 <datafile>
-	<header>
-		<name>Google - Android (Samsung Galaxy Apps)</name>
-		<description>Google - Android (Samsung Galaxy Apps)</description>
-		<version>20220226-023805</version>
-		<author>Arctic Circle System, Hiccup</author>
-		<homepage>No-Intro</homepage>
-		<url>http://www.no-intro.org</url>
-		<clrmamepro forcenodump="required"/>
-	</header>
-	<game name="Game Launcher (World) (v6.0.03.1)">
-		<description>Game Launcher (World) (v6.0.03.1)</description>
-		<game_id>com.samsung.android.game.gamehome</game_id>
-		<rom name="Game Launcher (World) (v6.0.03.1).apk" size="24165397" crc="73b86441" md5="1a4905fe53fe2c97268433e4fa561499" sha1="7fc56ec6a0a21c359d1679c29086fa1843d28c3c" sha256="221f3159f15a6dcbca0b9f3220daa07b54a121ff11744cb77ecc645267c0dbec"/>
-	</game>
-	<game name="Game Optimizing Service (World) (v3.1.24)">
-		<description>Game Optimizing Service (World) (v3.1.24)</description>
-		<game_id>com.samsung.android.game.gos</game_id>
-		<rom name="Game Optimizing Service (World) (v3.1.24).apk" size="4171277" crc="de560c27" md5="1d7d1ad0b5843a1f9158421605a0d91f" sha1="fd78a0019bc88e4de04f2300e122e221b9acc417" sha256="d9fca240e6094186e66b3c3dec9c3cefcac9177c0a0e0ca622fe3c976752869f"/>
-	</game>
-	<game name="Pokemon GO (USA) (v0.225.0)">
-		<description>Pokemon GO (USA) (v0.225.0)</description>
-		<game_id>com.nianticlabs.pokemongo.ares</game_id>
-		<rom name="Pokemon GO (USA) (v0.225.0).apk" size="127950714" crc="c49d938c" md5="80521cfea6be5db4ce4f0ba7da7fe136" sha1="398725bc6b8844168095d6e50f15695955c6c0c2" sha256="113e9983eac8889cfb47f557787dfdb1a5b8455bfe809e8dcd2d950e240b3afa"/>
-	</game>
-	<game name="Pokemon GO (USA) (v0.229.1)">
-		<description>Pokemon GO (USA) (v0.229.1)</description>
-		<game_id>com.nianticlabs.pokemongo.ares</game_id>
-		<rom name="Pokemon GO (USA) (v0.229.1).apk" size="127984472" crc="d5afae21" md5="5e829a67ac62830a1059b40b76d91631" sha1="2f16cb7a11e8b33bfbe2b1d681ea2fec79f8ddb0" sha256="3f23848482df4316c254b727c66d518fa2d02aa64d7cf3c4ca3cfd2339216da4"/>
-	</game>
+  <header>
+    <name>Google - Android (Samsung Galaxy Apps)</name>
+    <description>Google - Android (Samsung Galaxy Apps)</description>
+    <version>20220226-023805</version>
+    <author>Arctic Circle System, Hiccup</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Game Launcher (World) (v6.0.03.1)">
+    <description>Game Launcher (World) (v6.0.03.1)</description>
+    <game_id>com.samsung.android.game.gamehome</game_id>
+    <rom name="Game Launcher (World) (v6.0.03.1).apk" size="24165397" crc="73b86441" md5="1a4905fe53fe2c97268433e4fa561499" sha1="7fc56ec6a0a21c359d1679c29086fa1843d28c3c" sha256="221f3159f15a6dcbca0b9f3220daa07b54a121ff11744cb77ecc645267c0dbec" />
+  </game>
+  <game name="Game Optimizing Service (World) (v3.1.24)">
+    <description>Game Optimizing Service (World) (v3.1.24)</description>
+    <game_id>com.samsung.android.game.gos</game_id>
+    <rom name="Game Optimizing Service (World) (v3.1.24).apk" size="4171277" crc="de560c27" md5="1d7d1ad0b5843a1f9158421605a0d91f" sha1="fd78a0019bc88e4de04f2300e122e221b9acc417" sha256="d9fca240e6094186e66b3c3dec9c3cefcac9177c0a0e0ca622fe3c976752869f" />
+  </game>
+  <game name="Pokemon GO (USA) (v0.225.0)">
+    <description>Pokemon GO (USA) (v0.225.0)</description>
+    <game_id>com.nianticlabs.pokemongo.ares</game_id>
+    <rom name="Pokemon GO (USA) (v0.225.0).apk" size="127950714" crc="c49d938c" md5="80521cfea6be5db4ce4f0ba7da7fe136" sha1="398725bc6b8844168095d6e50f15695955c6c0c2" sha256="113e9983eac8889cfb47f557787dfdb1a5b8455bfe809e8dcd2d950e240b3afa" />
+  </game>
+  <game name="Pokemon GO (USA) (v0.229.1)">
+    <description>Pokemon GO (USA) (v0.229.1)</description>
+    <game_id>com.nianticlabs.pokemongo.ares</game_id>
+    <rom name="Pokemon GO (USA) (v0.229.1).apk" size="127984472" crc="d5afae21" md5="5e829a67ac62830a1059b40b76d91631" sha1="2f16cb7a11e8b33bfbe2b1d681ea2fec79f8ddb0" sha256="3f23848482df4316c254b727c66d518fa2d02aa64d7cf3c4ca3cfd2339216da4" />
+  </game>
 </datafile>

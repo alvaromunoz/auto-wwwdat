@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Sega - 32X (Retool)</name>
+    <description>Sega - 32X (Retool)</description>
+    <version>20220522-112342</version>
+    <date>2022-07-16 17-07-17</date>
+    <author>BitLooter, ElBarto, FakeShemp, gigadeath, Hiccup, norkmetnoil577, omonim2007, relax, Special T, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="After Burner Complete (Europe)">
+    <category>Games</category>
+    <description>After Burner Complete (Europe)</description>
+    <rom name="After Burner Complete (Europe).32x" size="2097152" crc="029106f5" md5="a8e05bd3cdf97e1811ebd6d52c4371a7" sha1="c7d56cc75dc9a5206fda6a080cbedae9f48c82bc" />
+  </game>
+  <game name="Cosmic Carnage (Europe)">
+    <category>Games</category>
+    <description>Cosmic Carnage (Europe)</description>
+    <rom name="Cosmic Carnage (Europe).32x" size="3145728" crc="9f3fdbc2" md5="8aadc467d31bc64f95a7fbe8f95afeb3" sha1="900e8ecdcc4460b4c4af3873e1d6bc83da4aee99" />
+  </game>
+  <game name="Darxide (Europe) (En,Fr,De,Es)">
+    <category>Games</category>
+    <description>Darxide (Europe) (En,Fr,De,Es)</description>
+    <rom name="Darxide (Europe) (En,Fr,De,Es).32x" size="2097152" crc="22d7c906" md5="30ee320f76db70a836edeff2c8ce9cd2" sha1="108b4ffed8643abdefa921cfb58389b119b47f3d" />
+  </game>
+  <game name="Doom (Europe)">
+    <category>Games</category>
+    <description>Doom (Europe)</description>
+    <rom name="Doom (Europe).32x" size="3145728" crc="53734e3a" md5="1abe8b9b1855b1b101cb7f1d86395c22" sha1="4ec03c2114ebffbbcd16859583340d4ea4cd8dd5" />
+  </game>
+  <game name="FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)">
+    <category>Games</category>
+    <description>FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)</description>
+    <rom name="FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).32x" size="3145728" crc="fb14a7c8" md5="24aaa6ef307d20147ce10e7610e59aa2" sha1="131ebb717dee4dd1d8f5ab2b9393c23785d3a359" />
+  </game>
+  <game name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)">
+    <category>Games</category>
+    <description>Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe)</description>
+    <rom name="Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).32x" size="3145728" crc="6ef99202" md5="f772e22b574406e3e20c172117050973" sha1="55848f7c54533fd2a19011db661ef261cd8bdb22" />
+  </game>
+  <game name="Knuckles' Chaotix (Europe)">
+    <category>Games</category>
+    <description>Knuckles' Chaotix (Europe)</description>
+    <rom name="Knuckles' Chaotix (Europe).32x" size="3145728" crc="41d63572" md5="4ce9e6b6e8883d8a678d90aabce022d0" sha1="5c1a2e327a656217604d4bae7e141764a7e59922" />
+  </game>
+  <game name="Kolibri (USA, Europe)">
+    <category>Games</category>
+    <description>Kolibri (USA, Europe)</description>
+    <rom name="Kolibri (USA, Europe).32x" size="3145728" crc="20ca53ef" md5="6af6207b1e67072a9104178130c61712" sha1="191ae0b525ecf32664086d8d748e0b35f776ddfe" />
+  </game>
+  <game name="Metal Head (Europe) (En,Ja)">
+    <category>Games</category>
+    <description>Metal Head (Europe) (En,Ja)</description>
+    <rom name="Metal Head (Europe) (En,Ja).32x" size="3145728" crc="bf9b8376" md5="5ab011dae907f77e68eb764bec3870d8" sha1="2a7767024e23b55fe193d586a96a3ba3c92e7ea8" />
+  </game>
+  <game name="Mortal Kombat II (Europe)">
+    <category>Games</category>
+    <description>Mortal Kombat II (Europe)</description>
+    <rom name="Mortal Kombat II (Europe).32x" size="4194304" crc="211085ce" md5="9d258d11fe1e4cac2c1aab370c35e57a" sha1="f75698de887d0ef980f73e35fc4615887a9ad58f" />
+  </game>
+  <game name="Motherbase (Europe)">
+    <category>Games</category>
+    <description>Motherbase (Europe)</description>
+    <rom name="Motherbase (Europe).32x" size="2097152" crc="0d6523a3" md5="66833be0da3d737ac45cdaab9b6bd818" sha1="00792570c459637d46f26d0ceb301ed9d83f0098" sha256="44b30ec69a4f1a80bb81c059fb91e3742eb044a8970f3306ba3debc64aff5b21" />
+  </game>
+  <game name="Motocross Championship (Europe)">
+    <category>Games</category>
+    <description>Motocross Championship (Europe)</description>
+    <rom name="Motocross Championship (Europe).32x" size="2097152" crc="ae3364e9" md5="6bc365808a00b8a640dd86ccb5a0ea24" sha1="af0cb8626825e1b431eba07b8a9b571186745c16" />
+  </game>
+  <game name="NBA Jam - Tournament Edition (World)">
+    <category>Games</category>
+    <description>NBA Jam - Tournament Edition (World)</description>
+    <rom name="NBA Jam - Tournament Edition (World).32x" size="4194304" crc="6b7994aa" md5="966a5e00dd7bcdc70b05c5a0c0e8f7aa" sha1="c8af3e74c49514669ba6652ec0c81bccf77873b6" />
+  </game>
+  <game name="NFL Quarterback Club (World)">
+    <category>Games</category>
+    <description>NFL Quarterback Club (World)</description>
+    <rom name="NFL Quarterback Club (World).32x" size="3145728" crc="0bc7018d" md5="e273c10114351cdafeba1abccca8909d" sha1="a0dc24f2f3a7fc5bfd12791cf25af7f7888843cf" />
+  </game>
+  <game name="Primal Rage (USA, Europe)">
+    <category>Games</category>
+    <description>Primal Rage (USA, Europe)</description>
+    <rom name="Primal Rage (USA, Europe).32x" size="4194304" crc="e78a4d28" md5="e1efc5804d3360e7b19f7542219bf964" sha1="5084dcca51d76173c383ab7d04cbc661673545f7" />
+  </game>
+  <game name="Space Harrier (Europe)">
+    <category>Games</category>
+    <description>Space Harrier (Europe)</description>
+    <rom name="Space Harrier (Europe).32x" size="2097152" crc="5cac3587" md5="4619e328e1719bee165941d891c08d81" sha1="8b0495257fa5392ef9ddcc9c3ba1860ae58f4f3d" />
+  </game>
+  <game name="Star Wars Arcade (Europe)">
+    <category>Games</category>
+    <description>Star Wars Arcade (Europe)</description>
+    <rom name="Star Wars Arcade (Europe).32x" size="2621440" crc="82e82660" md5="bfaa6fd031490c26e25f3d59d9c37497" sha1="a877cbf704fe7480966fd88a3c39efb6a39392ac" />
+  </game>
+  <game name="Stellar Assault (USA, Europe)">
+    <category>Games</category>
+    <description>Stellar Assault (USA, Europe)</description>
+    <rom name="Stellar Assault (USA, Europe).32x" size="2097152" crc="60c49e4d" md5="1415a8675adf3e8647b3df673b50056d" sha1="561c8c63dbcabc0b1b6f31673ca75a0bde7abc72" />
+  </game>
+  <game name="T-MEK (USA, Europe)">
+    <category>Games</category>
+    <description>T-MEK (USA, Europe)</description>
+    <rom name="T-MEK (USA, Europe).32x" size="3145728" crc="66d2c48f" md5="1b06c84caf09206a8d9f0bb3eaaba512" sha1="173c8425921d83db3e8d181158e7599364f4c0f6" />
+  </game>
+  <game name="Toughman Contest (USA, Europe)">
+    <category>Games</category>
+    <description>Toughman Contest (USA, Europe)</description>
+    <rom name="Toughman Contest (USA, Europe).32x" size="4194304" crc="14eac7a6" md5="386d99d132ce5699ade81b4473cef5b4" sha1="7588b0b8f4e93d5fdc920d3ab7e464154e423da9" />
+  </game>
+  <game name="Virtua Fighter (Europe)">
+    <category>Games</category>
+    <description>Virtua Fighter (Europe)</description>
+    <rom name="Virtua Fighter (Europe).32x" size="4194304" crc="25aea73c" md5="adcf6c6150d1bc3d073d3754b22ebc69" sha1="24b3063284a914c76d8d1f681e3ed6323b0d7d0b" />
+  </game>
+  <game name="Virtua Racing Deluxe (Europe)">
+    <category>Games</category>
+    <description>Virtua Racing Deluxe (Europe)</description>
+    <rom name="Virtua Racing Deluxe (Europe).32x" size="3145728" crc="27f14b5f" md5="c30a6430b1a7e819bd2dde63a41d4d57" sha1="bb26ddde26cd07191d872e8a76a170ca3326f781" />
+  </game>
+  <game name="WWF Raw (World)">
+    <category>Games</category>
+    <description>WWF Raw (World)</description>
+    <rom name="WWF Raw (World).32x" size="4194304" crc="8eb7cd2c" md5="b3788f861803d21cfa0e559695835f44" sha1="94b974f2f69f0c10bc18b349fa4ff95ca56fa47b" />
+  </game>
+</datafile>

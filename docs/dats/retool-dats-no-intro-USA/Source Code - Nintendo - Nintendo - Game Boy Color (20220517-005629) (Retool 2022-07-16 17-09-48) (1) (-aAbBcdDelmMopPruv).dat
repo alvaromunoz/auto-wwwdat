@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Source Code - Nintendo - Nintendo - Game Boy Color (Retool)</name>
+    <description>Source Code - Nintendo - Nintendo - Game Boy Color (Retool)</description>
+    <version>20220517-005629</version>
+    <date>2022-07-16 17-09-48</date>
+    <author>Hiccup, togemet2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Pocket Music (USA, Europe)">
+    <category>Games</category>
+    <description>Pocket Music (USA, Europe)</description>
+    <rom name="Pocket_Music_GBC_Source_and_build.zip" size="1738459" crc="11bf518e" md5="5230f28fc5430b1a8a9d7d95677a7cb5" sha1="9fa6bcb60fdbbacd8bc793143dcee7bcdd36d73b" sha256="9ea20f674b1f271167b84c37964a9366e9863577dce02186f4f6b1afb9009af5" />
+  </game>
+</datafile>

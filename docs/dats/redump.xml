@@ -1,7 +1,7 @@
 <clrmamepro>
 <datfile>
 <name>Acorn - Archimedes</name>
-<description>Acorn - Archimedes - Discs</description>
+<description>Acorn - Archimedes</description>
 <version>2022-07-06 22-36-02</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -9,15 +9,15 @@
 </datfile>
 <datfile>
 <name>Apple - Macintosh</name>
-<description>Apple - Macintosh - Discs</description>
-<version>2022-07-12 17-38-01</version>
+<description>Apple - Macintosh</description>
+<version>2022-07-16 11-42-47</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Apple - Macintosh - Datfile (923) (2022-07-12 17-38-01).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Apple - Macintosh - Datfile (923) (2022-07-16 11-42-47).dat</url>
 </datfile>
 <datfile>
 <name>Arcade - Konami - e-Amusement</name>
-<description>Arcade - Konami - e-Amusement - Discs</description>
+<description>Arcade - Konami - e-Amusement</description>
 <version>2022-05-30 05-08-10</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -25,7 +25,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Konami - FireBeat</name>
-<description>Arcade - Konami - FireBeat - Discs</description>
+<description>Arcade - Konami - FireBeat</description>
 <version>2019-04-06 16-58-55</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -33,7 +33,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Konami - System GV</name>
-<description>Arcade - Konami - System GV - Discs</description>
+<description>Arcade - Konami - System GV</description>
 <version>2020-09-09 01-05-17</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -41,7 +41,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Namco - Sega - Nintendo - Triforce</name>
-<description>Arcade - Namco - Sega - Nintendo - Triforce - Discs</description>
+<description>Arcade - Namco - Sega - Nintendo - Triforce</description>
 <version>2021-02-04 16-43-40</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -49,7 +49,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Namco - System 246</name>
-<description>Arcade - Namco - System 246 - Discs</description>
+<description>Arcade - Namco - System 246</description>
 <version>2021-10-09 20-39-55</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -57,7 +57,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Sega - Chihiro</name>
-<description>Arcade - Sega - Chihiro - Discs</description>
+<description>Arcade - Sega - Chihiro</description>
 <version>2021-01-08 16-58-30</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -65,7 +65,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Sega - Lindbergh</name>
-<description>Arcade - Sega - Lindbergh - Discs</description>
+<description>Arcade - Sega - Lindbergh</description>
 <version>2018-06-16 09-37-24</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -73,7 +73,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Sega - Naomi</name>
-<description>Arcade - Sega - Naomi - Discs</description>
+<description>Arcade - Sega - Naomi</description>
 <version>2021-11-10 21-30-52</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -81,7 +81,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Sega - Naomi 2</name>
-<description>Arcade - Sega - Naomi 2 - Discs</description>
+<description>Arcade - Sega - Naomi 2</description>
 <version>2020-12-19 20-37-34</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -89,7 +89,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Sega - RingEdge</name>
-<description>Arcade - Sega - RingEdge - Discs</description>
+<description>Arcade - Sega - RingEdge</description>
 <version>2021-11-28 02-55-00</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -97,7 +97,7 @@
 </datfile>
 <datfile>
 <name>Arcade - Sega - RingEdge 2</name>
-<description>Arcade - Sega - RingEdge 2 - Discs</description>
+<description>Arcade - Sega - RingEdge 2</description>
 <version>2020-01-21 02-01-20</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -105,7 +105,7 @@
 </datfile>
 <datfile>
 <name>Atari - Jaguar CD Interactive Multimedia System</name>
-<description>Atari - Jaguar CD Interactive Multimedia System - Discs</description>
+<description>Atari - Jaguar CD Interactive Multimedia System</description>
 <version>2022-06-22 03-54-53</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -113,7 +113,7 @@
 </datfile>
 <datfile>
 <name>Bandai - Pippin</name>
-<description>Bandai - Pippin - Discs</description>
+<description>Bandai - Pippin</description>
 <version>2022-06-21 14-17-38</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -121,7 +121,7 @@
 </datfile>
 <datfile>
 <name>Bandai - Playdia Quick Interactive System</name>
-<description>Bandai - Playdia Quick Interactive System - Discs</description>
+<description>Bandai - Playdia Quick Interactive System</description>
 <version>2022-07-06 01-08-10</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -129,7 +129,7 @@
 </datfile>
 <datfile>
 <name>Commodore - Amiga CD</name>
-<description>Commodore - Amiga CD - Discs</description>
+<description>Commodore - Amiga CD</description>
 <version>2022-07-12 03-15-17</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -137,7 +137,7 @@
 </datfile>
 <datfile>
 <name>Commodore - Amiga CD32</name>
-<description>Commodore - Amiga CD32 - Discs</description>
+<description>Commodore - Amiga CD32</description>
 <version>2022-06-06 00-54-47</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -145,7 +145,7 @@
 </datfile>
 <datfile>
 <name>Commodore - Amiga CDTV</name>
-<description>Commodore - Amiga CDTV - Discs</description>
+<description>Commodore - Amiga CDTV</description>
 <version>2021-04-07 11-57-19</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -153,7 +153,7 @@
 </datfile>
 <datfile>
 <name>Fujitsu - FM-Towns</name>
-<description>Fujitsu - FM-Towns - Discs</description>
+<description>Fujitsu - FM-Towns</description>
 <version>2022-07-02 13-40-29</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -161,7 +161,7 @@
 </datfile>
 <datfile>
 <name>funworld - Photo Play</name>
-<description>funworld - Photo Play - Discs</description>
+<description>funworld - Photo Play</description>
 <version>2020-01-21 18-23-57</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -169,15 +169,15 @@
 </datfile>
 <datfile>
 <name>IBM - PC compatible</name>
-<description>IBM - PC compatible - Discs</description>
-<version>2022-07-15 18-13-24</version>
+<description>IBM - PC compatible</description>
+<version>2022-07-16 12-27-34</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/IBM - PC compatible - Datfile (36019) (2022-07-15 18-13-24).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/IBM - PC compatible - Datfile (36022) (2022-07-16 12-27-34).dat</url>
 </datfile>
 <datfile>
 <name>Incredible Technologies - Eagle</name>
-<description>Incredible Technologies - Eagle - Discs</description>
+<description>Incredible Technologies - Eagle</description>
 <version>2018-09-19 09-32-59</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -185,7 +185,7 @@
 </datfile>
 <datfile>
 <name>Mattel - Fisher-Price iXL</name>
-<description>Mattel - Fisher-Price iXL - Discs</description>
+<description>Mattel - Fisher-Price iXL</description>
 <version>2022-02-16 20-06-02</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -193,7 +193,7 @@
 </datfile>
 <datfile>
 <name>Mattel - HyperScan</name>
-<description>Mattel - HyperScan - Discs</description>
+<description>Mattel - HyperScan</description>
 <version>2022-06-21 00-58-30</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -201,7 +201,7 @@
 </datfile>
 <datfile>
 <name>Memorex - Visual Information System</name>
-<description>Memorex - Visual Information System - Discs</description>
+<description>Memorex - Visual Information System</description>
 <version>2022-02-16 07-50-44</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -209,7 +209,7 @@
 </datfile>
 <datfile>
 <name>Microsoft - Xbox</name>
-<description>Microsoft - Xbox - Discs</description>
+<description>Microsoft - Xbox</description>
 <version>2022-06-26 03-20-50</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -217,7 +217,7 @@
 </datfile>
 <datfile>
 <name>Microsoft - Xbox 360</name>
-<description>Microsoft - Xbox 360 - Discs</description>
+<description>Microsoft - Xbox 360</description>
 <version>2022-07-14 02-44-35</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -225,7 +225,7 @@
 </datfile>
 <datfile>
 <name>NEC - PC Engine CD & TurboGrafx CD</name>
-<description>NEC - PC Engine CD & TurboGrafx CD - Discs</description>
+<description>NEC - PC Engine CD & TurboGrafx CD</description>
 <version>2022-06-04 14-12-48</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -233,7 +233,7 @@
 </datfile>
 <datfile>
 <name>NEC - PC-88 series</name>
-<description>NEC - PC-88 series - Discs</description>
+<description>NEC - PC-88 series</description>
 <version>2014-10-07 01-25-20</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -241,7 +241,7 @@
 </datfile>
 <datfile>
 <name>NEC - PC-98 series</name>
-<description>NEC - PC-98 series - Discs</description>
+<description>NEC - PC-98 series</description>
 <version>2022-06-02 03-57-24</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -249,7 +249,7 @@
 </datfile>
 <datfile>
 <name>NEC - PC-FX & PC-FXGA</name>
-<description>NEC - PC-FX & PC-FXGA - Discs</description>
+<description>NEC - PC-FX & PC-FXGA</description>
 <version>2022-06-02 04-01-21</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -257,7 +257,7 @@
 </datfile>
 <datfile>
 <name>Nintendo - GameCube</name>
-<description>Nintendo - GameCube - Discs</description>
+<description>Nintendo - GameCube</description>
 <version>2022-07-04 08-32-35</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -265,7 +265,7 @@
 </datfile>
 <datfile>
 <name>Nintendo - Wii</name>
-<description>Nintendo - Wii - Discs</description>
+<description>Nintendo - Wii</description>
 <version>2022-06-17 02-50-32</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -273,7 +273,7 @@
 </datfile>
 <datfile>
 <name>Palm</name>
-<description>Palm - Discs</description>
+<description>Palm</description>
 <version>2022-07-02 17-31-05</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -281,7 +281,7 @@
 </datfile>
 <datfile>
 <name>Panasonic - 3DO Interactive Multiplayer</name>
-<description>Panasonic - 3DO Interactive Multiplayer - Discs</description>
+<description>Panasonic - 3DO Interactive Multiplayer</description>
 <version>2022-07-07 13-36-15</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -289,7 +289,7 @@
 </datfile>
 <datfile>
 <name>Philips - CD-i</name>
-<description>Philips - CD-i - Discs</description>
+<description>Philips - CD-i</description>
 <version>2022-07-15 16-54-36</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -297,7 +297,7 @@
 </datfile>
 <datfile>
 <name>Photo CD</name>
-<description>Photo CD - Discs</description>
+<description>Photo CD</description>
 <version>2022-07-10 06-10-55</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -305,7 +305,7 @@
 </datfile>
 <datfile>
 <name>PlayStation GameShark Updates</name>
-<description>PlayStation GameShark Updates - Discs</description>
+<description>PlayStation GameShark Updates</description>
 <version>2021-11-16 20-17-49</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -313,7 +313,7 @@
 </datfile>
 <datfile>
 <name>Pocket PC</name>
-<description>Pocket PC - Discs</description>
+<description>Pocket PC</description>
 <version>2022-06-14 20-04-03</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -321,7 +321,7 @@
 </datfile>
 <datfile>
 <name>Sega - Dreamcast</name>
-<description>Sega - Dreamcast - Discs</description>
+<description>Sega - Dreamcast</description>
 <version>2022-07-01 11-43-16</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -329,7 +329,7 @@
 </datfile>
 <datfile>
 <name>Sega - Mega CD & Sega CD</name>
-<description>Sega - Mega CD & Sega CD - Discs</description>
+<description>Sega - Mega CD & Sega CD</description>
 <version>2022-07-12 21-10-04</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -337,7 +337,7 @@
 </datfile>
 <datfile>
 <name>Sega - Prologue 21</name>
-<description>Sega - Prologue 21 - Discs</description>
+<description>Sega - Prologue 21</description>
 <version>2021-10-04 19-45-04</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -345,7 +345,7 @@
 </datfile>
 <datfile>
 <name>Sega - Saturn</name>
-<description>Sega - Saturn - Discs</description>
+<description>Sega - Saturn</description>
 <version>2022-07-15 17-31-28</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -353,7 +353,7 @@
 </datfile>
 <datfile>
 <name>Sharp - X68000</name>
-<description>Sharp - X68000 - Discs</description>
+<description>Sharp - X68000</description>
 <version>2022-06-07 04-07-33</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -361,7 +361,7 @@
 </datfile>
 <datfile>
 <name>SNK - Neo Geo CD</name>
-<description>SNK - Neo Geo CD - Discs</description>
+<description>SNK - Neo Geo CD</description>
 <version>2022-06-05 16-35-54</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -369,7 +369,7 @@
 </datfile>
 <datfile>
 <name>Sony - PlayStation</name>
-<description>Sony - PlayStation - Discs</description>
+<description>Sony - PlayStation</description>
 <version>2022-07-15 15-04-51</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -377,7 +377,7 @@
 </datfile>
 <datfile>
 <name>Sony - PlayStation 2</name>
-<description>Sony - PlayStation 2 - Discs</description>
+<description>Sony - PlayStation 2</description>
 <version>2022-07-10 03-25-31</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -385,7 +385,7 @@
 </datfile>
 <datfile>
 <name>Sony - PlayStation 3</name>
-<description>Sony - PlayStation 3 - Discs</description>
+<description>Sony - PlayStation 3</description>
 <version>2022-07-14 20-40-58</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -393,7 +393,7 @@
 </datfile>
 <datfile>
 <name>Sony - PlayStation Portable</name>
-<description>Sony - PlayStation Portable - Discs</description>
+<description>Sony - PlayStation Portable</description>
 <version>2022-07-12 21-15-17</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -401,7 +401,7 @@
 </datfile>
 <datfile>
 <name>TAB-Austria - Quizard</name>
-<description>TAB-Austria - Quizard - Discs</description>
+<description>TAB-Austria - Quizard</description>
 <version>2018-05-25 07-27-39</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -409,7 +409,7 @@
 </datfile>
 <datfile>
 <name>Tomy - Kiss-Site</name>
-<description>Tomy - Kiss-Site - Discs</description>
+<description>Tomy - Kiss-Site</description>
 <version>2022-07-07 01-27-35</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -417,7 +417,7 @@
 </datfile>
 <datfile>
 <name>VM Labs - NUON</name>
-<description>VM Labs - NUON - Discs</description>
+<description>VM Labs - NUON</description>
 <version>2022-06-09 00-09-38</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -425,7 +425,7 @@
 </datfile>
 <datfile>
 <name>VTech - V.Flash & V.Smile Pro</name>
-<description>VTech - V.Flash & V.Smile Pro - Discs</description>
+<description>VTech - V.Flash & V.Smile Pro</description>
 <version>2021-09-03 00-03-55</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
@@ -433,7 +433,7 @@
 </datfile>
 <datfile>
 <name>ZAPiT Games - Game Wave Family Entertainment System</name>
-<description>ZAPiT Games - Game Wave Family Entertainment System - Discs</description>
+<description>ZAPiT Games - Game Wave Family Entertainment System</description>
 <version>2021-10-06 20-53-45</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>

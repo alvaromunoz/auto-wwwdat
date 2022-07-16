@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Unofficial - Sony - PlayStation Vita (VPK) (Retool)</name>
+    <description>Unofficial - Sony - PlayStation Vita (VPK) (Retool)</description>
+    <version>20220715-103442</version>
+    <date>2022-07-16 17-10-28</date>
+    <author>Bumpfi, Densetsu, diego-rbb, foxe, Gefflon, Hiccup, jimmsu, norkmetnoil577, SonGoku, UnlockerPT, Whovian9369, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Aegis of Earth - Protonovus Assault (USA)">
+    <category>Games</category>
+    <description>Aegis of Earth - Protonovus Assault (USA)</description>
+    <rom name="Aegis of Earth - Protonovus Assault (USA).vpk" size="825418380" crc="bba209a4" md5="1293854ec3b83daba1595249ca637725" sha1="9e58a114387a4daf2033063c836efefdff4eee58" />
+  </game>
+  <game name="Amazing Spider-Man, The (USA)">
+    <category>Games</category>
+    <description>Amazing Spider-Man, The (USA)</description>
+    <rom name="Amazing Spider-Man, The (USA) [b].vpk" size="3283831493" crc="bee30ba8" md5="f812a479d248690294b1df8616cba85a" sha1="ef09b0c7ab6976a8f237b80555f10ee4dbc1666e" />
+  </game>
+  <game name="Assassin's Creed Chronicles (USA)">
+    <category>Games</category>
+    <description>Assassin's Creed Chronicles (USA)</description>
+    <rom name="Assassin's Creed Chronicles (USA).vpk" size="3087555249" crc="0c033868" md5="d70a206a8bc680adf23fb74d6562ecfa" sha1="983e6764ecb67a3a1a1236433246617d8db972ca" />
+  </game>
+  <game name="Bad Apple Wars (USA)">
+    <category>Games</category>
+    <description>Bad Apple Wars (USA)</description>
+    <rom name="Bad Apple Wars (USA).vpk" size="1609262273" crc="fb5c4a57" md5="c4ae739e0da337d7cd43eabd55f342b0" sha1="287b9a5159790b3fb9938a33e8234ad24b894d8c" />
+  </game>
+  <game name="Ben 10 - Galactic Racing (USA) (En,Fr)">
+    <category>Games</category>
+    <description>Ben 10 - Galactic Racing (USA) (En,Fr)</description>
+    <rom name="Ben 10 - Galactic Racing (USA) (En,Fr).vpk" size="871565557" crc="5838a7cf" md5="6041fb4511a1a27ccff351b9c11c0606" sha1="63c10ea953d2a702295a60ca9fabf7b75f39cae5" />
+  </game>
+  <game name="BlazBlue - Chrono Phantasma (USA) (En,Ja)">
+    <category>Games</category>
+    <description>BlazBlue - Chrono Phantasma (USA) (En,Ja)</description>
+    <rom name="BlazBlue - Chrono Phantasma (USA) (En,Ja).vpk" size="3421929812" crc="b0081eeb" md5="33687e31c8d6ff1cbee6016790ee0c2f" sha1="8a29d4cb720bb340a0881e6dea668ff855053ac8" />
+  </game>
+  <game name="BlazBlue - Continuum Shift - EXTEND (USA)">
+    <category>Games</category>
+    <description>BlazBlue - Continuum Shift - EXTEND (USA)</description>
+    <rom name="BlazBlue - Continuum Shift - EXTEND (USA).vpk" size="3435334248" crc="ef91f418" md5="0d12cd8a3037a094ac93ce4dbb835214" sha1="16c319af5f7a95f8f2ce4977abfd3c93fda2d6e9" />
+  </game>
+  <game name="Chaos-Child (USA)">
+    <category>Games</category>
+    <description>Chaos-Child (USA)</description>
+    <rom name="Chaos-Child (USA).vpk" size="1874102552" crc="f2694e93" md5="3c221f7204666fd46246b01c0bc89e7d" sha1="a0bd5ccb9a1babea25fdeeeb1d34eae306b994f8" />
+  </game>
+  <game name="Code - Realize - Future Blessings (USA)">
+    <category>Games</category>
+    <description>Code - Realize - Future Blessings (USA)</description>
+    <rom name="Code - Realize - Future Blessings (USA).vpk" size="2494410918" crc="e7cec423" md5="7ba19599c732356c62a4fea5e8f38e58" sha1="7d757de4a3e9cb5b5e8f668bea78e7a16fe42fa1" />
+  </game>
+  <game name="Code - Realize - Guardian of Rebirth (USA)">
+    <category>Games</category>
+    <description>Code - Realize - Guardian of Rebirth (USA)</description>
+    <rom name="Code - Realize - Guardian of Rebirth (USA).vpk" size="3474099037" crc="4cf76994" md5="34764b200a98babc3288668affaadb7e" sha1="befe167691233129487c045d49b837657a2650d4" />
+  </game>
+  <game name="Collar x Malice (USA)">
+    <category>Games</category>
+    <description>Collar x Malice (USA)</description>
+    <rom name="Collar x Malice (USA).vpk" size="2659278193" crc="2092c12d" md5="77027b8706d7c2847cc05dd0cdeb4bd8" sha1="fe9874816d6983da9eaaad3aea21f1db6e87104a" />
+  </game>
+  <game name="Conception II - Children of the Seven Stars (USA)">
+    <category>Games</category>
+    <description>Conception II - Children of the Seven Stars (USA)</description>
+    <rom name="Conception II - Children of the Seven Stars (USA).vpk" size="1473672896" crc="c928e5b4" md5="0f77dd919fff76388914c60725e85fdd" sha1="58122854aac18660ee794073648e715c42c97626" />
+  </game>
+  <game name="Corpse Party - Blood Drive (USA)">
+    <category>Games</category>
+    <description>Corpse Party - Blood Drive (USA)</description>
+    <rom name="Corpse Party - Blood Drive (USA).vpk" size="1621573967" crc="1a121701" md5="b1ec42c4ea4db128ac096b7d95959d80" sha1="cc13822db0e4998e97a7a8bd92e5baa6ad6bb453" />
+  </game>
+  <game name="Criminal Girls - Invite Only (USA)">
+    <category>Games</category>
+    <description>Criminal Girls - Invite Only (USA)</description>
+    <rom name="Criminal Girls - Invite Only (USA).vpk" size="1238173873" crc="f430f55b" md5="b2de12d6efeee7ba656370994d495234" sha1="31ecac1758f33fb9427f0e7b99c849bbc61a8270" />
+  </game>
+  <game name="DJMax Technika Tune (USA)">
+    <category>Games</category>
+    <description>DJMax Technika Tune (USA)</description>
+    <rom name="DJMax Technika Tune (USA).vpk" size="3313556141" crc="00a3a815" md5="0bd8d034db07c3db0aef4ffd3a017522" sha1="7f78a91372db518e15e7d3ffd773229decff4e71" />
+  </game>
+  <game name="Danganronpa - Trigger Happy Havoc (USA)">
+    <category>Games</category>
+    <description>Danganronpa - Trigger Happy Havoc (USA)</description>
+    <rom name="Danganronpa - Trigger Happy Havoc (USA).vpk" size="1328076231" crc="774f515b" md5="931332fc70ee8457a45229daec0dd2e4" sha1="9e56a4afccbf2ca2e74de128d210aaf67709e84c" />
+  </game>
+  <game name="Danganronpa 2 - Goodbye Despair (USA)">
+    <category>Games</category>
+    <description>Danganronpa 2 - Goodbye Despair (USA)</description>
+    <rom name="Danganronpa 2 - Goodbye Despair (USA).vpk" size="1576215765" crc="8fe006ba" md5="852824413cce62e016b6fd52088018e8" sha1="4a7dc2ee3aefbf9d6e5a49f229118473cdd2b807" />
+  </game>
+  <game name="Danganronpa V3 - Killing Harmony (USA)">
+    <category>Games</category>
+    <description>Danganronpa V3 - Killing Harmony (USA)</description>
+    <rom name="Danganronpa V3 - Killing Harmony (USA).vpk" size="2785340232" crc="2e7236d3" md5="c21ca335dec237f59d4d46c7f0ca4df8" sha1="3204e4b94dfafc3e87d44e4ef10d7ee6b5c06672" />
+  </game>
+  <game name="Deception IV - Blood Ties (USA) (En,Ja,Fr,De)">
+    <category>Games</category>
+    <description>Deception IV - Blood Ties (USA) (En,Ja,Fr,De)</description>
+    <rom name="Deception IV - Blood Ties (USA) (En,Ja,Fr,De).vpk" size="718277169" crc="bd4bf796" md5="6caaee12c1064ad7c7c052c96dfc9223" sha1="b889afeb65d209e068b3035ccd045a74e326e2e4" />
+  </game>
+  <game name="Demon Gaze II (USA)">
+    <category>Games</category>
+    <description>Demon Gaze II (USA)</description>
+    <rom name="Demon Gaze II (USA).vpk" size="897606639" crc="471e3190" md5="60153ed008dd9d759bacd5e87c63e33e" sha1="4014efb93b3f22e09f14a2cb7783f8867736e817" />
+  </game>
+  <game name="Dengeki Bunko - Fighting Climax (USA)">
+    <category>Games</category>
+    <description>Dengeki Bunko - Fighting Climax (USA)</description>
+    <rom name="Dengeki Bunko - Fighting Climax (USA).vpk" size="888882678" crc="cb95206a" md5="558913aed0b7acfd7d3e4b5ee92c1416" sha1="d2253e4b476611a3d29004744757e2ffa6bb7a99" />
+  </game>
+  <game name="Disgaea 3 - Absence of Detention (USA) (En,Ja)">
+    <category>Games</category>
+    <description>Disgaea 3 - Absence of Detention (USA) (En,Ja)</description>
+    <rom name="Disgaea 3 - Absence of Detention (USA) (En,Ja).vpk" size="2191368596" crc="2fa2fa3c" md5="efdf1b727afee59dec515f72135fe4e4" sha1="ccf5225a0f81b77c11871503537666a5b2d6d7e4" />
+  </game>
+  <game name="Disgaea 4 - A Promise Revisited (USA) (En,Ja)">
+    <category>Games</category>
+    <description>Disgaea 4 - A Promise Revisited (USA) (En,Ja)</description>
+    <rom name="Disgaea 4 - A Promise Revisited (USA) (En,Ja).vpk" size="3080573053" crc="1e11864c" md5="b1c9d0aaa22d159f17c3a4bdaae38998" sha1="aff1c01f975a427cd1c6049941ca485108acc108" />
+  </game>
+  <game name="Disney Infinity - 2.0 Edition - Marvel Super Heroes (USA)">
+    <category>Games</category>
+    <description>Disney Infinity - 2.0 Edition - Marvel Super Heroes (USA)</description>
+    <rom name="Disney Infinity - 2.0 Edition - Marvel Super Heroes (USA).vpk" size="3555776882" crc="8c4e00b9" md5="b495f23e8c5c16182356ccc9194a51ec" sha1="04d77f3bd6d6bc7324a3c07c4b3e2e40fa14a1e7" />
+  </game>
+  <game name="Dragon Fantasy - Black Tome of Ice (USA)">
+    <category>Games</category>
+    <description>Dragon Fantasy - Black Tome of Ice (USA)</description>
+    <rom name="Dragon Fantasy - Black Tome of Ice (USA).vpk" size="90371940" crc="fd5e16ce" md5="acd705786f30f0a9bb29757db3d4f09d" sha1="00b57976cf39b8352c9b19f5fdd8be59e07c17b4" />
+  </game>
+  <game name="Dragon Quest Builders (USA) (Day One Edition)">
+    <category>Games</category>
+    <description>Dragon Quest Builders (USA) (Day One Edition)</description>
+    <rom name="Dragon Quest Builders (USA) (Day One Edition).vpk" size="280970692" crc="e0248876" md5="d83e8f93235e0e657ba4f9bab81c4854" sha1="b9478ce0db9401dcad61b0cdb44b55beb9ccb89e" />
+  </game>
+  <game name="Drive Girls (USA)">
+    <category>Games</category>
+    <description>Drive Girls (USA)</description>
+    <rom name="Drive Girls (USA).vpk" size="293309248" crc="6ec2f740" md5="4b20c22834541bfbaee9392875a92c0e" sha1="1c1cb943061855b8f37ea8b43cc88bfdf85ce8f4" />
+  </game>
+  <game name="Dynasty Warriors 8 - Xtreme Legends Complete Edition (USA)">
+    <category>Games</category>
+    <description>Dynasty Warriors 8 - Xtreme Legends Complete Edition (USA)</description>
+    <rom name="Dynasty Warriors 8 - Xtreme Legends Complete Edition (USA).vpk" size="3569870024" crc="989258a2" md5="5d5f11bbb0cdd8474b7de767b1f95a17" sha1="28b57108288e8d90be907af60f771875542cf7d5" />
+  </game>
+  <game name="Dynasty Warriors Next (USA)">
+    <category>Games</category>
+    <description>Dynasty Warriors Next (USA)</description>
+    <rom name="Dynasty Warriors Next (USA) [b].vpk" size="1522366132" crc="4a167b6b" md5="ff3758a43bc173b029c25d8c7e1ee91a" sha1="267a623fb8d1d935fd2684fbc60a160a01d9faa0" />
+  </game>
+  <game name="Earth Defense Force 2 - Invaders From Planet Space (USA)">
+    <category>Games</category>
+    <description>Earth Defense Force 2 - Invaders From Planet Space (USA)</description>
+    <rom name="Earth Defense Force 2 - Invaders From Planet Space (USA).vpk" size="293879745" crc="263ea245" md5="83955514b8c6b9cfccec949fb35ae386" sha1="405a20a8bef9c6f6d6c90d7984177a17d0541acd" />
+  </game>
+  <game name="Exist Archive - The Other Side of the Sky (USA) (En,Ja)">
+    <category>Games</category>
+    <description>Exist Archive - The Other Side of the Sky (USA) (En,Ja)</description>
+    <rom name="Exist Archive - The Other Side of the Sky (USA) (En,Ja).vpk" size="3495508696" crc="87718309" md5="a775421bcef2861c180493e7e833e1eb" sha1="d3a3ad7ba2aec4f876471f5e4e5f959452992af8" />
+  </game>
+  <game name="FIFA 15 - Legacy Edition (USA)">
+    <category>Games</category>
+    <description>FIFA 15 - Legacy Edition (USA)</description>
+    <rom name="FIFA 15 - Legacy Edition (USA).vpk" size="3157895188" crc="d45e4b74" md5="7e6b3d6280f114ad22442ea6188dc20c" sha1="9cf7e31cb0a290227e590bd7e08a2ce129cf7e93" />
+  </game>
+  <game name="FIFA Soccer 13 (USA)">
+    <category>Games</category>
+    <description>FIFA Soccer 13 (USA)</description>
+    <rom name="FIFA Soccer 13 (USA).vpk" size="3016747694" crc="5c2730a3" md5="ba455cb9e6c959bbc40fe49519f75b9a" sha1="2c91e8fafef0ac8afd52c789b660988dba9fc2d3" />
+  </game>
+  <game name="Fate-Extella - The Umbral Star (USA)">
+    <category>Games</category>
+    <description>Fate-Extella - The Umbral Star (USA)</description>
+    <rom name="Fate-Extella - The Umbral Star (USA).vpk" size="1335309145" crc="eeee93b9" md5="af4adc9a30c1b361032bc0a1a6c8ee51" sha1="5709a943c447705faeeb8c056cc2638de626c56c" />
+  </game>
+  <game name="Fez (USA)">
+    <category>Games</category>
+    <description>Fez (USA)</description>
+    <rom name="Fez (USA).vpk" size="223271776" crc="0092aa36" md5="b3791456c103576d7cee2bbec9849768" sha1="c453f5f47a69f7211c9a6e7480e772ce65afea38" />
+  </game>
+  <game name="Freedom Wars (USA)">
+    <category>Games</category>
+    <description>Freedom Wars (USA)</description>
+    <rom name="Freedom Wars (USA).vpk" size="1431954950" crc="6fc5153f" md5="955136d78df0c033afd538f30525551d" sha1="6e03631e1a08280951ccc30ad93787fc61154e62" />
+  </game>
+  <game name="God Wars - Future Past (USA)">
+    <category>Games</category>
+    <description>God Wars - Future Past (USA)</description>
+    <rom name="God Wars - Future Past (USA).vpk" size="1561277005" crc="e9bdb32e" md5="8af03f653108269d3aa428ba26641583" sha1="7e966064a9ec05f8f34bbdb315bd32bc246c5b75" />
+  </game>
+  <game name="Grand Kingdom (USA)">
+    <category>Games</category>
+    <description>Grand Kingdom (USA)</description>
+    <rom name="Grand Kingdom (USA).vpk" size="1550904584" crc="b8e27269" md5="d0cfdb590fe7b3e8763158104f18ad23" sha1="1f497615f21cd5a8034fc6a82eb07a60ad0a7b4f" />
+  </game>
+  <game name="Hakuoki - Kyoto Winds (USA)">
+    <category>Games</category>
+    <description>Hakuoki - Kyoto Winds (USA)</description>
+    <rom name="Hakuoki - Kyoto Winds (USA).vpk" size="3048942496" crc="7cc7793c" md5="d3074d061ab989602f4822540ed8a5da" sha1="c3b1cb8bc536a7c2c0ba5f45dff66e1e65ab84cc" />
+  </game>
+  <game name="Hatsune Miku - Project DIVA X (USA)">
+    <category>Games</category>
+    <description>Hatsune Miku - Project DIVA X (USA)</description>
+    <rom name="Hatsune Miku - Project DIVA X (USA).vpk" size="2671236065" crc="477b6408" md5="18d0448db20f5e59cca35c1935a17724" sha1="9b31a6b1c41ad0be4879378dae825bc6bc7a7e5c" />
+  </game>
+  <game name="Hatsune Miku - Project Diva F 2nd (USA)">
+    <category>Games</category>
+    <description>Hatsune Miku - Project Diva F 2nd (USA)</description>
+    <rom name="Hatsune Miku - Project Diva F 2nd (USA).vpk" size="3209760631" crc="39b50185" md5="194e771733be56ff096591784baec4a2" sha1="5b5468fe183d41d015f2545b79283466c796eb0a" />
+  </game>
+  <game name="Hyperdevotion Noire - Goddess Black Heart (USA)">
+    <category>Games</category>
+    <description>Hyperdevotion Noire - Goddess Black Heart (USA)</description>
+    <rom name="Hyperdevotion Noire - Goddess Black Heart (USA).vpk" size="1593345310" crc="75d4c8cd" md5="039915bffbfee7ab7b073d6b8adb7ac4" sha1="6f80559c3fbb3b42b0ac1e6436926ff4a5a71e63" />
+  </game>
+  <game name="Hyperdimension Neptunia Re;Birth1 (USA)">
+    <category>Games</category>
+    <description>Hyperdimension Neptunia Re;Birth1 (USA)</description>
+    <rom name="Hyperdimension Neptunia Re;Birth1 (USA).vpk" size="3225759579" crc="b12058e6" md5="30ac10fe83ed356e73e0c11d52a9d039" sha1="40a5d381f876eba2a6b7fe39d7cedddab5133fb5" />
+  </game>
+  <game name="Hyperdimension Neptunia Re;Birth2 - Sisters Generation (USA)">
+    <category>Games</category>
+    <description>Hyperdimension Neptunia Re;Birth2 - Sisters Generation (USA)</description>
+    <rom name="Hyperdimension Neptunia Re;Birth2 - Sisters Generation (USA).vpk" size="3564003613" crc="b73888f2" md5="19e06ae2af3bc46c0138c7ed152b6cb7" sha1="c49bc1b518b936966053d8da8ea24169168b7eb6" />
+  </game>
+  <game name="Hyperdimension Neptunia Re;Birth3 - V Generation (USA)">
+    <category>Games</category>
+    <description>Hyperdimension Neptunia Re;Birth3 - V Generation (USA)</description>
+    <rom name="Hyperdimension Neptunia Re;Birth3 - V Generation (USA).vpk" size="2947981725" crc="9b95208c" md5="d0965bac9ee394466951ecf799c6c463" sha1="0c968fddc0542a4db970077bacf833ff829ab64c" />
+  </game>
+  <game name="Hyperdimension Neptunia U - Action Unleashed (USA)">
+    <category>Games</category>
+    <description>Hyperdimension Neptunia U - Action Unleashed (USA)</description>
+    <rom name="Hyperdimension Neptunia U - Action Unleashed (USA).vpk" size="1606653133" crc="7e08644a" md5="36df2c1a60e517decdc4f78545f4b984" sha1="8c9a4043f4ffb9f7cca24b9d1a8d691aeeff8517" />
+  </game>
+  <game name="Injustice - Gods Among Us - Ultimate Edition (USA)">
+    <category>Games</category>
+    <description>Injustice - Gods Among Us - Ultimate Edition (USA)</description>
+    <rom name="Injustice - Gods Among Us - Ultimate Edition (USA).vpk" size="3261790930" crc="618d69bc" md5="e6ad603ed565b4be70470e13ea5f6216" sha1="7be7854e25adcb65c38e379793c7b307810dfd48" />
+  </game>
+  <game name="LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es)</description>
+    <rom name="LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es).vpk" size="1125401066" crc="ddd91a76" md5="325f09a5dedec6050faeac4091dab37b" sha1="9c527e65f5bf3d7819092675d162133c84ba3ba7" />
+  </game>
+  <game name="LEGO Batman 3 - Beyond Gotham (USA)">
+    <category>Games</category>
+    <description>LEGO Batman 3 - Beyond Gotham (USA)</description>
+    <rom name="LEGO Batman 3 - Beyond Gotham (USA).vpk" size="1591497078" crc="df490021" md5="ffeec5183c4337596effd137eb6a2fd9" sha1="803ba81d30db20388242f5abf44904847332c832" />
+  </game>
+  <game name="LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es)</description>
+    <rom name="LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es).vpk" size="1110043328" crc="1d9f8a69" md5="fc84372042d82ecdadb74160c76e1b2b" sha1="171bee14f8d85775795f138a4023c316c73f9191" />
+  </game>
+  <game name="LEGO Jurassic World (USA)">
+    <category>Games</category>
+    <description>LEGO Jurassic World (USA)</description>
+    <rom name="LEGO Jurassic World (USA).vpk" size="1605837437" crc="00c0a9b8" md5="533faf137fb666c106661304bb45d655" sha1="458a96b83a1f9664e275d8e65630c51036a83794" />
+  </game>
+  <game name="LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt)">
+    <category>Games</category>
+    <description>LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt).vpk" size="902881476" crc="0354b972" md5="a6534901f93dd5ee4d1028094d3b5693" sha1="a97dd9c5aa87de88b6b9607afd33b04ab020fbee" />
+  </game>
+  <game name="LEGO Movie Videogame, The (USA)">
+    <category>Games</category>
+    <description>LEGO Movie Videogame, The (USA)</description>
+    <rom name="LEGO Movie Videogame, The (USA).vpk" size="1630510981" crc="8b0a77d6" md5="9d88aec1d7b61998c6b4858b9aa5e662" sha1="2ab06da4182316fe4713d943cca39eb565b8a1aa" />
+  </game>
+  <game name="LEGO Ninjago - Shadow of Ronin (USA)">
+    <category>Games</category>
+    <description>LEGO Ninjago - Shadow of Ronin (USA)</description>
+    <rom name="LEGO Ninjago - Shadow of Ronin (USA).vpk" size="1303631958" crc="ed786e70" md5="ba17e953e6ddf32b38d2d7814af9fe6c" sha1="d1071ecf123e0ae9a2107ea547c886401d82548c" />
+  </game>
+  <game name="LEGO Star Wars - The Force Awakens (USA)">
+    <category>Games</category>
+    <description>LEGO Star Wars - The Force Awakens (USA)</description>
+    <rom name="LEGO Star Wars - The Force Awakens (USA).vpk" size="1475643809" crc="1c90e22f" md5="82a834c6f4fd91ddc9192a7e1922d75c" sha1="76b546cc7ef8694acaab24e37773f62341e85209" />
+  </game>
+  <game name="LEGO The Lord of the Rings (USA) (En,Fr,Es,Pt)">
+    <category>Games</category>
+    <description>LEGO The Lord of the Rings (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO The Lord of the Rings (USA) (En,Fr,Es,Pt).vpk" size="1715718342" crc="ae3093e6" md5="b88b1c5d868851fbd2316660208bd8e4" sha1="014196ee91db022492e685da4445719cba98f74c" />
+  </game>
+  <game name="Legend of Heroes, The - Trails of Cold Steel (USA)">
+    <category>Games</category>
+    <description>Legend of Heroes, The - Trails of Cold Steel (USA)</description>
+    <rom name="Legend of Heroes, The - Trails of Cold Steel (USA).vpk" size="2853940430" crc="8935293b" md5="e8d8819fd8287a0d9b7b3c07983ab4e9" sha1="e0aac48b0620232e770be1c08fc88e93ea638bf3" />
+  </game>
+  <game name="Little Deviants (USA)">
+    <category>Games</category>
+    <description>Little Deviants (USA)</description>
+    <rom name="Little Deviants (USA).vpk" size="942080175" crc="bd55f0aa" md5="e10a45dd31665c1d093d12a41191cdbd" sha1="113ce90ac62d31494d0905215871461b43a332c5" />
+  </game>
+  <game name="Lumines - Electronic Symphony (USA)">
+    <category>Games</category>
+    <description>Lumines - Electronic Symphony (USA)</description>
+    <rom name="Lumines - Electronic Symphony (USA).vpk" size="755378990" crc="eed240c8" md5="ebe4353874ab1817b31fdf5b027e08fb" sha1="2a4810f4c2d8fcde80131b161ae32fe857c6dc1f" />
+  </game>
+  <game name="MLB 12 - The Show (USA)">
+    <category>Games</category>
+    <description>MLB 12 - The Show (USA)</description>
+    <rom name="MLB 12 - The Show (USA).vpk" size="2951775667" crc="b2ba5f71" md5="8a935d8d1c1fab9c1809e5dbf9b385a8" sha1="6c4f780196d04604939603e1c18ac6d572711a1d" />
+  </game>
+  <game name="MLB 13 - The Show (USA) (En,Fr)">
+    <category>Games</category>
+    <description>MLB 13 - The Show (USA) (En,Fr)</description>
+    <rom name="MLB 13 - The Show (USA) (En,Fr).vpk" size="3389382443" crc="0926c0ad" md5="2501c658e0b09c18bad8769af5e7c292" sha1="ff35c408d6ce7a1f34af19f4f4f7ec8b1a5d3c52" />
+  </game>
+  <game name="MLB 14 - The Show (USA)">
+    <category>Games</category>
+    <description>MLB 14 - The Show (USA)</description>
+    <rom name="MLB 14 - The Show (USA).vpk" size="2879455189" crc="50b6a2e2" md5="785e8d9fdc3e9985076f791c88a085c0" sha1="26348927e5e25cd7541b2b15bd1afb372608a800" />
+  </game>
+  <game name="Madden NFL 13 (USA)">
+    <category>Games</category>
+    <description>Madden NFL 13 (USA)</description>
+    <rom name="Madden NFL 13 (USA).vpk" size="3019591083" crc="52f459a0" md5="f30e7561203fc41cb225f16879b7b9e9" sha1="5ca77781b1646ea44f42b990539a1fd6553d8de2" />
+  </game>
+  <game name="Mary Skelter - Nightmares (USA)">
+    <category>Games</category>
+    <description>Mary Skelter - Nightmares (USA)</description>
+    <rom name="Mary Skelter - Nightmares (USA).vpk" size="2858558633" crc="fba4dcc4" md5="a09e245e543b6c08f42b83f8660e7fde" sha1="fc6a699ea6328ba99ad1284fa9f699c0897b7056" />
+  </game>
+  <game name="MegaTagmension Blanc + Neptune vs Zombies (USA)">
+    <category>Games</category>
+    <description>MegaTagmension Blanc + Neptune vs Zombies (USA)</description>
+    <rom name="MegaTagmension Blanc + Neptune vs Zombies (USA).vpk" size="1687826300" crc="36144894" md5="506ed3e79aa02af4de02b7e8e66f0d2b" sha1="2b7fc746457ebe225b19a92de481b455a77158d7" />
+  </game>
+  <game name="MeiQ - Labyrinth of Death (USA)">
+    <category>Games</category>
+    <description>MeiQ - Labyrinth of Death (USA)</description>
+    <rom name="MeiQ - Labyrinth of Death (USA).vpk" size="1527202906" crc="9088bee3" md5="6ba38f6a9664bf5d0eb21fad47cfdaf1" sha1="739feee6b08d0b9f64e73e351de9fbf4a3cdbd7b" />
+  </game>
+  <game name="Metal Gear Solid HD Collection (USA)">
+    <category>Games</category>
+    <description>Metal Gear Solid HD Collection (USA)</description>
+    <rom name="Metal Gear Solid HD Collection (USA) [b].vpk" size="3584940580" crc="c560f2fb" md5="1369b3f6f5e3965a35581013b7a5b9a3" sha1="e423ecf9a4950884a56b68cc10b80ea51ada1d29" />
+  </game>
+  <game name="Michael Jackson - The Experience HD (USA) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Michael Jackson - The Experience HD (USA) (En,Fr,De,Es,It)</description>
+    <rom name="Michael Jackson - The Experience HD (USA) (En,Fr,De,Es,It).vpk" size="1450593939" crc="b19c18bd" md5="977ca90cedc20d1eb7f44b6f5d288fbe" sha1="52a1036d4156f870c1f99b3062a0bfddc8d2c706" />
+  </game>
+  <game name="Mind Zero (USA)">
+    <category>Games</category>
+    <description>Mind Zero (USA)</description>
+    <rom name="Mind Zero (USA).vpk" size="1435770581" crc="86079a12" md5="f32a73f2c09861088d2499477243e59b" sha1="697271a9ff0a5520bb57548ff7791ed65f67dc14" />
+  </game>
+  <game name="ModNation Racers - Road Trip (USA)">
+    <category>Games</category>
+    <description>ModNation Racers - Road Trip (USA)</description>
+    <rom name="ModNation Racers - Road Trip (USA).vpk" size="1583578160" crc="0fcb265e" md5="3da71a52cb4480b87bef5788c6c5693c" sha1="bee9293dbedddaa0c34ab6e276e9557675fd1928" />
+  </game>
+  <game name="Muramasa Rebirth (USA) (En,Ja)">
+    <category>Games</category>
+    <description>Muramasa Rebirth (USA) (En,Ja)</description>
+    <rom name="Muramasa Rebirth (USA) (En,Ja).vpk" size="477527291" crc="7589fed4" md5="9b10c29e9f3c9110c6e8780042c3d9de" sha1="d84b3c2e7de10555f8d6a7731941b1c64f9c439c" />
+  </game>
+  <game name="Ninja Gaiden Sigma (USA)">
+    <category>Games</category>
+    <description>Ninja Gaiden Sigma (USA)</description>
+    <rom name="Ninja Gaiden Sigma (USA).vpk" size="2249188546" crc="5492fcf6" md5="9b2bc02896602dcb1c2b21187731c42d" sha1="8114254bac119332618d4d9655506c028d80d785" />
+  </game>
+  <game name="Ninja Gaiden Sigma 2 Plus (USA) (En,Ja,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Ninja Gaiden Sigma 2 Plus (USA) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Ninja Gaiden Sigma 2 Plus (USA) (En,Ja,Fr,De,Es,It).vpk" size="3138722949" crc="81e88056" md5="20acf1a0f13d32ed7819567622b83311" sha1="37c2d479110fd18e256f5926949c8d0488238a7e" />
+  </game>
+  <game name="Norn9 - Var Commons (USA) (En,Ja)">
+    <category>Games</category>
+    <description>Norn9 - Var Commons (USA) (En,Ja)</description>
+    <rom name="Norn9 - Var Commons (USA) (En,Ja).vpk" size="2853525633" crc="fcc27efc" md5="6f97b8c793f407965ef36a3a6f5a9614" sha1="ec3a3711647fdc23a9df4a46fce6de4737f12401" />
+  </game>
+  <game name="One Piece - Unlimited World Red (USA) (En,Ja)">
+    <category>Games</category>
+    <description>One Piece - Unlimited World Red (USA) (En,Ja)</description>
+    <rom name="One Piece - Unlimited World Red (USA) (En,Ja).vpk" size="190292378" crc="9a243d6d" md5="e8b40c22126bd3bc64bfee83e5ed5fe1" sha1="7801ba73e7e03cb71625b6540a1a18d5fe8a7ab8" />
+  </game>
+  <game name="Operation Babel - New Tokyo Legacy (USA)">
+    <category>Games</category>
+    <description>Operation Babel - New Tokyo Legacy (USA)</description>
+    <rom name="Operation Babel - New Tokyo Legacy (USA).vpk" size="591662762" crc="8d9dbf0f" md5="33c06c3036b8495023f08e656827308b" sha1="19ef5f39d23ca09eb0b2f088c35b709bbd82dd58" />
+  </game>
+  <game name="Period - Cube - Shackles of Amadeus (USA)">
+    <category>Games</category>
+    <description>Period - Cube - Shackles of Amadeus (USA)</description>
+    <rom name="Period - Cube - Shackles of Amadeus (USA).vpk" size="2768819699" crc="3bb1107e" md5="cd8fd317558c92a25458750b7a7c970f" sha1="64eeb2a4c803afd014506ed3fcdf240a8d5c08a9" />
+  </game>
+  <game name="Persona 4 - Dancing All Night (USA)">
+    <category>Games</category>
+    <description>Persona 4 - Dancing All Night (USA)</description>
+    <rom name="Persona 4 - Dancing All Night (USA).vpk" size="3382010174" crc="fd532246" md5="73f9d8c30feb00efe0bb97c94fc9b06e" sha1="c804dcee2c78b80acc601f77023466a0eaece4d2" />
+  </game>
+  <game name="PlayStation All-Stars Battle Royale (USA) (En,Ja,Es,Pt)">
+    <category>Games</category>
+    <description>PlayStation All-Stars Battle Royale (USA) (En,Ja,Es,Pt)</description>
+    <rom name="PlayStation All-Stars Battle Royale (USA) (En,Ja,Es,Pt).vpk" size="1443993530" crc="28171317" md5="0d6417257cea2bc3625a3231514e85a5" sha1="3b5078ec07df869551f396a856c777fb09e7933e" />
+  </game>
+  <game name="Psycho Pass - Mandatory Happiness (USA)">
+    <category>Games</category>
+    <description>Psycho Pass - Mandatory Happiness (USA)</description>
+    <rom name="Psycho Pass - Mandatory Happiness (USA).vpk" size="1810573836" crc="b351c3da" md5="22bb5aac3a207a504c0e4af6fa97a5cf" sha1="908ffdfecc528c9c24fc628068c75854fd1c0698" />
+  </game>
+  <game name="Ragnarok Odyssey (USA)">
+    <category>Games</category>
+    <description>Ragnarok Odyssey (USA)</description>
+    <rom name="Ragnarok Odyssey (USA).vpk" size="1116747978" crc="67b06cbb" md5="f22b0727b3715b8fa4947a5f1c58aa41" sha1="f4e99a2a10311902edd6c452afb5524b70fc9c70" />
+  </game>
+  <game name="Ragnarok Odyssey ACE (USA)">
+    <category>Games</category>
+    <description>Ragnarok Odyssey ACE (USA)</description>
+    <rom name="Ragnarok Odyssey ACE (USA).vpk" size="2293585418" crc="da01d0d1" md5="f70f7bdbfe9ea3fd565835ec2bf98c4c" sha1="4b4fb32cdc3f2f61aa8e4144c1010c9e7e0d764d" />
+  </game>
+  <game name="Rayman Legends (USA)">
+    <category>Games</category>
+    <description>Rayman Legends (USA)</description>
+    <rom name="Rayman Legends (USA).vpk" size="1071597882" crc="c141a366" md5="3c387b13b012f00e2adb2c6a2ccb7645" sha1="ee392e1b0aec4cc6d29a3ef65ad9143ca8963343" />
+  </game>
+  <game name="Rayman Origins (USA)">
+    <category>Games</category>
+    <description>Rayman Origins (USA)</description>
+    <rom name="Rayman Origins (USA).vpk" size="986829705" crc="3fc1669d" md5="243a3afebf6bc4a10a2a223a96ecc120" sha1="26d5227ecf08a70a34278e576fe04d47cc41e54d" />
+  </game>
+  <game name="Root Letter (USA)">
+    <category>Games</category>
+    <description>Root Letter (USA)</description>
+    <rom name="Root Letter (USA).vpk" size="1342301457" crc="18f016ef" md5="d4ac5c64c15fef4931ef4c48ded71b01" sha1="ad529365c7cd6a336097aa9883532cf1a8256417" />
+  </game>
+  <game name="SUPERBEAT - XONiC (USA)">
+    <category>Games</category>
+    <description>SUPERBEAT - XONiC (USA)</description>
+    <rom name="SUPERBEAT - XONiC (USA).vpk" size="3089743324" crc="204abffb" md5="2572f7e42627c20a553efcb2c24e7c4c" sha1="32d5127ad2181b0713cee2ce7d07a5e9745f9987" />
+  </game>
+  <game name="Senran Kagura Shinovi Versus (USA)">
+    <category>Games</category>
+    <description>Senran Kagura Shinovi Versus (USA)</description>
+    <rom name="Senran Kagura Shinovi Versus (USA).vpk" size="2067964691" crc="49ada0c7" md5="59a4bf70961582b993e72100ab0637c7" sha1="ee177fbe5342f93b0a69ce6ceea378f08dab456e" />
+  </game>
+  <game name="Shantae - Half Genie Hero (USA)">
+    <category>Games</category>
+    <description>Shantae - Half Genie Hero (USA)</description>
+    <rom name="Shantae - Half Genie Hero (USA).vpk" size="576191373" crc="44a435a9" md5="7a4d3674eae18d52a3c3bbaf42617439" sha1="b207216fc94b408a128f32648978aeb7a78a296c" />
+  </game>
+  <game name="Shinobido 2 - Revenge of Zen (USA)">
+    <category>Games</category>
+    <description>Shinobido 2 - Revenge of Zen (USA)</description>
+    <rom name="Shinobido 2 - Revenge of Zen (USA).vpk" size="1140042857" crc="4e88f822" md5="c7c6c8d45b7c34803e5079bc2007895e" sha1="dc9eaa04c065ec6cb15cd0e3e9a35b16d9fc3ce6" />
+  </game>
+  <game name="Shiren the Wanderer - The Tower of Fortune and the Dice of Fate (USA)">
+    <category>Games</category>
+    <description>Shiren the Wanderer - The Tower of Fortune and the Dice of Fate (USA)</description>
+    <rom name="Shiren the Wanderer - The Tower of Fortune and the Dice of Fate (USA).vpk" size="417365934" crc="31206f64" md5="ff18ec997c73907593fd12fc0fed7e7e" sha1="05550890ced9d1aa1729ebd5be75cfb916622289" />
+  </game>
+  <game name="Sly Cooper - Thieves in Time (USA)">
+    <category>Games</category>
+    <description>Sly Cooper - Thieves in Time (USA)</description>
+    <rom name="Sly Cooper - Thieves in Time (USA).vpk" size="3402004094" crc="88d251c2" md5="84d662a9c49d5a9963a0342e1ad3cac1" sha1="4d9272d41e2976870eedee03b46e5d2b468b36b4" />
+  </game>
+  <game name="Sorcery Saga - Curse of the Great Curry God (USA)">
+    <category>Games</category>
+    <description>Sorcery Saga - Curse of the Great Curry God (USA)</description>
+    <rom name="Sorcery Saga - Curse of the Great Curry God (USA).vpk" size="906678868" crc="1007cbe6" md5="640d6ba6ce8df2ec958257abc635cd7e" sha1="a4536cacfc2a596e323036e24372b3741d81d23d" />
+  </game>
+  <game name="Soul Sacrifice (USA)">
+    <category>Games</category>
+    <description>Soul Sacrifice (USA)</description>
+    <rom name="Soul Sacrifice (USA).vpk" size="1820891120" crc="283e2c2b" md5="913cf6a3849d9db68f2d703bdcb98a29" sha1="e878f3dde716e71b5feaf01ce77fc0ae36b43226" />
+  </game>
+  <game name="SpongeBob HeroPants (USA)">
+    <category>Games</category>
+    <description>SpongeBob HeroPants (USA)</description>
+    <rom name="SpongeBob HeroPants (USA).vpk" size="1112562011" crc="b6dbc253" md5="1d4ada339293a573f2f64ee56cf6eed7" sha1="43640c42cdf24ded1d4af9b483dccf35ff6c50d9" />
+  </game>
+  <game name="Spy Hunter (USA)">
+    <category>Games</category>
+    <description>Spy Hunter (USA)</description>
+    <rom name="Spy Hunter (USA).vpk" size="902812672" crc="49d6c8ee" md5="21991e9c9e8433be168223429197bb65" sha1="3739e1f40b2836fc87aef3db024ee6f1b653716c" />
+  </game>
+  <game name="Steins;Gate (USA)">
+    <category>Games</category>
+    <description>Steins;Gate (USA)</description>
+    <rom name="Steins;Gate (USA).vpk" size="1561455635" crc="5d942952" md5="2aba0f64f7abcbc38552e1a27454cb1f" sha1="826f9f8519d77b5b30953f4020323ab2710d609e" />
+  </game>
+  <game name="Steins;Gate 0 (USA)">
+    <category>Games</category>
+    <description>Steins;Gate 0 (USA)</description>
+    <rom name="Steins;Gate 0 (USA).vpk" size="1497899838" crc="78b6b1bf" md5="56d77d0846c99ade517e239beeeebdbc" sha1="5374d3d133bd132e0e0cf87eca4ad22735b87bed" />
+  </game>
+  <game name="Stranger of Sword City (USA)">
+    <category>Games</category>
+    <description>Stranger of Sword City (USA)</description>
+    <rom name="Stranger of Sword City (USA).vpk" size="572443213" crc="fa998921" md5="67da8a98957114054b3788a960bd9533" sha1="5bbdaac3d1daa228595164b0214d54a01134bb2b" />
+  </game>
+  <game name="Summon Night 6 - Lost Borders (USA)">
+    <category>Games</category>
+    <description>Summon Night 6 - Lost Borders (USA)</description>
+    <rom name="Summon Night 6 - Lost Borders (USA).vpk" size="3285622436" crc="112a5558" md5="02be0296e596ae8b3136483da8a6f454" sha1="0454d3dc46dab48d06366829226269b73e104811" />
+  </game>
+  <game name="Super Monkey Ball - Banana Splitz (USA)">
+    <category>Games</category>
+    <description>Super Monkey Ball - Banana Splitz (USA)</description>
+    <rom name="Super Monkey Ball - Banana Splitz (USA).vpk" size="851018559" crc="90951955" md5="84cc4ca90772e1c834541a2ea65a1068" sha1="71096efc27cbf335c745e74ce7ec899323eb269f" />
+  </game>
+  <game name="Superdimension Neptune VS Sega Hard Girls (USA)">
+    <category>Games</category>
+    <description>Superdimension Neptune VS Sega Hard Girls (USA)</description>
+    <rom name="Superdimension Neptune VS Sega Hard Girls (USA).vpk" size="1606830638" crc="640b4841" md5="5b725769b8ad18ce4ef4e13f1ec3ca5c" sha1="bb9da0455f214db9532c9da39de018cfc9dd80e4" />
+  </game>
+  <game name="Supremacy MMA (USA)">
+    <category>Games</category>
+    <description>Supremacy MMA (USA)</description>
+    <rom name="Supremacy MMA (USA).vpk" size="1441827652" crc="4248dbed" md5="09d5d952db2b88afc32347659ec53cb3" sha1="ae8f8770dd65e662b7105c4ee09b352a56ba164c" />
+  </game>
+  <game name="Sword Art Online - Lost Song (USA)">
+    <category>Games</category>
+    <description>Sword Art Online - Lost Song (USA)</description>
+    <rom name="Sword Art Online - Lost Song (USA).vpk" size="3254929155" crc="8bc39b60" md5="60272fe56725d92f2ac99f7711a95525" sha1="cf1144a6e49388cd864b67de35e00702d8b25cb4" />
+  </game>
+  <game name="Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It).vpk" size="1690680774" crc="73e2760c" md5="163d2346ffeead7694a168b005e152ce" sha1="5fca0e2453d2e80e49f068ff17ddfb1dd5f7650f" />
+  </game>
+  <game name="Tearaway (USA)">
+    <category>Games</category>
+    <description>Tearaway (USA)</description>
+    <rom name="Tearaway (USA).vpk" size="951675644" crc="5c576826" md5="862646b9d3b54426a244b9dda897fb33" sha1="5292bd429c582252153d231198bb3efc510addd9" />
+  </game>
+  <game name="Thomas Was Alone (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Thomas Was Alone (USA) (En,Fr,Es)</description>
+    <rom name="Thomas Was Alone (USA) (En,Fr,Es).vpk" size="130539172" crc="1868f395" md5="08902dc1a07dfea54379db7cb29350bc" sha1="561580f048fd6a7d9a6fa2b1aec8219f13d75c62" />
+  </game>
+  <game name="Tokyo Tattoo Girls (USA)">
+    <category>Games</category>
+    <description>Tokyo Tattoo Girls (USA)</description>
+    <rom name="Tokyo Tattoo Girls (USA).vpk" size="657788553" crc="cfe48800" md5="032b8c3ad9e6326fce0515452e934016" sha1="d3f7840ed1dd8d6f241f41e0ec445c5bb538db50" />
+  </game>
+  <game name="Tokyo Xanadu (USA)">
+    <category>Games</category>
+    <description>Tokyo Xanadu (USA)</description>
+    <rom name="Tokyo Xanadu (USA).vpk" size="2347261367" crc="96aaa6c8" md5="e7be9136e1b24c99ffd2f7dfa2a7c3a2" sha1="7bea408e5291ab44334d10d48a461d60abea5032" />
+  </game>
+  <game name="Touch My Katamari (USA)">
+    <category>Games</category>
+    <description>Touch My Katamari (USA)</description>
+    <rom name="Touch My Katamari (USA).vpk" size="618645834" crc="226258ad" md5="6c29a3e9df9bd4441923880997dceb58" sha1="aa1be8ae08cb53e4496272f1e8f8c259671e1bf2" />
+  </game>
+  <game name="Toukiden 2 (USA)">
+    <category>Games</category>
+    <description>Toukiden 2 (USA)</description>
+    <rom name="Toukiden 2 (USA).vpk" size="2608035181" crc="5a8e6d65" md5="bdf9304135ebbaac09f6352d4dedbb5e" sha1="36b5735b46be9b9289d7ddf46f0f6f0e854737cd" />
+  </game>
+  <game name="Trillion - God of Destruction (USA) (En,Ja)">
+    <category>Games</category>
+    <description>Trillion - God of Destruction (USA) (En,Ja)</description>
+    <rom name="Trillion - God of Destruction (USA) (En,Ja).vpk" size="3408280120" crc="7c85414b" md5="1148acaf2bfd72b4d7e48db52d014f8b" sha1="341c6603a8959c4f9e738600d36f0800421a21bd" />
+  </game>
+  <game name="Unit 13 (USA) (En,Fr,Es,Pt)">
+    <category>Games</category>
+    <description>Unit 13 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Unit 13 (USA) (En,Fr,Es,Pt).vpk" size="1245184345" crc="90319e18" md5="1a98c33049cda0c6093983b1e700ccdf" sha1="b29f11a267649642eb21f470a7b18e259e477380" />
+  </game>
+  <game name="Utawarerumono - Mask of Deception (USA)">
+    <category>Games</category>
+    <description>Utawarerumono - Mask of Deception (USA)</description>
+    <rom name="Utawarerumono - Mask of Deception (USA).vpk" size="2461675381" crc="d9990aa0" md5="86302f94e68d612f8d087849a2e13c22" sha1="4d1db07c8d6517d90d7d865e4f206d8dfcb584d4" />
+  </game>
+  <game name="Utawarerumono - Mask of Truth (USA)">
+    <category>Games</category>
+    <description>Utawarerumono - Mask of Truth (USA)</description>
+    <rom name="Utawarerumono - Mask of Truth (USA).vpk" size="2955699771" crc="b2b88beb" md5="4b705055f1744979e44faa2e88b8349b" sha1="e95fb31406d14e2b5888c8cd543cfe06b1dc271d" />
+  </game>
+  <game name="Valhalla Knights 3 (USA)">
+    <category>Games</category>
+    <description>Valhalla Knights 3 (USA)</description>
+    <rom name="Valhalla Knights 3 (USA).vpk" size="942727810" crc="befd1c2b" md5="51123dd4e1c1555fa6eeecb1b76876fb" sha1="7ed04d736752e0bc52b79a425ba26d840bd8fe07" />
+  </game>
+  <game name="Virtua Tennis 4 - World Tour Edition (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Virtua Tennis 4 - World Tour Edition (USA) (En,Fr,Es)</description>
+    <rom name="Virtua Tennis 4 - World Tour Edition (USA) (En,Fr,Es).vpk" size="1117326563" crc="42f34408" md5="fee7e63e42e657ff58f97ee1128ad0b6" sha1="ad4643c0d7e05d2b9e8166ea7603fb4e2cb9ff23" />
+  </game>
+  <game name="Walking Dead, The - A Telltale Games Series - The Complete First Season (USA) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Walking Dead, The - A Telltale Games Series - The Complete First Season (USA) (En,Fr,De,Es,It)</description>
+    <rom name="Walking Dead, The - A Telltale Games Series - The Complete First Season (USA) (En,Fr,De,Es,It).vpk" size="2278873513" crc="20e0e11b" md5="51f8ac26a3465a5e0ec0868cb37c21fe" sha1="223e1f6c6b29fbd0657bc7158669a990b06d8437" />
+  </game>
+  <game name="Walking Dead, The - Season Two - A Telltale Games Series (USA)">
+    <category>Games</category>
+    <description>Walking Dead, The - Season Two - A Telltale Games Series (USA)</description>
+    <rom name="Walking Dead, The - Season Two - A Telltale Games Series (USA).vpk" size="1901373748" crc="54b6adcd" md5="837386cee0f1ad26b3c59ac9fd5ddc01" sha1="285a162b956ce8f5a4ffd191dbcad0146ca11317" />
+  </game>
+  <game name="Wolf Among Us, The (USA)">
+    <category>Games</category>
+    <description>Wolf Among Us, The (USA)</description>
+    <rom name="Wolf Among Us, The (USA).vpk" size="2112483110" crc="726c748a" md5="f4d941d0de6f8231644bbe67aaa77436" sha1="2a60b1527fa494ed4be4dfdf9bc0bd130b9731e1" />
+  </game>
+  <game name="XBLAZE - Lost Memories (USA)">
+    <category>Games</category>
+    <description>XBLAZE - Lost Memories (USA)</description>
+    <rom name="XBLAZE - Lost Memories (USA).vpk" size="2488582706" crc="45e20a49" md5="8e7189c98d57f23312f91d384d3f43a2" sha1="3ead75f63e2b363b0b4bdbf1e1a85a3e551a6cef" />
+  </game>
+  <game name="XBlaze - Code Embryo (USA)">
+    <category>Games</category>
+    <description>XBlaze - Code Embryo (USA)</description>
+    <rom name="XBlaze - Code Embryo (USA).vpk" size="1475612423" crc="0d1ed326" md5="278a080be4517c586d456755bcd5cf25" sha1="989a066774fb2bfcfc48ad7a2bd8abbef78b5c20" />
+  </game>
+  <game name="Yomawari - Midnight Shadows (USA)">
+    <category>Games</category>
+    <description>Yomawari - Midnight Shadows (USA)</description>
+    <rom name="Yomawari - Midnight Shadows (USA).vpk" size="846735539" crc="559eea3e" md5="eb0cecdad1457cde266582e2474d857a" sha1="734e9fb96786193e366ea727d91847aaab7a6487" />
+  </game>
+  <game name="Yomawari - Night Alone + htol-NiQ - The Firefly Diary (USA)">
+    <category>Games</category>
+    <description>Yomawari - Night Alone + htol-NiQ - The Firefly Diary (USA)</description>
+    <rom name="Yomawari - Night Alone + htol-NiQ - The Firefly Diary (USA).vpk" size="1198097831" crc="3fae7915" md5="d9979302d9a17bae8f2b72da2641a27b" sha1="795bfc924c1981083dcab4b59f46f948ccaee070" />
+  </game>
+  <game name="Ys - Memories of Celceta (USA)">
+    <category>Games</category>
+    <description>Ys - Memories of Celceta (USA)</description>
+    <rom name="Ys - Memories of Celceta (USA).vpk" size="812728352" crc="4b6cfb0a" md5="8ffa524954bbc296b5132d3281ed74f2" sha1="7cddd389ee729d00e72b1b66597fc8058c468a1c" />
+  </game>
+  <game name="Ys VIII - Lacrimosa of DANA (USA)">
+    <category>Games</category>
+    <description>Ys VIII - Lacrimosa of DANA (USA)</description>
+    <rom name="Ys VIII - Lacrimosa of DANA (USA).vpk" size="3117064762" crc="9b9c8f18" md5="771f525b9a4f71087014ba0afb73ecc4" sha1="7cbb7f4f7ff2a0e9746877b00a85796f79a21559" />
+  </game>
+  <game name="Zero Escape - The Nonary Games (USA)">
+    <category>Games</category>
+    <description>Zero Escape - The Nonary Games (USA)</description>
+    <rom name="Zero Escape - The Nonary Games (USA).vpk" size="2421258944" crc="9713e9f5" md5="0842c818690d35eb1274f1f57206e1ba" sha1="a5b6e78951788f6dcc523aa0e10aa6d3e474c03d" />
+  </game>
+  <game name="Zero Escape - Zero Time Dilemma (USA)">
+    <category>Games</category>
+    <description>Zero Escape - Zero Time Dilemma (USA)</description>
+    <rom name="Zero Escape - Zero Time Dilemma (USA).vpk" size="1030351234" crc="f191229e" md5="c45073f74ecf2d132390757241567e25" sha1="8bb331383d8059087fb44d7f7ce22446cfe1e3ed" />
+  </game>
+</datafile>

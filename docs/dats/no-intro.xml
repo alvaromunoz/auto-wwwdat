@@ -562,10 +562,18 @@
 <datfile>
 <name>IBM - PC and Compatibles (Digital) (Misc) (Hentai)</name>
 <description>IBM - PC and Compatibles (Digital) (Misc) (Hentai)</description>
-<version>20220715-073408</version>
+<version>20220716-015043</version>
 <author>FakeShemp, MeguCocoa, norkmetnoil577</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/IBM - PC and Compatibles (Digital) (Misc) (Hentai) (20220715-073408).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/IBM - PC and Compatibles (Digital) (Misc) (Hentai) (20220716-015043).dat</url>
+</datfile>
+<datfile>
+<name>IBM - PC and Compatibles (Digital) (Steam) (Hentai)</name>
+<description>IBM - PC and Compatibles (Digital) (Steam) (Hentai)</description>
+<version>20220716-020531</version>
+<author>MeguCocoa</author>
+<comment>auto-wwwdat</comment>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/IBM - PC and Compatibles (Digital) (Steam) (Hentai) (20220716-020531).dat</url>
 </datfile>
 <datfile>
 <name>IBM - PC and Compatibles (Digital) (Unknown)</name>
@@ -882,10 +890,10 @@
 <datfile>
 <name>Nintendo - Game Boy</name>
 <description>Nintendo - Game Boy</description>
-<version>20220714-023916</version>
+<version>20220716-051811</version>
 <author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Hiccup, hking0036, InternalLoss, jimmsu, kazumi213, leekindo, Madeline, Money_114, NESBrew12, NGEfreak, norkmetnoil577, NovaAurora, omonim2007, Powerpuff, PPLToast, relax, RetroUprising, rpg2813, sCZther, SonGoku, Tauwasser, togemet2, xNo, xuom2</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Game Boy (20220714-023916).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Game Boy (20220716-051811).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Game Boy Advance</name>
@@ -994,10 +1002,10 @@
 <datfile>
 <name>Nintendo - Nintendo 3DS (Digital) (CDN)</name>
 <description>Nintendo - Nintendo 3DS (Digital) (CDN)</description>
-<version>20220713-105636</version>
+<version>20220716-050535</version>
 <author>ajshell1, Arctic Circle System, Gefflon, Hiccup, Hiccup and DarkMatterCore, InternalLoss, Jack, Just001Kim, MeguCocoa, MisterSheeple, niemand, norkmetnoil577, SonGoku, u53r123, Whovian9369, xuom2, ZeroSkill</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo 3DS (Digital) (CDN) (20220713-105636).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo 3DS (Digital) (CDN) (20220716-050535).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Nintendo 3DS (Digital) (Deprecated)</name>
@@ -1274,10 +1282,10 @@
 <datfile>
 <name>Non-Redump - IBM - PC Compatible (Discs) (Hentai)</name>
 <description>Non-Redump - IBM - PC Compatible (Discs) (Hentai)</description>
-<version>20220715-220620</version>
+<version>20220716-012305</version>
 <author>MeguCocoa</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Non-Redump - IBM - PC Compatible (Discs) (Hentai) (20220715-220620).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Non-Redump - IBM - PC Compatible (Discs) (Hentai) (20220716-012305).dat</url>
 </datfile>
 <datfile>
 <name>Non-Redump - Microsoft - Xbox</name>
@@ -1798,6 +1806,14 @@
 <author>Densetsu, SonGoku, xuom2</author>
 <comment>auto-wwwdat</comment>
 <url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Unofficial - Sony - PlayStation 3 (PSN) (Decrypted) (20180429-070319).dat</url>
+</datfile>
+<datfile>
+<name>Unofficial - Sony - PlayStation 4 (PSN)</name>
+<description>Unofficial - Sony - PlayStation 4 (PSN)</description>
+<version>20220624-224500</version>
+<author>xuom2</author>
+<comment>auto-wwwdat</comment>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Unofficial - Sony - PlayStation 4 (PSN) (20220624-224500).dat</url>
 </datfile>
 <datfile>
 <name>Unofficial - Sony - PlayStation Portable (PSN) (Decrypted)</name>

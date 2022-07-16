@@ -1,44 +1,44 @@
 <?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
 <datafile>
-	<header>
-		<name>Non-Redump - Audio CD</name>
-		<description>Non-Redump - Audio CD</description>
-		<version>20220703-150519</version>
-		<author>Gefflon, Hiccup, MeguCocoa</author>
-		<homepage>No-Intro</homepage>
-		<url>http://www.no-intro.org</url>
-		<clrmamepro forcenodump="required"/>
-	</header>
-	<game name="[MIA] Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 1)">
-		<description>[MIA] Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 1)</description>
-		<rom name="Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 1).cue" size="485" crc="6223a794" md5="c56931a6f1f56d56f64e4b3d3fff84d9" sha1="e7429cba717714c5f846595c512999bb5f382050" sha256="d03f99c93a2880a1f8a64aa9f3927f7b6aab25780f444a3c88a60b7bc542efaa" mia="yes"/>
-		<rom name="Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 1).flac" size="355367243" crc="368b6d1a" md5="cc14682aefe2eb701e873b17262b644f" sha1="4c977032a706ae7f2e8a4961ff54836f030d3c00" sha256="8633a9037946559fe2c7525682dd5182cf3033263dd8acd4ec68f7590e3dcd9a" mia="yes"/>
-	</game>
-	<game name="[MIA] Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 2)">
-		<description>[MIA] Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 2)</description>
-		<rom name="Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 2).cue" size="1059" crc="e216e49b" md5="3fa8464dd81a0c41c70414da4659eb0b" sha1="6e344c44a18d09e85794eba9216e433e6e626170" sha256="a6a02decf9730170282a46fe0d0b2794cc3f51bee089e1802f8b629da859db32" mia="yes"/>
-		<rom name="Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 2).flac" size="214809461" crc="d14bedc5" md5="3ac02001c2df2e181a1d72d79408a799" sha1="2be572745c18d33b317f4087b9790403b4057536" sha256="631054b243fb646201a531d9f508e618f7f15b76f2d39c03a887d5db197e9175" mia="yes"/>
-	</game>
-	<game name="Fragrant Story (World)">
-		<description>Fragrant Story (World)</description>
-		<rom name="Fragrant Story (World).bin" size="270696384" crc="b9ae6ed5" md5="adf079f2e8e7c29c971c6696835400ac" sha1="1b64132dee4ca778f22eb9d10c82c65e31a8387e" sha256="2c24e12d4d7cffe3787733ea062569da76abb93887a331957ea07583f773be80"/>
-		<rom name="Fragrant Story (World).cue" size="782" crc="97637739" md5="481c0af19e26c33049513db200d7bd9c" sha1="ecdee9b85f9f414a172a8f09ddf102c68d3ecbc1" sha256="24d8a6dc5b08cdba4721d4af727b99cd35f1bfb1995728243d84d59133ff553a"/>
-	</game>
-	<game name="Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG)">
-		<description>Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG)</description>
-		<rom name="Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG).zip" size="535403632" crc="e8222704" md5="bcc423986c9a65cc230924e959e48d45" sha1="b7d7c79afaf8b1c21c9a39dcb6f60a0c4b1aca93" sha256="cee27d2068c8d35988f114db188f9abe6bdaa6d55aceed5f121c071e5644bce1"/>
-	</game>
-	<game name="Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG)">
-		<description>Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG)</description>
-		<rom name="Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG).zip" size="144433826" crc="a5d826c9" md5="463365ea28a28c5f94b482b878d607c2" sha1="8da84deaad001d339846d552dcedbc546a99b0ff" sha256="7bc75c72fe8d02effc34c47f6a78206cab9c8d161bda64e057b55f5581263d33"/>
-	</game>
-	<game name="Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG)">
-		<description>Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG)</description>
-		<rom name="Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG).zip" size="141042080" crc="b3360b0e" md5="2aa76d74b8f54888353b11be82c5a51f" sha1="babfb24343962bbe2292b123b516e0be34bc43b0" sha256="cdbd4f67abb0893a1bcff9de0ea83a08e85ac82ae189fa7f7a25636d672ecf0e"/>
-	</game>
-	<game name="Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE)">
-		<description>Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE)</description>
-		<rom name="Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE).zip" size="238916859" crc="c0e6139b" md5="74df22ae99981d294e7f61168ef61bc1" sha1="0aba64c4ae31d11f5fe01f31a25febc9febe95cc" sha256="116b1050d29e5085fc0efe23e37ed2425c3324fc32e2e9ce74b0676aae1d4ae8"/>
-	</game>
+  <header>
+    <name>Non-Redump - Audio CD</name>
+    <description>Non-Redump - Audio CD</description>
+    <version>20220703-150519</version>
+    <author>Gefflon, Hiccup, MeguCocoa</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="[MIA] Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 1)">
+    <description>[MIA] Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 1)</description>
+    <rom name="Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 1).cue" size="485" crc="6223a794" md5="c56931a6f1f56d56f64e4b3d3fff84d9" sha1="e7429cba717714c5f846595c512999bb5f382050" sha256="d03f99c93a2880a1f8a64aa9f3927f7b6aab25780f444a3c88a60b7bc542efaa" mia="yes" />
+    <rom name="Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 1).flac" size="355367243" crc="368b6d1a" md5="cc14682aefe2eb701e873b17262b644f" sha1="4c977032a706ae7f2e8a4961ff54836f030d3c00" sha256="8633a9037946559fe2c7525682dd5182cf3033263dd8acd4ec68f7590e3dcd9a" mia="yes" />
+  </game>
+  <game name="[MIA] Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 2)">
+    <description>[MIA] Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 2)</description>
+    <rom name="Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 2).cue" size="1059" crc="e216e49b" md5="3fa8464dd81a0c41c70414da4659eb0b" sha1="6e344c44a18d09e85794eba9216e433e6e626170" sha256="a6a02decf9730170282a46fe0d0b2794cc3f51bee089e1802f8b629da859db32" mia="yes" />
+    <rom name="Aonatsu Line - Our Songs (Japan) (Blue Edition) (Disc 2).flac" size="214809461" crc="d14bedc5" md5="3ac02001c2df2e181a1d72d79408a799" sha1="2be572745c18d33b317f4087b9790403b4057536" sha256="631054b243fb646201a531d9f508e618f7f15b76f2d39c03a887d5db197e9175" mia="yes" />
+  </game>
+  <game name="Fragrant Story (World)">
+    <description>Fragrant Story (World)</description>
+    <rom name="Fragrant Story (World).bin" size="270696384" crc="b9ae6ed5" md5="adf079f2e8e7c29c971c6696835400ac" sha1="1b64132dee4ca778f22eb9d10c82c65e31a8387e" sha256="2c24e12d4d7cffe3787733ea062569da76abb93887a331957ea07583f773be80" />
+    <rom name="Fragrant Story (World).cue" size="782" crc="97637739" md5="481c0af19e26c33049513db200d7bd9c" sha1="ecdee9b85f9f414a172a8f09ddf102c68d3ecbc1" sha256="24d8a6dc5b08cdba4721d4af727b99cd35f1bfb1995728243d84d59133ff553a" />
+  </game>
+  <game name="Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG)">
+    <description>Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG)</description>
+    <rom name="Happening Love!! Original Soundtrack (Japan) (WAV+CUE+LOG).zip" size="535403632" crc="e8222704" md5="bcc423986c9a65cc230924e959e48d45" sha1="b7d7c79afaf8b1c21c9a39dcb6f60a0c4b1aca93" sha256="cee27d2068c8d35988f114db188f9abe6bdaa6d55aceed5f121c071e5644bce1" />
+  </game>
+  <game name="Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG)">
+    <description>Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG)</description>
+    <rom name="Mikagami Sumika no Seifuku Katsudou - Vocal CD 'Watashi to Kimi no 'Nexus' (Japan) (WAV+CUE+LOG).zip" size="144433826" crc="a5d826c9" md5="463365ea28a28c5f94b482b878d607c2" sha1="8da84deaad001d339846d552dcedbc546a99b0ff" sha256="7bc75c72fe8d02effc34c47f6a78206cab9c8d161bda64e057b55f5581263d33" />
+  </game>
+  <game name="Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG)">
+    <description>Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG)</description>
+    <rom name="Okujou no Yurirei-san - Full Chorus - Drama CD 'Toori Ame' (Japan) (Limited Edition) (WAV+CUE+LOG).zip" size="141042080" crc="b3360b0e" md5="2aa76d74b8f54888353b11be82c5a51f" sha1="babfb24343962bbe2292b123b516e0be34bc43b0" sha256="cdbd4f67abb0893a1bcff9de0ea83a08e85ac82ae189fa7f7a25636d672ecf0e" />
+  </game>
+  <game name="Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE)">
+    <description>Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE)</description>
+    <rom name="Trinoline Genesis - Original Soundtrack (Japan) (Limited Edition) (FLAC+CUE).zip" size="238916859" crc="c0e6139b" md5="74df22ae99981d294e7f61168ef61bc1" sha1="0aba64c4ae31d11f5fe01f31a25febc9febe95cc" sha256="116b1050d29e5085fc0efe23e37ed2425c3324fc32e2e9ce74b0676aae1d4ae8" />
+  </game>
 </datafile>

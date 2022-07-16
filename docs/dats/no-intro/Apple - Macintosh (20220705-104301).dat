@@ -1,61 +1,61 @@
 <?xml version="1.0"?>
-<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
 <datafile>
-	<header>
-		<name>Apple - Macintosh</name>
-		<description>Apple - Macintosh</description>
-		<version>20220705-104301</version>
-		<author>FakeShemp, Gefflon, MeguCocoa, xuom2</author>
-		<homepage>No-Intro</homepage>
-		<url>http://www.no-intro.org</url>
-		<clrmamepro forcenodump="required"/>
-	</header>
-	<game name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1) [b]">
-		<description>[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1) [b]</description>
-		<rom name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1) [b].img" size="819200" crc="36441b00" md5="0a0eb499317b9d5759a2dcbaa3d538d1" sha1="92d1580f6d1589ec52b110eacfea529ca409541c" status="baddump"/>
-	</game>
-	<game name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2) [b]">
-		<description>[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2) [b]</description>
-		<rom name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2) [b].img" size="819200" crc="36441b00" md5="0a0eb499317b9d5759a2dcbaa3d538d1" sha1="92d1580f6d1589ec52b110eacfea529ca409541c" status="baddump"/>
-	</game>
-	<game name="[BIOS] LaserWriter (Germany) (Disk 1)">
-		<description>[BIOS] LaserWriter (Germany) (Disk 1)</description>
-		<rom name="[BIOS] LaserWriter (Germany) (Disk 1).img" size="1474560" crc="3254cad9" md5="fd6c73e5408d7024804d08b9564cedb1" sha1="dda3bc36af076de009baab87864a401e7886a39c"/>
-	</game>
-	<game name="[BIOS] LaserWriter (Germany) (Disk 2)">
-		<description>[BIOS] LaserWriter (Germany) (Disk 2)</description>
-		<rom name="[BIOS] LaserWriter (Germany) (Disk 2).img" size="1474560" crc="fc9d4d2a" md5="2709ed03de690ec43ed582b1d79ec889" sha1="2e34118606a15414248eae68131696820b5fa1c0"/>
-	</game>
-	<game name="[BIOS] LaserWriter (Germany) (Disk 4)">
-		<description>[BIOS] LaserWriter (Germany) (Disk 4)</description>
-		<rom name="[BIOS] LaserWriter (Germany) (Disk 4).img" size="1474560" crc="b64f8f3b" md5="a39c4062164f0e0094cdcbfac2d4a1fc" sha1="46e5e4b9579fa1789a76afc5638049bd68df54cf"/>
-	</game>
-	<game name="[BIOS] LaserWriter (Germany) (Disk 5)">
-		<description>[BIOS] LaserWriter (Germany) (Disk 5)</description>
-		<rom name="[BIOS] LaserWriter (Germany) (Disk 5).img" size="1474560" crc="ae1d88d5" md5="338d3b5355592a51471dc330ca0dc6cc" sha1="d9e8fc7ada46efd3af94ee05a36d7662ac47a4f4"/>
-	</game>
-	<game name="[BIOS] LaserWriter (Germany) (Disk 6)">
-		<description>[BIOS] LaserWriter (Germany) (Disk 6)</description>
-		<rom name="[BIOS] LaserWriter (Germany) (Disk 6).img" size="1474560" crc="5466eefe" md5="828e81e681400b9f98effca68d819f04" sha1="752e54bb654bb66469b2a7cde7c7c6371a060dd7"/>
-	</game>
-	<game name="[BIOS] LaserWriter (Germany) (Disk 7)">
-		<description>[BIOS] LaserWriter (Germany) (Disk 7)</description>
-		<rom name="[BIOS] LaserWriter (Germany) (Disk 7).img" size="1474560" crc="84c75a55" md5="d15b19316db23a2a08926afb44016159" sha1="6b9c8fc888e8a3446c0256e4da035a5751ad2729"/>
-	</game>
-	<game name="Airborne! (USA)">
-		<description>Airborne! (USA)</description>
-		<rom name="Airborne! (USA).dsk" size="409600" crc="bdb770b4" md5="986c6bd3f8b653f6af9859fcfd5437ce" sha1="49b7902f6fe35482eabdb9bdb0de9abda978e890" sha256="bdcaa676a967228a9a126d3e40223a8f1fda3b8feeb0b69c293d2279725f5306"/>
-	</game>
-	<game name="Beyond Dark Castle (USA) (Disk 2)">
-		<description>Beyond Dark Castle (USA) (Disk 2)</description>
-		<rom name="Beyond Dark Castle (USA) (Disk 2).img" size="819200" crc="8c63ffcc" md5="1ef99da7c209d41ed1b418e93fded685" sha1="587392d1937b9d776d30be48bd272217265c737b" sha256="8117a71ca64eca92b8d8d50c358692ccbc89d1e62c486e4a5c7cf1bedd199683"/>
-	</game>
-	<game name="Beyond Dark Castle (USA) (Disk 1)">
-		<description>Beyond Dark Castle (USA) (Disk 1)</description>
-		<rom name="Beyond Dark Castle (USA) (Disk 1).img" size="819200" crc="7b51b582" md5="3ccc26fd8c5be6724646b6191ffe75be" sha1="d5856e6504cf652b8601e9e60f45703ce7458fa1" sha256="bc6f1788494dcebbdc9c9240f0ba4c8b01668f155c979a66cefb36805a871132"/>
-	</game>
-	<game name="Dark Castle (USA)">
-		<description>Dark Castle (USA)</description>
-		<rom name="Dark Castle (USA).dsk" size="819200" crc="fbb62bbf" md5="1656b147f6bc60446652821099aef4f8" sha1="e6633eaf1ea8601dfd9cd3957cfea61c70fc791c" sha256="102e644bb7aa85b28efe362d9fe94f58fa721988ed9939762b3f51ec83f0a0b1"/>
-	</game>
+  <header>
+    <name>Apple - Macintosh</name>
+    <description>Apple - Macintosh</description>
+    <version>20220705-104301</version>
+    <author>FakeShemp, Gefflon, MeguCocoa, xuom2</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1) [b]">
+    <description>[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1) [b]</description>
+    <rom name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 1) [b].img" size="819200" crc="36441b00" md5="0a0eb499317b9d5759a2dcbaa3d538d1" sha1="92d1580f6d1589ec52b110eacfea529ca409541c" status="baddump" />
+  </game>
+  <game name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2) [b]">
+    <description>[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2) [b]</description>
+    <rom name="[BIOS] Ethernet Installer (USA) (v5.0) (Disk 2) [b].img" size="819200" crc="36441b00" md5="0a0eb499317b9d5759a2dcbaa3d538d1" sha1="92d1580f6d1589ec52b110eacfea529ca409541c" status="baddump" />
+  </game>
+  <game name="[BIOS] LaserWriter (Germany) (Disk 1)">
+    <description>[BIOS] LaserWriter (Germany) (Disk 1)</description>
+    <rom name="[BIOS] LaserWriter (Germany) (Disk 1).img" size="1474560" crc="3254cad9" md5="fd6c73e5408d7024804d08b9564cedb1" sha1="dda3bc36af076de009baab87864a401e7886a39c" />
+  </game>
+  <game name="[BIOS] LaserWriter (Germany) (Disk 2)">
+    <description>[BIOS] LaserWriter (Germany) (Disk 2)</description>
+    <rom name="[BIOS] LaserWriter (Germany) (Disk 2).img" size="1474560" crc="fc9d4d2a" md5="2709ed03de690ec43ed582b1d79ec889" sha1="2e34118606a15414248eae68131696820b5fa1c0" />
+  </game>
+  <game name="[BIOS] LaserWriter (Germany) (Disk 4)">
+    <description>[BIOS] LaserWriter (Germany) (Disk 4)</description>
+    <rom name="[BIOS] LaserWriter (Germany) (Disk 4).img" size="1474560" crc="b64f8f3b" md5="a39c4062164f0e0094cdcbfac2d4a1fc" sha1="46e5e4b9579fa1789a76afc5638049bd68df54cf" />
+  </game>
+  <game name="[BIOS] LaserWriter (Germany) (Disk 5)">
+    <description>[BIOS] LaserWriter (Germany) (Disk 5)</description>
+    <rom name="[BIOS] LaserWriter (Germany) (Disk 5).img" size="1474560" crc="ae1d88d5" md5="338d3b5355592a51471dc330ca0dc6cc" sha1="d9e8fc7ada46efd3af94ee05a36d7662ac47a4f4" />
+  </game>
+  <game name="[BIOS] LaserWriter (Germany) (Disk 6)">
+    <description>[BIOS] LaserWriter (Germany) (Disk 6)</description>
+    <rom name="[BIOS] LaserWriter (Germany) (Disk 6).img" size="1474560" crc="5466eefe" md5="828e81e681400b9f98effca68d819f04" sha1="752e54bb654bb66469b2a7cde7c7c6371a060dd7" />
+  </game>
+  <game name="[BIOS] LaserWriter (Germany) (Disk 7)">
+    <description>[BIOS] LaserWriter (Germany) (Disk 7)</description>
+    <rom name="[BIOS] LaserWriter (Germany) (Disk 7).img" size="1474560" crc="84c75a55" md5="d15b19316db23a2a08926afb44016159" sha1="6b9c8fc888e8a3446c0256e4da035a5751ad2729" />
+  </game>
+  <game name="Airborne! (USA)">
+    <description>Airborne! (USA)</description>
+    <rom name="Airborne! (USA).dsk" size="409600" crc="bdb770b4" md5="986c6bd3f8b653f6af9859fcfd5437ce" sha1="49b7902f6fe35482eabdb9bdb0de9abda978e890" sha256="bdcaa676a967228a9a126d3e40223a8f1fda3b8feeb0b69c293d2279725f5306" />
+  </game>
+  <game name="Beyond Dark Castle (USA) (Disk 2)">
+    <description>Beyond Dark Castle (USA) (Disk 2)</description>
+    <rom name="Beyond Dark Castle (USA) (Disk 2).img" size="819200" crc="8c63ffcc" md5="1ef99da7c209d41ed1b418e93fded685" sha1="587392d1937b9d776d30be48bd272217265c737b" sha256="8117a71ca64eca92b8d8d50c358692ccbc89d1e62c486e4a5c7cf1bedd199683" />
+  </game>
+  <game name="Beyond Dark Castle (USA) (Disk 1)">
+    <description>Beyond Dark Castle (USA) (Disk 1)</description>
+    <rom name="Beyond Dark Castle (USA) (Disk 1).img" size="819200" crc="7b51b582" md5="3ccc26fd8c5be6724646b6191ffe75be" sha1="d5856e6504cf652b8601e9e60f45703ce7458fa1" sha256="bc6f1788494dcebbdc9c9240f0ba4c8b01668f155c979a66cefb36805a871132" />
+  </game>
+  <game name="Dark Castle (USA)">
+    <description>Dark Castle (USA)</description>
+    <rom name="Dark Castle (USA).dsk" size="819200" crc="fbb62bbf" md5="1656b147f6bc60446652821099aef4f8" sha1="e6633eaf1ea8601dfd9cd3957cfea61c70fc791c" sha256="102e644bb7aa85b28efe362d9fe94f58fa721988ed9939762b3f51ec83f0a0b1" />
+  </game>
 </datafile>

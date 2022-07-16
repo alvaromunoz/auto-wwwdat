@@ -1,0 +1,1314 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted) (Retool)</name>
+    <description>Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted) (Retool)</description>
+    <version>20220418-004956</version>
+    <date>2022-07-16 17-09-53</date>
+    <author>Gefflon, Hiccup, u53r123, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="1001 Spikes (USA) (v1.2.0, v2096) (Embedded Update)">
+    <category>Games</category>
+    <description>1001 Spikes (USA) (v1.2.0, v2096) (Embedded Update)</description>
+    <rom name="1001 Spikes (USA) (v1.2.0, v2096) (Embedded Update).cia" size="67897664" crc="46145b86" md5="f81fb14f068681f7d545129b68f1990c" sha1="4d98fed7b6c0bfcd1ea25b0271d6580214fb18e6" />
+  </game>
+  <game name="3D Altered Beast (USA) (v1.1.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>3D Altered Beast (USA) (v1.1.0, v1040) (Embedded Update)</description>
+    <rom name="3D Altered Beast (USA) (v1.1.0, v1040) (Embedded Update).cia" size="7575872" crc="e0554539" md5="0b7445a91c43cedbee7d0e03077369c7" sha1="9323acec280898b4cb9cfcf1723ad0f187d0d26f" />
+  </game>
+  <game name="3D Classics - Excitebike (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>3D Classics - Excitebike (USA) (v16) (Embedded Update)</description>
+    <rom name="3D Classics - Excitebike (USA) (v16) (Embedded Update).cia" size="23210304" crc="7e231161" md5="c2902bd4a3040225530ae37923019fad" sha1="7b8d0a852755d0eb2a21886cf2d4ed74962c8193" />
+  </game>
+  <game name="3D Classics - Kirbys Adventure (USA) (v32) (Embedded Update)">
+    <category>Games</category>
+    <description>3D Classics - Kirbys Adventure (USA) (v32) (Embedded Update)</description>
+    <rom name="3D Classics - Kirbys Adventure (USA) (v32) (Embedded Update).cia" size="59242816" crc="67860abe" md5="ed6c403756d5ff57df4df3227dfa1e82" sha1="1a136464497415b11f2d7fc9dd1cc24e7fb081cc" />
+  </game>
+  <game name="3D Classics - TwinBee (USA) (v32) (Embedded Update)">
+    <category>Games</category>
+    <description>3D Classics - TwinBee (USA) (v32) (Embedded Update)</description>
+    <rom name="3D Classics - TwinBee (USA) (v32) (Embedded Update).cia" size="24164672" crc="b25b8271" md5="e034b62d6191eef65d64f68b05933721" sha1="9c542580aff8ca55fd4dfaae2b21b4a38cc5c691" />
+  </game>
+  <game name="3D Classics - Urban Champion (USA) (v32) (Embedded Update)">
+    <category>Games</category>
+    <description>3D Classics - Urban Champion (USA) (v32) (Embedded Update)</description>
+    <rom name="3D Classics - Urban Champion (USA) (v32) (Embedded Update).cia" size="16030016" crc="b9fa80a0" md5="9121ea21ffdb894c73ebbcdd6daec025" sha1="2c1d516a66cfeb685dadd7af530c8d1646aba1d1" />
+  </game>
+  <game name="3D Classics - Xevious (USA) (v32) (Embedded Update)">
+    <category>Games</category>
+    <description>3D Classics - Xevious (USA) (v32) (Embedded Update)</description>
+    <rom name="3D Classics - Xevious (USA) (v32) (Embedded Update).cia" size="19630400" crc="2a454dc0" md5="6e66de470dffc37b6ce900e7e532a9af" sha1="8f4902b8e5c8f5caad484c1dd7347945078671a9" />
+  </game>
+  <game name="7th Dragon III Code - VFD (USA) (DLC)">
+    <category>Games</category>
+    <description>7th Dragon III Code - VFD (USA) (DLC)</description>
+    <rom name="7th Dragon III Code - VFD (USA) (DLC).cia" size="248448" crc="1d66bdf2" md5="a4b0d2a93abe7adbae356eb1fad61e7e" sha1="58bd6a05849fc5ba158fa9269b067183a7bde808" />
+  </game>
+  <game name="A-Train - 3D City Simulator (USA) (DLC)">
+    <category>Games</category>
+    <description>A-Train - 3D City Simulator (USA) (DLC)</description>
+    <rom name="A-Train - 3D City Simulator (USA) (DLC).cia" size="1079680" crc="7a096d80" md5="8f620418a42b0d566aab427721e14f4f" sha1="4127be45bd3286488684cdea3750891e0ecc10a2" />
+  </game>
+  <game name="ASH (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>ASH (USA) (v1.1, v1040) (Update)</description>
+    <rom name="ASH (USA) (v1.1, v1040) (Update).cia" size="1227008" crc="8ca760df" md5="b3b1509fca7a7637e28bc9bddf7cdbac" sha1="bafd20dd63e4e80a649a22424811e3873435ab74" />
+  </game>
+  <game name="Ace Combat - Assault Horizon Legacy+ (USA) (v2.1.0, v2080) (Update)">
+    <category>Games</category>
+    <description>Ace Combat - Assault Horizon Legacy+ (USA) (v2.1.0, v2080) (Update)</description>
+    <rom name="Ace Combat - Assault Horizon Legacy+ (USA) (v2.1.0, v2080) (Update).cia" size="9963776" crc="8a1d7e57" md5="1dbfb3cd6e1bb839fc5e1db165c43594" sha1="c11c2eeaaff776b19a52632e9c41bbcfae76a283" />
+  </game>
+  <game name="Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA) (v1.0.1, v1056) (Update)">
+    <category>Games</category>
+    <description>Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA) (v1.0.1, v1056) (Update)</description>
+    <rom name="Adventure Time - Explore the Dungeon because I DON'T KNOW! (USA) (v1.0.1, v1056) (Update).cia" size="3086592" crc="4516a9b9" md5="3d6f9a75549b9dd638eb3a7c0dca4d3b" sha1="c92c0fe7a49e6205f3852d25d7b98d61bad91b90" />
+  </game>
+  <game name="AeternoBlade (USA) (DLC)">
+    <category>Games</category>
+    <description>AeternoBlade (USA) (DLC)</description>
+    <rom name="AeternoBlade (USA) (DLC).cia" size="3910016" crc="59f462aa" md5="3df9c6706b0de25fa6df41c3adc036c6" sha1="1acf07a7fd5ad426095f489441968548e5ebd9be" />
+  </game>
+  <game name="AeternoBlade (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>AeternoBlade (USA) (v1.1, v1040) (Update)</description>
+    <rom name="AeternoBlade (USA) (v1.1, v1040) (Update).cia" size="1616128" crc="ee0e5c73" md5="2189ac93271ff8cb8b243d9a185e8ec1" sha1="fd515fd37ca012abd7c2442a3de7b3b552ac510e" />
+  </game>
+  <game name="AiRace Speed (USA) (v2.0.0, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>AiRace Speed (USA) (v2.0.0, v1056) (Embedded Update)</description>
+    <rom name="AiRace Speed (USA) (v2.0.0, v1056) (Embedded Update).cia" size="113822016" crc="068ec096" md5="d3a85b111bb72f452d395df6bc220797" sha1="f771ab454170068d26fea92317ffe1a4f9cfcccb" />
+  </game>
+  <game name="AiRace Xeno (USA) (v2.0.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>AiRace Xeno (USA) (v2.0.0, v1040) (Embedded Update)</description>
+    <rom name="AiRace Xeno (USA) (v2.0.0, v1040) (Embedded Update).cia" size="110557504" crc="dd4285b7" md5="c1b91c2c1e4ad2d04da506a7ed31fb6f" sha1="80724df2c4945cfde58bd9773f830b93d4028467" />
+  </game>
+  <game name="Alien on the Run (USA) (v1025) (Embedded Update)">
+    <category>Games</category>
+    <description>Alien on the Run (USA) (v1025) (Embedded Update)</description>
+    <rom name="Alien on the Run (USA) (v1025) (Embedded Update).cia" size="20515136" crc="32adac5b" md5="9fbf5bc10ef31fb6e227df2919c9a9e9" sha1="2628f82987555190fd8f70272699be98fe44e26d" />
+  </game>
+  <game name="Animal Crossing - Happy Home Designer (USA) (v2.0, v1040) (Update)">
+    <category>Games</category>
+    <description>Animal Crossing - Happy Home Designer (USA) (v2.0, v1040) (Update)</description>
+    <rom name="Animal Crossing - Happy Home Designer (USA) (v2.0, v1040) (Update).cia" size="68319552" crc="05435ba4" md5="5a6c4c97a5ac31b34b601a241d365e04" sha1="1772cff38ef47d1714d420b2f87b1475464e3de9" />
+  </game>
+  <game name="Animal Crossing - New Leaf (USA) (v1.5, v6192) (Update)">
+    <category>Games</category>
+    <description>Animal Crossing - New Leaf (USA) (v1.5, v6192) (Update)</description>
+    <rom name="Animal Crossing - New Leaf (USA) (v1.5, v6192) (Update).cia" size="275704128" crc="17e4b16d" md5="72a797c4ac5eb9d67211aa07f1706175" sha1="61bf415b5c09e58dff100abaeccb7e3cf2fd6669" />
+  </game>
+  <game name="Art Academy - Lessons for Everyone (USA) (DLC)">
+    <category>Games</category>
+    <description>Art Academy - Lessons for Everyone (USA) (DLC)</description>
+    <rom name="Art Academy - Lessons for Everyone (USA) (DLC).cia" size="99421056" crc="c5614da4" md5="19a29b30ac4d5f04233af4e7202fa5ed" sha1="2a4e930eab4bf507c85c246ef255d73c9fd93445" />
+  </game>
+  <game name="Azure Striker Gunvolt (USA) (v1.4, v3120) (Update)">
+    <category>Games</category>
+    <description>Azure Striker Gunvolt (USA) (v1.4, v3120) (Update)</description>
+    <rom name="Azure Striker Gunvolt (USA) (v1.4, v3120) (Update).cia" size="94116160" crc="1a092eef" md5="0faef914e223be307ad4853c06fca6a1" sha1="824fb0f23b86c73d17d0501027c4004bf5447146" />
+  </game>
+  <game name="Azure Striker Gunvolt - Striker Pack (USA) (DLC)">
+    <category>Games</category>
+    <description>Azure Striker Gunvolt - Striker Pack (USA) (DLC)</description>
+    <rom name="Azure Striker Gunvolt - Striker Pack (USA) (DLC).cia" size="23753280" crc="47fe3bfb" md5="2e7d3f984f121ac1e3e2ef8a6e039b90" sha1="08324c584cf598ecbc20011934444941430a5db2" />
+  </game>
+  <game name="Azure Striker Gunvolt - Striker Pack (USA) (v1.2, v2096) (Update)">
+    <category>Games</category>
+    <description>Azure Striker Gunvolt - Striker Pack (USA) (v1.2, v2096) (Update)</description>
+    <rom name="Azure Striker Gunvolt - Striker Pack (USA) (v1.2, v2096) (Update).cia" size="33483072" crc="8b6170b3" md5="14546c7a878668d684a7a2aaf1467cd3" sha1="d8388566537f8de7a68dae064516b313a408174a" />
+  </game>
+  <game name="Azure Striker Gunvolt 2 (USA) (DLC)">
+    <category>Games</category>
+    <description>Azure Striker Gunvolt 2 (USA) (DLC)</description>
+    <rom name="Azure Striker Gunvolt 2 (USA) (DLC).cia" size="23753280" crc="58e8fd06" md5="0d7b7347bf281750ade712f4ff78dfbe" sha1="017aa3fb7767c9f2f3f5ebf0af20929cc87395ff" />
+  </game>
+  <game name="Azure Striker Gunvolt 2 (USA) (v1.2, v2096) (Update)">
+    <category>Games</category>
+    <description>Azure Striker Gunvolt 2 (USA) (v1.2, v2096) (Update)</description>
+    <rom name="Azure Striker Gunvolt 2 (USA) (v1.2, v2096) (Update).cia" size="28428608" crc="72c90626" md5="089e6440344f76e654ffab1daf7bb0d6" sha1="2d736c3605075ce23b7427ebaadc1f0f0dddfa87" />
+  </game>
+  <game name="Battleminer (USA) (v2.0, v2080) (Embedded Update)">
+    <category>Games</category>
+    <description>Battleminer (USA) (v2.0, v2080) (Embedded Update)</description>
+    <rom name="Battleminer (USA) (v2.0, v2080) (Embedded Update).cia" size="143558976" crc="8f47a74e" md5="96f1c8dda4b8a00f9f7cb0dca1c175e8" sha1="114f97d39a00fa71ee97e373b4b65e83d4498b0c" />
+  </game>
+  <game name="Bike Rider DX2 - Galaxy (USA) (DLC)">
+    <category>Games</category>
+    <description>Bike Rider DX2 - Galaxy (USA) (DLC)</description>
+    <rom name="Bike Rider DX2 - Galaxy (USA) (DLC).cia" size="121280" crc="60f348c9" md5="3852c3daf841d0399831ea3071b0f319" sha1="36fbb47dde3a630e2349be89b43dd94d037e0e44" />
+  </game>
+  <game name="Binding of Isaac - Rebirth, The (USA) (v1.052, v3120) (Embedded Update)">
+    <category>Games</category>
+    <description>Binding of Isaac - Rebirth, The (USA) (v1.052, v3120) (Embedded Update)</description>
+    <rom name="Binding of Isaac - Rebirth, The (USA) (v1.052, v3120) (Embedded Update).cia" size="347072832" crc="b406404c" md5="cad5d6d2a049d46efa4e119d1f4b16e5" sha1="a5d57861bcec89285a5f4b89e489b56cf3bff1f4" />
+  </game>
+  <game name="Bit Boy!! Arcade (USA) (v1.2, v2112) (Embedded Update)">
+    <category>Games</category>
+    <description>Bit Boy!! Arcade (USA) (v1.2, v2112) (Embedded Update)</description>
+    <rom name="Bit Boy!! Arcade (USA) (v1.2, v2112) (Embedded Update).cia" size="485624128" crc="404ba460" md5="919d4b23f9a09ebc4790bb1234cb03a1" sha1="c6e6484289a8db4390bfa8ab25ddae74e41681c6" />
+  </game>
+  <game name="Blast 'Em Bunnies (USA) (DLC)">
+    <category>Games</category>
+    <description>Blast 'Em Bunnies (USA) (DLC)</description>
+    <rom name="Blast 'Em Bunnies (USA) (DLC).cia" size="519232" crc="e9385c5d" md5="e49c6c9b47b3197f397f70aede2f9ea6" sha1="c08e56341ec789e631af8566b5e988a4e0bdfda7" />
+  </game>
+  <game name="Blast 'Em Bunnies (USA) (v1.1, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Blast 'Em Bunnies (USA) (v1.1, v1040) (Embedded Update)</description>
+    <rom name="Blast 'Em Bunnies (USA) (v1.1, v1040) (Embedded Update).cia" size="111151424" crc="9ab321e9" md5="221016c9d591f05d4daeb2a433d2642f" sha1="a97e975ccabc27357eb0d584fe375fed3fd437da" />
+  </game>
+  <game name="Blaster Master Zero (USA) (En,Ja,Fr,De,Es,It,Pt) (DLC)">
+    <category>Games</category>
+    <description>Blaster Master Zero (USA) (En,Ja,Fr,De,Es,It,Pt) (DLC)</description>
+    <rom name="Blaster Master Zero (USA) (En,Ja,Fr,De,Es,It,Pt) (DLC).cia" size="145856" crc="7328746e" md5="55f2838d7f14016f958dd5d77629ceb2" sha1="e3556041ea074a329835aeeba310423f8286f3da" sha256="4fc00de55bfb4ec048d05baef4f16dc8a9badb409d5ff562e7389680e3d8b250" />
+  </game>
+  <game name="Blaster Master Zero (USA) (En,Ja,Fr,De,Es,It,Pt) (v1.4.1, v4160) (Update)">
+    <category>Games</category>
+    <description>Blaster Master Zero (USA) (En,Ja,Fr,De,Es,It,Pt) (v1.4.1, v4160) (Update)</description>
+    <rom name="Blaster Master Zero (USA) (En,Ja,Fr,De,Es,It,Pt) (v1.4.1, v4160) (Update).cia" size="110541120" crc="c9f1dd32" md5="0569aa085a6a09d32d48d8ff7f4f40b2" sha1="56f42b2e58248f286e8bcfc442467f15873e2ce2" sha256="dcca44f8ec0e9d0c534ee7b5161056400eca09f90c2bcaa025c8c5128107c60d" />
+  </game>
+  <game name="Bloo Kid 2 (USA) (v2.0, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Bloo Kid 2 (USA) (v2.0, v1056) (Embedded Update)</description>
+    <rom name="Bloo Kid 2 (USA) (v2.0, v1056) (Embedded Update).cia" size="45988160" crc="b3b61435" md5="538bf555febd95fab2a148341b015cc9" sha1="d1e9932b22eb384ee83af1dd70e0a59291c33940" />
+  </game>
+  <game name="Bonds of the Skies (USA) (v1.1.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Bonds of the Skies (USA) (v1.1.0, v1040) (Embedded Update)</description>
+    <rom name="Bonds of the Skies (USA) (v1.1.0, v1040) (Embedded Update).cia" size="83282240" crc="ffb76ec3" md5="844d1b020ed5e4f43284d851b44d66c5" sha1="5c59dbe51de6f5cd333a1687dfafdae34d3a129e" />
+  </game>
+  <game name="Bravely Second - End Layer (USA) (DLC)">
+    <category>Games</category>
+    <description>Bravely Second - End Layer (USA) (DLC)</description>
+    <rom name="Bravely Second - End Layer (USA) (DLC).cia" size="113088" crc="787d12e6" md5="86ef87bbe8659db77b3966b6e5dfce22" sha1="1b2f410d41fd870f021e3d9d68c05d2a77f417be" />
+  </game>
+  <game name="Butterfly Inchworm Animation II (USA) (v1.4, v3152) (Embedded Update)">
+    <category>Games</category>
+    <description>Butterfly Inchworm Animation II (USA) (v1.4, v3152) (Embedded Update)</description>
+    <rom name="Butterfly Inchworm Animation II (USA) (v1.4, v3152) (Embedded Update).cia" size="8898880" crc="cd3b22a9" md5="60d821852e8b25794b0da956135a7725" sha1="b6cc6504c5c7db829812a05a7d150c8629f117e8" />
+  </game>
+  <game name="Cave Story (USA) (v1024) (Embedded Update)">
+    <category>Games</category>
+    <description>Cave Story (USA) (v1024) (Embedded Update)</description>
+    <rom name="Cave Story (USA) (v1024) (Embedded Update).cia" size="42432832" crc="9f84140d" md5="ab9d39ca6149dd7cf49daa4abfafc6c3" sha1="1fe59c2e24cc8c72aaac376cd1ba30ead19a5909" />
+  </game>
+  <game name="Chibi-Robo! - Photo Finder (USA) (v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Chibi-Robo! - Photo Finder (USA) (v1056) (Embedded Update)</description>
+    <rom name="Chibi-Robo! - Photo Finder (USA) (v1056) (Embedded Update).cia" size="484317504" crc="cd5f77f5" md5="2a44473bc51856b2acbb3f849713d19f" sha1="1699a745a1e07fe4d53892793b057740bb26141c" />
+  </game>
+  <game name="Citizens of Earth (USA) (v1.2.0, v2096) (Embedded Update)">
+    <category>Games</category>
+    <description>Citizens of Earth (USA) (v1.2.0, v2096) (Embedded Update)</description>
+    <rom name="Citizens of Earth (USA) (v1.2.0, v2096) (Embedded Update).cia" size="1187965248" crc="9a3c0451" md5="3383fe7d96a4f57460f023cb911f72a2" sha1="9749024df917d468d5d3d6d70b0bff1b29aa883a" />
+  </game>
+  <game name="Coaster Creator 3D (USA) (v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Coaster Creator 3D (USA) (v1056) (Embedded Update)</description>
+    <rom name="Coaster Creator 3D (USA) (v1056) (Embedded Update).cia" size="30824768" crc="afea1932" md5="276644a3ffdab6cf0fcdaa4a41d782b7" sha1="56595ffd3554e10bf02827007a6174e92ad99eb5" />
+  </game>
+  <game name="Code Name S.T.E.A.M. (World) (v1.2.0, v2080) (Update)">
+    <category>Games</category>
+    <description>Code Name S.T.E.A.M. (World) (v1.2.0, v2080) (Update)</description>
+    <rom name="Code Name S.T.E.A.M. (World) (v1.2.0, v2080) (Update).cia" size="8014144" crc="c2dcd1c7" md5="69ac3e73894cf85826989238c886764d" sha1="4dd5afcc568bb22cdb48825fd7c6b8bd73594393" />
+  </game>
+  <game name="Colors! 3D (USA) (v1.1, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Colors! 3D (USA) (v1.1, v1056) (Embedded Update)</description>
+    <rom name="Colors! 3D (USA) (v1.1, v1056) (Embedded Update).cia" size="27519296" crc="2de853ad" md5="32d9f04e3b2e57582031943c4d68d83c" sha1="f72712c73d5602f8442543671f5f8f51575fee01" />
+  </game>
+  <game name="Comic Workshop (USA) (v1.1, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Comic Workshop (USA) (v1.1, v1056) (Embedded Update)</description>
+    <rom name="Comic Workshop (USA) (v1.1, v1056) (Embedded Update).cia" size="122779968" crc="ba28a35c" md5="33ac0f80f57bf4b7be18145b7681717d" sha1="43a4da91cc76198ac66710ee09de58a3c20b858c" />
+  </game>
+  <game name="Comic Workshop 2 (USA) (v1.2, v2080) (Update)">
+    <category>Games</category>
+    <description>Comic Workshop 2 (USA) (v1.2, v2080) (Update)</description>
+    <rom name="Comic Workshop 2 (USA) (v1.2, v2080) (Update).cia" size="2396992" crc="383622cb" md5="5f8db17364fa48a34642fd3e19af6c10" sha1="a8aa40954b1655acb5e162ddf0007c0a81d6fd3c" />
+  </game>
+  <game name="Conception II - Children of the Seven Stars (USA) (DLC)">
+    <category>Games</category>
+    <description>Conception II - Children of the Seven Stars (USA) (DLC)</description>
+    <rom name="Conception II - Children of the Seven Stars (USA) (DLC).cia" size="384000" crc="917ae99b" md5="a811f6bbc8a6cdb7afa81ee0e8d1333e" sha1="a2725159d71e0e598ec0eae0233a6a50a040ef66" />
+  </game>
+  <game name="Crashmo (USA) (v1024) (Embedded Update)">
+    <category>Games</category>
+    <description>Crashmo (USA) (v1024) (Embedded Update)</description>
+    <rom name="Crashmo (USA) (v1024) (Embedded Update).cia" size="21350720" crc="da0f5a47" md5="a46092ac01546bca4f22cab631d779df" sha1="aca7e56d9de8519cdcb7174fd8c2cc672376b6a1" />
+  </game>
+  <game name="Cube Creator 3D (USA) (DLC)">
+    <category>Games</category>
+    <description>Cube Creator 3D (USA) (DLC)</description>
+    <rom name="Cube Creator 3D (USA) (DLC).cia" size="256640" crc="4cf70d55" md5="79503dea577fdcd939bcae03f21322b0" sha1="059d8a19c7f0e1181e3361b1fea9e4ffd269e175" />
+  </game>
+  <game name="Cube Creator 3D (USA) (v1.21, v3264) (Embedded Update)">
+    <category>Games</category>
+    <description>Cube Creator 3D (USA) (v1.21, v3264) (Embedded Update)</description>
+    <rom name="Cube Creator 3D (USA) (v1.21, v3264) (Embedded Update).cia" size="48403456" crc="d8c9c4c0" md5="5847562af692dac95650a0d8108871c4" sha1="b6f1b74c727b3dd3fd376e0dc41b8421339d1625" sha256="549a37105bb646141b7ebfb7b877dbfc835b0ddea009bf4cf22444db3ce38ce4" />
+  </game>
+  <game name="Cubit - The Hardcore Platformer Robot (USA) (v1.1, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Cubit - The Hardcore Platformer Robot (USA) (v1.1, v1056) (Embedded Update)</description>
+    <rom name="Cubit - The Hardcore Platformer Robot (USA) (v1.1, v1056) (Embedded Update).cia" size="22653248" crc="4a072558" md5="63bf3bc623f54f23e0d671486b009fb9" sha1="5e0cd8f177900b890f15d802dd3192c75c8e9cec" />
+  </game>
+  <game name="Culdcept Revolt (USA) (DLC)">
+    <category>Games</category>
+    <description>Culdcept Revolt (USA) (DLC)</description>
+    <rom name="Culdcept Revolt (USA) (DLC).cia" size="2931904" crc="134427d7" md5="c38c13cf78cbb596b3c473e2264b3065" sha1="fe09789a53a6eaa5ea3d6def354f02f86368e2a7" />
+  </game>
+  <game name="Cycle of Eternity - Space Anomaly (USA) (v00.10, v1216) (Embedded Update)">
+    <category>Games</category>
+    <description>Cycle of Eternity - Space Anomaly (USA) (v00.10, v1216) (Embedded Update)</description>
+    <rom name="Cycle of Eternity - Space Anomaly (USA) (v00.10, v1216) (Embedded Update).cia" size="75868480" crc="cde26c82" md5="7ffe659ae03371e16c007025f7b424e4" sha1="78d877ae20270e9bb1ebd9abb0c9194551413ea0" />
+  </game>
+  <game name="Demon King Box (USA) (v2.0.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Demon King Box (USA) (v2.0.0, v1040) (Embedded Update)</description>
+    <rom name="Demon King Box (USA) (v2.0.0, v1040) (Embedded Update).cia" size="158398784" crc="0627c61c" md5="b44b3ea9ed1229170230b740dcc81cef" sha1="7847510824c966a9b0d23ff8770526127306860b" />
+  </game>
+  <game name="Digger Dan DX (USA) (v1.1, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Digger Dan DX (USA) (v1.1, v1040) (Embedded Update)</description>
+    <rom name="Digger Dan DX (USA) (v1.1, v1040) (Embedded Update).cia" size="28887360" crc="853a8bdb" md5="21dbca334d58c6808bc8b3cfad56f80d" sha1="ef3e941299d49975516f4a1eec26e3d9cc71df19" />
+  </game>
+  <game name="Disney Magical World (USA) (DLC)">
+    <category>Games</category>
+    <description>Disney Magical World (USA) (DLC)</description>
+    <rom name="Disney Magical World (USA) (DLC).cia" size="736832" crc="bc232364" md5="81c3e5238cdff772ddba1c596cf74a8c" sha1="de1eac589de940364d4e376626e949beff48c54b" />
+  </game>
+  <game name="Disney Magical World (USA) (v1.1, v1072) (Update)">
+    <category>Games</category>
+    <description>Disney Magical World (USA) (v1.1, v1072) (Update)</description>
+    <rom name="Disney Magical World (USA) (v1.1, v1072) (Update).cia" size="67688704" crc="e5c2fd5f" md5="89fe1b5d333c863feb76632311a2295c" sha1="eceb683b8e4a5b711ea9333eb2c30b80865556b6" />
+  </game>
+  <game name="Disney Magical World 2 (USA) (DLC)">
+    <category>Games</category>
+    <description>Disney Magical World 2 (USA) (DLC)</description>
+    <rom name="Disney Magical World 2 (USA) (DLC).cia" size="178752" crc="32d04e9f" md5="46cd0c5087d632d5fcebe0c81ad16e98" sha1="7084e2a0367263e8207833ed5949ba199604fa9b" />
+  </game>
+  <game name="Dr. Mario - Miracle Cure (World) (v1) (Embedded Update)">
+    <category>Games</category>
+    <description>Dr. Mario - Miracle Cure (World) (v1) (Embedded Update)</description>
+    <rom name="Dr. Mario - Miracle Cure (World) (v1) (Embedded Update).cia" size="64125312" crc="4d4f91b7" md5="1dc77e97aa110fdb3b4b374467b93d4d" sha1="7b0e010d2c9394fa569e7a48ca99d8f2c037f14d" />
+  </game>
+  <game name="Dragon Ball Fusions (USA) (v2.2.0, v1040) (Update)">
+    <category>Games</category>
+    <description>Dragon Ball Fusions (USA) (v2.2.0, v1040) (Update)</description>
+    <rom name="Dragon Ball Fusions (USA) (v2.2.0, v1040) (Update).cia" size="57657664" crc="29288321" md5="a7020c3fd9031800eece58d9b5cce4bf" sha1="827cd6f87ff8235c1c9d5bf8067a8594df919809" />
+  </game>
+  <game name="Dragon Ball Z - Extreme Butoden (USA) (DLC)">
+    <category>Games</category>
+    <description>Dragon Ball Z - Extreme Butoden (USA) (DLC)</description>
+    <rom name="Dragon Ball Z - Extreme Butoden (USA) (DLC).cia" size="72000" crc="e13fc271" md5="11bb532f132da7581c17f55fe6d6f57f" sha1="e25a0752a536670ca3079d2a6d76b6612bae68f8" />
+  </game>
+  <game name="Dragon Ball Z - Extreme Butoden (USA) (v1.1.0, v1040) (Update)">
+    <category>Games</category>
+    <description>Dragon Ball Z - Extreme Butoden (USA) (v1.1.0, v1040) (Update)</description>
+    <rom name="Dragon Ball Z - Extreme Butoden (USA) (v1.1.0, v1040) (Update).cia" size="33851712" crc="5b0c7d83" md5="53f3932e33ef14ee2d252a294e818a35" sha1="b591877dcca28c9fd8b5c722c8da8c9fa9907bf0" />
+  </game>
+  <game name="Elliot Quest (USA) (v1.4, v4224) (Update)">
+    <category>Games</category>
+    <description>Elliot Quest (USA) (v1.4, v4224) (Update)</description>
+    <rom name="Elliot Quest (USA) (v1.4, v4224) (Update).cia" size="3963136" crc="c265e37a" md5="0791e6bd7471047a4120d436ace334c4" sha1="61b921646b6d1516eed3ca42d498b777558ded04" />
+  </game>
+  <game name="Etrian Mystery Dungeon (USA) (DLC)">
+    <category>Games</category>
+    <description>Etrian Mystery Dungeon (USA) (DLC)</description>
+    <rom name="Etrian Mystery Dungeon (USA) (DLC).cia" size="174592" crc="01535eb2" md5="9dca29f2e3e3f6b4684d9249872a77d3" sha1="e6a84553d7fe81c922d8ef926e9e2c41ed07ff4a" />
+  </game>
+  <game name="Etrian Odyssey 2 - Untold - The Fafnir Knight (USA) (DLC)">
+    <category>Games</category>
+    <description>Etrian Odyssey 2 - Untold - The Fafnir Knight (USA) (DLC)</description>
+    <rom name="Etrian Odyssey 2 - Untold - The Fafnir Knight (USA) (DLC).cia" size="25566016" crc="5789cdd5" md5="00a222144d506e7ea9c49072545085ef" sha1="d7cbcb07d3198753c721698fff9007ca8735e235" />
+  </game>
+  <game name="Etrian Odyssey 2 - Untold - The Fafnir Knight (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Etrian Odyssey 2 - Untold - The Fafnir Knight (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Etrian Odyssey 2 - Untold - The Fafnir Knight (USA) (v1.1, v1040) (Update).cia" size="2480896" crc="ed496f5d" md5="6591e702bf1a8cc2c35c8a3ee16e93b9" sha1="f8019fc3ac4c5cbc900c5845c36f9c718cc9b084" />
+  </game>
+  <game name="Etrian Odyssey Nexus (USA) (DLC)">
+    <category>Games</category>
+    <description>Etrian Odyssey Nexus (USA) (DLC)</description>
+    <rom name="Etrian Odyssey Nexus (USA) (DLC).cia" size="75569920" crc="09f2527e" md5="7930b231ad45555e952f916b7ffc4bee" sha1="1efdfe900148a3de4381d49b718af1426f905852" />
+  </game>
+  <game name="Etrian Odyssey V - Beyond the Myth (USA) (DLC)">
+    <category>Games</category>
+    <description>Etrian Odyssey V - Beyond the Myth (USA) (DLC)</description>
+    <rom name="Etrian Odyssey V - Beyond the Myth (USA) (DLC).cia" size="208378560" crc="8931fd2c" md5="8aff6560510a2e8ff9ae8def2fbe4519" sha1="b43799d80b89b2172a1fb73654b4a2b6d763cb17" />
+  </game>
+  <game name="Ever Oasis (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Ever Oasis (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Ever Oasis (USA) (v1.1, v1040) (Update).cia" size="10955072" crc="ec4eacc0" md5="59b393eaf767e12a62730c91ef423e23" sha1="17ae3f9a4b3408418f774ff18ef5a49b9314ae1f" />
+  </game>
+  <game name="Ever Oasis (USA) (v1.1, v2080) (Embedded Update)">
+    <category>Games</category>
+    <description>Ever Oasis (USA) (v1.1, v2080) (Embedded Update)</description>
+    <rom name="Ever Oasis (USA) (v1.1, v2080) (Embedded Update).cia" size="817518912" crc="b25eda4f" md5="1869d1ae8783edeb6d3079dd9279d42e" sha1="f3214d039595867d5204d808cf036880fd01f41a" />
+  </game>
+  <game name="Fantasy Life (USA) (DLC)">
+    <category>Games</category>
+    <description>Fantasy Life (USA) (DLC)</description>
+    <rom name="Fantasy Life (USA) (DLC).cia" size="80192" crc="f1426102" md5="1b89d0d7f3b28e8d3a7460c8fd9956fe" sha1="79b14fd05b87274f6af564f98b99f9e387fee2aa" />
+  </game>
+  <game name="Fire Emblem - Awakening (USA) (DLC)">
+    <category>Games</category>
+    <description>Fire Emblem - Awakening (USA) (DLC)</description>
+    <rom name="Fire Emblem - Awakening (USA) (DLC).cia" size="122322368" crc="57f3deff" md5="6e37725156f4d217954c04ce08c4e713" sha1="6691f676a6ee89b9b223091264f999ad14ba6143" />
+  </game>
+  <game name="Fire Emblem Echoes - Shadows of Valentia (USA) (DLC)">
+    <category>Games</category>
+    <description>Fire Emblem Echoes - Shadows of Valentia (USA) (DLC)</description>
+    <rom name="Fire Emblem Echoes - Shadows of Valentia (USA) (DLC).cia" size="427089728" crc="f31bd830" md5="e0fb9232a5e3f21f93ce1284f80274d4" sha1="b4dfdb62fdd6fdc99413c9ba0b43e18db18f0d5f" />
+  </game>
+  <game name="Fire Emblem Echoes - Shadows of Valentia (USA) (v1.1, v1056) (Update)">
+    <category>Games</category>
+    <description>Fire Emblem Echoes - Shadows of Valentia (USA) (v1.1, v1056) (Update)</description>
+    <rom name="Fire Emblem Echoes - Shadows of Valentia (USA) (v1.1, v1056) (Update).cia" size="3115264" crc="21d8ce6a" md5="6752b3c4639a1c874fe98e841bd0bfcb" sha1="ec1b2979cf8aa41bfe03284c5e3ac2d76150bf14" />
+  </game>
+  <game name="Fire Emblem Fates - Birthright (USA) (DLC)">
+    <category>Games</category>
+    <description>Fire Emblem Fates - Birthright (USA) (DLC)</description>
+    <rom name="Fire Emblem Fates - Birthright (USA) (DLC).cia" size="567792768" crc="ae28f7ee" md5="870730a67e26154ec1408e109d73da0d" sha1="72cc29410b35dfa613fe9f4bb4560b223364ed09" />
+  </game>
+  <game name="Fire Emblem Warriors (USA) (DLC)">
+    <category>Games</category>
+    <description>Fire Emblem Warriors (USA) (DLC)</description>
+    <rom name="Fire Emblem Warriors (USA) (DLC).cia" size="2347215360" crc="fd2e2c4f" md5="512fa2a383b3beb8cb64ae39bcbabc82" sha1="a574f7bd9589440f2caed5bb2f86f95384cd7e89" />
+  </game>
+  <game name="Fire Emblem Warriors (USA) (v1.5.0, v6256) (Update)">
+    <category>Games</category>
+    <description>Fire Emblem Warriors (USA) (v1.5.0, v6256) (Update)</description>
+    <rom name="Fire Emblem Warriors (USA) (v1.5.0, v6256) (Update).cia" size="99817728" crc="93c114c3" md5="b79a065c3050e59fde6f587faa39a8ee" sha1="391adac8717892b82fc919ebccfb6af8bdd86133" />
+  </game>
+  <game name="Flipnote Studio 3D (USA) (v1088) (Embedded Update)">
+    <category>Games</category>
+    <description>Flipnote Studio 3D (USA) (v1088) (Embedded Update)</description>
+    <rom name="Flipnote Studio 3D (USA) (v1088) (Embedded Update).cia" size="7653696" crc="2f6e7cc6" md5="4130d7158f0f13c47521a7ed8d673aa8" sha1="3fe85a2d06c53b9b68890ea2c5bb3a42b3c70c88" />
+  </game>
+  <game name="Fractured Soul (USA) (v1024) (Embedded Update)">
+    <category>Games</category>
+    <description>Fractured Soul (USA) (v1024) (Embedded Update)</description>
+    <rom name="Fractured Soul (USA) (v1024) (Embedded Update).cia" size="390416704" crc="b600b0a5" md5="0858a8d5148df158026e72508402dea3" sha1="327cc3dfbf9cca2a5ffea7b2ed2f4dd10521639a" />
+  </game>
+  <game name="Freakyforms - Your Creations, Alive! (USA) (v1024) (Embedded Update)">
+    <category>Games</category>
+    <description>Freakyforms - Your Creations, Alive! (USA) (v1024) (Embedded Update)</description>
+    <rom name="Freakyforms - Your Creations, Alive! (USA) (v1024) (Embedded Update).cia" size="30652736" crc="621465b3" md5="40a1547088747d7ea7824350db48aff4" sha1="beecd56cbe830aab2c6c10a1ebdcc51c44a55c68" />
+  </game>
+  <game name="Glory of Generals (USA) (v2.0.0, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Glory of Generals (USA) (v2.0.0, v1056) (Embedded Update)</description>
+    <rom name="Glory of Generals (USA) (v2.0.0, v1056) (Embedded Update).cia" size="36038976" crc="1ff6d14f" md5="46fc533785dd5d7f218eb0bd88807b89" sha1="485a235169b60dfe7a22af0ea61cb6513e0f768d" />
+  </game>
+  <game name="Go! Go! Kokopolo 3D (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Go! Go! Kokopolo 3D (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Go! Go! Kokopolo 3D (USA) (v1.1, v1040) (Update).cia" size="636672" crc="775237b3" md5="6c5f6b9a5e3483c813dda396c56bff4c" sha1="a76f5daa73f251670a216ed801571ddf38b0b1a9" />
+  </game>
+  <game name="Goosebumps - The Game (USA) (v1.01, v1040) (Update)">
+    <category>Games</category>
+    <description>Goosebumps - The Game (USA) (v1.01, v1040) (Update)</description>
+    <rom name="Goosebumps - The Game (USA) (v1.01, v1040) (Update).cia" size="6904064" crc="29504f9b" md5="82c69f079f32a7705b966eff16852709" sha1="7043d32fe62d70d26112b54226940958104969f6" />
+  </game>
+  <game name="Gotta Protectors (USA) (DLC)">
+    <category>Games</category>
+    <description>Gotta Protectors (USA) (DLC)</description>
+    <rom name="Gotta Protectors (USA) (DLC).cia" size="195299648" crc="62b113cd" md5="f55d92195995b965f990fde742ca0de1" sha1="2ed03724a1454630aa1049580ef61f34e3306fcd" />
+  </game>
+  <game name="Grinsia (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Grinsia (USA) (v1040) (Embedded Update)</description>
+    <rom name="Grinsia (USA) (v1040) (Embedded Update).cia" size="16976192" crc="57745194" md5="a4f47f9feb4f2c4912feef9e2af8c03d" sha1="eb4c8531cf0d0ef8508ab16b120c99a60512b219" />
+  </game>
+  <game name="Gunman Clive (USA) (v1024) (Embedded Update)">
+    <category>Games</category>
+    <description>Gunman Clive (USA) (v1024) (Embedded Update)</description>
+    <rom name="Gunman Clive (USA) (v1024) (Embedded Update).cia" size="32332096" crc="70544f3f" md5="24429de0defad059f93f463d8a9c4912" sha1="5f8bbe1a92d076790b26792a12e84f09cb425425" />
+  </game>
+  <game name="Hakuoki - Memories of the Shinsengumi (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Hakuoki - Memories of the Shinsengumi (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Hakuoki - Memories of the Shinsengumi (USA) (v1.1, v1040) (Update).cia" size="1181440" crc="962bbcf6" md5="b77e23a7cf0b9115c0dc04ce91a45bf9" sha1="b828720fbea9c2d331848fce9d4678176c7ca39e" />
+  </game>
+  <game name="Harvest Moon - Skytree Village (USA) (DLC)">
+    <category>Games</category>
+    <description>Harvest Moon - Skytree Village (USA) (DLC)</description>
+    <rom name="Harvest Moon - Skytree Village (USA) (DLC).cia" size="3041728" crc="81316644" md5="aaa212d22d284838d35bc942238f2260" sha1="1939ffd00229564f2bd930b10f4411eb04391eab" />
+  </game>
+  <game name="Harvest Moon - Skytree Village (USA) (v2.00, v2096) (Update)">
+    <category>Games</category>
+    <description>Harvest Moon - Skytree Village (USA) (v2.00, v2096) (Update)</description>
+    <rom name="Harvest Moon - Skytree Village (USA) (v2.00, v2096) (Update).cia" size="4266304" crc="acf8afac" md5="46b624b827396e32029bc5d0f8def83c" sha1="87052a40fd63108f6d17c02ad6c719f90e745a18" />
+  </game>
+  <game name="Harvest Moon 3D - The Lost Valley (USA) (DLC)">
+    <category>Games</category>
+    <description>Harvest Moon 3D - The Lost Valley (USA) (DLC)</description>
+    <rom name="Harvest Moon 3D - The Lost Valley (USA) (DLC).cia" size="3156672" crc="45ed4c17" md5="f45c18823e94857077e9aa59c0aebea2" sha1="adaec3be4840d17446494ef68dbf8dcfc0c428fa" />
+  </game>
+  <game name="Harvest Moon 3D - The Lost Valley (USA) (v1.01, v1040) (Update)">
+    <category>Games</category>
+    <description>Harvest Moon 3D - The Lost Valley (USA) (v1.01, v1040) (Update)</description>
+    <rom name="Harvest Moon 3D - The Lost Valley (USA) (v1.01, v1040) (Update).cia" size="4749632" crc="3a0ee8b6" md5="8bfd5e8bb2db9eee4d72179d5c76ac95" sha1="e40921470465e169046c3d56f9df2f1fac84874d" />
+  </game>
+  <game name="Hatsune Miku - Project Mirai DX (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Hatsune Miku - Project Mirai DX (USA) (v16) (Embedded Update)</description>
+    <rom name="Hatsune Miku - Project Mirai DX (USA) (v16) (Embedded Update).cia" size="2335607104" crc="5871267e" md5="f7ec6996fa801f6db06a526dcc42006a" sha1="7f7997645e5d787a772201fce04f3c176452fdce" />
+  </game>
+  <game name="Hiding Out (USA) (v1.1, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Hiding Out (USA) (v1.1, v1056) (Embedded Update)</description>
+    <rom name="Hiding Out (USA) (v1.1, v1056) (Embedded Update).cia" size="2574656" crc="c220c62b" md5="e2f403ffb477f7436ac58ec9f51f3123" sha1="b2ff64ba1e0ee4fb98ac5f08180a681bdf136688" />
+  </game>
+  <game name="Hyperlight EX (USA) (v1.0.1, v1072) (Embedded Update)">
+    <category>Games</category>
+    <description>Hyperlight EX (USA) (v1.0.1, v1072) (Embedded Update)</description>
+    <rom name="Hyperlight EX (USA) (v1.0.1, v1072) (Embedded Update).cia" size="81176896" crc="7fa5b7ef" md5="294f83ea9e30a3fc7a8e0175337fe052" sha1="3d424a081eb382e27880fdb564f6e7532193b9e0" />
+  </game>
+  <game name="Hyrule Warriors Legends (USA) (DLC)">
+    <category>Games</category>
+    <description>Hyrule Warriors Legends (USA) (DLC)</description>
+    <rom name="Hyrule Warriors Legends (USA) (DLC).cia" size="683584" crc="15320937" md5="98f0cc5b849acc1542da4512044a8ddc" sha1="69a781fcc98f560fbfa090518633542bd24e952f" />
+  </game>
+  <game name="Hyrule Warriors Legends (USA) (v1.6.0, v5200) (Update)">
+    <category>Games</category>
+    <description>Hyrule Warriors Legends (USA) (v1.6.0, v5200) (Update)</description>
+    <rom name="Hyrule Warriors Legends (USA) (v1.6.0, v5200) (Update).cia" size="204384576" crc="5fd5eb30" md5="46e9a1832ed0ef7e44f7b912612973bb" sha1="7fb7514db82bc95c99f56c323257ade34e1ea8a9" />
+  </game>
+  <game name="I am an Air Traffic Controller - Airport Hero Hawaii (USA) (v1.1, v1056) (Update)">
+    <category>Games</category>
+    <description>I am an Air Traffic Controller - Airport Hero Hawaii (USA) (v1.1, v1056) (Update)</description>
+    <rom name="I am an Air Traffic Controller - Airport Hero Hawaii (USA) (v1.1, v1056) (Update).cia" size="1468672" crc="0157bc75" md5="4a98581d4a316c2ddc4db8f10aee3670" sha1="25d833d8f76e4275421d8fcb53ddfd19f67f7741" />
+  </game>
+  <game name="IRONFALL Invasion (USA) (DLC)">
+    <category>Games</category>
+    <description>IRONFALL Invasion (USA) (DLC)</description>
+    <rom name="IRONFALL Invasion (USA) (DLC).cia" size="125376" crc="97f5128a" md5="fb3a19836e1b9a6af22bf6c56f82f5b7" sha1="5a4ad8d6892b82be57a0b6ff7ab8d20536c3275b" />
+  </game>
+  <game name="IRONFALL Invasion (USA) (v1.1.0, v1040) (Update)">
+    <category>Games</category>
+    <description>IRONFALL Invasion (USA) (v1.1.0, v1040) (Update)</description>
+    <rom name="IRONFALL Invasion (USA) (v1.1.0, v1040) (Update).cia" size="2410752" crc="1c23e7d3" md5="e9f345798e1347ace96efbe1e45bb33d" sha1="a055eabfb6775fe3c5156813c189f88381367d79" />
+  </game>
+  <game name="IRONFALL Invasion (USA) (v1.2.0, v2080) (Embedded Update)">
+    <category>Games</category>
+    <description>IRONFALL Invasion (USA) (v1.2.0, v2080) (Embedded Update)</description>
+    <rom name="IRONFALL Invasion (USA) (v1.2.0, v2080) (Embedded Update).cia" size="505674048" crc="2f66b87a" md5="429d4f557bdb23a2f2d0c2e60b1fc424" sha1="eb56bbf5855d9d609eef37e9b7bcc9e5793e4adc" />
+  </game>
+  <game name="Ice Station Z (USA) (v1.2, v2112) (Embedded Update)">
+    <category>Games</category>
+    <description>Ice Station Z (USA) (v1.2, v2112) (Embedded Update)</description>
+    <rom name="Ice Station Z (USA) (v1.2, v2112) (Embedded Update).cia" size="43931968" crc="47b309c6" md5="5d727510dc98e6bbe2cdabd9abfab5fb" sha1="7f286c5a042387c931259d7b937bcc2b2d84a707" />
+  </game>
+  <game name="Jett Rocket II - The Wrath of Taikai (USA) (v1.1, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Jett Rocket II - The Wrath of Taikai (USA) (v1.1, v1040) (Embedded Update)</description>
+    <rom name="Jett Rocket II - The Wrath of Taikai (USA) (v1.1, v1040) (Embedded Update).cia" size="73537856" crc="95d8d5e4" md5="20f1cbf9fc8ba26a2f0b2ca81ee0ca3e" sha1="8451acf64b344e45a51a8941c5fb5ab6d493da12" />
+  </game>
+  <game name="Johnny Kung Fu (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Johnny Kung Fu (USA) (v1040) (Embedded Update)</description>
+    <rom name="Johnny Kung Fu (USA) (v1040) (Embedded Update).cia" size="48298304" crc="04b794ee" md5="aad8fa8edd9a87493c30d81a176a8d36" sha1="86c1d494108050e7342cd482adfe70414a32d3a6" />
+  </game>
+  <game name="Keep, The (USA) (v1.1.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Keep, The (USA) (v1.1.0, v1040) (Embedded Update)</description>
+    <rom name="Keep, The (USA) (v1.1.0, v1040) (Embedded Update).cia" size="191752512" crc="4095a261" md5="a429239cf370f3bb571ee30026573b1a" sha1="b70be663fd47983ea8c8119a789af04e8478acba" />
+  </game>
+  <game name="Kirby Battle Royale (USA) (v3.0, v5184) (Update)">
+    <category>Games</category>
+    <description>Kirby Battle Royale (USA) (v3.0, v5184) (Update)</description>
+    <rom name="Kirby Battle Royale (USA) (v3.0, v5184) (Update).cia" size="126716288" crc="70879e61" md5="3cf58bb5b510f68e72fe5ed4dd5c695f" sha1="931ec31773f35a02f0d6f2c6feb95a04c2d61cde" />
+  </game>
+  <game name="LEGO Batman 3 - Beyond Gotham (USA) (v1.1.0, v1040) (Update)">
+    <category>Games</category>
+    <description>LEGO Batman 3 - Beyond Gotham (USA) (v1.1.0, v1040) (Update)</description>
+    <rom name="LEGO Batman 3 - Beyond Gotham (USA) (v1.1.0, v1040) (Update).cia" size="2939136" crc="d7139f9f" md5="8ab7e757ac9cba2af625efbc9607827d" sha1="c43eb6e176fc20a4df2a74776fb01e6c92707e2e" />
+  </game>
+  <game name="LEGO Marvel Avengers (USA) (DLC)">
+    <category>Games</category>
+    <description>LEGO Marvel Avengers (USA) (DLC)</description>
+    <rom name="LEGO Marvel Avengers (USA) (DLC).cia" size="2001216" crc="dd352291" md5="4fcd87163570e76c40ce444c04526220" sha1="1ddf41820ea3df0794bd18fec3ea010350a38df8" />
+  </game>
+  <game name="LEGO Marvel Avengers (USA) (v1.2.0, v2080) (Update)">
+    <category>Games</category>
+    <description>LEGO Marvel Avengers (USA) (v1.2.0, v2080) (Update)</description>
+    <rom name="LEGO Marvel Avengers (USA) (v1.2.0, v2080) (Update).cia" size="18614592" crc="d475d886" md5="53b03884b96399d6e8bf0ef63c128000" sha1="05e73efbf8ccf1d4d8b522b157bcb0fcad15473b" />
+  </game>
+  <game name="LEGO Ninjago - Shadow of Ronin (USA) (v2.0, v1040) (Update)">
+    <category>Games</category>
+    <description>LEGO Ninjago - Shadow of Ronin (USA) (v2.0, v1040) (Update)</description>
+    <rom name="LEGO Ninjago - Shadow of Ronin (USA) (v2.0, v1040) (Update).cia" size="19200256" crc="fa91c90c" md5="dc60aeca56549e9b162903413236e900" sha1="db2ed187fffe872da752d83f60b303ff51c51c25" />
+  </game>
+  <game name="Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (USA) (DLC)">
+    <category>Games</category>
+    <description>Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (USA) (DLC)</description>
+    <rom name="Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (USA) (DLC).cia" size="548224" crc="08dfeff5" md5="7933362b5a028f03e6691098fcba1e41" sha1="f57f3036582378874ffab7cb2b4580c08e128f74" />
+  </game>
+  <game name="Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (USA) (v1.2, v1056) (Update)">
+    <category>Games</category>
+    <description>Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (USA) (v1.2, v1056) (Update)</description>
+    <rom name="Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (USA) (v1.2, v1056) (Update).cia" size="20781376" crc="0ff04891" md5="1cc4e9714fdaee3bf55974029cd6f667" sha1="2274978a24b460e7b6671be0b1ab35e0404e70dc" />
+  </game>
+  <game name="Legend of Dark Witch 2, The (USA) (En,Ja,Zh) (v1.2, v2096) (Update)">
+    <category>Games</category>
+    <description>Legend of Dark Witch 2, The (USA) (En,Ja,Zh) (v1.2, v2096) (Update)</description>
+    <rom name="Legend of Dark Witch 2, The (USA) (En,Ja,Zh) (v1.2, v2096) (Update).cia" size="15673600" crc="219c429d" md5="ffa38fc9db21b3546e7a0a8545e17c33" sha1="3aced480402d36c82aa96cc4d2682e7f087df652" sha256="23a1c1c31563ea43224e548f1cd029bd9e9182cd545d202909b4692db5238654" />
+  </game>
+  <game name="Legend of Zelda, The - Majora's Mask 3D (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Legend of Zelda, The - Majora's Mask 3D (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Legend of Zelda, The - Majora's Mask 3D (USA) (v1.1, v1040) (Update).cia" size="3926272" crc="5eee35ac" md5="abbb89cbb8cc8d2967ef27c73f623864" sha1="04b5c776fd1fb560a9c514d2ebc26db2a1c5d73d" />
+  </game>
+  <game name="Legend of Zelda, The - Tri Force Heroes (USA) (v2.1.0, v3120) (Update)">
+    <category>Games</category>
+    <description>Legend of Zelda, The - Tri Force Heroes (USA) (v2.1.0, v3120) (Update)</description>
+    <rom name="Legend of Zelda, The - Tri Force Heroes (USA) (v2.1.0, v3120) (Update).cia" size="143280448" crc="3a82919a" md5="867b2d25b068e1ca3bc65d5feb83be97" sha1="86e183c04bf347d9bf9df8161216704d82ffc804" />
+  </game>
+  <game name="Let's Golf 3D (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Let's Golf 3D (USA) (v16) (Embedded Update)</description>
+    <rom name="Let's Golf 3D (USA) (v16) (Embedded Update).cia" size="198486336" crc="76e84e92" md5="98a6473d2159b68d688ea4eed698e969" sha1="002ff571ad06e04b8c62a1e80b3915cb11618d77" />
+  </game>
+  <game name="Link-a-Pix Color (USA) (v1.01, v1040) (Update)">
+    <category>Games</category>
+    <description>Link-a-Pix Color (USA) (v1.01, v1040) (Update)</description>
+    <rom name="Link-a-Pix Color (USA) (v1.01, v1040) (Update).cia" size="8870144" crc="7bef1df5" md5="3c8e3c43bbe5d5ac49158e1ad94fb636" sha1="e80c3b87955bcf46a25e6776a6c494a70557f7a5" />
+  </game>
+  <game name="Mario &amp; Luigi - Dream Team (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Mario &amp; Luigi - Dream Team (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Mario &amp; Luigi - Dream Team (USA) (v1.1, v1040) (Update).cia" size="45934848" crc="3fa99154" md5="d25d1e6d0b5ec613473a3e443218d63b" sha1="a53769789d0a606c69ae283a5de87dfc885acde1" />
+  </game>
+  <game name="Mario Golf - World Tour (USA) (DLC)">
+    <category>Games</category>
+    <description>Mario Golf - World Tour (USA) (DLC)</description>
+    <rom name="Mario Golf - World Tour (USA) (DLC).cia" size="228470720" crc="7bba4829" md5="8ddb80216efa1c5bcdd05c45fc6e6873" sha1="cd6d5bbce0912477a62430633b76a1d0672345bb" />
+  </game>
+  <game name="Mario Kart 7 (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Mario Kart 7 (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Mario Kart 7 (USA) (v1.1, v1040) (Update).cia" size="5482752" crc="981af9fb" md5="462262e5c9f68d122f6e9387fd86e8ac" sha1="14e059d39fd2ec72883d2f6d43e148bddfe0f151" />
+  </game>
+  <game name="Mario vs. Donkey Kong - Tipping Stars (USA) (v1.01, v1040) (Update)">
+    <category>Games</category>
+    <description>Mario vs. Donkey Kong - Tipping Stars (USA) (v1.01, v1040) (Update)</description>
+    <rom name="Mario vs. Donkey Kong - Tipping Stars (USA) (v1.01, v1040) (Update).cia" size="2197760" crc="7e055831" md5="43fa55f4734974c71cb8757a3365d3bc" sha1="28afc3284ae7b1e53ac3eb837d3fb5cc403804b4" />
+  </game>
+  <game name="Marvel Pinball 3D (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Marvel Pinball 3D (USA) (v1040) (Embedded Update)</description>
+    <rom name="Marvel Pinball 3D (USA) (v1040) (Embedded Update).cia" size="79104320" crc="ccc62a97" md5="b9ae5af2876c9d504fdf2d82d9bf9e60" sha1="063d32563a88e6d802e76107e7e5ff6db6063d21" />
+  </game>
+  <game name="Metal Gear Solid - Snake Eater 3D (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Metal Gear Solid - Snake Eater 3D (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Metal Gear Solid - Snake Eater 3D (USA) (v1.1, v1040) (Update).cia" size="5437696" crc="1551b0c4" md5="96b8e697ef9b16a527781a4888b6f4ae" sha1="1fcdcddbca35f8d1e99492c1303ec3018193a4f8" />
+  </game>
+  <game name="Metroid Prime - Federation Force (USA) (v1.1.0, v1056) (Update)">
+    <category>Games</category>
+    <description>Metroid Prime - Federation Force (USA) (v1.1.0, v1056) (Update)</description>
+    <rom name="Metroid Prime - Federation Force (USA) (v1.1.0, v1056) (Update).cia" size="57932096" crc="7708ff23" md5="ff1c3b3435a014fb27b2598da4b7bab2" sha1="a2d33e5a3a4a2a4686f0330ab94b70022b075b43" />
+  </game>
+  <game name="Metroid Prime - Federation Force - Blast Ball Demo (USA) (v1.1.0, v1056) (Update)">
+    <category>Games</category>
+    <description>Metroid Prime - Federation Force - Blast Ball Demo (USA) (v1.1.0, v1056) (Update)</description>
+    <rom name="Metroid Prime - Federation Force - Blast Ball Demo (USA) (v1.1.0, v1056) (Update).cia" size="54434112" crc="ccfefda7" md5="98f0c3730660273783e3dd038c7902aa" sha1="55954036e070265ee6552a56d2e13e3642cb3830" />
+  </game>
+  <game name="Mighty Gunvolt (USA) (DLC)">
+    <category>Games</category>
+    <description>Mighty Gunvolt (USA) (DLC)</description>
+    <rom name="Mighty Gunvolt (USA) (DLC).cia" size="1145152" crc="78fd01b2" md5="3796691c11aaf01bf482d6af5f5af608" sha1="e595c93dab0749fc7a3f03803ffb4b8b2d24b8b1" />
+  </game>
+  <game name="Mighty Gunvolt (USA) (v2.0.0, v1072) (Embedded Update)">
+    <category>Games</category>
+    <description>Mighty Gunvolt (USA) (v2.0.0, v1072) (Embedded Update)</description>
+    <rom name="Mighty Gunvolt (USA) (v2.0.0, v1072) (Embedded Update).cia" size="8636736" crc="ca17b9d1" md5="74c035686b5316f825de2ea2b61b35a1" sha1="9baa7c974c11d7c8197c917eb0e1989ccaeddc10" />
+  </game>
+  <game name="Mighty Gunvolt Burst (USA) (DLC)">
+    <category>Games</category>
+    <description>Mighty Gunvolt Burst (USA) (DLC)</description>
+    <rom name="Mighty Gunvolt Burst (USA) (DLC).cia" size="588352" crc="537bacd0" md5="b3b16548b93129292b1089b9c096b709" sha1="875697f82acd5e4e7792f1642eb30d190a00bdcd" />
+  </game>
+  <game name="Mighty Gunvolt Burst (USA) (v1.3.1, v4176) (Update)">
+    <category>Games</category>
+    <description>Mighty Gunvolt Burst (USA) (v1.3.1, v4176) (Update)</description>
+    <rom name="Mighty Gunvolt Burst (USA) (v1.3.1, v4176) (Update).cia" size="14063936" crc="f8ff40c0" md5="cfd5288edffe195ee7aa6a0824955780" sha1="838a133290d2e58798c87df65acf8eb360db59bf" />
+  </game>
+  <game name="Mighty Switch Force! (USA) (v1024) (Embedded Update)">
+    <category>Games</category>
+    <description>Mighty Switch Force! (USA) (v1024) (Embedded Update)</description>
+    <rom name="Mighty Switch Force! (USA) (v1024) (Embedded Update).cia" size="235485504" crc="3939d4ab" md5="8dfef6b868ab701458c09a92fbd8386b" sha1="c3834aa232ed7e530ae727e5b70dbea88d385748" />
+  </game>
+  <game name="Minecraft - New Nintendo 3DS Edition (USA) (DLC)">
+    <category>Games</category>
+    <description>Minecraft - New Nintendo 3DS Edition (USA) (DLC)</description>
+    <rom name="Minecraft - New Nintendo 3DS Edition (USA) (DLC).cia" size="634112" crc="b386fe48" md5="3e88c1de49aff8cdbefa2dff6e5281a6" sha1="77893e7e47ae00e175eb341cad042ddda2733cab" />
+  </game>
+  <game name="Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.9.19, v9408) (Update)">
+    <category>Games</category>
+    <description>Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.9.19, v9408) (Update)</description>
+    <rom name="Minecraft - New Nintendo 3DS Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v1.9.19, v9408) (Update).cia" size="568015168" crc="82f12d1f" md5="9a058bd30eaec6fcc37c1a6429932f70" sha1="91e03a6a5602da5ff8f8365f9e35f4ab7d069d7c" sha256="f823f6580e9210a1bb7eb2fb283351ec31c3d3c383c3a0cc602bd12c23c61797" />
+  </game>
+  <game name="Monster Hunter 3 Ultimate Data Transfer Program (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Monster Hunter 3 Ultimate Data Transfer Program (USA) (v1040) (Embedded Update)</description>
+    <rom name="Monster Hunter 3 Ultimate Data Transfer Program (USA) (v1040) (Embedded Update).cia" size="12630336" crc="73f2c830" md5="88c2ff31a7d9d8cc4c307589b49d3aa6" sha1="38d9ef9b5f774636bc554e6eb1f1b441404a5969" />
+  </game>
+  <game name="Monster Hunter 4 Ultimate (USA) (v1.1, v1072) (Update)">
+    <category>Games</category>
+    <description>Monster Hunter 4 Ultimate (USA) (v1.1, v1072) (Update)</description>
+    <rom name="Monster Hunter 4 Ultimate (USA) (v1.1, v1072) (Update).cia" size="48134464" crc="2d6b7e14" md5="1450f9b38f6ad125697c8fc6d91ca4dc" sha1="05c9487d3cce9f5960ca29a542c068e6392b4f12" />
+  </game>
+  <game name="Monster Hunter Stories (USA) (DLC)">
+    <category>Games</category>
+    <description>Monster Hunter Stories (USA) (DLC)</description>
+    <rom name="Monster Hunter Stories (USA) (DLC).cia" size="351168" crc="5fe34c46" md5="6212b36806ac6bd4af3fd3904e955553" sha1="b2a0000a7cc7c266a18777cf0ae726c696879596" />
+  </game>
+  <game name="Moon Chronicles (USA) (DLC)">
+    <category>Games</category>
+    <description>Moon Chronicles (USA) (DLC)</description>
+    <rom name="Moon Chronicles (USA) (DLC).cia" size="191670720" crc="79740a67" md5="29719d761a59d5f8bfd94b2e0c40cc5b" sha1="0f660dfe092361c98ce9c3c872a6dfa7812e9df0" />
+  </game>
+  <game name="Moon Chronicles (USA) (v1.0, v1072) (Embedded Update)">
+    <category>Games</category>
+    <description>Moon Chronicles (USA) (v1.0, v1072) (Embedded Update)</description>
+    <rom name="Moon Chronicles (USA) (v1.0, v1072) (Embedded Update).cia" size="131078464" crc="ca32d8de" md5="e99d5484ab348bb6ebbea6560af5edf8" sha1="af74d261e0fc4c00c4ed07cff80495a788686b86" />
+  </game>
+  <game name="Mutant Mudds (USA) (v2080) (Embedded Update)">
+    <category>Games</category>
+    <description>Mutant Mudds (USA) (v2080) (Embedded Update)</description>
+    <rom name="Mutant Mudds (USA) (v2080) (Embedded Update).cia" size="14719296" crc="15844801" md5="9aa0169a7180f52a82371edaaf845508" sha1="0a945f7a9cbde5c89b324cf64e396ff8773acd10" />
+  </game>
+  <game name="Netflix (USA) (v1088) (Embedded Update)">
+    <category>Games</category>
+    <description>Netflix (USA) (v1088) (Embedded Update)</description>
+    <rom name="Netflix (USA) (v1088) (Embedded Update).cia" size="23337216" crc="3d9b196e" md5="f80bb34dbe0890b711aeacf6abef31ea" sha1="11dc23c2380c2305b8eb3101dd42feb7f16764a8" />
+  </game>
+  <game name="New Super Mario Bros. 2 (USA) (DLC)">
+    <category>Games</category>
+    <description>New Super Mario Bros. 2 (USA) (DLC)</description>
+    <rom name="New Super Mario Bros. 2 (USA) (DLC).cia" size="805632" crc="3ec8d01f" md5="5a569b66dd173fa6d93258e270922638" sha1="5e25e47eb9c7026a858fb295f0887a451e6402e7" />
+  </game>
+  <game name="Nintendo Badge Arcade (USA) (v1.3.1, v5136) (Update)">
+    <category>Games</category>
+    <description>Nintendo Badge Arcade (USA) (v1.3.1, v5136) (Update)</description>
+    <rom name="Nintendo Badge Arcade (USA) (v1.3.1, v5136) (Update).cia" size="78055744" crc="32f8ddfe" md5="a426896b951510a701f67f1fb99a4c65" sha1="fb75bff636a15a7d01d475760ea0cef5fb81cdad" />
+  </game>
+  <game name="Ohno Odyssey (USA) (v1.1.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Ohno Odyssey (USA) (v1.1.0, v1040) (Embedded Update)</description>
+    <rom name="Ohno Odyssey (USA) (v1.1.0, v1040) (Embedded Update).cia" size="40220992" crc="12b2400d" md5="febfa9c8fdd3e443cf102e1f2fc983df" sha1="53b0bda8a99e0b1ff1615646184194cfef73c8e2" />
+  </game>
+  <game name="OlliOlli (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>OlliOlli (USA) (v1.1, v1040) (Update)</description>
+    <rom name="OlliOlli (USA) (v1.1, v1040) (Update).cia" size="1800448" crc="ed0aaa1f" md5="56a708fe5343810d538878d425dabebf" sha1="f5ae859254a866e68aba644e8a2f764818dd9f38" />
+  </game>
+  <game name="One Piece - Unlimited World Red (USA) (DLC)">
+    <category>Games</category>
+    <description>One Piece - Unlimited World Red (USA) (DLC)</description>
+    <rom name="One Piece - Unlimited World Red (USA) (DLC).cia" size="39738496" crc="e78895d9" md5="d018661b601bf3ccdf5a88e58d4780f6" sha1="01b903cd3f72784871463be45d1e1e3b1f2acbbb" />
+  </game>
+  <game name="Painting Workshop (USA) (v1.1, v1088) (Embedded Update)">
+    <category>Games</category>
+    <description>Painting Workshop (USA) (v1.1, v1088) (Embedded Update)</description>
+    <rom name="Painting Workshop (USA) (v1.1, v1088) (Embedded Update).cia" size="112101696" crc="c6b3747c" md5="bcf0cf113bd58a6a4180f01bf8d8df74" sha1="9a91e00a52ad6dc04e52af4216b6e2e9cdfe3441" />
+  </game>
+  <game name="Percy's Predicament Deluxe (USA) (v1.0, v1088) (Embedded Update)">
+    <category>Games</category>
+    <description>Percy's Predicament Deluxe (USA) (v1.0, v1088) (Embedded Update)</description>
+    <rom name="Percy's Predicament Deluxe (USA) (v1.0, v1088) (Embedded Update).cia" size="443799872" crc="a30ab15b" md5="da6dea4e1a374bdf4e22ff30270a0d01" sha1="9a4a37d7b813e194691bf52d571036fc327f5770" />
+  </game>
+  <game name="Persona Q - Shadow of the Labyrinth (USA) (DLC)">
+    <category>Games</category>
+    <description>Persona Q - Shadow of the Labyrinth (USA) (DLC)</description>
+    <rom name="Persona Q - Shadow of the Labyrinth (USA) (DLC).cia" size="315833024" crc="623db227" md5="f6191260dd30e804579c7ae55a5b6cc0" sha1="cbc3c11a2867a6ef0a6ca903c9fb8fa1f3347fa2" />
+  </game>
+  <game name="Persona Q2 - New Cinema Labyrinth (USA) (DLC)">
+    <category>Games</category>
+    <description>Persona Q2 - New Cinema Labyrinth (USA) (DLC)</description>
+    <rom name="Persona Q2 - New Cinema Labyrinth (USA) (DLC).cia" size="56479296" crc="a6bfda7c" md5="3f9a86fc63bbea7de4002b850a55ab3b" sha1="764c93e64d0458224cd5fd7a094678101c59e71a" />
+  </game>
+  <game name="Phoenix Wright - Ace Attorney - Dual Destinies (USA) (DLC)">
+    <category>Games</category>
+    <description>Phoenix Wright - Ace Attorney - Dual Destinies (USA) (DLC)</description>
+    <rom name="Phoenix Wright - Ace Attorney - Dual Destinies (USA) (DLC).cia" size="21072704" crc="8653babe" md5="1188a0859247c5c8908b81ecee7360dc" sha1="58f2935491325638f169e9454e0c12864dfb87f6" />
+  </game>
+  <game name="Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (DLC)">
+    <category>Games</category>
+    <description>Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (DLC)</description>
+    <rom name="Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (DLC).cia" size="37772032" crc="8c91074f" md5="85a8eb9a4734ccadbaa2e0fc46462d90" sha1="c2ddf651fc303a35d6ec5d82b4ec0f8bb63fbffd" />
+  </game>
+  <game name="Pic-a-Pix Color (USA) (DLC)">
+    <category>Games</category>
+    <description>Pic-a-Pix Color (USA) (DLC)</description>
+    <rom name="Pic-a-Pix Color (USA) (DLC).cia" size="3067456" crc="65c4da52" md5="deb0edb99de3d33533c5c1f6fcf4b445" sha1="40e804ee7e6312597f67bf85dd47a14517a8982b" />
+  </game>
+  <game name="Pig Who Cried Werewolf, The (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Pig Who Cried Werewolf, The (USA) (v16) (Embedded Update)</description>
+    <rom name="Pig Who Cried Werewolf, The (USA) (v16) (Embedded Update).cia" size="40225024" crc="7748aa92" md5="3222d5c4587f2a2593dbb42915cd5afd" sha1="bf988c5ababb28df8786defa6aa972434fea10f4" />
+  </game>
+  <game name="Poke Transporter (World) (v1.2, v2080) (Update)">
+    <category>Games</category>
+    <description>Poke Transporter (World) (v1.2, v2080) (Update)</description>
+    <rom name="Poke Transporter (World) (v1.2, v2080) (Update).cia" size="54495552" crc="e388d7e8" md5="b69688bf66b20efbc256ae9d10619432" sha1="451657159e99e58d543ed493a02b64283aa10575" />
+  </game>
+  <game name="Poke Transporter (World) (v1.5, v5200) (Embedded Update)">
+    <category>Games</category>
+    <description>Poke Transporter (World) (v1.5, v5200) (Embedded Update)</description>
+    <rom name="Poke Transporter (World) (v1.5, v5200) (Embedded Update).cia" size="57334080" crc="f2fc16c0" md5="3c9e3a6fe8798cae85b43f6b558e2ea0" sha1="693057de9fa79723e3400b157ba2b62c3ba6a377" />
+  </game>
+  <game name="Pokedex (World) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Pokedex (World) (v16) (Embedded Update)</description>
+    <rom name="Pokedex (World) (v16) (Embedded Update).cia" size="23296320" crc="78564fa8" md5="ea6ce096b1a97c1902f2fd565b443040" sha1="80bef771435faaee87572705e130c75f705e3e7d" />
+  </game>
+  <game name="Pokedex 3D Pro (World) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Pokedex 3D Pro (World) (v1040) (Embedded Update)</description>
+    <rom name="Pokedex 3D Pro (World) (v1040) (Embedded Update).cia" size="438327616" crc="875abdcf" md5="0a52d1e0c3f83403d30256e0f476268d" sha1="3270f35df279addf9e42740beb6b0cbe652abfec" />
+  </game>
+  <game name="Pokemon Alpha Sapphire (World) (v1.4, v7280) (Update)">
+    <category>Games</category>
+    <description>Pokemon Alpha Sapphire (World) (v1.4, v7280) (Update)</description>
+    <rom name="Pokemon Alpha Sapphire (World) (v1.4, v7280) (Update).cia" size="35039488" crc="c7454b7a" md5="18cc850a84a8568cd66f27d1974b90f8" sha1="a43794688a7b7d76a1a2b3d981c32364d2a9d96b" />
+  </game>
+  <game name="Pokemon Art Academy (USA) (v2080) (Embedded Update)">
+    <category>Games</category>
+    <description>Pokemon Art Academy (USA) (v2080) (Embedded Update)</description>
+    <rom name="Pokemon Art Academy (USA) (v2080) (Embedded Update).cia" size="336210240" crc="9e62d923" md5="95d0706559c15d5db765c7871c5a4978" sha1="2b3ebf26af0c315db9218c6f07ff74d88092ea79" />
+  </game>
+  <game name="Pokemon Bank (World) (v1.2, v3152) (Update)">
+    <category>Games</category>
+    <description>Pokemon Bank (World) (v1.2, v3152) (Update)</description>
+    <rom name="Pokemon Bank (World) (v1.2, v3152) (Update).cia" size="26962240" crc="bd2c5f32" md5="48468ef9a14ef48200152ee28267686a" sha1="915423026fe469090026e8072181595a60a54dfc" />
+  </game>
+  <game name="Pokemon Bank (World) (v1.5, v6272) (Embedded Update)">
+    <category>Games</category>
+    <description>Pokemon Bank (World) (v1.5, v6272) (Embedded Update)</description>
+    <rom name="Pokemon Bank (World) (v1.5, v6272) (Embedded Update).cia" size="67119424" crc="af119627" md5="22ffef56b0ca9ce3efb5b8d4e9dde7ff" sha1="5cb292dbfded1b8857bb841aa5760b8205fff62f" />
+  </game>
+  <game name="Pokemon Moon (World) (v1.2, v2112) (Update)">
+    <category>Games</category>
+    <description>Pokemon Moon (World) (v1.2, v2112) (Update)</description>
+    <rom name="Pokemon Moon (World) (v1.2, v2112) (Update).cia" size="38349056" crc="0ae481a3" md5="c1bf9c0cd9b0d106e929d7390fb91453" sha1="f5b051aaa6aee96e34092311d3301d0424079e7b" />
+  </game>
+  <game name="Pokemon Mystery Dungeon - Gates To Infinity (USA) (DLC)">
+    <category>Games</category>
+    <description>Pokemon Mystery Dungeon - Gates To Infinity (USA) (DLC)</description>
+    <rom name="Pokemon Mystery Dungeon - Gates To Infinity (USA) (DLC).cia" size="251390976" crc="5d7fa4ad" md5="3103520b733c22d41554b8d13e0122fc" sha1="8e28b181b3e52994d8ecbe9fcf4a79e228dcf80a" />
+  </game>
+  <game name="Pokemon Omega Ruby (World) (v1.4, v7280) (Update)">
+    <category>Games</category>
+    <description>Pokemon Omega Ruby (World) (v1.4, v7280) (Update)</description>
+    <rom name="Pokemon Omega Ruby (World) (v1.4, v7280) (Update).cia" size="35039488" crc="b4fd0d13" md5="4f3cdef98d76aedda500ff584db29467" sha1="d164ad6c7045affaaa876124de456223475a781e" />
+  </game>
+  <game name="Pokemon Rumble World (World) (v1.1, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Pokemon Rumble World (World) (v1.1, v1040) (Embedded Update)</description>
+    <rom name="Pokemon Rumble World (World) (v1.1, v1040) (Embedded Update).cia" size="108243264" crc="53fb9b9d" md5="d95e37e39e37181f420b62508f831710" sha1="855694b1357808f57d2ede5f7c12422e8d684aff" />
+  </game>
+  <game name="Pokemon Shuffle (World) (v1.5.0, v5216) (Embedded Update)">
+    <category>Games</category>
+    <description>Pokemon Shuffle (World) (v1.5.0, v5216) (Embedded Update)</description>
+    <rom name="Pokemon Shuffle (World) (v1.5.0, v5216) (Embedded Update).cia" size="93595968" crc="29d62b44" md5="34c4009d5500533f575b8439d84b4d2c" sha1="82db91140884062066e59e9fd32fee2bb2113a1a" />
+  </game>
+  <game name="Pokemon Sun (World) (v1.2, v2112) (Update)">
+    <category>Games</category>
+    <description>Pokemon Sun (World) (v1.2, v2112) (Update)</description>
+    <rom name="Pokemon Sun (World) (v1.2, v2112) (Update).cia" size="38349056" crc="16202626" md5="c63bac15f45a71722bb4b176ac21f73e" sha1="bd47a44b3c59c2693cf619c7ed23d36a2b855389" />
+  </game>
+  <game name="Pokemon Super Mystery Dungeon (USA) (v1040) (Update)">
+    <category>Games</category>
+    <description>Pokemon Super Mystery Dungeon (USA) (v1040) (Update)</description>
+    <rom name="Pokemon Super Mystery Dungeon (USA) (v1040) (Update).cia" size="10172672" crc="74cbfb55" md5="3d9022ae6346d50a19e728bd8ceabb85" sha1="c3032b2ae246ce4ba40afa0ac357ce0354791524" />
+  </game>
+  <game name="Pokemon Ultra Moon (World) (v1.2, v2080) (Update)">
+    <category>Games</category>
+    <description>Pokemon Ultra Moon (World) (v1.2, v2080) (Update)</description>
+    <rom name="Pokemon Ultra Moon (World) (v1.2, v2080) (Update).cia" size="70129920" crc="73cc558d" md5="fb0c2f8d6fe9f419fd838ca4c536cca6" sha1="b0df998b70f6106d4c9faf2dd7548641e0b3986d" />
+  </game>
+  <game name="Pokemon Ultra Sun (World) (v1.2, v2080) (Update)">
+    <category>Games</category>
+    <description>Pokemon Ultra Sun (World) (v1.2, v2080) (Update)</description>
+    <rom name="Pokemon Ultra Sun (World) (v1.2, v2080) (Update).cia" size="70129920" crc="9683f319" md5="a345b179e4c38892dfde34df3c72374b" sha1="c3828327c8ff497772b626ae793c472e18e38bd3" />
+  </game>
+  <game name="Pokemon X (World) (v1.5, v5232) (Update)">
+    <category>Games</category>
+    <description>Pokemon X (World) (v1.5, v5232) (Update)</description>
+    <rom name="Pokemon X (World) (v1.5, v5232) (Update).cia" size="31729920" crc="0645fe9a" md5="ec27b31db44239a943e40bea7e384ff4" sha1="fa2efca9dd4621b4fe4a1bd6c61bc17640dbbcc9" />
+  </game>
+  <game name="Pokemon Y (World) (v1.5, v5216) (Update)">
+    <category>Games</category>
+    <description>Pokemon Y (World) (v1.5, v5216) (Update)</description>
+    <rom name="Pokemon Y (World) (v1.5, v5216) (Update).cia" size="31729920" crc="db265853" md5="bfc3218f655b10cf3203913c04268892" sha1="8654e6a1b0824f9c0d19df2c721034d72a271c6e" />
+  </game>
+  <game name="Power Disc Slam (USA) (v1.10, v1056) (Update)">
+    <category>Games</category>
+    <description>Power Disc Slam (USA) (v1.10, v1056) (Update)</description>
+    <rom name="Power Disc Slam (USA) (v1.10, v1056) (Update).cia" size="6142208" crc="59342f3f" md5="d5d039462ca0d7a1d599c4edaae1fdbf" sha1="52a2e5c12694a6d3e679b3fddb3c4c312a172368" />
+  </game>
+  <game name="Project X Zone 2 (USA) (DLC)">
+    <category>Games</category>
+    <description>Project X Zone 2 (USA) (DLC)</description>
+    <rom name="Project X Zone 2 (USA) (DLC).cia" size="601600" crc="91b8d35d" md5="46ec88f65eda65cd7ddbc428f1f3ac1e" sha1="efbd2e647fde1dd9ce9f41ea9ba8e81d6eab6176" />
+  </game>
+  <game name="Project X Zone 2 (USA) (v1.2, v1040) (Update)">
+    <category>Games</category>
+    <description>Project X Zone 2 (USA) (v1.2, v1040) (Update)</description>
+    <rom name="Project X Zone 2 (USA) (v1.2, v1040) (Update).cia" size="10873152" crc="bc35391b" md5="e6723a7d72dcdf1c7d0a942327db2bcb" sha1="39555aba6abf73c53cceb5632ddaf0c3674a325f" />
+  </game>
+  <game name="Proun+ (USA) (v1.1.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Proun+ (USA) (v1.1.0, v1040) (Embedded Update)</description>
+    <rom name="Proun+ (USA) (v1.1.0, v1040) (Embedded Update).cia" size="83704128" crc="23956804" md5="6e669b452aa7dbbb81d7f8294013c7f2" sha1="bc29e85e120fc88ab592fcdf0f493873ecc94127" />
+  </game>
+  <game name="Punch Club (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Punch Club (USA) (v1040) (Embedded Update)</description>
+    <rom name="Punch Club (USA) (v1040) (Embedded Update).cia" size="140618048" crc="a0521ef6" md5="5e5ad3d3f3a33734cdbe4c10da59a9a6" sha1="1c4dba70b33bd45c71df5c0243932be077ec91b8" />
+  </game>
+  <game name="Pure Chess (USA) (DLC)">
+    <category>Games</category>
+    <description>Pure Chess (USA) (DLC)</description>
+    <rom name="Pure Chess (USA) (DLC).cia" size="95050304" crc="89041819" md5="8352307e461d83f2d920e5b0fa1ed0f2" sha1="30c278d01d8e093c5f697c7fa92b1f030ad9d381" />
+  </game>
+  <game name="Pushmo (USA) (v32) (Embedded Update)">
+    <category>Games</category>
+    <description>Pushmo (USA) (v32) (Embedded Update)</description>
+    <rom name="Pushmo (USA) (v32) (Embedded Update).cia" size="18082112" crc="467b168b" md5="148d6aa1802f36de9639581a2f06b8b2" sha1="0c67bff03ca0cb6e3248865e2c986a63029c28f1" />
+  </game>
+  <game name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA) (DLC)">
+    <category>Games</category>
+    <description>Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA) (DLC)</description>
+    <rom name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA) (DLC).cia" size="326464" crc="ff43ad09" md5="177ed1cc8b2ef5a6909cdcae7d1fe548" sha1="fd7b47a68fcf53b48588c417007063efe91bd053" />
+  </game>
+  <game name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA) (v2.0, v1072) (Update)">
+    <category>Games</category>
+    <description>Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA) (v2.0, v1072) (Update)</description>
+    <rom name="Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA) (v2.0, v1072) (Update).cia" size="77072704" crc="7122b978" md5="2a3a8c29c9938c6dafd3b4fab4c43a27" sha1="1e5e25e0323d7d4c334e2be2885f61d0a35a673b" />
+  </game>
+  <game name="Pyramids (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Pyramids (USA) (v16) (Embedded Update)</description>
+    <rom name="Pyramids (USA) (v16) (Embedded Update).cia" size="19773760" crc="80c806dc" md5="d7f43fd386f193ca09f1d40b5a5014b1" sha1="e077c639028278c7ab8284d968c9f10881d2511d" />
+  </game>
+  <game name="Quest of Dungeons (USA) (v2.1.2, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Quest of Dungeons (USA) (v2.1.2, v1040) (Embedded Update)</description>
+    <rom name="Quest of Dungeons (USA) (v2.1.2, v1040) (Embedded Update).cia" size="38930752" crc="cd58c3db" md5="053ea98a15a1f94959fb9c0dcd2d0ad4" sha1="69510f03c39309aa974fbb9232e939b8b6498d28" />
+  </game>
+  <game name="RPG Maker Fes (USA) (DLC)">
+    <category>Games</category>
+    <description>RPG Maker Fes (USA) (DLC)</description>
+    <rom name="RPG Maker Fes (USA) (DLC).cia" size="126030848" crc="f7ca03e6" md5="f4745e43185ba55076cd38304ff2b708" sha1="93cdf2cf611fd7ca85ac51530b4d04f23536b038" />
+  </game>
+  <game name="RPG Maker Fes (USA) (v1.1.5, v2096) (Update)">
+    <category>Games</category>
+    <description>RPG Maker Fes (USA) (v1.1.5, v2096) (Update)</description>
+    <rom name="RPG Maker Fes (USA) (v1.1.5, v2096) (Update).cia" size="7326016" crc="6dba915d" md5="c3f793a9bdd723b2ea389b5fc30817b3" sha1="a18912f8051aee560e5e103e3e8793963a4b6205" />
+  </game>
+  <game name="RPG Maker Fes Player (USA) (v1.1.5, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>RPG Maker Fes Player (USA) (v1.1.5, v1040) (Embedded Update)</description>
+    <rom name="RPG Maker Fes Player (USA) (v1.1.5, v1040) (Embedded Update).cia" size="120310080" crc="310ea3e0" md5="32d376dfa45d5f40776fa3bb33982db8" sha1="804f585bbcf44b2abf10a23c527b4a806b77d2f5" />
+  </game>
+  <game name="Radiant Historia - Perfect Chronology (USA) (DLC)">
+    <category>Games</category>
+    <description>Radiant Historia - Perfect Chronology (USA) (DLC)</description>
+    <rom name="Radiant Historia - Perfect Chronology (USA) (DLC).cia" size="34609984" crc="3fbaf47f" md5="2ae5cceec6933124f10509ae75ca032c" sha1="875576b86bce17b12611e84a9f1901f80b4a4629" />
+  </game>
+  <game name="Retro City Rampage - DX (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Retro City Rampage - DX (USA) (v1040) (Embedded Update)</description>
+    <rom name="Retro City Rampage - DX (USA) (v1040) (Embedded Update).cia" size="15980864" crc="7740a965" md5="29c069a537aea1502ac34ea92b043bf4" sha1="1092d8f5e2799a0456e33b41e110afbca1a6d97b" />
+  </game>
+  <game name="Runbow Pocket (USA) (DLC)">
+    <category>Games</category>
+    <description>Runbow Pocket (USA) (DLC)</description>
+    <rom name="Runbow Pocket (USA) (DLC).cia" size="190976" crc="9f81eadb" md5="70e3639c971f0beac175641869a1be8d" sha1="8d38120428eff58d0e366eb2f7b3ce6cb260b2cf" />
+  </game>
+  <game name="Rusty's Real Deal Baseball (USA) (DLC)">
+    <category>Games</category>
+    <description>Rusty's Real Deal Baseball (USA) (DLC)</description>
+    <rom name="Rusty's Real Deal Baseball (USA) (DLC).cia" size="23472896" crc="7d7eb200" md5="28d18125654d7719bd20d0df1a8712cd" sha1="671258780906007c80040d1e00c75fe50ae87106" />
+  </game>
+  <game name="Sakura Samurai - Art of the Sword (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Sakura Samurai - Art of the Sword (USA) (v16) (Embedded Update)</description>
+    <rom name="Sakura Samurai - Art of the Sword (USA) (v16) (Embedded Update).cia" size="59582784" crc="20eab224" md5="504073fea9a77bdf7e9c1e88521569e8" sha1="429a7a3ffb8043dffe712a4a48edceb80b9f9d5a" />
+  </game>
+  <game name="Samurai Warriors Chronicles 3 (USA) (DLC)">
+    <category>Games</category>
+    <description>Samurai Warriors Chronicles 3 (USA) (DLC)</description>
+    <rom name="Samurai Warriors Chronicles 3 (USA) (DLC).cia" size="27413888" crc="a5a29ee2" md5="1c12d913a76a34b063d6426945e34291" sha1="90613950ec6fa3ae43ec5da669674b10356a6566" />
+  </game>
+  <game name="Samurai Warriors Chronicles 3 (USA) (v1.0.2, v2080) (Update)">
+    <category>Games</category>
+    <description>Samurai Warriors Chronicles 3 (USA) (v1.0.2, v2080) (Update)</description>
+    <rom name="Samurai Warriors Chronicles 3 (USA) (v1.0.2, v2080) (Update).cia" size="3025152" crc="941c205d" md5="2571f31a9ffd5395871549dcef16415d" sha1="34031b8c4ede47b9d4275798407182b6db0f4e4a" />
+  </game>
+  <game name="Secret Mysteries in New York (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Secret Mysteries in New York (USA) (v1040) (Embedded Update)</description>
+    <rom name="Secret Mysteries in New York (USA) (v1040) (Embedded Update).cia" size="92928320" crc="28577243" md5="395c0025d299d2f62a5f0dcc7da1756d" sha1="ee67f698c5ead837a599a77a21d101a7e8b6f153" />
+  </game>
+  <game name="Senran Kagura 2 - Deep Crimson (USA) (DLC)">
+    <category>Games</category>
+    <description>Senran Kagura 2 - Deep Crimson (USA) (DLC)</description>
+    <rom name="Senran Kagura 2 - Deep Crimson (USA) (DLC).cia" size="1280305600" crc="b480e681" md5="e30ab6dca1b34a60d7e54a0a09615703" sha1="bc8713679a935b42e5d5af31710cd33ed87370a8" />
+  </game>
+  <game name="Shantae and the Pirate's Curse (eShop version) (USA) (v01.01, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Shantae and the Pirate's Curse (eShop version) (USA) (v01.01, v1056) (Embedded Update)</description>
+    <rom name="Shantae and the Pirate's Curse (eShop version) (USA) (v01.01, v1056) (Embedded Update).cia" size="302627136" crc="08885e5b" md5="d28525e56eb830eeae2b90cd8ebb2ad1" sha1="4c7376b674786ff3320efb71be3592fc4d2524c3" />
+  </game>
+  <game name="Shantae and the Pirate's Curse (eShop version) (USA) (v02.02, v2112) (Update)">
+    <category>Games</category>
+    <description>Shantae and the Pirate's Curse (eShop version) (USA) (v02.02, v2112) (Update)</description>
+    <rom name="Shantae and the Pirate's Curse (eShop version) (USA) (v02.02, v2112) (Update).cia" size="11942208" crc="ea25fceb" md5="880c0f72cfe4bab8b97e1003c13146fc" sha1="619a7d1ce642ddff5224505f23bda7b7537eb6ac" />
+  </game>
+  <game name="Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA) (DLC)">
+    <category>Games</category>
+    <description>Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA) (DLC)</description>
+    <rom name="Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA) (DLC).cia" size="240192" crc="b4fae078" md5="a00ecdaebd21ce720dcd26582cca9176" sha1="45a29a8f62ab0af2bf6fe79aa1e7c08df90db55c" />
+  </game>
+  <game name="Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA) (v1.1, v1040) (Update).cia" size="2752768" crc="4d961416" md5="b23abd01ef5178c3f6ed8c853d1f5ad2" sha1="8f051cd6b465f64d790f82fd804fd0d1c086134f" />
+  </game>
+  <game name="Shin Megami Tensei - Strange Journey Redux (USA) (DLC)">
+    <category>Games</category>
+    <description>Shin Megami Tensei - Strange Journey Redux (USA) (DLC)</description>
+    <rom name="Shin Megami Tensei - Strange Journey Redux (USA) (DLC).cia" size="424640" crc="47f4c442" md5="67ccdecc0f3284b06f22dd8d33784124" sha1="18839b6b7c4083e42b8eeeec0e9ab1ac96da8fff" />
+  </game>
+  <game name="Shin Megami Tensei IV (USA) (DLC)">
+    <category>Games</category>
+    <description>Shin Megami Tensei IV (USA) (DLC)</description>
+    <rom name="Shin Megami Tensei IV (USA) (DLC).cia" size="22719552" crc="6b4da49c" md5="837e389a182d58dffed356ed7b3b81fb" sha1="e00cd4503e7eb07b2b860d2d0594c258f137fc66" />
+  </game>
+  <game name="Shin Megami Tensei IV (USA) (v1.1, v1056) (Update)">
+    <category>Games</category>
+    <description>Shin Megami Tensei IV (USA) (v1.1, v1056) (Update)</description>
+    <rom name="Shin Megami Tensei IV (USA) (v1.1, v1056) (Update).cia" size="2267392" crc="3439795f" md5="a9a34a8fe6b0292d20817e61ae895c90" sha1="db28e1e97fee597ae09286ce8d8b390874f7c89a" />
+  </game>
+  <game name="Shin Megami Tensei IV - Apocalypse (USA) (DLC)">
+    <category>Games</category>
+    <description>Shin Megami Tensei IV - Apocalypse (USA) (DLC)</description>
+    <rom name="Shin Megami Tensei IV - Apocalypse (USA) (DLC).cia" size="41316096" crc="f0e27dd4" md5="9511dafc04cee9d60acdfe727df6b0c7" sha1="92f0103629c28c0766059b13f634044af002a4ab" />
+  </game>
+  <game name="Shovel Knight (USA) (v2.2, v1040) (Update)">
+    <category>Games</category>
+    <description>Shovel Knight (USA) (v2.2, v1040) (Update)</description>
+    <rom name="Shovel Knight (USA) (v2.2, v1040) (Update).cia" size="25737536" crc="8acacf97" md5="7e62842abe026e31fb9cc6a23d66c1d6" sha1="296c7a069f8aff7a5fec1692a57952dccf83d76f" />
+  </game>
+  <game name="Shovel Knight (eShop version) (USA) (v1.1, v2080) (Update)">
+    <category>Games</category>
+    <description>Shovel Knight (eShop version) (USA) (v1.1, v2080) (Update)</description>
+    <rom name="Shovel Knight (eShop version) (USA) (v1.1, v2080) (Update).cia" size="4626688" crc="c2caaa41" md5="4142b0cb5e2e0f9a93448f3fb749ff7f" sha1="5ca377ff6636d2c2fc652abe59ab640c4ec6690f" />
+  </game>
+  <game name="Shovel Knight (eShop version) (USA) (v2.2, v4160) (Embedded Update)">
+    <category>Games</category>
+    <description>Shovel Knight (eShop version) (USA) (v2.2, v4160) (Embedded Update)</description>
+    <rom name="Shovel Knight (eShop version) (USA) (v2.2, v4160) (Embedded Update).cia" size="97044800" crc="84e8967f" md5="406b847b725c8a7704db1385d628164d" sha1="585704b4b7629fa42ee6f3af8603af70fb63e715" />
+  </game>
+  <game name="Shovel Knight - Treasure Trove (USA) (v3.2, v3120) (Update)">
+    <category>Games</category>
+    <description>Shovel Knight - Treasure Trove (USA) (v3.2, v3120) (Update)</description>
+    <rom name="Shovel Knight - Treasure Trove (USA) (v3.2, v3120) (Update).cia" size="75053376" crc="b5972c0a" md5="81c2d5698a916f9609b3fe20de824471" sha1="118391e162b27ad245061a142af8a098c660b412" />
+  </game>
+  <game name="Shovel Knight - Treasure Trove (eShop version) (USA) (v4.1, v8320) (Embedded Update)">
+    <category>Games</category>
+    <description>Shovel Knight - Treasure Trove (eShop version) (USA) (v4.1, v8320) (Embedded Update)</description>
+    <rom name="Shovel Knight - Treasure Trove (eShop version) (USA) (v4.1, v8320) (Embedded Update).cia" size="247464960" crc="11d11095" md5="e486f35250782ce83da1c836083f6aca" sha1="ffba1ecb3d9c6341aefe2139a50f2a2c7fcea5c5" />
+  </game>
+  <game name="Siesta Fiesta (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Siesta Fiesta (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Siesta Fiesta (USA) (v1.1, v1040) (Update).cia" size="511232" crc="850f329e" md5="77389f7106ec903098826bd0c31528fa" sha1="b15c92b1f70dbe8cf403de151abb98802c18d1c5" />
+  </game>
+  <game name="SmileBASIC (USA) (DLC)">
+    <category>Games</category>
+    <description>SmileBASIC (USA) (DLC)</description>
+    <rom name="SmileBASIC (USA) (DLC).cia" size="72000" crc="ce4c1822" md5="c1e3e1c0a140632fcd465734464d3822" sha1="6b4dc14fd83d7a54ddb64d5970feea703ffc4294" />
+  </game>
+  <game name="SmileBASIC (USA) (v3.3.2, v3136) (Embedded Update)">
+    <category>Games</category>
+    <description>SmileBASIC (USA) (v3.3.2, v3136) (Embedded Update)</description>
+    <rom name="SmileBASIC (USA) (v3.3.2, v3136) (Embedded Update).cia" size="11245888" crc="3b733439" md5="222ada522cd4a98ee01e4192d3944608" sha1="600d35922d9cecf5366dae10491986560f3d34ac" />
+  </game>
+  <game name="SmileBASIC (USA) (v3.6.0, v5248) (Update)">
+    <category>Games</category>
+    <description>SmileBASIC (USA) (v3.6.0, v5248) (Update)</description>
+    <rom name="SmileBASIC (USA) (v3.6.0, v5248) (Update).cia" size="9156928" crc="a2400cc1" md5="a7afdb500b14ca47f082e29b6326e90c" sha1="385ebcbb8d5dc797e98964df87acb6383314bf09" />
+  </game>
+  <game name="Sonic &amp; All-Stars Racing Transformed (USA) (DLC)">
+    <category>Games</category>
+    <description>Sonic &amp; All-Stars Racing Transformed (USA) (DLC)</description>
+    <rom name="Sonic &amp; All-Stars Racing Transformed (USA) (DLC).cia" size="72000" crc="86148608" md5="ac6f5849c450243a5c85db97360a8766" sha1="c751d30d6f01ce05f6781bc3af99817b892f33f8" />
+  </game>
+  <game name="Sparkle Snapshots 3D (USA) (DLC)">
+    <category>Games</category>
+    <description>Sparkle Snapshots 3D (USA) (DLC)</description>
+    <rom name="Sparkle Snapshots 3D (USA) (DLC).cia" size="13367680" crc="abf769ad" md5="bc1a989986dffa295cbb998a68da871c" sha1="95331bfba1fbcbaa61c32954e07f4e53994d4053" />
+  </game>
+  <game name="Star Wars Pinball (USA) (v1.0, v1056) (Embedded Update)">
+    <category>Games</category>
+    <description>Star Wars Pinball (USA) (v1.0, v1056) (Embedded Update)</description>
+    <rom name="Star Wars Pinball (USA) (v1.0, v1056) (Embedded Update).cia" size="70109504" crc="04d08f70" md5="b471bd757c5c0646e22980f1621f389e" sha1="cfd1bbb75e22b9bf743e7973750fe930b2b6b6e6" />
+  </game>
+  <game name="SteamWorld Heist (USA) (DLC)">
+    <category>Games</category>
+    <description>SteamWorld Heist (USA) (DLC)</description>
+    <rom name="SteamWorld Heist (USA) (DLC).cia" size="461120" crc="97f48dba" md5="8fedd6fc3570871c898ea30b3711fffb" sha1="7858c8c844f928317e1f90a26dc8620d6c1e3480" />
+  </game>
+  <game name="SteamWorld Heist (USA) (v2.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>SteamWorld Heist (USA) (v2.0, v1040) (Embedded Update)</description>
+    <rom name="SteamWorld Heist (USA) (v2.0, v1040) (Embedded Update).cia" size="185944384" crc="b74b084c" md5="cb81943fb8bbc4464eefbf74095e9f66" sha1="bdd7049e85cdf9571e87f3b164fa71431933e8f1" />
+  </game>
+  <game name="Steel Diver - Sub Wars (USA) (DLC)">
+    <category>Games</category>
+    <description>Steel Diver - Sub Wars (USA) (DLC)</description>
+    <rom name="Steel Diver - Sub Wars (USA) (DLC).cia" size="5589952" crc="9bcefe42" md5="a9d6c9186107c0990b640ad52f90299a" sha1="b555d364f4ae6913da6e7dd2d0b950c2b79ead31" />
+  </game>
+  <game name="Steel Diver - Sub Wars (USA) (v4.1, v5200) (Update)">
+    <category>Games</category>
+    <description>Steel Diver - Sub Wars (USA) (v4.1, v5200) (Update)</description>
+    <rom name="Steel Diver - Sub Wars (USA) (v4.1, v5200) (Update).cia" size="41273664" crc="f7354f30" md5="fe7125e9c6a9d6e61f086701592a630a" sha1="4d66f735d05048f1dd8282e342c22d21c6778d7f" />
+  </game>
+  <game name="Stickman Super Athletics (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Stickman Super Athletics (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Stickman Super Athletics (USA) (v1.1, v1040) (Update).cia" size="18909440" crc="594b78d8" md5="9682cc680d23741d0306d5a0c4968ea2" sha1="cdc78ac0ac4e67d66067e1173c0a755b6e2a3d25" />
+  </game>
+  <game name="Story of Seasons - Trio of Towns (USA) (DLC)">
+    <category>Games</category>
+    <description>Story of Seasons - Trio of Towns (USA) (DLC)</description>
+    <rom name="Story of Seasons - Trio of Towns (USA) (DLC).cia" size="72000" crc="6cf5f914" md5="423179341a335005e34a06cf858eaa13" sha1="70c55e4ec911b511f1e9f31bf7092c9f37957ae0" />
+  </game>
+  <game name="Story of Seasons - Trio of Towns (USA) (v1.1, v1056) (Update)">
+    <category>Games</category>
+    <description>Story of Seasons - Trio of Towns (USA) (v1.1, v1056) (Update)</description>
+    <rom name="Story of Seasons - Trio of Towns (USA) (v1.1, v1056) (Update).cia" size="50215232" crc="64c57503" md5="d88b45ea26ee4f3e01034ae213442d37" sha1="f6a659033ffc898daa45ce48a67fbab783a911a2" />
+  </game>
+  <game name="StreetPass Mii Plaza (USA) (v5.0, v14432) (Update)">
+    <category>Games</category>
+    <description>StreetPass Mii Plaza (USA) (v5.0, v14432) (Update)</description>
+    <rom name="StreetPass Mii Plaza (USA) (v5.0, v14432) (Update).cia" size="86210880" crc="8bc6242f" md5="9f9e0961f3d55e205bc2e0f459bdc17d" sha1="dafc7b9e50baa36582a7c97ebb11ce78ddda8c0d" />
+  </game>
+  <game name="StreetPass Mii Plaza - Paid Titles (USA) (v5.0) (DLC)">
+    <category>Games</category>
+    <description>StreetPass Mii Plaza - Paid Titles (USA) (v5.0) (DLC)</description>
+    <rom name="StreetPass Mii Plaza - Paid Titles (USA) (v5.0) (DLC).cia" size="388197184" crc="46dc94a2" md5="ab85d97aa82b87e122d85500ae900bad" sha1="c558dc84b6ec878a61e275a3350b8c94a10d48a1" />
+  </game>
+  <game name="Stretchmo (USA) (DLC)">
+    <category>Games</category>
+    <description>Stretchmo (USA) (DLC)</description>
+    <rom name="Stretchmo (USA) (DLC).cia" size="174528" crc="1003f626" md5="9c5bd3ee6f31cea2fc9cfd6a62571f2a" sha1="3746f24be12c2144ad70922999729badaf755feb" />
+  </game>
+  <game name="Style Savvy - Fashion Forward (USA) (DLC)">
+    <category>Games</category>
+    <description>Style Savvy - Fashion Forward (USA) (DLC)</description>
+    <rom name="Style Savvy - Fashion Forward (USA) (DLC).cia" size="1407744" crc="f45c1239" md5="e95da85e4090cae48b231b63cbb295ef" sha1="c5884d27f48c564c6abf96d2df59604e08c6bc7a" />
+  </game>
+  <game name="Style Savvy - Trendsetters (USA) (v1.1, v1024) (Update)">
+    <category>Games</category>
+    <description>Style Savvy - Trendsetters (USA) (v1.1, v1024) (Update)</description>
+    <rom name="Style Savvy - Trendsetters (USA) (v1.1, v1024) (Update).cia" size="2789120" crc="e5008418" md5="3372b76539d8b8711885a91c456d43bb" sha1="638f479aa5dd14eaeda5ae1d4292be1a05a114e9" />
+  </game>
+  <game name="Super Mario Maker for Nintendo 3DS (USA) (v1.02, v4176) (Embedded Update)">
+    <category>Games</category>
+    <description>Super Mario Maker for Nintendo 3DS (USA) (v1.02, v4176) (Embedded Update)</description>
+    <rom name="Super Mario Maker for Nintendo 3DS (USA) (v1.02, v4176) (Embedded Update).cia" size="382802240" crc="d1954cab" md5="5705aa3affc75d55b8b48ae82e05faa8" sha1="83e8f3d0335a794c1c3609e852ddd72cc21fc070" />
+  </game>
+  <game name="Super Mario Maker for Nintendo 3DS (USA) (v1.05, v8336) (Update)">
+    <category>Games</category>
+    <description>Super Mario Maker for Nintendo 3DS (USA) (v1.05, v8336) (Update)</description>
+    <rom name="Super Mario Maker for Nintendo 3DS (USA) (v1.05, v8336) (Update).cia" size="20186112" crc="bba52059" md5="c6ff1c7e795c8a2e47fc03905314f5cb" sha1="a13e99e8a6d08572bc43f58b09a74b5f0a2355c3" />
+  </game>
+  <game name="Super Smash Bros. for Nintendo 3DS (USA) (v1.0.1, v2080) (Embedded Update)">
+    <category>Games</category>
+    <description>Super Smash Bros. for Nintendo 3DS (USA) (v1.0.1, v2080) (Embedded Update)</description>
+    <rom name="Super Smash Bros. for Nintendo 3DS (USA) (v1.0.1, v2080) (Embedded Update).cia" size="1192634688" crc="c857cda1" md5="da581494ea9912b3d62443fcf4f1f215" sha1="77606730c89ff8ee571b01ada76ffe89d5a4a99f" />
+  </game>
+  <game name="Super Smash Bros. for Nintendo 3DS (USA) (v1.1.7) (DLC)">
+    <category>Games</category>
+    <description>Super Smash Bros. for Nintendo 3DS (USA) (v1.1.7) (DLC)</description>
+    <rom name="Super Smash Bros. for Nintendo 3DS (USA) (v1.1.7) (DLC).cia" size="3298048" crc="1c71272c" md5="2d050a0d362c094e39cd6f4b66e84160" sha1="455a11d8eb25be5df476c46b3587fe4b0f993ec1" />
+  </game>
+  <game name="Super Smash Bros. for Nintendo 3DS (USA) (v1.1.7, v35296) (Update)">
+    <category>Games</category>
+    <description>Super Smash Bros. for Nintendo 3DS (USA) (v1.1.7, v35296) (Update)</description>
+    <rom name="Super Smash Bros. for Nintendo 3DS (USA) (v1.1.7, v35296) (Update).cia" size="344729920" crc="01dd475c" md5="f63f1c338e0ce11be11140e4a5d1bdf8" sha1="ef2133aa8162e5e73aa33e919c471f7e5e1093bc" />
+  </game>
+  <game name="Super Smash Bros. for Nintendo 3DS - Pack 1 + 2 (USA) (v1.0.8) (DLC)">
+    <category>Games</category>
+    <description>Super Smash Bros. for Nintendo 3DS - Pack 1 + 2 (USA) (v1.0.8) (DLC)</description>
+    <rom name="Super Smash Bros. for Nintendo 3DS - Pack 1 + 2 (USA) (v1.0.8) (DLC).cia" size="2617024" crc="48c289a4" md5="7c5b31928f444cdf60c27be0c8e82100" sha1="8b615a5b3d28aed041e7cc79cce6f0e4f27e987d" />
+  </game>
+  <game name="Swapdoodle (USA) (DLC)">
+    <category>Games</category>
+    <description>Swapdoodle (USA) (DLC)</description>
+    <rom name="Swapdoodle (USA) (DLC).cia" size="10897984" crc="054193bc" md5="e35c4f57c8d2ca3068e6e196b9aefbea" sha1="a1060903c346b0c9ae1de250c32260b7de52dfb7" />
+  </game>
+  <game name="Swapdoodle (USA) (v4160) (Embedded Update)">
+    <category>Games</category>
+    <description>Swapdoodle (USA) (v4160) (Embedded Update)</description>
+    <rom name="Swapdoodle (USA) (v4160) (Embedded Update).cia" size="16529728" crc="cf0cf7e9" md5="4fb65e246b43551b118908639f6cb6ce" sha1="a40f2db6fd30f4fabcb542d1b03e6ea33c8ed21c" />
+  </game>
+  <game name="Swapnote (USA) (v2080) (Embedded Update)">
+    <category>Games</category>
+    <description>Swapnote (USA) (v2080) (Embedded Update)</description>
+    <rom name="Swapnote (USA) (v2080) (Embedded Update).cia" size="9972032" crc="a25998db" md5="fd463c88be8d8f0dab68a72c0d0f7ba6" sha1="746af0c78d252bbfdbd48b42f980b564b61eeb9f" />
+  </game>
+  <game name="Swords &amp; Soldiers 3D (USA) (v2.0.0, v1072) (Embedded Update)">
+    <category>Games</category>
+    <description>Swords &amp; Soldiers 3D (USA) (v2.0.0, v1072) (Embedded Update)</description>
+    <rom name="Swords &amp; Soldiers 3D (USA) (v2.0.0, v1072) (Embedded Update).cia" size="51202368" crc="34c7e12c" md5="10e91d647c273b1091dd8dc5378a75de" sha1="c82ae2ab05e00be98646ee6a2a74f6e26ec5242f" />
+  </game>
+  <game name="Talking Phrasebook - 7 Languages (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Talking Phrasebook - 7 Languages (USA) (v16) (Embedded Update)</description>
+    <rom name="Talking Phrasebook - 7 Languages (USA) (v16) (Embedded Update).cia" size="26573120" crc="63d95c13" md5="48581daeb89271372ae7742f444372bf" sha1="6f78e213a3dfa027a09c2f80d6aad35196945c18" />
+  </game>
+  <game name="Team Kirby Clash Deluxe (USA) (v1.1.0, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Team Kirby Clash Deluxe (USA) (v1.1.0, v1040) (Embedded Update)</description>
+    <rom name="Team Kirby Clash Deluxe (USA) (v1.1.0, v1040) (Embedded Update).cia" size="131803456" crc="1a94eae1" md5="28bc4db96d6e69a9106b66afaaa53d9f" sha1="bcf6e4acde5120165d9d2d7af2debe5025bd9875" />
+  </game>
+  <game name="Terraria (USA) (v1.0.5, v5216) (Update)">
+    <category>Games</category>
+    <description>Terraria (USA) (v1.0.5, v5216) (Update)</description>
+    <rom name="Terraria (USA) (v1.0.5, v5216) (Update).cia" size="26200320" crc="e1af48b3" md5="27c9b19a4d4962bc6af1272708634eeb" sha1="a413227eda6c78246d8ee914ea6ed4ea2847a7da" />
+  </game>
+  <game name="Terraria (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Terraria (USA) (v1040) (Embedded Update)</description>
+    <rom name="Terraria (USA) (v1040) (Embedded Update).cia" size="57715008" crc="ec2d57ac" md5="80ca36bb62c7bb9954df7cba8cde561e" sha1="c19a08f32747bd2ae8d385a0d6e0051267f60307" />
+  </game>
+  <game name="Theatrhythm Final Fantasy (USA) (DLC)">
+    <category>Games</category>
+    <description>Theatrhythm Final Fantasy (USA) (DLC)</description>
+    <rom name="Theatrhythm Final Fantasy (USA) (DLC).cia" size="241230528" crc="830cf360" md5="aedb53d711e8cabce80ea32cf1fd20ed" sha1="5d1ede6f53057efe8962c0c788e82592d28035a2" />
+  </game>
+  <game name="Theatrhythm Final Fantasy - Curtain Call (USA) (DLC)">
+    <category>Games</category>
+    <description>Theatrhythm Final Fantasy - Curtain Call (USA) (DLC)</description>
+    <rom name="Theatrhythm Final Fantasy - Curtain Call (USA) (DLC).cia" size="523110336" crc="d3ca5cc0" md5="586a97c9c8b62c12fb71ae30e353817a" sha1="cf872b3e82c8057954541d4dabdb8d4c8f8de687" />
+  </game>
+  <game name="Thriller (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Thriller (USA) (v16) (Embedded Update)</description>
+    <rom name="Thriller (USA) (v16) (Embedded Update).cia" size="40704256" crc="329dd08f" md5="043eeab7470f9f043336915366110fd1" sha1="1127541078f43d92988d433924e08d36375ef7c5" />
+  </game>
+  <game name="Tiny Games - Knights &amp; Dragons (USA) (v16) (Embedded Update)">
+    <category>Games</category>
+    <description>Tiny Games - Knights &amp; Dragons (USA) (v16) (Embedded Update)</description>
+    <rom name="Tiny Games - Knights &amp; Dragons (USA) (v16) (Embedded Update).cia" size="16509248" crc="a3e0d750" md5="62e38f406dd8b63cab9876bd9b1ecd8b" sha1="2828b2698955e99d879566fb288090b79031d28a" />
+  </game>
+  <game name="Titan Attacks (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Titan Attacks (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Titan Attacks (USA) (v1.1, v1040) (Update).cia" size="1837312" crc="dfaf8d01" md5="a1fb49a7dbb1255ebdb05c5ed34e43c9" sha1="a94e68407aa1a593a21e807cd21674f03e02cb84" />
+  </game>
+  <game name="Tokyo Crash Mobs (USA) (v1024) (Embedded Update)">
+    <category>Games</category>
+    <description>Tokyo Crash Mobs (USA) (v1024) (Embedded Update)</description>
+    <rom name="Tokyo Crash Mobs (USA) (v1024) (Embedded Update).cia" size="171387200" crc="b7febe5b" md5="56fc5f40aa5909402ef51b195cda774d" sha1="5ac09f5f2bf09c0349558a422f61c9ce671bd91b" />
+  </game>
+  <game name="Tomodachi Life (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Tomodachi Life (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Tomodachi Life (USA) (v1.1, v1040) (Update).cia" size="6609152" crc="370e55d9" md5="4fadeab928f13587cc45dd0d75c36dd0" sha1="ddad969677558b6b330a466777e9e190375be49c" />
+  </game>
+  <game name="Tomodachi Life (USA) (v2080) (Embedded Update)">
+    <category>Games</category>
+    <description>Tomodachi Life (USA) (v2080) (Embedded Update)</description>
+    <rom name="Tomodachi Life (USA) (v2080) (Embedded Update).cia" size="407849280" crc="cc8ac3ce" md5="3133c96281b74b8b7366ed5fea248caa" sha1="56a8a9d986ec472be68ffa2b48a2721576e192ba" />
+  </game>
+  <game name="Tomodachi Life - Move-In Version (USA) (v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Tomodachi Life - Move-In Version (USA) (v1040) (Embedded Update)</description>
+    <rom name="Tomodachi Life - Move-In Version (USA) (v1040) (Embedded Update).cia" size="100342080" crc="69d02e40" md5="201e481c82200bb8e9ca3fe41430728e" sha1="64323e6784a86c1e1030c6f22985584de9a5c1e0" />
+  </game>
+  <game name="Turtle Tale (USA) (v1.1, v1040) (Embedded Update)">
+    <category>Games</category>
+    <description>Turtle Tale (USA) (v1.1, v1040) (Embedded Update)</description>
+    <rom name="Turtle Tale (USA) (v1.1, v1040) (Embedded Update).cia" size="29858112" crc="4e71c16e" md5="a20cc1156b1640fbb20e09a3e62d501c" sha1="992197580c23e2a11a3e64d434be70bf06d9be38" />
+  </game>
+  <game name="VVVVVV (USA) (v1024) (Embedded Update)">
+    <category>Games</category>
+    <description>VVVVVV (USA) (v1024) (Embedded Update)</description>
+    <rom name="VVVVVV (USA) (v1024) (Embedded Update).cia" size="63596864" crc="c099067e" md5="0eb790cf1e4e52d1fd87f4ef4dd44f26" sha1="55f75c40081bf59af43bb2aa82267c81d91c2790" />
+  </game>
+  <game name="WarioWare Gold (World) (v1.1, v1056) (Update)">
+    <category>Games</category>
+    <description>WarioWare Gold (World) (v1.1, v1056) (Update)</description>
+    <rom name="WarioWare Gold (World) (v1.1, v1056) (Update).cia" size="13751232" crc="89a9f572" md5="7d2770ccd83473632fa1e03399bf1b6f" sha1="c0855f3de882ff6f679c973856b942388d83e828" />
+  </game>
+  <game name="Woah Dave! (USA) (v1.1.2, v1072) (Embedded Update)">
+    <category>Games</category>
+    <description>Woah Dave! (USA) (v1.1.2, v1072) (Embedded Update)</description>
+    <rom name="Woah Dave! (USA) (v1.1.2, v1072) (Embedded Update).cia" size="10676544" crc="b1f95ba0" md5="a37e6720597a015eba373ad7a94eab76" sha1="fa9a107813e991f481e284da5a78972351a95ede" />
+  </game>
+  <game name="Xenoblade Chronicles 3D (USA) (v1.1, v1040) (Update)">
+    <category>Games</category>
+    <description>Xenoblade Chronicles 3D (USA) (v1.1, v1040) (Update)</description>
+    <rom name="Xenoblade Chronicles 3D (USA) (v1.1, v1040) (Update).cia" size="4110592" crc="a9dc7ca7" md5="a3894d10883825995d6d5b0bf151ae6d" sha1="c4d14345d1c717fe79dd386c9e8b8e610bf5663e" />
+  </game>
+  <game name="Yo-Kai Watch (USA) (v1.2, v2080) (Update)">
+    <category>Games</category>
+    <description>Yo-Kai Watch (USA) (v1.2, v2080) (Update)</description>
+    <rom name="Yo-Kai Watch (USA) (v1.2, v2080) (Update).cia" size="527866176" crc="37eea5a5" md5="89adb78b238b6fa8427e36822aa70b7d" sha1="cacd554cd657382c502a3a29f891063bfd81987b" />
+  </game>
+  <game name="Yo-Kai Watch 2 (USA) (DLC)">
+    <category>Games</category>
+    <description>Yo-Kai Watch 2 (USA) (DLC)</description>
+    <rom name="Yo-Kai Watch 2 (USA) (DLC).cia" size="125376" crc="db2fff8c" md5="593d1f6e7344735e5c35bdad20b0afd9" sha1="4552cd1f1624e5b1fb9f1a0fbe36925bf9fb182b" />
+  </game>
+  <game name="Yo-Kai Watch 2 - Bony Spirits (USA) (v2.0, v2128) (Update)">
+    <category>Games</category>
+    <description>Yo-Kai Watch 2 - Bony Spirits (USA) (v2.0, v2128) (Update)</description>
+    <rom name="Yo-Kai Watch 2 - Bony Spirits (USA) (v2.0, v2128) (Update).cia" size="801855808" crc="9c1bf9b3" md5="06bee2fe36614a84915c5e875eb59686" sha1="185cd739b10fa32c861cb256d182c3ef2d957b4b" />
+  </game>
+  <game name="Yo-Kai Watch 2 - Fleshy Souls (USA) (v2.0, v2128) (Update)">
+    <category>Games</category>
+    <description>Yo-Kai Watch 2 - Fleshy Souls (USA) (v2.0, v2128) (Update)</description>
+    <rom name="Yo-Kai Watch 2 - Fleshy Souls (USA) (v2.0, v2128) (Update).cia" size="801855808" crc="330e9d32" md5="e0909672f78cc8fc906c98b5abc54436" sha1="a964e4e47fef4517fe4628f121e96969e3075bee" />
+  </game>
+  <game name="Yo-Kai Watch 3 (USA) (DLC)">
+    <category>Games</category>
+    <description>Yo-Kai Watch 3 (USA) (DLC)</description>
+    <rom name="Yo-Kai Watch 3 (USA) (DLC).cia" size="72000" crc="38efab7e" md5="2be2d4617834749170402c91b8c37a4d" sha1="547a935ac203533f3cbd4edcee256204333b806b" />
+  </game>
+  <game name="Yo-Kai Watch Blasters - Red Cat Corps (USA) (v2.4, v2112) (Update)">
+    <category>Games</category>
+    <description>Yo-Kai Watch Blasters - Red Cat Corps (USA) (v2.4, v2112) (Update)</description>
+    <rom name="Yo-Kai Watch Blasters - Red Cat Corps (USA) (v2.4, v2112) (Update).cia" size="386079040" crc="cdb849a6" md5="88646d20fcfc0f8ab4d30271a486ded4" sha1="c06844ce6e771e93d2391454c9676e84b3542255" />
+  </game>
+  <game name="Yo-Kai Watch Blasters - White Dog Squad (USA) (v2.4, v2112) (Update)">
+    <category>Games</category>
+    <description>Yo-Kai Watch Blasters - White Dog Squad (USA) (v2.4, v2112) (Update)</description>
+    <rom name="Yo-Kai Watch Blasters - White Dog Squad (USA) (v2.4, v2112) (Update).cia" size="387086656" crc="9f96717b" md5="3a664c8d9e3409c1a033732fa80aa0fe" sha1="4952e41df3869242a0362c4af85b408a98f56716" />
+  </game>
+  <game name="YouTube (USA) (v2096) (Embedded Update)">
+    <category>Games</category>
+    <description>YouTube (USA) (v2096) (Embedded Update)</description>
+    <rom name="YouTube (USA) (v2096) (Embedded Update).cia" size="8239360" crc="2de5a0a7" md5="0ddd6fbf294da600efbb603e60f793ec" sha1="7596d89ebe0adecb1129af71c3f5c993b699d0e0" />
+  </game>
+</datafile>

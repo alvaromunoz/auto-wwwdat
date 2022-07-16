@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Commodore - Amiga CD (Retool)</name>
+    <description>Commodore - Amiga CD (Retool)</description>
+    <version>2022-07-12 03-15-17</version>
+    <date>2022-07-16 17-04-13</date>
+    <author>redump.org &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://redump.org/</url>
+  </header>
+  <game name="Lock-N-Load Games Compilation (USA)">
+    <category>Games</category>
+    <description>Lock-N-Load Games Compilation (USA)</description>
+    <rom name="Lock-N-Load Games Compilation (USA).cue" size="101" crc="0522653b" md5="0cffb25c709b22846178d11fddb96f55" sha1="b8ec50559de0a018cdaa4961d68f49377aa6ef38" />
+    <rom name="Lock-N-Load Games Compilation (USA).bin" size="372161664" crc="f3554fa1" md5="bf2e38b258152a07ca95e554671f7af2" sha1="0c58c89de9ebee3e12439d2a23e9711448588129" />
+  </game>
+</datafile>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Nintendo - New Nintendo 3DS (Encrypted) (Retool)</name>
+    <description>Nintendo - New Nintendo 3DS (Encrypted) (Retool)</description>
+    <version>20220401-174642</version>
+    <date>2022-07-16 17-05-25</date>
+    <author>aci68, b2071988, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, SonGoku &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Fire Emblem Warriors (USA)">
+    <category>Games</category>
+    <description>Fire Emblem Warriors (USA)</description>
+    <rom name="Fire Emblem Warriors (USA).3ds" size="2147483648" crc="b410ed52" md5="8407aba2da875f5e0cfcea8ae688c9d4" sha1="9e161d87d0e8e2ad776f8fca170a3a10426c2c36" sha256="04489d54d9a75e42ec4ea52d2fa075eb92559940a5ef74e8d262631afe8f943f" />
+  </game>
+  <game name="Minecraft - New Nintendo 3DS Edition (USA)">
+    <category>Games</category>
+    <description>Minecraft - New Nintendo 3DS Edition (USA)</description>
+    <rom name="Minecraft - New Nintendo 3DS Edition (USA).3ds" size="1073741824" crc="dfa829b2" md5="06c5021262b80830bdde0df4fe37bb05" sha1="6987148022dd6fc3a60d467f45a2348b70818a27" sha256="06e473af139ee89867a4aefd8607d79054edb32ea88cc76777d7261bb6c2cd83" />
+  </game>
+  <game name="Runbow Pocket Deluxe Edition (USA)">
+    <category>Games</category>
+    <description>Runbow Pocket Deluxe Edition (USA)</description>
+    <rom name="Runbow Pocket Deluxe Edition (USA).3ds" size="536870912" crc="186039e7" md5="b6a9d1b1f38fb3f594f3660d055c3017" sha1="9bb78892c919c4651196a2bd6864a47786166337" sha256="85ec3e7b8e24c28e309ece5d10fee76829c3bc0139a7fc25cc1137fb8629e4a4" />
+  </game>
+  <game name="Xenoblade Chronicles 3D (USA) (En,Fr,Es) (Rev 1)">
+    <category>Games</category>
+    <description>Xenoblade Chronicles 3D (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Xenoblade Chronicles 3D (USA) (En,Fr,Es) (Rev 1).3ds" size="4294967296" crc="4b9b89d8" md5="0c8eeb6b9ff3b6b5df7aa7bac58bffc5" sha1="753c0312fcc54011aef80c420c90392ec0fa4af0" sha256="1eef4f910641818c02a9f067b1d69e98d142cb5da7d8ea53e8667304532cc717" />
+  </game>
+</datafile>

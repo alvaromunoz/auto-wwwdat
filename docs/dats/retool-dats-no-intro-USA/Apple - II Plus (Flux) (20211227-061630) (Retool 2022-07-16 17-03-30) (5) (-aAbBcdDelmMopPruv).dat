@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Apple - II Plus (Flux) (Retool)</name>
+    <description>Apple - II Plus (Flux) (Retool)</description>
+    <version>20211227-061630</version>
+    <date>2022-07-16 17-03-30</date>
+    <author>MeguCocoa &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="221B Baker St. (USA) (v1.1) (Disk 1)">
+    <category>Games</category>
+    <description>221B Baker St. (USA) (v1.1) (Disk 1)</description>
+    <rom name="221B Baker St. (USA) (v1.1) (Disk 1).a2r" size="23899201" crc="887eb8d9" md5="bc3c09cfb0e7877743fbf6c59e101ecc" sha1="edfa7eeb79b066fec83256bfe158d37e2f916055" sha256="01b3b1032abbc6b9f31495b778e28975a7fec74c6112dfd72851c44e0bf9bd17" />
+  </game>
+  <game name="221B Baker St. (USA) (v1.1) (Disk 2)">
+    <category>Games</category>
+    <description>221B Baker St. (USA) (v1.1) (Disk 2)</description>
+    <rom name="221B Baker St. (USA) (v1.1) (Disk 2).a2r" size="23068303" crc="5ad4ac98" md5="9cdaa963a434e336b85f03fab42e2b40" sha1="b41af220227aeaca5e19eb1d450110b962bbf256" sha256="d29a9c9b6f32c6cb5636f7194b4fa8f03ca667ce9a80f84d889f2fdc682c2933" />
+  </game>
+  <game name="2400 A.D. (USA) (Player Disk)">
+    <category>Games</category>
+    <description>2400 A.D. (USA) (Player Disk)</description>
+    <rom name="2400 A.D. (USA) (Player Disk).a2r" size="22090559" crc="01c6137b" md5="3bade26779d4aed07a34db5209c74683" sha1="121b5839df380a9ac35176dc5141024996f76d21" sha256="22e97f2d58d9dcce780b41b09b1a936c4ed5114810e818105411b9b52ba73c63" />
+  </game>
+  <game name="2400 A.D. (USA) (Program Disk)">
+    <category>Games</category>
+    <description>2400 A.D. (USA) (Program Disk)</description>
+    <rom name="2400 A.D. (USA) (Program Disk).a2r" size="26991049" crc="69187fa8" md5="d646a97b8797c50549147f1a46eb4093" sha1="8d7f3fbcde68e9db20cacc5ba1effced4610d0f8" sha256="7cd27ea05044ac0db808d96c0ff3021407c6c656a49c18b8278f576ca2448c4f" />
+  </game>
+  <game name="Puff of Air, A - The Respiratory System (USA)">
+    <category>Games</category>
+    <description>Puff of Air, A - The Respiratory System (USA)</description>
+    <rom name="Puff of Air, A - The Respiratory System (USA).a2r" size="28098421" crc="1a359109" md5="28dd524609d19a6e9eb08905c449db7c" sha1="2184efd5e3c97457a265f60c2d385d7c0b8e6bb9" sha256="d2d79a4627d59b31d9040c44718dc9fb7dd1408ee8b8ce568b5280cd93d19515" />
+  </game>
+</datafile>
