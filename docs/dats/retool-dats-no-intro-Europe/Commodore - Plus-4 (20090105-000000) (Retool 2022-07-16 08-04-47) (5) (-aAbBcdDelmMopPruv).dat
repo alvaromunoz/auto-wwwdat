@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Commodore - Plus-4 (Retool)</name>
+		<description>Commodore - Plus-4 (5) (-aAbBcdDelmMopPruv) (20090105-000000) (Retool 1.16)</description>
+		<version>20090105-000000</version>
+		<date>2022-07-16 08-04-47</date>
+		<author>Unknown &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Atomic Mission (USA, Europe)">
+		<category>Games</category>
+		<description>Atomic Mission (USA, Europe)</description>
+		<rom name="Atomic Mission (USA, Europe).bin" size="16384" crc="a059fccb" md5="a19ad12cbf2261117df58ae64bd635ca" sha1="e919531d016596ec1a2fd349bbe6691716297f35"/>
+	</game>
+	<game name="Jack Attack (USA, Europe)">
+		<category>Games</category>
+		<description>Jack Attack (USA, Europe)</description>
+		<rom name="Jack Attack (USA, Europe).bin" size="16384" crc="6b624fec" md5="b22a426e223f28d8ff5439917d2ab6f5" sha1="ba54810ef1089fdf56b74536f9d679a80ace2dc1"/>
+	</game>
+	<game name="Pirate Adventure (USA, Europe)">
+		<category>Games</category>
+		<description>Pirate Adventure (USA, Europe)</description>
+		<rom name="Pirate Adventure (USA, Europe).bin" size="16384" crc="a903dc53" md5="23fb5ed28070db858ef410387be1ce89" sha1="410ccb6b304ca30e852fdc6ec33d9dacd7de3493"/>
+	</game>
+	<game name="Strange Odyssey (USA, Europe)">
+		<category>Games</category>
+		<description>Strange Odyssey (USA, Europe)</description>
+		<rom name="Strange Odyssey (USA, Europe).bin" size="16384" crc="994c9b98" md5="af62e5c69576312c56c4a9ddd02240b2" sha1="30a0707efe24f58525bffc228085f412d574fa3b"/>
+	</game>
+	<game name="Viduzzles (USA, Europe)">
+		<category>Games</category>
+		<description>Viduzzles (USA, Europe)</description>
+		<rom name="Viduzzles (USA, Europe).bin" size="16384" crc="eaaa44ed" md5="3483621641f0e09666fc7c6f0aedd442" sha1="97c269ab7b57a5ddfe65a06c29986c6ccb3aeb2b"/>
+	</game>
+</datafile>
