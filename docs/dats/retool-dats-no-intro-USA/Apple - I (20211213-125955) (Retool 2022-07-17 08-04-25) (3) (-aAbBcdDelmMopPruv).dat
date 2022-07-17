@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Apple - I (Retool)</name>
+    <description>Apple - I (Retool)</description>
+    <version>20211213-125955</version>
+    <date>2022-07-17 08-04-25</date>
+    <author>MeguCocoa &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Apple BASIC (USA)">
+    <category>Games</category>
+    <description>Apple BASIC (USA)</description>
+    <rom name="Apple BASIC (USA).wav" size="6644776" crc="d8b0a997" md5="c96d0b4d84d87678425ac7ad1350e2a5" sha1="8c90938077aaebe83ea707944c7f4d7d24af25ba" sha256="8ec9b985b0c6e7546858687f5b84010685a71faccf6076a8b96c08a11d4b81d0" />
+  </game>
+  <game name="Blackjack (USA)">
+    <category>Games</category>
+    <description>Blackjack (USA)</description>
+    <rom name="Blackjack (USA).wav" size="5723176" crc="9486b37b" md5="b5891670343df82155b6ea33d0407394" sha1="9de34b03c06a75f59bd5295ecc1a3c69858d61b9" sha256="1f5fca7ff035f2362bfea6250c94ae4948a2434bc587de8a7e67515e80b62524" />
+  </game>
+  <game name="Lunar Lander (USA)">
+    <category>Games</category>
+    <description>Lunar Lander (USA)</description>
+    <rom name="Lunar Lander (USA).wav" size="3350056" crc="3c87f6cd" md5="95ca2a2be59851ec42f0dc4fbfa26310" sha1="de99cf33433e9b53b74920f3be258a4ce295ca2d" sha256="f8d2beff7a71811be23b8499a8f6492f5926aef7433409d7f80971ac5c15d863" />
+  </game>
+</datafile>

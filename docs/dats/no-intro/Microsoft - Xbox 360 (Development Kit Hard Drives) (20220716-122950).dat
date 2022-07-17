@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Microsoft - Xbox 360 (Development Kit Hard Drives)</name>
+    <description>Microsoft - Xbox 360 (Development Kit Hard Drives)</description>
+    <version>20220716-122950</version>
+    <author>Hiccup, Seventy7</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Aqua XDK 250GB Kit 1 (Unknown)">
+    <description>Aqua XDK 250GB Kit 1 (Unknown)</description>
+    <rom name="Aqua XDK 250GB Kit 1 (Unknown).img" size="250059350016" crc="024b62c1" md5="8e623a27eef8b5fa19fd5c43c25ca5b7" sha1="7953b0d3225cd58be5ddf9c1c45cba32a49ff4b4" />
+  </game>
+  <game name="ChrisAn8er HDD (Unknown)">
+    <description>ChrisAn8er HDD (Unknown)</description>
+    <rom name="ChrisAn8er HDD (Unknown).img" size="250059350016" crc="2c105429" md5="d933b6d35645da42a87b56418ad24846" sha1="0b3f04b7f3a8d6e611b68eeea5e34e4ab76a199a" />
+  </game>
+  <game name="Eurocom 103 (Unknown) [b]">
+    <description>Eurocom 103 (Unknown) [b]</description>
+    <rom name="Eurocom 103 (Unknown) [b].json" size="75436266" crc="fbe687e0" md5="44472276a22b6ba36414b17b0beebce5" sha1="54f4926f8cb523615e645da37c7b33d9e2930fce" status="baddump" />
+    <rom name="Eurocom 103 (Unknown) [b].img" size="73233596928" crc="0e4d9bfc" md5="f30438f314bbefa22715f03393e23028" sha1="8a31396a3e9601962166742cb5b28996fd19dd20" status="baddump" />
+  </game>
+  <game name="Eurocom 105 (Unknown)">
+    <description>Eurocom 105 (Unknown)</description>
+    <rom name="Eurocom 105 (Unknown).img" size="80060424192" crc="359f0c02" md5="d00d5f54b5ab1bde1e8a4cce45d5b88d" sha1="f9ded616fbca5f50b9ccf37c8b41d6f21f38c2bb" />
+    <rom name="Eurocom 105 (Unknown).json" size="73518415" crc="6a70e4f6" md5="8609fcb9c177c385ad1fd2a0c3c0e7f6" sha1="99f189c37b1ca0bf2292031edf57b0bca19e109c" />
+  </game>
+  <game name="Eurocom 106 (Unknown)">
+    <description>Eurocom 106 (Unknown)</description>
+    <rom name="Eurocom 106 (Unknown).img" size="80060424192" crc="3b89cabf" md5="8c311a4ec56805c1f404e592a7241dbf" sha1="e12268e61fe7cd3fb583e59de765077902dd5132" />
+    <rom name="Eurocom 106 (Unknown).json" size="79655702" crc="284799d1" md5="9a02358d1afd47541410d5d12ee24725" sha1="5f6981fdbad15072bb6be493a9553524af7050d7" />
+  </game>
+  <game name="Eurocom 12 (Unknown)">
+    <description>Eurocom 12 (Unknown)</description>
+    <rom name="Eurocom 12 (Unknown).img" size="120034123776" crc="201caf4c" md5="2462394dd1d279edf420e19d2128695c" sha1="2e1d15afd3d337c86786747cfee421c9f558a30c" />
+    <rom name="Eurocom 12 (Unknown).json" size="56250196" crc="6b83fbc7" md5="04c16cc53047545761aac5eb7c3ce319" sha1="77c71fb1de498d53f8c440903bd3f7f12910e8db" />
+  </game>
+  <game name="Eurocom 15 (Unknown)">
+    <description>Eurocom 15 (Unknown)</description>
+    <rom name="Eurocom 15 (Unknown).img" size="119990583296" crc="2bd47bdb" md5="04c58da9b23a9c52b1cf77526e61bf66" sha1="c16b3612a155eae7295c2c06733c512d9d1d6223" />
+    <rom name="Eurocom 15 (Unknown).json" size="79745524" crc="cd15a79e" md5="e99f3c08456f6275e5581561dd53b297" sha1="d69bbd681d03bde2938d8da0d87f130ddd7a59af" />
+  </game>
+  <game name="Eurocom 24 (Unknown)">
+    <description>Eurocom 24 (Unknown)</description>
+    <rom name="Eurocom 24 (Unknown).img" size="120034123776" crc="0f45d77b" md5="afa92bec8b556765356587e349d94fe1" sha1="c6d58f1e4970d9d9b7301547e4e044a95246dc8c" />
+    <rom name="Eurocom 24 (Unknown).json" size="49959990" crc="970f358e" md5="8361610748004d638dadffaf95851f5e" sha1="58a737428660d513e9db344bc49df8f3a5871d9f" />
+  </game>
+  <game name="Eurocom 27 (Unknown)">
+    <description>Eurocom 27 (Unknown)</description>
+    <rom name="Eurocom 27 (Unknown).img" size="120034123776" crc="8474f981" md5="f42e3d7bb4c7508434e7f6b07a3db135" sha1="2edd1dbb00cac5c84ebb77838077a461f62c5592" />
+  </game>
+  <game name="Eurocom 33 (Unknown)">
+    <description>Eurocom 33 (Unknown)</description>
+    <rom name="Eurocom 33 (Unknown).img" size="120034123776" crc="0f9b1cc2" md5="3357fa8772c3c8e2e7556e149e699e56" sha1="c25a4c0c629a420bbf46c086f99ed95b36f67d5a" />
+  </game>
+  <game name="Eurocom 36 (Unknown)">
+    <description>Eurocom 36 (Unknown)</description>
+    <rom name="Eurocom 36 (Unknown).img" size="120034123776" crc="96745cfd" md5="86b8f3537146b5d3273a5994f86cf718" sha1="e4ba9f25b6845f376b752d1728b9cca103ba8662" />
+    <rom name="Eurocom 36 (Unknown).json" size="36284473" crc="cd9f1d91" md5="c827da146cfece4354511676e49ac314" sha1="4a9f877f87030536a79009e15342a6a3454c3ee9" />
+  </game>
+  <game name="Eurocom 40 (Unknown)">
+    <description>Eurocom 40 (Unknown)</description>
+    <rom name="Eurocom 40 (Unknown).img" size="80060424192" crc="80e806a6" md5="13626d0d73ab518e6ab23f63a46cd762" sha1="04d8ecaabe40bbf6473ed6c9e3044968a305bb8d" />
+    <rom name="Eurocom 40 (Unknown).json" size="84648905" crc="b827c199" md5="45aeb2cd62d601c248f1b47527f7cbeb" sha1="7005b340112e6da9f698c6ccddbc186e14d7b404" />
+  </game>
+  <game name="Eurocom 41 (Unknown)">
+    <description>Eurocom 41 (Unknown)</description>
+    <rom name="Eurocom 41 (Unknown).img" size="80060424192" crc="3436b260" md5="2a75aac3fca099f9b3846cbe9f6f7d2f" sha1="1004330cff0a9ccefa74e3f1333e3e3dda924f51" />
+    <rom name="Eurocom 41 (Unknown).json" size="356464054" crc="44afb1b1" md5="ef4993431acf2a465a442cd745eeda34" sha1="857cea8e7ed968dfdd14fc1a8f62bc979ce031d0" />
+  </game>
+  <game name="Eurocom 42 (Unknown)">
+    <description>Eurocom 42 (Unknown)</description>
+    <rom name="Eurocom 42 (Unknown).img" size="80060424192" crc="8a54226c" md5="43bd7533c4e594bc303ef05b3eba00d8" sha1="b9e6a244fe88466b177e60a9083e49b5b769aac2" />
+    <rom name="Eurocom 42 (Unknown).json" size="54625827" crc="ea083914" md5="bab1de85db805c8f11f02272351cf2cb" sha1="934b8bfd950aef1b1131386004ff8ccbdf0f2fc8" />
+  </game>
+  <game name="Eurocom 46 (Unknown)">
+    <description>Eurocom 46 (Unknown)</description>
+    <rom name="Eurocom 46 (Unknown).img" size="80060424192" crc="55c5e3cb" md5="89866bcf5318d91d2fc0c42b350b5cec" sha1="693290b1260c72e57be1f1826892c8f2d6632f2b" />
+  </game>
+  <game name="Eurocom 48 (Unknown)">
+    <description>Eurocom 48 (Unknown)</description>
+    <rom name="Eurocom 48 (Unknown).img" size="80060424192" crc="2f54d883" md5="bfd5c66dc3709e56afe4012b1572f6e3" sha1="1101d9f8357e6999c9715bca74535ed6d1fbb48f" />
+    <rom name="Eurocom 48 (Unknown).json" size="278647699" crc="497016a6" md5="a5022480fa9f3a547b950d7baba60a7a" sha1="193d8d67f790b20cee52896ebd65079dc55c53e3" />
+  </game>
+  <game name="Eurocom 49 (Unknown)">
+    <description>Eurocom 49 (Unknown)</description>
+    <rom name="Eurocom 49 (Unknown).img" size="75686150144" crc="bdcf31ce" md5="34299eea99c40e4f81db67e4e310b063" sha1="d7cdb056860cf22e0a84c609ece58412e860c256" />
+    <rom name="Eurocom 49 (Unknown).json" size="159272853" crc="27e81dfa" md5="6269167c84fbdb844d06024513c40d44" sha1="ad1d3f88f1ae4c5a421b1d25d86e8cda57e8abd6" />
+  </game>
+  <game name="Eurocom 50 (Unknown)">
+    <description>Eurocom 50 (Unknown)</description>
+    <rom name="Eurocom 50 (Unknown).img" size="80060424192" crc="eeb66da4" md5="125e1be2cfebad550c37d5646b38a552" sha1="60b2da595619aae179475db665c54bee4fe6c422" />
+  </game>
+  <game name="Eurocom 57 (Unknown)">
+    <description>Eurocom 57 (Unknown)</description>
+    <rom name="Eurocom 57 (Unknown).img" size="120034123776" crc="c4a19bda" md5="5059b30bc6d17c25f047973a86bc801f" sha1="251a79b09cd76d3d39bdb410ad43cacb270127ae" />
+    <rom name="Eurocom 57 (Unknown).json" size="23226155" crc="7584d06a" md5="17e7d78db5999201eb004f6d2a79c218" sha1="6c58b9f777d38f2b3b94c36a9021f6dd6c4fd1bb" />
+  </game>
+  <game name="Eurocom 58 (Unknown)">
+    <description>Eurocom 58 (Unknown)</description>
+    <rom name="Eurocom 58 (Unknown).img" size="120024137728" crc="69d55fdc" md5="c33ea4afad998ae46ee83a5a327e66f7" sha1="55530879acf8e1df856717f93648354a9aa19a26" />
+    <rom name="Eurocom 58 (Unknown).json" size="258799856" crc="c1474709" md5="741e04ce96e38006638913969790fff2" sha1="e04e9cb2328d505e3335d4734e1fc65b794e1f86" />
+  </game>
+  <game name="Eurocom 62 (Unknown)">
+    <description>Eurocom 62 (Unknown)</description>
+    <rom name="Eurocom 62 (Unknown).img" size="120034123776" crc="f334a756" md5="021f066918a29bfba73bfb059deefd03" sha1="83c1338d576392017d54285f0ea366b1a29ebb39" />
+  </game>
+  <game name="Eurocom 63 (Unknown)">
+    <description>Eurocom 63 (Unknown)</description>
+    <rom name="Eurocom 63 (Unknown).img" size="80060424192" crc="98dfac4d" md5="c0f9980a26bb30b0514f829e66c9d56b" sha1="3eab1d70376049cf26f95006038e9bd84c9cc262" />
+  </game>
+  <game name="Eurocom 66 (Unknown)">
+    <description>Eurocom 66 (Unknown)</description>
+    <rom name="Eurocom 66 (Unknown).img" size="80060424192" crc="ac66783b" md5="91c3e294fc7945c4d67350ae53515f0c" sha1="97556a2f5c5f4379cfe76486d081d0de93e19f47" />
+  </game>
+  <game name="Eurocom 78 (Unknown)">
+    <description>Eurocom 78 (Unknown)</description>
+    <rom name="Eurocom 78 (Unknown).img" size="120034123776" crc="ab3cafad" md5="51b32e6a5ec85ab48afec68b27f0715b" sha1="7b79057861bd04181c33192cbb36a8590779fb8a" />
+    <rom name="Eurocom 78 (Unknown).json" size="225324180" crc="bad103c8" md5="03f44a4ed1fdb01c7f21732896248f9c" sha1="98a7f3cc1139b73d901ba0dbd1c26037508bd75f" />
+  </game>
+  <game name="Eurocom 84 (Unknown)">
+    <description>Eurocom 84 (Unknown)</description>
+    <rom name="Eurocom 84 (Unknown).img" size="120034123776" crc="1823a55b" md5="155a81381d4d4bac7525f979385ad986" sha1="a1bcd0678c20f1197b0b5378201513a47decbb9f" />
+  </game>
+  <game name="Eurocom 9 (Unknown)">
+    <description>Eurocom 9 (Unknown)</description>
+    <rom name="Eurocom 9 (Unknown).img" size="120034123776" crc="0918ac42" md5="c7d662e8123ca6820f8ab1b79e9dd77e" sha1="30dfd139732a638ca0be3b946741ee11fb27c20a" />
+    <rom name="Eurocom 9 (Unknown).json" size="28691763" crc="cb9eb209" md5="089dc0b44e0c32845fd14cdee8f68a9f" sha1="573179228a61c1cbd8e58df59f42744be03f8289" />
+  </game>
+  <game name="Eurocom 97 (Unknown)">
+    <description>Eurocom 97 (Unknown)</description>
+    <rom name="Eurocom 97 (Unknown).img" size="80060424192" crc="63ec394c" md5="f01aec06061a4f359aa0bddd7b1dd354" sha1="1b9fd3bea4e3e36602e45ceae107fe2ce9ed6b25" />
+    <rom name="Eurocom 97 (Unknown).json" size="330502524" crc="947c8f00" md5="8dd8fd1111ee68a17cf8209efa0dacab" sha1="2d2fb75225f96bf391cb68542a66fe99e32ae31b" />
+  </game>
+  <game name="Eurocom Green No Label (Unknown)">
+    <description>Eurocom Green No Label (Unknown)</description>
+    <rom name="Eurocom Green No Label (Unknown).img" size="120034123776" crc="9a6bfe28" md5="227375650d6ef60ccb26bfa28220e88b" sha1="2cff4c235251d95c633a2f6cf3df6e6ac49494d7" />
+  </game>
+  <game name="Eurocom White (Unknown)">
+    <description>Eurocom White (Unknown)</description>
+    <rom name="Eurocom White (Unknown).img" size="80060424192" crc="5c6b6346" md5="33eded140518353229f446588d4251dd" sha1="782157c35d21f3a8833eb4fe0b0677cd0cbb1e3e" />
+    <rom name="Eurocom White (Unknown).json" size="59305964" crc="4d35ba49" md5="8f9ad9339951e6ba0c1d9bd65c12f595" sha1="bca2935ef3b56a751a4f7404dd57991bba7d3d1d" />
+  </game>
+  <game name="Jordan Burger King (Unknown)">
+    <description>Jordan Burger King (Unknown)</description>
+    <rom name="Jordan Burger King (Unknown).img" size="80060481536" crc="7ee7f88e" md5="1b3c4c0f077613cfd201c3fff5fdfb86" sha1="10aa520d8d579eae5ede1b9bb1b826b938f2e5f0" />
+  </game>
+  <game name="Jordan EA Kit REAL (Unknown)">
+    <description>Jordan EA Kit REAL (Unknown)</description>
+    <rom name="Jordan EA Kit REAL (Unknown).img" size="120034164736" crc="a5675a1d" md5="b8f9f5cb2d898914913e9b79f4709884" sha1="683eca2ec2d5de27a7933f5bc72bbcefc6841749" />
+  </game>
+  <game name="Jordan Grey Left Field (Unknown)">
+    <description>Jordan Grey Left Field (Unknown)</description>
+    <rom name="Jordan Grey Left Field (Unknown).img" size="80060424192" crc="59d7799c" md5="b3f4f1c1384a101f7770465d1eca3467" sha1="ae5cbfc771a8ba5813e4ba15fc8ca7239f852f4d" />
+  </game>
+  <game name="Jordan RROD Kit (Unknown)">
+    <description>Jordan RROD Kit (Unknown)</description>
+    <rom name="Jordan RROD Kit (Unknown).img" size="120034123776" crc="10164302" md5="8b7b9153290292bc92f6821cd7c64790" sha1="b7c3e7289d9080271aa4a7ebbcaf7b1572b430fd" />
+  </game>
+  <game name="Jordan Slim 2 (Unknown)">
+    <description>Jordan Slim 2 (Unknown)</description>
+    <rom name="Jordan Slim 2 (Unknown).img" size="250059350016" crc="8282927c" md5="77a316b45e22376948f293f2c35db353" sha1="94a8437d051abcef107467ef8500a613a84f76bc" />
+  </game>
+  <game name="Jordan Slim 3 (Unknown)">
+    <description>Jordan Slim 3 (Unknown)</description>
+    <rom name="Jordan Slim 3 (Unknown).img" size="250059350016" crc="e851eb88" md5="b75e9c9e1817cfb5ca44b4b86a09bc27" sha1="adbcbab69212200dc1d922899071b592e224b321" />
+  </game>
+  <game name="Jordan Too Human (Unknown)">
+    <description>Jordan Too Human (Unknown)</description>
+    <rom name="Jordan Too Human (Unknown).img" size="120034164736" crc="048a2ed7" md5="cdbf7557b93611216ad2cad38fde43b5" sha1="1bc59e23a1db94005f27f5acfb31a49e7b17aa67" />
+  </game>
+  <game name="Jordan Tribal Test Kit (Unknown)">
+    <description>Jordan Tribal Test Kit (Unknown)</description>
+    <rom name="Jordan Tribal Test Kit (Unknown).img" size="120034164736" crc="880f619a" md5="12b42a05d6b7d1e8a82e0888e6a0e926" sha1="541dbef3571efab3515fc6c93b816456de613caf" />
+  </game>
+  <game name="Jordan White Left Field Kit 2 (Unknown)">
+    <description>Jordan White Left Field Kit 2 (Unknown)</description>
+    <rom name="Jordan White Left Field Kit 2 (Unknown).img" size="80060424192" crc="65e175e7" md5="743420ea46ccb4f64af4ac2dc0c7963f" sha1="57e71984ac30cd8e76a66d532b8d5b8c687c72f3" />
+  </game>
+  <game name="Jordan White Left Field Kit 3 (Unknown)">
+    <description>Jordan White Left Field Kit 3 (Unknown)</description>
+    <rom name="Jordan White Left Field Kit 3 (Unknown).img" size="80060424192" crc="fd80e71a" md5="2d808801c59d3dc88c991518685efd86" sha1="900607af15d44f91cf63353d4e3750637aa4cef5" />
+  </game>
+  <game name="justz00t xdk1 (Unknown)">
+    <description>justz00t xdk1 (Unknown)</description>
+    <rom name="justz00t xdk1 (Unknown).img" size="250059350016" crc="da2c8bc3" md5="da35d6dec1151609869efbc61420dfa3" sha1="b0ea93557327f6c2a25d4604e6c2cf748f960e18" />
+  </game>
+  <game name="justz00t xdk2 (Unknown)">
+    <description>justz00t xdk2 (Unknown)</description>
+    <rom name="justz00t xdk2 (Unknown).img" size="250059350016" crc="9dd0e3b1" md5="2d6de7cf9b405f8cbaa46d457cc27207" sha1="1819de56376d51f19f68fc8ec8851f7ce8ddc0d4" />
+  </game>
+  <game name="justz00t xdk3 (Unknown)">
+    <description>justz00t xdk3 (Unknown)</description>
+    <rom name="justz00t xdk3 (Unknown).img" size="250059350016" crc="386639ac" md5="94e9a0b0862d3cc2e9718f84af0fc991" sha1="7d50d54f4cafdbd8291882bc8270925b17537023" />
+    <rom name="justz00t xdk3 (Unknown).json" size="228492146" crc="8beb9953" md5="9bbbfa6bacf0f5d3f7e771be5c14535f" sha1="f7df9b7eb208c230bd5da344ed9b1d67fae4fdb7" />
+  </game>
+  <game name="justz00t xdk4 (Unknown)">
+    <description>justz00t xdk4 (Unknown)</description>
+    <rom name="justz00t xdk4 (Unknown).img" size="250059350016" crc="61bb34f4" md5="35830db633ce768fb945646e4781bd4c" sha1="2cb4226b354894ee9a47e08358433d3c422abc4b" />
+    <rom name="justz00t xdk4 (Unknown).json" size="475818263" crc="fbad09b0" md5="cf41857d8a20bb0cb6b2559239c51174" sha1="12e23259c9f0a1eeb24fa7ea56fa46aae55d6482" />
+  </game>
+  <game name="TNO Left Field Productions 1 (Unknown)">
+    <description>TNO Left Field Productions 1 (Unknown)</description>
+    <rom name="TNO Left Field Productions 1 (Unknown).img" size="80060424192" crc="0c8f3ddf" md5="d259a598bd216948a7060e460a4b27f6" sha1="6bb40359a01d979b05c8f96e1aceebe256160b77" />
+  </game>
+  <game name="TNO Left Field Productions 2 (Unknown)">
+    <description>TNO Left Field Productions 2 (Unknown)</description>
+    <rom name="TNO Left Field Productions 2 (Unknown).img" size="80060424192" crc="029df1cd" md5="26ae097eb2bec5cb2704a5d085317764" sha1="765157b2932cf8029f1708cc22b3fe6d49a701e7" />
+  </game>
+  <game name="TNO Left Field Productions 3 (Unknown)">
+    <description>TNO Left Field Productions 3 (Unknown)</description>
+    <rom name="TNO Left Field Productions 3 (Unknown).img" size="80060424192" crc="bafed17e" md5="f2da1e38a82564af597aa229dcbea4ed" sha1="47b6d238100360b2c979804c4033a04d97cf0a49" />
+  </game>
+  <game name="TNO Left Field Productions 4 (Unknown)">
+    <description>TNO Left Field Productions 4 (Unknown)</description>
+    <rom name="TNO Left Field Productions 4 (Unknown).img" size="80060424192" crc="d44bb332" md5="3663519ef175355e30ae38c3785b9240" sha1="e9d368d6d76725fa32e0216e9c7610151587040b" />
+  </game>
+  <game name="Ubisoft 2605 (Unknown)">
+    <description>Ubisoft 2605 (Unknown)</description>
+    <rom name="Ubisoft 2605 (Unknown).img" size="120034123776" crc="9258a73a" md5="3ec760778b57168ba4806b5020e2422e" sha1="91d7025194a04cebb90d74c6598160ef498ef9a5" />
+  </game>
+  <game name="Ubisoft 3005 (Unknown)">
+    <description>Ubisoft 3005 (Unknown)</description>
+    <rom name="Ubisoft 3005 (Unknown).img" size="120034123776" crc="a27fbda2" md5="17af2008b3948936aca6c55fb4759700" sha1="6c4ad7737820074f1e07d00dc7e6961180b18a20" />
+  </game>
+  <game name="Ubisoft 4807 (Unknown)">
+    <description>Ubisoft 4807 (Unknown)</description>
+    <rom name="Ubisoft 4807 (Unknown).img" size="120034123776" crc="5beb0b2d" md5="35ad00131775972b0c043228b203f3a0" sha1="7d5da7633347b13f712c1cff2dc3603235bc4f3a" />
+  </game>
+</datafile>

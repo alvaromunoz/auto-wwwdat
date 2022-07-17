@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Nintendo - Family Computer Disk System (FDS) (Retool)</name>
+    <description>Nintendo - Family Computer Disk System (FDS) (Retool)</description>
+    <version>20220528-004833</version>
+    <date>2022-07-17 08-05-53</date>
+    <author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Hiccup, kazumi213, omonim2007, relax, RetroUprising, SonGoku, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)">
+    <category>Games</category>
+    <description>Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)</description>
+    <rom name="Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).fds" size="65500" crc="5d08dd11" md5="b210c0f117d46819cc81720ff521d762" sha1="b2dbc55efcae77abad6207b802c0a76d7a47ed0d" />
+  </game>
+  <game name="Vs. Excitebike (Japan, USA) (Virtual Console)">
+    <category>Games</category>
+    <description>Vs. Excitebike (Japan, USA) (Virtual Console)</description>
+    <rom name="Vs. Excitebike (Japan, USA) (Virtual Console).fds" size="131000" crc="a1a824bf" md5="d07f5f79e9fd1ccdd219637ee630aee6" sha1="080e960bc9c11dd0da378776ea776b456348bc6a" />
+  </game>
+</datafile>
