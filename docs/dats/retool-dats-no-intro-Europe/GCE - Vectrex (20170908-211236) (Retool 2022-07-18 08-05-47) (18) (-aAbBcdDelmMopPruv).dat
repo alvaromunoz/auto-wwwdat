@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>GCE - Vectrex (Retool)</name>
+    <description>GCE - Vectrex (Retool)</description>
+    <version>20170908-211236</version>
+    <date>2022-07-18 08-05-47</date>
+    <author>C. V. Reynolds, kazumi213, Money_114, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Armor..Attack (World)">
+    <category>Games</category>
+    <description>Armor..Attack (World)</description>
+    <rom name="Armor..Attack (World).vec" size="4096" crc="b7510971" md5="9657037a461eee919462eb6a01879685" sha1="eb76f860130f8cc87826fa931350467760511213" />
+  </game>
+  <game name="Bedlam (USA, Europe)">
+    <category>Games</category>
+    <description>Bedlam (USA, Europe)</description>
+    <rom name="Bedlam (USA, Europe).vec" size="4096" crc="a2fa649b" md5="268e75778f282d853d77acf42c6c8734" sha1="3ff3fa4feda6d562dedff2a10cfa8679d8318044" />
+  </game>
+  <game name="Berzerk (World)">
+    <category>Games</category>
+    <description>Berzerk (World)</description>
+    <rom name="Berzerk (World).vec" size="4096" crc="eafe2455" md5="640ae7bd4538bad11256999db68de5a0" sha1="e4badd494ed548721328ef869d33ad70e3e522c9" />
+  </game>
+  <game name="Blitz! - Action Football (USA, Europe) (881B27C5)">
+    <category>Games</category>
+    <description>Blitz! - Action Football (USA, Europe) (881B27C5)</description>
+    <rom name="Blitz! - Action Football (USA, Europe) (881B27C5).vec" size="8192" crc="881b27c5" md5="5d74770bb175357812e61ee7ca731270" sha1="aa1aa811c9ce5e19f43b78a6531cdd0e707337bd" />
+  </game>
+  <game name="Clean Sweep (World)">
+    <category>Games</category>
+    <description>Clean Sweep (World)</description>
+    <rom name="Clean Sweep (World).vec" size="4096" crc="f1b1de78" md5="a376d5648e08f348e5965c058c631c6d" sha1="67f8513958c04e936b135740ed4ec6e6fa1763d5" />
+  </game>
+  <game name="Cosmic Chasm (World)">
+    <category>Games</category>
+    <description>Cosmic Chasm (World)</description>
+    <rom name="Cosmic Chasm (World).vec" size="4096" crc="6c1afa52" md5="9b61653ed9dafd4cfb7f9d94404259ac" sha1="56a7f277bf09f94461dda542c04c36266d838b86" />
+  </game>
+  <game name="Fortress of Narzod (USA, Europe)">
+    <category>Games</category>
+    <description>Fortress of Narzod (USA, Europe)</description>
+    <rom name="Fortress of Narzod (USA, Europe).vec" size="8192" crc="13a35c8a" md5="e65b3262e9447a747d93e0ccb1dbb7df" sha1="286e061331289b031de33725a4966c379c1df47f" />
+  </game>
+  <game name="HyperChase - Auto Race (World)">
+    <category>Games</category>
+    <description>HyperChase - Auto Race (World)</description>
+    <rom name="HyperChase - Auto Race (World).vec" size="4096" crc="4bb13472" md5="7580926ee22f06fd2ccde4b65184715f" sha1="a246f1d94a5b062b60784787a1d6d499b21c10cd" />
+  </game>
+  <game name="Mine Storm (World)">
+    <category>Games</category>
+    <description>Mine Storm (World)</description>
+    <rom name="Mine Storm (World).vec" size="4096" crc="6d509566" md5="ee19e350be0af2a509a202b057488dc8" sha1="5f00ed35f189357b4a16a190520166371ca57906" />
+  </game>
+  <game name="Mr. Boston Clean Sweep (Europe)">
+    <category>Games</category>
+    <description>Mr. Boston Clean Sweep (Europe)</description>
+    <rom name="Mr. Boston Clean Sweep (Europe).vec" size="8192" crc="bd4da4c2" md5="1c95cf8fcd2c98db747208ade464a44f" sha1="299841a116e59399af4e74ccae23ddfc078e007b" />
+  </game>
+  <game name="Rip Off (World)">
+    <category>Games</category>
+    <description>Rip Off (World)</description>
+    <rom name="Rip Off (World).vec" size="4096" crc="34a98132" md5="808e0501990bd01882c102df00f20064" sha1="22f7a490f6f7aaa31e892b03a85178af211f62e3" />
+  </game>
+  <game name="Scramble (USA, Europe)">
+    <category>Games</category>
+    <description>Scramble (USA, Europe)</description>
+    <rom name="Scramble (USA, Europe).vec" size="4096" crc="707c8ffe" md5="95370908561a782edf138df41ccb8f18" sha1="38e38b5c60466146d4648f8929b5ce3a08dcbe0d" />
+  </game>
+  <game name="Solar Quest (World)">
+    <category>Games</category>
+    <description>Solar Quest (World)</description>
+    <rom name="Solar Quest (World).vec" size="4096" crc="5c4611c8" md5="11a9bd419cf094de8caa8a44d76b69ab" sha1="38072dc491d5c729c06f4c50bc310d361e0ff62a" />
+  </game>
+  <game name="Space Wars (World)">
+    <category>Games</category>
+    <description>Space Wars (World)</description>
+    <rom name="Space Wars (World).vec" size="4096" crc="a3be5aff" md5="2decdf9f55df7fb99761b2fe51425e40" sha1="0c229dd12a55044681585f7fdabd37dbc1243b59" />
+  </game>
+  <game name="Spike (USA, Europe)">
+    <category>Games</category>
+    <description>Spike (USA, Europe)</description>
+    <rom name="Spike (USA, Europe).vec" size="8192" crc="62a61843" md5="5a90ab748f7b220edaf8c1d67e0bfe89" sha1="8bba6705e6f69f55ab6d105eac2fd5b0c0d16d9f" />
+  </game>
+  <game name="Star Ship (Europe)">
+    <category>Games</category>
+    <description>Star Ship (Europe)</description>
+    <rom name="Star Ship (Europe).vec" size="4096" crc="7967a8cb" md5="47cefe6f77dbafb4475a64fe89da02c0" sha1="d182eac5a54ffc642fcbe4a495c7c09f87b43585" />
+  </game>
+  <game name="StarHawk (World)">
+    <category>Games</category>
+    <description>StarHawk (World)</description>
+    <rom name="StarHawk (World).vec" size="4096" crc="4de1f06b" md5="add42c10019e88f47dd98791f8de3148" sha1="d6b388b3951e34971c1b00c7fdf8dd00ad52df09" />
+  </game>
+  <game name="WebWarp (Europe)">
+    <category>Games</category>
+    <description>WebWarp (Europe)</description>
+    <rom name="WebWarp (Europe).vec" size="8192" crc="521107c3" md5="a3e0f44454d4100b18493f1bd2485d8b" sha1="9681dc5d38a31cb0d0c6c3bd0fc76bfdde531cce" />
+  </game>
+</datafile>

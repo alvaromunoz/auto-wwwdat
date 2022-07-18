@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (VPK) (Retool)</name>
+    <description>Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (VPK) (Retool)</description>
+    <version>20220715-105412</version>
+    <date>2022-07-18 08-12-22</date>
+    <author>Densetsu, diego-rbb, Gefflon, Hiccup, SonGoku, UnlockerPT, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="BlazBlue - Chrono Phantasma Extend (Europe) (En,Ja) (Story &amp; Gallery Mode) (DLC)">
+    <category>Games</category>
+    <description>BlazBlue - Chrono Phantasma Extend (Europe) (En,Ja) (Story &amp; Gallery Mode) (DLC)</description>
+    <rom name="BlazBlue - Chrono Phantasma Extend (Europe) (En,Ja) (Story &amp; Gallery Mode) (DLC).vpk" size="2277041861" crc="17261ebf" md5="00c41d0ce6dcdd70ab44d25ebf8c9875" sha1="5dae9bb81e862535af0794556af388a5be0c0626" />
+  </game>
+  <game name="Borderlands 2 (Europe) (En,Fr,De) (Update 1.07) (DLC)">
+    <category>Games</category>
+    <description>Borderlands 2 (Europe) (En,Fr,De) (Update 1.07) (DLC)</description>
+    <rom name="Borderlands 2 (Europe) (En,Fr,De) (Update 1.07) (DLC).vpk" size="286139278" crc="6a2ea6bc" md5="69db88ac1484c3e22e14c750ac954329" sha1="0a160929a1b26afc70d01f6ac4baf0e91d92f23a" />
+  </game>
+  <game name="Broken Sword 5 - The Serpent's Curse (Europe) (En,Fr,De,Es,It) (PSN)">
+    <category>Games</category>
+    <description>Broken Sword 5 - The Serpent's Curse (Europe) (En,Fr,De,Es,It) (PSN)</description>
+    <rom name="Broken Sword 5 - The Serpent's Curse (Europe) (En,Fr,De,Es,It) (PSN).vpk" size="1812753147" crc="6258f78e" md5="546e3f25c4bbfb0ecd0c22c0f8a885a8" sha1="6c6bc7260634a9f8930c83abb9da48b1a9412e0c" />
+  </game>
+  <game name="CastleStorm (Europe) (En,Fr,De,Es,It) (PSN)">
+    <category>Games</category>
+    <description>CastleStorm (Europe) (En,Fr,De,Es,It) (PSN)</description>
+    <rom name="CastleStorm (Europe) (En,Fr,De,Es,It) (PSN).vpk" size="266272174" crc="3a95a5f6" md5="49677d3fd805ba01d691eeac4dd566ce" sha1="cdf776bbf5d4c8ff6c475e2fda150391a0add0d8" />
+  </game>
+  <game name="Croixleur Sigma (Europe) (PSN)">
+    <category>Games</category>
+    <description>Croixleur Sigma (Europe) (PSN)</description>
+    <rom name="Croixleur Sigma (Europe) (PSN).vpk" size="847619158" crc="aa052226" md5="a51ecebfa5f7bf3d68081e2545af606b" sha1="69bdb1735cafd7bf385b174c8dfa08e097daf15a" />
+  </game>
+  <game name="Dynasty Warriors Next (Europe) (Update 1.01) (DLC)">
+    <category>Games</category>
+    <description>Dynasty Warriors Next (Europe) (Update 1.01) (DLC)</description>
+    <rom name="Dynasty Warriors Next (Europe) (Update 1.01) (DLC).vpk" size="4817986" crc="a4b96f85" md5="4b987054d7ab786b43c75819d408b2a4" sha1="9acaefbe40489885b04ad576950ff3b151eb51fb" />
+  </game>
+  <game name="Furmins (Europe) (PSN)">
+    <category>Games</category>
+    <description>Furmins (Europe) (PSN)</description>
+    <rom name="Furmins (Europe) (PSN).vpk" size="43305487" crc="27541f5d" md5="d2e7123c6079d9d23de188c9eb0e201d" sha1="d71e613ee875c13b2236df1afb778abb53897186" />
+  </game>
+  <game name="Home - A Unique Horror Adventure (Europe) (PSN)">
+    <category>Games</category>
+    <description>Home - A Unique Horror Adventure (Europe) (PSN)</description>
+    <rom name="Home - A Unique Horror Adventure (Europe) (PSN).vpk" size="45849381" crc="0a801a22" md5="05ad04d5c3761ee961061d4ece8c0eba" sha1="37dd71eab0c9c536ae3dc57b034bb003cb2658f0" />
+  </game>
+  <game name="MotoGP 13 (Europe) (En,Fr,De,Es,It) (Update 1.02) (DLC)">
+    <category>Games</category>
+    <description>MotoGP 13 (Europe) (En,Fr,De,Es,It) (Update 1.02) (DLC)</description>
+    <rom name="MotoGP 13 (Europe) (En,Fr,De,Es,It) (Update 1.02) (DLC).vpk" size="27970216" crc="44abb644" md5="43ab4bc933ff17a1545de868a5f6e9cb" sha1="91abb4ca8422d129388161d44293b0a1d5ba77ba" />
+  </game>
+  <game name="Nun Attack (Europe) (PSN)">
+    <category>Games</category>
+    <description>Nun Attack (Europe) (PSN)</description>
+    <rom name="Nun Attack (Europe) (PSN).vpk" size="113878361" crc="1f025610" md5="da366ec8541269638222fb21924ec018" sha1="b277d6034547dfe5d945fcb890a02968794eb005" />
+  </game>
+  <game name="Pure Chess (Europe) (PSN)">
+    <category>Games</category>
+    <description>Pure Chess (Europe) (PSN)</description>
+    <rom name="Pure Chess (Europe) (PSN).vpk" size="373413165" crc="c067aac0" md5="2604f17f149499dcebb88d5485bf9bbe" sha1="a13c6da9435dab324750a0653a8d77ff26b4698b" />
+  </game>
+  <game name="Race the Sun (Europe) (PSN)">
+    <category>Games</category>
+    <description>Race the Sun (Europe) (PSN)</description>
+    <rom name="Race the Sun (Europe) (PSN).vpk" size="158483100" crc="a7a91c21" md5="51eca28d1a0b1a450e322820bedb5deb" sha1="e5f5c1e1c59bd0d3347ca844f60332147bd71f40" />
+  </game>
+  <game name="Race the Sun (Europe) (Update) (DLC)">
+    <category>Games</category>
+    <description>Race the Sun (Europe) (Update) (DLC)</description>
+    <rom name="Race the Sun (Europe) (Update) (DLC).vpk" size="154375091" crc="4c59bd5a" md5="e4e6459660027aa8bdc7fc89adec9ca0" sha1="bbf0c6187fd50f7b06437dfa8fab400a7750bc93" />
+  </game>
+  <game name="Resogun (Europe) (En,Fr,It,Pt) (PSN)">
+    <category>Games</category>
+    <description>Resogun (Europe) (En,Fr,It,Pt) (PSN)</description>
+    <rom name="Resogun (Europe) (En,Fr,It,Pt) (PSN).vpk" size="218978490" crc="194b8f3b" md5="0c34e2f60ecb335fbf212b2202502529" sha1="91c64ed096917978b66d4e533f68b8575f72d84e" />
+  </game>
+  <game name="Shutshimi (Europe) (PSN)">
+    <category>Games</category>
+    <description>Shutshimi (Europe) (PSN)</description>
+    <rom name="Shutshimi (Europe) (PSN).vpk" size="243471982" crc="9d25fbc7" md5="7578a1e575e5b6f108becd35e6b187a5" sha1="cd4c6d067034da5997ab00d6a00397edbb06fb79" />
+  </game>
+  <game name="Spelunky (Europe) (PSN)">
+    <category>Games</category>
+    <description>Spelunky (Europe) (PSN)</description>
+    <rom name="Spelunky (Europe) (PSN).vpk" size="130382339" crc="e81d4feb" md5="98e77f35c90ff28e02184a08cee45b98" sha1="81e6fe276ee82bc6ce91fbc39ab5e7af7b0ec531" />
+  </game>
+  <game name="Stick it to the Man! (Europe) (PSN)">
+    <category>Games</category>
+    <description>Stick it to the Man! (Europe) (PSN)</description>
+    <rom name="Stick it to the Man! (Europe) (PSN).vpk" size="1035124130" crc="ba628e17" md5="fd3c771565c3ad842bb09d4e631de522" sha1="e998623644e12df37baed569a0b79b1f8f3927a6" />
+  </game>
+  <game name="WRC 4 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It) (Update 1.01) (DLC)">
+    <category>Games</category>
+    <description>WRC 4 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It) (Update 1.01) (DLC)</description>
+    <rom name="WRC 4 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It) (Update 1.01) (DLC).vpk" size="21642929" crc="2116fe8a" md5="e608a50a4b05c501480c1047546e5c62" sha1="ec80aed5c169f9cb69b23575724cb9fd0f97bae2" />
+  </game>
+</datafile>

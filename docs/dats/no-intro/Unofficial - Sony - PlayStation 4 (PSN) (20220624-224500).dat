@@ -2662,15 +2662,20 @@
     <game_id>EP1018-CUSA03991_00-DLEEGAME00000000</game_id>
     <rom name="Dying Light - The Following - Enhanced Edition (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (Blu-ray).pkg" size="16043278336" crc="3ad757ee" md5="3fbade7c5e6b3eb45932773e5cd5437d" sha1="31351a2f503b17112744e219ece5353ec7cff006" sha256="fe4721384ae1136ca57b65e9b82fa339f2f5556861710bd3fa86dab4437ede53" />
   </game>
-  <game name="Dynasty Warriors 8 - Empires (USA) (v1.04 Patch)">
-    <description>Dynasty Warriors 8 - Empires (USA) (v1.04 Patch)</description>
-    <game_id>UP4108-CUSA01632_00-DW8EMPBOOT000001</game_id>
-    <rom name="Dynasty Warriors 8 - Empires (USA) (v1.04 Patch).pkg" size="99090432" crc="bb30f5ee" md5="a7320de5b16e4de536c6f5d8afee367f" sha1="465d1db94d001c69a9efc8bea500b9aa49f04a4d" sha256="1d9057df3da8fa7477661a23a2c0182bb53e931b618c70d58b1defa32650a67c" />
+  <game name="Dying Light - The Following - Enhanced Edition (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged)">
+    <description>Dying Light - The Following - Enhanced Edition (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged)</description>
+    <game_id>UP1018-CUSA03946_00-DLEEGAME00000000</game_id>
+    <rom name="Dying Light - The Following - Enhanced Edition (Europe) (En,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Pl,Ru,Tr) (v1.37 Merged).pkg" size="20653801472" crc="93e7e0a8" md5="f6dcb31a2f331f48711438906e6d6334" sha1="b9104b71ca264507d44726449de2f2854f1afc59" sha256="baba49a767c3128d94c70ab9c08d9d47ef863384901153c8e2c5f350c4f5e628" />
   </game>
   <game name="Dynasty Warriors 8 - Empires (USA) (Blu-ray)">
     <description>Dynasty Warriors 8 - Empires (USA) (Blu-ray)</description>
     <game_id>UP4108-CUSA01632_00-DW8EMPBOOT000001</game_id>
     <rom name="Dynasty Warriors 8 - Empires (USA) (Blu-ray).pkg" size="19550765056" crc="c612059e" md5="eea74eaa5929d3a635435c6af0634f5b" sha1="427cc49a032bc23781b5a00827fc350f2a7de6de" sha256="4f801b15a95e00f50d9cb1618587da16b7b213abfd08cca71d628ccadc76ff99" />
+  </game>
+  <game name="Dynasty Warriors 8 - Empires (USA) (v1.04 Patch)">
+    <description>Dynasty Warriors 8 - Empires (USA) (v1.04 Patch)</description>
+    <game_id>UP4108-CUSA01632_00-DW8EMPBOOT000001</game_id>
+    <rom name="Dynasty Warriors 8 - Empires (USA) (v1.04 Patch).pkg" size="99090432" crc="bb30f5ee" md5="a7320de5b16e4de536c6f5d8afee367f" sha1="465d1db94d001c69a9efc8bea500b9aa49f04a4d" sha256="1d9057df3da8fa7477661a23a2c0182bb53e931b618c70d58b1defa32650a67c" />
   </game>
   <game name="Dynasty Warriors 8 - Xtreme Legends - Complete Edition (USA) (Blu-ray)">
     <description>Dynasty Warriors 8 - Xtreme Legends - Complete Edition (USA) (Blu-ray)</description>
