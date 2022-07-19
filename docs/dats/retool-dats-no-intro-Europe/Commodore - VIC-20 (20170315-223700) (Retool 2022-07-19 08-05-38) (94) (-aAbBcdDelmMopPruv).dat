@@ -1,0 +1,487 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Commodore - VIC-20 (Retool)</name>
+    <description>Commodore - VIC-20 (Retool)</description>
+    <version>20170315-223700</version>
+    <date>2022-07-19 08-05-38</date>
+    <author>C. V. Reynolds, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="A.E. (World)">
+    <category>Games</category>
+    <description>A.E. (World)</description>
+    <rom name="A.E. (World).60" size="16384" crc="29f2f0f9" md5="a771afb742e2d120cc8f5840646e1139" sha1="320b9d21dd99f9e9086387952905ec95c2339894" />
+  </game>
+  <game name="Adventureland Adventure (World) (SYS 32592)">
+    <category>Games</category>
+    <description>Adventureland Adventure (World) (SYS 32592)</description>
+    <rom name="Adventureland Adventure (World) (SYS 32592).40" size="16384" crc="47c59df4" md5="808e6b1a692ec345c9f0e4d87d21f49d" sha1="cb29d160672d9c4383bc2549909bc6f5a059dc5d" />
+  </game>
+  <game name="Aggressor (Europe)">
+    <category>Games</category>
+    <description>Aggressor (Europe)</description>
+    <rom name="Aggressor (Europe).a0" size="8192" crc="8610fbab" md5="4b46ff491134e2b006e708e9b015ecd7" sha1="c89c75d5c543c68b429c7d7f98f68105464d3b19" />
+  </game>
+  <game name="Amazing Maze (World)">
+    <category>Games</category>
+    <description>Amazing Maze (World)</description>
+    <rom name="Amazing Maze (World).a0" size="4096" crc="e50e9e0d" md5="42ce1444406fd03364aa39ad1dbe1fab" sha1="b702f86e18eb51ffbe357b074ab27331b03671c7" />
+  </game>
+  <game name="Amidar (Europe)">
+    <category>Games</category>
+    <description>Amidar (Europe)</description>
+    <rom name="Amidar (Europe).a0" size="8192" crc="eebd9d68" md5="8de5c5b65f897e8c2766c332702299a5" sha1="b67ade8e5f09f68c1c31002250f0cca35940ee01" />
+  </game>
+  <game name="Amok! (World)">
+    <category>Games</category>
+    <description>Amok! (World)</description>
+    <rom name="Amok! (World).a0" size="4096" crc="77738d0b" md5="650c367b372c6c553e5a406efd3d3666" sha1="a354481bdc5411e07a446a8a41397e7237d9f198" />
+  </game>
+  <game name="Ape Escape (World)">
+    <category>Games</category>
+    <description>Ape Escape (World)</description>
+    <rom name="Ape Escape (World).a0" size="8192" crc="771eff92" md5="118ab920bd299ec18917555b49abfa0e" sha1="81a6483ec3989586c6dc4442443ccabb3f4aafe7" />
+  </game>
+  <game name="Arachnoid (World)">
+    <category>Games</category>
+    <description>Arachnoid (World)</description>
+    <rom name="Arachnoid (World).60" size="16384" crc="08a72c73" md5="aee9686501007e32b7bcd91866c71a9c" sha1="d027ea94924e69e6469a2b4065ee49d11384f420" />
+  </game>
+  <game name="Arcadia (Europe)">
+    <category>Games</category>
+    <description>Arcadia (Europe)</description>
+    <rom name="Arcadia (Europe).a0" size="8192" crc="9eac9fab" md5="cb4238066339713c9844711b0e3f5c04" sha1="0432f1719422f385ededb98e0739bdcbccafc12c" />
+  </game>
+  <game name="Astroblitz (Europe)">
+    <category>Games</category>
+    <description>Astroblitz (Europe)</description>
+    <rom name="Astroblitz (Europe).a0" size="4096" crc="0f6c5ed9" md5="b38202dbe3c048f65c1c9fe9c0e4756e" sha1="b8cf27b4768ef9eda8e2466f8d0471fd6905814c" />
+  </game>
+  <game name="Atlantis (Europe)">
+    <category>Games</category>
+    <description>Atlantis (Europe)</description>
+    <rom name="Atlantis (Europe).a0" size="4096" crc="b81c0e71" md5="f34fc4a66d2357e1e4771db50e81e335" sha1="81531534830b1431e324cdc952127682e5b13bd4" />
+  </game>
+  <game name="Attack of the Mutant Camels (World)">
+    <category>Games</category>
+    <description>Attack of the Mutant Camels (World)</description>
+    <rom name="Attack of the Mutant Camels (World).a0" size="8192" crc="d754b1ed" md5="f1299257e177a951a60720a958e21b63" sha1="b5915e82f965f77b76379ea29ee9f20252313207" />
+  </game>
+  <game name="Bank Robber (World)">
+    <category>Games</category>
+    <description>Bank Robber (World)</description>
+    <rom name="Bank Robber (World).a0" size="8192" crc="4c19c3d8" md5="722360fdb3f7133a6e435cb9579be638" sha1="e4fa9d952eb79d50668ad3c1a4edf372cd1a6a0f" />
+  </game>
+  <game name="Black Hole (Europe)">
+    <category>Games</category>
+    <description>Black Hole (Europe)</description>
+    <rom name="Black Hole (Europe).a0" size="4096" crc="c72e5b1a" md5="80f9bd1302d7939485c78db1af8fb577" sha1="d0b1006f71ee5e833cea180c212d9cda0d866485" />
+  </game>
+  <game name="Buck Rogers - Planet of Zoom (World)">
+    <category>Games</category>
+    <description>Buck Rogers - Planet of Zoom (World)</description>
+    <rom name="Buck Rogers - Planet of Zoom (World).60" size="16384" crc="5ba2a948" md5="2f27d6f496909ff61b83e662f696e378" sha1="904890157b33bebae654526beb07c5f17f8af78c" />
+  </game>
+  <game name="Bug Crusher (World)">
+    <category>Games</category>
+    <description>Bug Crusher (World)</description>
+    <rom name="Bug Crusher (World).a0" size="4096" crc="cfc4446e" md5="382638cbcca2c300179bfec02f040db6" sha1="8714770c914b88392385bec6031e3ec81edd5c72" />
+  </game>
+  <game name="Catch-a-Snatch (Europe)">
+    <category>Games</category>
+    <description>Catch-a-Snatch (Europe)</description>
+    <rom name="Catch-a-Snatch (Europe).a0" size="8192" crc="7ce85c78" md5="d44867ee1abcabadc9a3189a94278e33" sha1="c9fbdaa22b89ecbd98ba6ee2bdcc9b6d7615e8a0" />
+  </game>
+  <game name="Cave-in (World)">
+    <category>Games</category>
+    <description>Cave-in (World)</description>
+    <rom name="Cave-in (World).a0" size="8192" crc="6e97e264" md5="6202c2720152ca4c34d8b7099b18f9cb" sha1="25d6da3fc657ecadb0fa1fd411858d711fb3e16e" />
+  </game>
+  <game name="Choplifter (Europe)">
+    <category>Games</category>
+    <description>Choplifter (Europe)</description>
+    <rom name="Choplifter (Europe).a0" size="8192" crc="c2bb37e1" md5="11666fdae8bc5daa12f81e2233c38611" sha1="f847e88ade0a8f1f366a42be5f16b2d4332fc270" />
+  </game>
+  <game name="Chuck Norris Superkicks (World)">
+    <category>Games</category>
+    <description>Chuck Norris Superkicks (World)</description>
+    <rom name="Chuck Norris Superkicks (World).a0" size="8192" crc="2c3f7680" md5="0036deae9c6558ade975856ff70f30eb" sha1="958b227c2378930b38db2c3bdf5b7d771f830649" />
+  </game>
+  <game name="Cloudburst (Europe)">
+    <category>Games</category>
+    <description>Cloudburst (Europe)</description>
+    <rom name="Cloudburst (Europe).a0" size="4096" crc="7bc4e9f3" md5="641b1ac075b7835ef6278a500976acee" sha1="240c9327aa5503cf56c4317cb250b211c542fe8d" />
+  </game>
+  <game name="Computer War (World)">
+    <category>Games</category>
+    <description>Computer War (World)</description>
+    <rom name="Computer War (World).a0" size="8192" crc="f956c5d6" md5="857246f97ba757a91a23e4a11878d2bf" sha1="b33735d2762cb9968ad4245a5d33186f73f486b3" />
+  </game>
+  <game name="Cosmic Cruncher (World)">
+    <category>Games</category>
+    <description>Cosmic Cruncher (World)</description>
+    <rom name="Cosmic Cruncher (World).a0" size="8192" crc="27c4962a" md5="683de21b25b3d9d4098fe40669c66476" sha1="dc1bccb54fe7dc7466adb6b34182fd5f400a3b94" />
+  </game>
+  <game name="Count Adventure, The (World) (SYS 32592)">
+    <category>Games</category>
+    <description>Count Adventure, The (World) (SYS 32592)</description>
+    <rom name="Count Adventure, The (World) (SYS 32592).40" size="16384" crc="05acb7ab" md5="48619fcdae8a0c490d4c9761f6f4d2ae" sha1="81b4fca6eaf0a200948eb1d7eaf14c1dd401ad5b" />
+  </game>
+  <game name="Crossfire (Europe)">
+    <category>Games</category>
+    <description>Crossfire (Europe)</description>
+    <rom name="Crossfire (Europe).a0" size="8192" crc="d6be15c9" md5="5fc8e591207d17b82d641ed07c2385ba" sha1="20cf3e8d85e31307ae5e46dae4df594a351f040b" />
+  </game>
+  <game name="Cyclon (World)">
+    <category>Games</category>
+    <description>Cyclon (World)</description>
+    <rom name="Cyclon (World).a0" size="8192" crc="d6c393ab" md5="fd9992d20bfd3296b4211774c4ea8595" sha1="4a4a5a2b4bc08b6cd5b5da39b5dc7bb8c2747e24" />
+  </game>
+  <game name="Deadly Duck (Europe)">
+    <category>Games</category>
+    <description>Deadly Duck (Europe)</description>
+    <rom name="Deadly Duck (Europe).a0" size="4096" crc="bc0cf5d8" md5="941c9a9c6da2ed4a782de9601e466bf9" sha1="9a14eebc56a16a0cbb6edb54fc626347dbf6e2d4" />
+  </game>
+  <game name="Deadly Skies (Europe)">
+    <category>Games</category>
+    <description>Deadly Skies (Europe)</description>
+    <rom name="Deadly Skies (Europe).a0" size="4096" crc="6ea53c70" md5="16ef1f9696b2ed85a2c7e922c3bf505a" sha1="e85c5b2a41c10d30bf64001b10506e201a49a068" />
+  </game>
+  <game name="Defender (World) (v1.1)">
+    <category>Games</category>
+    <description>Defender (World) (v1.1)</description>
+    <rom name="Defender (World) (v1.1).60" size="16384" crc="ee529ef2" md5="4041c1102dbed2a037306e886280c63b" sha1="f537e8153622a8a828bedf39f8c436538818ec73" />
+  </game>
+  <game name="Demon Attack (Europe)">
+    <category>Games</category>
+    <description>Demon Attack (Europe)</description>
+    <rom name="Demon Attack (Europe).a0" size="4096" crc="fd031042" md5="1faea36499da6bc7a3189728edb3455e" sha1="99277547d3aa48417374e43ad4b1da2c95472199" />
+  </game>
+  <game name="Dragonfire (World)">
+    <category>Games</category>
+    <description>Dragonfire (World)</description>
+    <rom name="Dragonfire (World).a0" size="8192" crc="3a0b13ab" md5="91bbc2c6fc036f9948a0d56944a74482" sha1="431487b8a822412024bfc8c252b23452450d3c93" />
+  </game>
+  <game name="Droids (World)">
+    <category>Games</category>
+    <description>Droids (World)</description>
+    <rom name="Droids (World).a0" size="8192" crc="42bf39be" md5="15a8f8310941dec53f9c4b099c788f7a" sha1="3ac9668259e4abbf98d4f6d98c28044e1f4a3b8d" />
+  </game>
+  <game name="E.T. - The Extra-Terrestrial (Europe)">
+    <category>Games</category>
+    <description>E.T. - The Extra-Terrestrial (Europe)</description>
+    <rom name="E.T. - The Extra-Terrestrial (Europe).a0" size="8192" crc="c238527c" md5="358f8221571f445c200f7aef39ce7d8b" sha1="45c483e2e2eba1f422325429f3a7247cef3462e3" />
+  </game>
+  <game name="Face Maker (World)">
+    <category>Games</category>
+    <description>Face Maker (World)</description>
+    <rom name="Face Maker (World).a0" size="8192" crc="965f0448" md5="af7fc201f89419c7a60ed74217b40ef6" sha1="289000ca65c21cb2ed73fe6afe8c3e6b5f18b533" />
+  </game>
+  <game name="Fourth Encounter, The (World)">
+    <category>Games</category>
+    <description>Fourth Encounter, The (World)</description>
+    <rom name="Fourth Encounter, The (World).a0" size="8192" crc="da4a0922" md5="6a613dba6d6b3d41543c6daef27cafe8" sha1="0655948ea8d48060ce7acd43da4fbc82741d8ce8" />
+  </game>
+  <game name="Fun with Music (World)">
+    <category>Games</category>
+    <description>Fun with Music (World)</description>
+    <rom name="Fun with Music (World).a0" size="8192" crc="fff7e3d2" md5="270ac3cb613af1b5f97d3cd437e17c9e" sha1="f02ccfa0b793e984a0bced6460a7844861d62d8e" />
+  </game>
+  <game name="Galaxian (World)">
+    <category>Games</category>
+    <description>Galaxian (World)</description>
+    <rom name="Galaxian (World).a0" size="8192" crc="bde05533" md5="89dd2f0ee60731f49d078a7de3ce22df" sha1="f9b179da71893813e9a70494dea9babc85595e18" />
+  </game>
+  <game name="Gold Fever (World)">
+    <category>Games</category>
+    <description>Gold Fever (World)</description>
+    <rom name="Gold Fever (World).a0" size="4096" crc="90c65375" md5="67780503d98125c311eacc2673b03fec" sha1="a689b2efb42e2b3db90af64f288a2a1f13e28e9d" />
+  </game>
+  <game name="Gridrunner (Europe)">
+    <category>Games</category>
+    <description>Gridrunner (Europe)</description>
+    <rom name="Gridrunner (Europe).a0" size="4096" crc="c1b3e1ca" md5="601650cb5d636777ed960afb6d93f2c4" sha1="878f5adda944a9bc2852c13952d40fca971964d2" />
+  </game>
+  <game name="Home Babysitter (World)">
+    <category>Games</category>
+    <description>Home Babysitter (World)</description>
+    <rom name="Home Babysitter (World).a0" size="8192" crc="dea14651" md5="085bf6f4098b75a98c5eca366892b714" sha1="6af39698f9056e31cae185076dd11b6a7647ab81" />
+  </game>
+  <game name="IFR (Flight Simulator) (World)">
+    <category>Games</category>
+    <description>IFR (Flight Simulator) (World)</description>
+    <rom name="IFR (Flight Simulator) (World).a0" size="8192" crc="fb97bd96" md5="c0678c9dfdabd2d8ab68662282b0f15f" sha1="130873b7e2dde965af451f730d08956d12cfadbe" />
+  </game>
+  <game name="Jawbreaker II (Europe)">
+    <category>Games</category>
+    <description>Jawbreaker II (Europe)</description>
+    <rom name="Jawbreaker II (Europe).a0" size="8192" crc="a92bfff2" md5="d661999f83a486379b1e8f9ece76df51" sha1="cc63a501df4d4199ef2fcbe00dc34ec44150e4ea" />
+  </game>
+  <game name="K-Razy Antiks (Europe)">
+    <category>Games</category>
+    <description>K-Razy Antiks (Europe)</description>
+    <rom name="K-Razy Antiks (Europe).60" size="4096" crc="86479a98" md5="1f829c67556db8072554186645574df1" sha1="146a05d559f76edc267c68a65aca1fc759f4a9a9" />
+    <rom name="K-Razy Antiks (Europe).a0" size="8192" crc="324e2a30" md5="e116e96475e50a0a2c5008a2f52b8b2a" sha1="887eaa98420655628997d7c89622e9b285955649" />
+  </game>
+  <game name="K-Star Patrol (Europe)">
+    <category>Games</category>
+    <description>K-Star Patrol (Europe)</description>
+    <rom name="K-Star Patrol (Europe).60" size="16384" crc="5eb2be5e" md5="afcae4d437d40427201bff71f745df9e" sha1="2af7e9cc6a549ae3957b8008b813d8e964a2414f" />
+  </game>
+  <game name="Kids on Keys (World)">
+    <category>Games</category>
+    <description>Kids on Keys (World)</description>
+    <rom name="Kids on Keys (World).a0" size="8192" crc="e695bd44" md5="853fa4b04588d4ab86189453890bac93" sha1="e970e6f979607fbd92f3836cdfe309cc77979805" />
+  </game>
+  <game name="Kindercomp (World)">
+    <category>Games</category>
+    <description>Kindercomp (World)</description>
+    <rom name="Kindercomp (World).60" size="16384" crc="c34d6ac4" md5="3529cc09039de0cbcc76efd849ea01cd" sha1="16bcdd7d35df9e64ab1447732ea599cd046cc618" />
+  </game>
+  <game name="Lazer Zone (World)">
+    <category>Games</category>
+    <description>Lazer Zone (World)</description>
+    <rom name="Lazer Zone (World).a0" size="8192" crc="019d102b" md5="00a4346bacf11ad12c31f0541def1257" sha1="d816fae84d86928cdd2a3fe9bd5903f15378c154" />
+  </game>
+  <game name="Lode Runner (World)">
+    <category>Games</category>
+    <description>Lode Runner (World)</description>
+    <rom name="Lode Runner (World).60" size="16384" crc="933d6c51" md5="b8659985a43cf3d36359d8e502ea35e6" sha1="17fc0f1abae295b7b2fea8e2e73a02df59f56105" />
+  </game>
+  <game name="Mastertype (World)">
+    <category>Games</category>
+    <description>Mastertype (World)</description>
+    <rom name="Mastertype (World).60" size="16384" crc="38674bc2" md5="f041cbbb2994c40e048bdebcf766d0db" sha1="3d658542ffd95a2657323a61e86f63c4b4a90498" />
+  </game>
+  <game name="Medieval Joust (World)">
+    <category>Games</category>
+    <description>Medieval Joust (World)</description>
+    <rom name="Medieval Joust (World).a0" size="8192" crc="8bcd8c00" md5="925b2bcef37b1d36ee57ef4e04ac59ed" sha1="1f0f22f19bb9e47af76b08e2dd480ce448e08053" />
+  </game>
+  <game name="Menagerie (World)">
+    <category>Games</category>
+    <description>Menagerie (World)</description>
+    <rom name="Menagerie (World).a0" size="8192" crc="a3c74629" md5="c91808744ffbd966c104a49d6c2b3ba1" sha1="aec46a3e6f9797b116cbe6a8792e00530234ae80" />
+  </game>
+  <game name="Meteor Run (Europe)">
+    <category>Games</category>
+    <description>Meteor Run (Europe)</description>
+    <rom name="Meteor Run (Europe).60" size="16384" crc="b078bb3f" md5="b375af1d9f639f334f405957121c4d94" sha1="3d02e53a980d37cc51345bc750867d4d338f96b4" />
+  </game>
+  <game name="Miner 2049'er (Europe)">
+    <category>Games</category>
+    <description>Miner 2049'er (Europe)</description>
+    <rom name="Miner 2049'er (Europe).a0" size="8192" crc="80439200" md5="82dc6ed7ca2e8d85840e05b6049a4365" sha1="32af135822d95ffec61cc11a6ba336897fdf867c" />
+  </game>
+  <game name="Mission Impossible Adventure (World) (SYS 32592)">
+    <category>Games</category>
+    <description>Mission Impossible Adventure (World) (SYS 32592)</description>
+    <rom name="Mission Impossible Adventure (World) (SYS 32592).40" size="16384" crc="e385353a" md5="f243fbc9decd2a344868ed2ac580100b" sha1="03c9d4453390d37e71e345faa409eb01a1cfeff9" />
+  </game>
+  <game name="Monster Maze (World)">
+    <category>Games</category>
+    <description>Monster Maze (World)</description>
+    <rom name="Monster Maze (World).a0" size="8192" crc="3dd2f438" md5="d7d11c9ea74b73341ca92760f39c2e0b" sha1="5ca560e1621746adba4a9e9ce82c745b997bb52c" />
+  </game>
+  <game name="Mosquito Infestation (Europe)">
+    <category>Games</category>
+    <description>Mosquito Infestation (Europe)</description>
+    <rom name="Mosquito Infestation (Europe).a0" size="4096" crc="ab89be36" md5="92617d8a2aee14ee12edb1ac298b2f6c" sha1="575fc5d44c90b46b07e7ba22adfcf713042f025d" />
+  </game>
+  <game name="Mutant Herd (Europe)">
+    <category>Games</category>
+    <description>Mutant Herd (Europe)</description>
+    <rom name="Mutant Herd (Europe).a0" size="8192" crc="ef92c07e" md5="e295ff86b9339937ff5a5cb4e1c41312" sha1="0346916eec6e82b5a4145dbfde87f98db1cd2944" />
+  </game>
+  <game name="Outworld (Europe)">
+    <category>Games</category>
+    <description>Outworld (Europe)</description>
+    <rom name="Outworld (Europe).a0" size="8192" crc="b9c82a34" md5="0237ae558b866c615958d25126d7de90" sha1="515c95f3fca57c3439e9636052d2c7b4e89d1099" />
+  </game>
+  <game name="Pac-Man (World)">
+    <category>Games</category>
+    <description>Pac-Man (World)</description>
+    <rom name="Pac-Man (World).a0" size="8192" crc="62f7f4a3" md5="f0b94ab9d8eb407d07025b20a7b860a9" sha1="15b0d43dd3741ea329aa59c627c62222aa70ca91" />
+  </game>
+  <game name="Pharaoh's Curse (World)">
+    <category>Games</category>
+    <description>Pharaoh's Curse (World)</description>
+    <rom name="Pharaoh's Curse (World).60" size="16384" crc="1ed80a24" md5="a950e48a7096ef130a80c84766774bec" sha1="f3744b60c795cf9b614ff9daaf05511d16ebb8c5" />
+  </game>
+  <game name="Pinball (Europe)">
+    <category>Games</category>
+    <description>Pinball (Europe)</description>
+    <rom name="Pinball (Europe).60" size="16384" crc="a1b241da" md5="70f6bd6fbd3e2df08cbd49151d4ad77c" sha1="cead3a7f1d5b7fbcc41855e862d887f5db6ab5a5" />
+  </game>
+  <game name="Pirate's Cove Adventure (World) (SYS 32592)">
+    <category>Games</category>
+    <description>Pirate's Cove Adventure (World) (SYS 32592)</description>
+    <rom name="Pirate's Cove Adventure (World) (SYS 32592).40" size="16384" crc="27cfafa3" md5="a5bd2a10c13181d712a6263d79a68e59" sha1="2e4accb6abb84c3a5062a98c398bee3fbf93f9e2" />
+  </game>
+  <game name="Predator (Europe)">
+    <category>Games</category>
+    <description>Predator (Europe)</description>
+    <rom name="Predator (Europe).a0" size="8192" crc="666c7c7a" md5="7346fa3d98694caf2f8f74d67e815568" sha1="bc6bdf642d27a2ff2c9a16a9a92b87680cfd4e37" />
+  </game>
+  <game name="Protector (World)">
+    <category>Games</category>
+    <description>Protector (World)</description>
+    <rom name="Protector (World).a0" size="8192" crc="451d0e1e" md5="fa1fcd213d08afd89bd8fe024e13c3d6" sha1="63e6ba97b833dfe1c74386fca2dfc018ab73e784" />
+  </game>
+  <game name="Quackers (Europe)">
+    <category>Games</category>
+    <description>Quackers (Europe)</description>
+    <rom name="Quackers (Europe).a0" size="8192" crc="99833504" md5="f3d49553389b5887d1fe7bef714d7468" sha1="e500b2676b5f074d71bc8a400834f6aa67461468" />
+  </game>
+  <game name="Raid on Fort Knox (World)">
+    <category>Games</category>
+    <description>Raid on Fort Knox (World)</description>
+    <rom name="Raid on Fort Knox (World).a0" size="8192" crc="d83dcb0e" md5="0e2167abfc597add60e03c35801fe9c9" sha1="3f1de25a22ecd94d15ea3e3a2f65c7bf4453aec7" />
+  </game>
+  <game name="Rat Hotel (Europe)">
+    <category>Games</category>
+    <description>Rat Hotel (Europe)</description>
+    <rom name="Rat Hotel (Europe).a0" size="8192" crc="c521d02f" md5="9d05834c3f72584239af91bd3cab1baf" sha1="317494773a4eb3cdeb66c9f36d8bec7613e50d80" />
+  </game>
+  <game name="River Rescue (World)">
+    <category>Games</category>
+    <description>River Rescue (World)</description>
+    <rom name="River Rescue (World).a0" size="8192" crc="9176e97f" md5="713c2a5656ffcf176cf46343a8892a37" sha1="b136ed904c95d8496e0935493f05eb264566aa31" />
+  </game>
+  <game name="Robot Panic (World)">
+    <category>Games</category>
+    <description>Robot Panic (World)</description>
+    <rom name="Robot Panic (World).a0" size="8192" crc="9282db33" md5="7320a95ad784e3a65968be7fa4f4607c" sha1="4d65707384b7be4ee4f59ad79186cb296c7dbc74" />
+  </game>
+  <game name="Satellites and Meteorites! (Europe)">
+    <category>Games</category>
+    <description>Satellites and Meteorites! (Europe)</description>
+    <rom name="Satellites and Meteorites! (Europe).a0" size="8192" crc="f3db203b" md5="47c738166c52c79f48ec8aacf806c57b" sha1="fe823deb548c3dac51b24aaf28758c248487f170" />
+  </game>
+  <game name="Scorpion (Europe)">
+    <category>Games</category>
+    <description>Scorpion (Europe)</description>
+    <rom name="Scorpion (Europe).a0" size="8192" crc="cbc23ea1" md5="d38d4a0463b675b9d3273d05ff3491b4" sha1="bcbbefd734ac6bee83e02a1d232f548dd806cbc7" />
+  </game>
+  <game name="Scram 20 (World)">
+    <category>Games</category>
+    <description>Scram 20 (World)</description>
+    <rom name="Scram 20 (World).a0" size="4096" crc="24d08856" md5="f9d3f8f0157a671209cc087525e35938" sha1="54bfccc2df8ee0e27b7c11986897f8f4b4210736" />
+  </game>
+  <game name="Serpentine (Europe)">
+    <category>Games</category>
+    <description>Serpentine (Europe)</description>
+    <rom name="Serpentine (Europe).a0" size="8192" crc="90592645" md5="d67f0093ecce78279fea106ffbca7027" sha1="6ea2c90874289399e3f0b71a7d95a8635a2e1ecb" />
+  </game>
+  <game name="Sir Lancelot (World)">
+    <category>Games</category>
+    <description>Sir Lancelot (World)</description>
+    <rom name="Sir Lancelot (World).a0" size="8192" crc="0a0dabec" md5="2fc3b1886066bac297f68d32a641ed92" sha1="5f74be5c64cd764fa6e13268266cfe790ac0da1c" />
+  </game>
+  <game name="Skibbereen (Europe)">
+    <category>Games</category>
+    <description>Skibbereen (Europe)</description>
+    <rom name="Skibbereen (Europe).a0" size="4096" crc="376b9a3e" md5="d5e76225a7f25d5bbc57e3bd87ee9129" sha1="c848869daefd55f7c2cd8029320d05780a288767" />
+  </game>
+  <game name="Spiders of Mars (Europe)">
+    <category>Games</category>
+    <description>Spiders of Mars (Europe)</description>
+    <rom name="Spiders of Mars (Europe).a0" size="8192" crc="be647bb5" md5="536a89f7ee23978a9f552e8c8d0b08c4" sha1="bd49fdbf39f5592a8746875b9fa9855b51e42b0b" />
+  </game>
+  <game name="Star Trek - Strategic Operations Simulator (World)">
+    <category>Games</category>
+    <description>Star Trek - Strategic Operations Simulator (World)</description>
+    <rom name="Star Trek - Strategic Operations Simulator (World).a0" size="8192" crc="dc95800f" md5="cce3c5a06d9546645740b3fc7870f273" sha1="4d2c6b511f9e7666bfdf66dafb3c1f043956f291" />
+  </game>
+  <game name="Story Machine (World)">
+    <category>Games</category>
+    <description>Story Machine (World)</description>
+    <rom name="Story Machine (World).60" size="8192" crc="8ba0e1a0" md5="e68d1574d8b83dc61aba28fddf203f2b" sha1="97052c7bc17688faebc1483c8cc9f958ad1ff9d6" />
+    <rom name="Story Machine (World).a0" size="4096" crc="b691d4df" md5="e9613664c1a54788673d66e078b4199c" sha1="7be1deccc0b9ded4a49d1991dc421cfa199f91aa" />
+  </game>
+  <game name="Sub Chase (Europe)">
+    <category>Games</category>
+    <description>Sub Chase (Europe)</description>
+    <rom name="Sub Chase (Europe).a0" size="4096" crc="585a901f" md5="95ec6d564aad1dee5559a834b26500ee" sha1="077ceaeb63fb95a8255321aded3f246c1142bd18" />
+  </game>
+  <game name="Submarine Commander (World)">
+    <category>Games</category>
+    <description>Submarine Commander (World)</description>
+    <rom name="Submarine Commander (World).60" size="4096" crc="8817b702" md5="3212256573230c6199e89345aa251b65" sha1="3311c1c9b864447349da3987056de2e7628496ce" />
+    <rom name="Submarine Commander (World).a0" size="8192" crc="e402fb1d" md5="63cff23dc7df736570347fbb9b26e949" sha1="0aa97e2931446b1286a01f563198e7c40f5b4678" />
+  </game>
+  <game name="Super Smash (Europe)">
+    <category>Games</category>
+    <description>Super Smash (Europe)</description>
+    <rom name="Super Smash (Europe).a0" size="8192" crc="f5671f11" md5="b95a3f6eac19af002a0f3b69325e5035" sha1="a7b8d5f249d80db1d559ab009adf8a71cae917a9" />
+  </game>
+  <game name="Tank Atak (Europe)">
+    <category>Games</category>
+    <description>Tank Atak (Europe)</description>
+    <rom name="Tank Atak (Europe).a0" size="8192" crc="4b6d5477" md5="c6411da6f3136a0938d3b4906013d3ff" sha1="ec1892427afc29fd76bcf6120e985d4ef99c0f41" />
+  </game>
+  <game name="Terraguard (Europe)">
+    <category>Games</category>
+    <description>Terraguard (Europe)</description>
+    <rom name="Terraguard (Europe).a0" size="4096" crc="08d51a03" md5="1934ade84aaa13475fc042e13610d83a" sha1="8fa90ca6cbc32db4efc01a1bb8329b0900d57558" />
+  </game>
+  <game name="Titan (World)">
+    <category>Games</category>
+    <description>Titan (World)</description>
+    <rom name="Titan (World).a0" size="8192" crc="b2625ec5" md5="7c16199590d7a93aeedfe58abfc1b386" sha1="616e9f26135653061b36cddb77e2e2da12660f22" />
+  </game>
+  <game name="Tomarc the Barbarian (World)">
+    <category>Games</category>
+    <description>Tomarc the Barbarian (World)</description>
+    <rom name="Tomarc the Barbarian (World).a0" size="8192" crc="6678daf4" md5="f3df15246eb4b8f6a95aafe37ccf3745" sha1="2100d4d96a68b5c523c740f6e3c935e4811c6843" />
+  </game>
+  <game name="Trashman (World)">
+    <category>Games</category>
+    <description>Trashman (World)</description>
+    <rom name="Trashman (World).a0" size="8192" crc="a6ee95b6" md5="e0056c81d21fae3d0832f3fe5ef9dfcb" sha1="f89307f900586ae870909a96ed7335b5ed197ffc" />
+  </game>
+  <game name="Tutankham (World)">
+    <category>Games</category>
+    <description>Tutankham (World)</description>
+    <rom name="Tutankham (World).a0" size="8192" crc="bf4d8607" md5="fe33d677ad2f372e7674119d3eac6703" sha1="8373441050ef0cdb5af93fc11009d43e5f608ddb" />
+  </game>
+  <game name="VIC Radar Rat Race (Europe)">
+    <category>Games</category>
+    <description>VIC Radar Rat Race (Europe)</description>
+    <rom name="VIC Radar Rat Race (Europe).a0" size="8192" crc="8c7afaa9" md5="a9e813cc163df5a89ea7d436f152b4b4" sha1="91feb133b2ef613502cef54bc6414d2a72291536" />
+  </game>
+  <game name="Video Vermin (World)">
+    <category>Games</category>
+    <description>Video Vermin (World)</description>
+    <rom name="Video Vermin (World).a0" size="8192" crc="a4fe2362" md5="cedb1620779bdf03644cad039a0cecc0" sha1="6df279e642dfe5cc2915ac99382ad43c6c60ad9f" />
+  </game>
+  <game name="Videomania (Europe)">
+    <category>Games</category>
+    <description>Videomania (Europe)</description>
+    <rom name="Videomania (Europe).a0" size="4096" crc="e32563a9" md5="cec6cd0b16d1ddc94dcc0b7206e441a4" sha1="e8b7be53ef5b8d2660483721c984a5a584aae0a0" />
+  </game>
+  <game name="Visible Solar System, The (World)">
+    <category>Games</category>
+    <description>Visible Solar System, The (World)</description>
+    <rom name="Visible Solar System, The (World).a0" size="8192" crc="c4967f23" md5="bd0e7f5858f7cb4e0c3464767ccc57e8" sha1="459a22a9affdc73b5fa6868fef398b0707a70a17" />
+  </game>
+  <game name="Voodoo Castle Adventure (World) (SYS 32592)">
+    <category>Games</category>
+    <description>Voodoo Castle Adventure (World) (SYS 32592)</description>
+    <rom name="Voodoo Castle Adventure (World) (SYS 32592).40" size="16384" crc="56ac6dbf" md5="e9bace2a9c7294d668e4b017f7d10fe4" sha1="110395991e42ad80b6894645884e8a0380c9f424" />
+  </game>
+  <game name="Wacky Waiters (Europe) (SYS 48896)">
+    <category>Games</category>
+    <description>Wacky Waiters (Europe) (SYS 48896)</description>
+    <rom name="Wacky Waiters (Europe) (SYS 48896).a0" size="8192" crc="4c4a2e94" md5="0e46194d848c2d0837b1065fe33480f0" sha1="6583b47f07750a36a269e2457a7302abb2ff49bf" />
+  </game>
+  <game name="World at War, A (World)">
+    <category>Games</category>
+    <description>World at War, A (World)</description>
+    <rom name="World at War, A (World).a0" size="8192" crc="89a8b4af" md5="973d2a16bf26aad966a9f8771dc3b168" sha1="63a0ca93c2270d578f6bcde17bc6f5970ec30974" />
+  </game>
+</datafile>

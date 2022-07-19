@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Apple - Macintosh (Uncategorized)</name>
+    <description>Apple - Macintosh (Uncategorized)</description>
+    <version>20220718-151826</version>
+    <author>FakeShemp, Gefflon, MeguCocoa, UnlockerPT, xuom2</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Alge-Blaster Plus! (USA, Europe)">
+    <description>Alge-Blaster Plus! (USA, Europe)</description>
+    <rom name="Alge-Blaster Plus! (USA, Europe).image" size="838484" crc="c35bd5f2" md5="20a91c06d7bc66dd60be8ce2e55e0a36" sha1="bb0daf6faae5e7a551b08c1ef2701f895d8c91a1" sha256="045c0649a083cb19f9bc7baedb19fbbc28d92e5fd34376230175846c5c445274" />
+  </game>
+  <game name="Alge-Blaster Plus! (USA, Europe) (v1.1)">
+    <description>Alge-Blaster Plus! (USA, Europe) (v1.1)</description>
+    <rom name="Alge-Blaster Plus! (USA, Europe) (v1.1).image" size="838484" crc="aae4f05b" md5="b53ca61c284054ad47d9581d95506c7b" sha1="38d5cc5ae922cbfd7b96599969e3d37f37ae9204" sha256="4c5c8552d24b066d2fdb390f76daa04a61cf8329856f1c0f851a9083f67cfc91" />
+  </game>
+</datafile>

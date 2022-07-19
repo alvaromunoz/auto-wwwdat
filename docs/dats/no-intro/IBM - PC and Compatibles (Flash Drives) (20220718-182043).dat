@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>IBM - PC and Compatibles (Flash Drives)</name>
+    <description>IBM - PC and Compatibles (Flash Drives)</description>
+    <version>20220718-182043</version>
+    <author>NovaAurora</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Armello (USA) (IndieBox)">
+    <description>Armello (USA) (IndieBox)</description>
+    <rom name="Armello (USA) (IndieBox).bin" size="1007681536" crc="281031c8" md5="91ec0cd8e834df12c5fde5827e2c0e19" sha1="71c0af9918adb1d3d77576f40bd07da303cde9b4" />
+  </game>
+  <game name="Gameband + Minecraft (USA) (Redstone)">
+    <description>Gameband + Minecraft (USA) (Redstone)</description>
+    <rom name="Gameband + Minecraft (USA) (Redstone).bin" size="7906263040" crc="4b524faf" md5="81d85ee080aa0b658d73c7450407d691" sha1="5cb1a25c933843ecff9f0f5423cda4e4fca1b4e9" />
+  </game>
+</datafile>
