@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>IBM - PC and Compatibles (Digital) (Updates and DLC) (Retool)</name>
+    <description>IBM - PC and Compatibles (Digital) (Updates and DLC) (Retool)</description>
+    <version>20220714-043500</version>
+    <date>2022-07-20 08-05-07</date>
+    <author>FakeShemp, MeguCocoa, niemand, norkmetnoil577, UnlockerPT &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Aokana - Four Rhythms Across the Blue - Perfect Edition (World) (En,Ja) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Aokana - Four Rhythms Across the Blue - Perfect Edition (World) (En,Ja) (Uncensor Patch)</description>
+    <rom name="Aokana_PerfectEdition+R18_Patch.zip" size="259267609" crc="83068fd8" md5="8dd2e674ef1e735e740e2ca98428ba99" sha1="826ace22cba855883d42dd299e923872f5d05a25" />
+  </game>
+  <game name="Aokana - Four Rhythms Across the Blue - Perfect Edition (World) (En,Ja) (v1.21) (Patch)">
+    <category>Games</category>
+    <description>Aokana - Four Rhythms Across the Blue - Perfect Edition (World) (En,Ja) (v1.21) (Patch)</description>
+    <rom name="AokanaUpdate1.21PE_march.zip" size="119371148" crc="0426db16" md5="7c753a666bb8d18aff3b22ad328dc9e1" sha1="cd4536516b052e259641d78f60bec02e458163e8" />
+  </game>
+  <game name="Aokana - Four Rhythms Across the Blue Extra 1 (World) (En,Ja) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Aokana - Four Rhythms Across the Blue Extra 1 (World) (En,Ja) (Uncensor Patch)</description>
+    <rom name="Aokana_EXTRA1_18+_Patch.7z" size="122142405" crc="3060c808" md5="0d3e12b7288779d8252de971e50e863a" sha1="2ce057d1d1398634bbdc7bb954097d7a26ca6949" />
+  </game>
+  <game name="Attractio (World) (Linux) (DLC) (IndieGameStand)">
+    <category>Games</category>
+    <description>Attractio (World) (Linux) (DLC) (IndieGameStand)</description>
+    <rom name="AttractioDLC_Linux.zip" size="2065844" crc="1bfe8456" md5="09dc81c537641d9f6c4e6116d4dcee3c" sha1="3596552098a92a201e69701d1c1d2f6c19bba894" />
+  </game>
+  <game name="Attractio (World) (Windows) (DLC) (IndieGameStand)">
+    <category>Games</category>
+    <description>Attractio (World) (Windows) (DLC) (IndieGameStand)</description>
+    <rom name="AttractioDLC_Windows.zip" size="2614272" crc="de8507bb" md5="b25d63a99aea3a5005d291b3777fe6ac" sha1="0258423f65100cd9d685425cda7407f4a975de28" />
+  </game>
+  <game name="Beach Bounce (World) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Beach Bounce (World) (Uncensor Patch)</description>
+    <rom name="bbr-patch.zip" size="185" crc="d5b16477" md5="dc6a43635be10d349004f52f51f42347" sha1="471707c65dbde1a49afa3840cf72085c17b7c039" />
+  </game>
+  <game name="Beauty Bounce (World) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Beauty Bounce (World) (Uncensor Patch)</description>
+    <rom name="adultpatch-beautybounce.zip" size="29033885" crc="55915276" md5="1ed5297fd100273c5f69ae48d7afe0a1" sha1="501ad6fe16c7f9a9cd447476beeb7ec77e00e75f" />
+  </game>
+  <game name="Blackberry Honey (World) (DLC)">
+    <category>Games</category>
+    <description>Blackberry Honey (World) (DLC)</description>
+    <rom name="Blackberry Honey DLC.zip" size="53380696" crc="e231573d" md5="826d332acf7d49da390ef6e68bf14bcf" sha1="67552eec1c3aecf6f1f7a7553d9444781bee03d9" />
+  </game>
+  <game name="Bunny Bounce (World) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Bunny Bounce (World) (Uncensor Patch)</description>
+    <rom name="bunnybounceadult.zip" size="24284273" crc="d2f9c331" md5="de17744362bf19a90d18ddce48a6f608" sha1="d88ee834b742dfe7e5f7a64cb305ae7f9392fdd2" />
+  </game>
+  <game name="Chris Sawyer's Locomotion - Shinkansen Series 0 Bullet Train (USA) (DLC)">
+    <category>Games</category>
+    <description>Chris Sawyer's Locomotion - Shinkansen Series 0 Bullet Train (USA) (DLC)</description>
+    <rom name="Shinkansen.SC5" size="494752" crc="16540497" md5="4eb8bf7f9ba4bee0b778c8bcbe11b68b" sha1="1610e9eb25233e3ea86dfb9e5d1fce4538e5bf51" />
+  </game>
+  <game name="Chu x Chu Idol (World) (Patch)">
+    <category>Games</category>
+    <description>Chu x Chu Idol (World) (Patch)</description>
+    <rom name="patch20070328.zip" size="441163" crc="a7009de5" md5="30276596497d3e5f9c61b422233507df" sha1="c984124206fb30c0847e969a32a00113716bfa08" />
+  </game>
+  <game name="Club Life (World) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Club Life (World) (Uncensor Patch)</description>
+    <rom name="clublife-patch.zip" size="949" crc="2038c669" md5="0884b2de6889a6bdec98556ffc4139d7" sha1="7619c52126803dc1e8e43faa645454a2a0eb2a41" />
+  </game>
+  <game name="Daytona Championship USA (World) (171206) (Update)">
+    <category>Games</category>
+    <description>Daytona Championship USA (World) (171206) (Update)</description>
+    <rom name="SEGA_DAYTONA_UPDATE_171206.exe" size="4070621133" crc="ebbbdf84" md5="720a3b661e911902f19497e99c45dcfd" sha1="ad50bfe409b714f99d6f9d2ec107c7f81b561849" />
+  </game>
+  <game name="Do S na Onee-san wa Suki Desu ka (World) (v1.01) (Update)">
+    <category>Games</category>
+    <description>Do S na Onee-san wa Suki Desu ka (World) (v1.01) (Update)</description>
+    <rom name="dos_update101.zip" size="4682228" crc="d50ca0c9" md5="69ed0b4b02db3b75059b0495459f01c4" sha1="0a2c6a3ab04ce12fa5b5e1890789dc63cc63e07e" />
+  </game>
+  <game name="Drascula - The Vampire Strikes Back (World) (Patch)">
+    <category>Games</category>
+    <description>Drascula - The Vampire Strikes Back (World) (Patch)</description>
+    <rom name="drascula-audio-flac-2.0.zip" size="262592278" crc="2ce5b51a" md5="ca13eba7d0d1441631bd4c42a5714e32" sha1="840bdf1b54db562111a69fbb46ef3a0f612042fb" />
+  </game>
+  <game name="Elder Scrolls III, The - Morrowind (USA, Australia) (v1.2.0722) (Patch)">
+    <category>Games</category>
+    <description>Elder Scrolls III, The - Morrowind (USA, Australia) (v1.2.0722) (Patch)</description>
+    <rom name="Morrowind_v1.2.0722.exe" size="4019591" crc="6e61cd16" md5="89423f6a909a4562dc66abdd61ef7dce" sha1="fec5e98688efdd12a06d3ba853d66980f97e993a" />
+  </game>
+  <game name="Elder Scrolls III, The - Morrowind - Bloodmoon (USA) (v1.6.1820) (Patch)">
+    <category>Games</category>
+    <description>Elder Scrolls III, The - Morrowind - Bloodmoon (USA) (v1.6.1820) (Patch)</description>
+    <rom name="Bloodmoon_v1.6.1820.exe" size="435586" crc="be55778b" md5="cda342f7879f0873fb2671deb0bdd1c8" sha1="7248c71841c0dd2481864ef24a41b83025aac978" />
+  </game>
+  <game name="Elder Scrolls III, The - Morrowind - Tribunal (USA, Europe) (v1.4.1313) (Patch)">
+    <category>Games</category>
+    <description>Elder Scrolls III, The - Morrowind - Tribunal (USA, Europe) (v1.4.1313) (Patch)</description>
+    <rom name="tribunal_v1.4.1313.exe" size="529871" crc="7726609d" md5="ecee1db7b11c0974dbc3c100a7aac31d" sha1="b19bb1d6e8d7d34fc47a1ec9b33585c2d5449bdd" />
+  </game>
+  <game name="Elder Scrolls IV, The - Oblivion (USA) (v1.2.0416) (Patch)">
+    <category>Games</category>
+    <description>Elder Scrolls IV, The - Oblivion (USA) (v1.2.0416) (Patch)</description>
+    <rom name="Oblivion_v1.2.0416English.exe" size="5340989" crc="626faf92" md5="f2a058835e18144212a37a1615897268" sha1="825325a20809bfc81908aa34c429fb3a4b3d7f2e" />
+  </game>
+  <game name="Elder Scrolls IV, The - Oblivion - Construction Set (World) (v1.2) (Patch)">
+    <category>Games</category>
+    <description>Elder Scrolls IV, The - Oblivion - Construction Set (World) (v1.2) (Patch)</description>
+    <rom name="patch_tes_construction_set_v1.2.404.exe" size="3324849" crc="75e26ba7" md5="0716fdfefe27b367f00c7bcde8075a39" sha1="acdb2aa01b60deed0737e72372fec85e09b07122" />
+  </game>
+  <game name="Elder Scrolls IV, The - Oblivion - Shivering Isles (USA, Australia) (v1.2.0416) (Patch)">
+    <category>Games</category>
+    <description>Elder Scrolls IV, The - Oblivion - Shivering Isles (USA, Australia) (v1.2.0416) (Patch)</description>
+    <rom name="ShiveringIsles_v1.2.0416English.exe" size="1135827" crc="14b5f0a1" md5="5930558945697c1a2b7ce678ec5d7f3d" sha1="e303257a93438a6f8360ebaf6ff6373f1617d3e5" />
+  </game>
+  <game name="Enemy Territory - Quake Wars (World) (v1.4) (Patch)">
+    <category>Games</category>
+    <description>Enemy Territory - Quake Wars (World) (v1.4) (Patch)</description>
+    <rom name="ETQW-server-1.4-hotfix.r1.zip" size="5186561" crc="6044d048" md5="20cd770bed61b95be66c7844b9b9f6a3" sha1="66306ef5c8afa7c3736d3fb75f156e0889cc458a" />
+  </game>
+  <game name="Fallout 3 (USA) (v1.7) (Patch)">
+    <category>Games</category>
+    <description>Fallout 3 (USA) (v1.7) (Patch)</description>
+    <rom name="Fallout3_1.7_English_US.exe" size="54179488" crc="16aaacd6" md5="0fa90d24fc17ffeb7ee8c41f19a30ba9" sha1="640836c188e3bd35053329c77f6d59a03c412b60" />
+  </game>
+  <game name="Fallout 3 - Garden of Eden Creation Kit (World) (v1.5) (Update)">
+    <category>Games</category>
+    <description>Fallout 3 - Garden of Eden Creation Kit (World) (v1.5) (Update)</description>
+    <rom name="Fallout3_GECK_1.5_Update.exe" size="1318466" crc="7c6ea33b" md5="9d9a9b60d1129b5d91711f4ff447fe97" sha1="12ac29c5b15565860cd5f93c3ffb7083a47e0ee4" />
+  </game>
+  <game name="Grand Theft Auto 2 (World) (v1.03) (Update)">
+    <category>Games</category>
+    <description>Grand Theft Auto 2 (World) (v1.03) (Update)</description>
+    <rom name="patch.zip" size="4007799" crc="56f8fd0d" md5="1b8fbc90cbe6bc94dcedbca8474e1c40" sha1="f736b84e6d02dd4eebdf6edc093380453dfc4027" />
+  </game>
+  <game name="Halo (World) (v1.0.10) (Update)">
+    <category>Games</category>
+    <description>Halo (World) (v1.0.10) (Update)</description>
+    <rom name="halopc-patch-1.0.10.exe" size="3180472" crc="426aabd7" md5="adeed5e8d33172ec387cb11a89f1b294" sha1="ef9c88123c637af91d9e0d5780d6141c4bee10d3" />
+  </game>
+  <game name="Hello, Goodbye (World) (Patch)">
+    <category>Games</category>
+    <description>Hello, Goodbye (World) (Patch)</description>
+    <rom name="hgb_r18_patch.zip" size="233946454" crc="a68a4475" md5="85de1143624ad0e9488361964db2b546" sha1="4a6d7f298f76c83399af940742e6528609e6a9ac" />
+  </game>
+  <game name="Highway Blossoms - 18+ (World) (DLC)">
+    <category>Games</category>
+    <description>Highway Blossoms - 18+ (World) (DLC)</description>
+    <rom name="adult.rpa" size="16594771" crc="96db6593" md5="6adf86131a94d588bdee55bf6ddb3acf" sha1="8c6fc7c1b3dd2a25493308ba01b5834afb8eb135" />
+    <rom name="Adult Patch README.txt" size="195" crc="0d1112e4" md5="27719856ad77406a24c11c21b919f5eb" sha1="125745d2588fdd777121a5848a9a95551a4fdf7d" />
+  </game>
+  <game name="Maji Suki Marginal Skip (World) (Update)">
+    <category>Games</category>
+    <description>Maji Suki Marginal Skip (World) (Update)</description>
+    <rom name="Majisuki_Trial_UpDate.zip" size="1480720" crc="46e8bfc9" md5="a234a415a79f1f8671ee538a958a012b" sha1="ebda793485210a285eafc280fcab295199267a32" />
+  </game>
+  <game name="Negligee (World) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Negligee (World) (Uncensor Patch)</description>
+    <rom name="Negligee-Patch.zip" size="145147246" crc="980cd441" md5="cc3cef1b2c6c9a3cb267f28f46621a66" sha1="e3f98b5af9ebbb78fed49f49a14a88c31ee27660" />
+  </game>
+  <game name="Postal III (World) (No-DRM Patch)">
+    <category>Games</category>
+    <description>Postal III (World) (No-DRM Patch)</description>
+    <rom name="p3_nodrm.zip" size="5675316" crc="e6f516bc" md5="8925731685d6196931b06b74363bb354" sha1="ae058d390b67bbcd8e1796e693ffd6ceeafa2270" />
+  </game>
+  <game name="Postal III (World) (v1.12) (Update)">
+    <category>Games</category>
+    <description>Postal III (World) (v1.12) (Update)</description>
+    <rom name="p3_patch_1.12_full.exe" size="459906243" crc="b21f1040" md5="c9172b340ef2b11e39e744f48a11c8f3" sha1="f99e589816b6e3e1be523b0e1bfc799a4c841a83" />
+  </game>
+  <game name="Quake 4 (World) (v1.3 to v1.4.2) (Update) (Linux) (32-bit)">
+    <category>Games</category>
+    <description>Quake 4 (World) (v1.3 to v1.4.2) (Update) (Linux) (32-bit)</description>
+    <rom name="quake4-linux-update-1.3-to-1.4.2.x86.run" size="76600572" crc="be823628" md5="1b9031e831035f40aaf624cd4851c984" sha1="d49f10820a4419d98b4b621c0c32c21a7ac4a658" />
+  </game>
+  <game name="Remedy (World) (Update)">
+    <category>Games</category>
+    <description>Remedy (World) (Update)</description>
+    <rom name="MDNA_patch.MSI" size="564736" crc="3fa35e4a" md5="e7305b056fe30226e9bf2b9878a392d3" sha1="e03c6a2667a205592f9011005b138551278af015" />
+  </game>
+  <game name="Riddle Joker - 18+ (World) (DLC)">
+    <category>Games</category>
+    <description>Riddle Joker - 18+ (World) (DLC)</description>
+    <rom name="RiddleJoker_R18DLC.7z" size="961012177" crc="734d0e13" md5="aa4b7a85b39878dad9c0496310b19a23" sha1="82d7c62b9008a1356afeef49a0305f8b8e2b4d41" />
+  </game>
+  <game name="RollerCoaster Tycoon (USA) (v1.08.187) (Patch)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon (USA) (v1.08.187) (Patch)</description>
+    <rom name="RCT-US.exe" size="629760" crc="7e02bc16" md5="9b40749b76d8e431046ceb082c62111f" sha1="f7217516852682d53783c49489ddd03269237d92" />
+  </game>
+  <game name="RollerCoaster Tycoon - Alton Towers Scenario (USA) (DLC)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Alton Towers Scenario (USA) (DLC)</description>
+    <rom name="alton_towers.zip" size="368774" crc="e29335a2" md5="edd8e9e205183cba4912c2e70a9a9df8" sha1="71eed8ecf59417138b46f87b32795b9c68291ba3" />
+  </game>
+  <game name="RollerCoaster Tycoon - Beastly Tracks (USA) (DLC)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Beastly Tracks (USA) (DLC)</description>
+    <rom name="Beastly.zip" size="112672" crc="fa1fc9ae" md5="e84c37165424d73fc140fb5d5935fd44" sha1="6b389f365fcff1c7060638fc3240383ec039735d" />
+  </game>
+  <game name="RollerCoaster Tycoon - Cat Collection of Wooden Wild Mouse Coaster Track Designs (USA) (DLC)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Cat Collection of Wooden Wild Mouse Coaster Track Designs (USA) (DLC)</description>
+    <rom name="catmice.zip" size="63383" crc="4ddefb22" md5="a11110707a6b7ecb00d93ea04868f4cc" sha1="4cfe2fd0e956adae925711b5bd556b5949ed9ad2" />
+  </game>
+  <game name="RollerCoaster Tycoon - Corkscrew Follies (USA) (v1.10.026) (Patch)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Corkscrew Follies (USA) (v1.10.026) (Patch)</description>
+    <rom name="RCTCF-US.exe" size="811008" crc="bd63dddb" md5="4693f08389f1b2f332fea0e5ba5eaba7" sha1="159280915d5b0552cec044adf5639ef21d4bc097" />
+  </game>
+  <game name="RollerCoaster Tycoon - Fort Anachronism Scenario (USA) (DLC)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Fort Anachronism Scenario (USA) (DLC)</description>
+    <rom name="fort1.zip" size="113181" crc="ca07ceea" md5="4964981882c489def95887ccf622a21b" sha1="2157d7958ba317022f20ac3f7ee2e563951b6372" />
+  </game>
+  <game name="RollerCoaster Tycoon - Gem Tracks (USA) (DLC)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Gem Tracks (USA) (DLC)</description>
+    <rom name="Gem.zip" size="92645" crc="1e5eadc6" md5="ba74746633279ab89cb85c6bf3d81dd6" sha1="1322ac366091f4c88715e899f7045fc3bdb4d89b" />
+  </game>
+  <game name="RollerCoaster Tycoon - Loopy Landscapes (USA) (v1.20.013) (Patch)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Loopy Landscapes (USA) (v1.20.013) (Patch)</description>
+    <rom name="RCTLL-US.exe" size="152064" crc="7ce3a41f" md5="25bfc8c200eb7c93fae29992a0ae5bd8" sha1="1dad858756f5a26c5a8c3f7f150b8d428445b2e4" />
+  </game>
+  <game name="RollerCoaster Tycoon - Original Tracks (USA) (DLC)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Original Tracks (USA) (DLC)</description>
+    <rom name="Original.zip" size="161827" crc="4e7d7d72" md5="751db35e5b2b2db3f3f8448ec9ffaa45" sha1="79bb5a912db22de5000251c59d81d0f969e36ae9" />
+  </game>
+  <game name="RollerCoaster Tycoon - Phobia Collection of Steel Twister Roller Coasters (USA) (DLC)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Phobia Collection of Steel Twister Roller Coasters (USA) (DLC)</description>
+    <rom name="phobias.zip" size="89735" crc="3cdb6c72" md5="78b170cc79b510369f44abf3813efc49" sha1="9b724e0ef879a37fc2dee01f14906ef42e37f4cd" />
+  </game>
+  <game name="RollerCoaster Tycoon - Scenario Progress Recovery Patch (USA) (Patch)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Scenario Progress Recovery Patch (USA) (Patch)</description>
+    <rom name="rctrec1.exe" size="2311680" crc="0d690652" md5="50aec5ca9539b57936e50ccce8862fe3" sha1="4e991d30b65e8ad22a24acd8f956d924caf7ff99" />
+  </game>
+  <game name="RollerCoaster Tycoon - Woodies Tracks (USA) (DLC)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon - Woodies Tracks (USA) (DLC)</description>
+    <rom name="Woodies.zip" size="164390" crc="e78840ec" md5="cac406d87e2e42dc8ab23e9551d8c7b4" sha1="b873b5b0f14980e45e055d33faa5f3c46795535b" />
+  </game>
+  <game name="RollerCoaster Tycoon 2 (USA) (v2.8) (Patch)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon 2 (USA) (v2.8) (Patch)</description>
+    <rom name="v28_rct2.exe" size="1521392" crc="2c2b86c2" md5="378d8503b8e476934e60e8653c6d72ad" sha1="143cfd772c6809babd7a44d7f170bd21a3eaecd8" />
+  </game>
+  <game name="RollerCoaster Tycoon 2 - Official SecuROM Patch (USA) (Patch)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon 2 - Official SecuROM Patch (USA) (Patch)</description>
+    <rom name="rct2_update.exe" size="1508707" crc="534573ee" md5="0c25de847a75eb741c9bc7d9e5c389ef" sha1="899e24290eb35169143621c4bb363f8719a10e15" />
+  </game>
+  <game name="RollerCoaster Tycoon 2 - Wacky Worlds (USA) (Patch)">
+    <category>Games</category>
+    <description>RollerCoaster Tycoon 2 - Wacky Worlds (USA) (Patch)</description>
+    <rom name="RCT2WW_PATCH1.EXE" size="2270868" crc="2ead9d71" md5="2c7f0f4e4075e219d05ad6ccb322f52c" sha1="9710f76f3594d7d83cad8b72b5b839cb5cb46579" />
+  </game>
+  <game name="Senren Banka (World) (Patch)">
+    <category>Games</category>
+    <description>Senren Banka (World) (Patch)</description>
+    <rom name="SenrenBanka_R18Patch.7z" size="1044461194" crc="4bdb3a63" md5="7512c6ce495bc2f588b7675b506720fd" sha1="3c0f6d72fd30d2daee806af947df5b58d0a1d5c5" />
+  </game>
+  <game name="Soushisouai Lolita (World) (v1.0.1) (Patch)">
+    <category>Games</category>
+    <description>Soushisouai Lolita (World) (v1.0.1) (Patch)</description>
+    <rom name="lol_v1.0.1_patch.zip" size="178038" crc="402e747c" md5="1cf56b3d7b3ff048235e0a518b69f1ab" sha1="6f4be256d559f2f399a1c5ecf7fcb8b51444d643" />
+  </game>
+  <game name="Suki Suki Daisuki Chou Kanri Shite Ageru (World) (v1.0.2) (Patch)">
+    <category>Games</category>
+    <description>Suki Suki Daisuki Chou Kanri Shite Ageru (World) (v1.0.2) (Patch)</description>
+    <rom name="skskdsk_dl_patch_v1.0.2.zip" size="606239" crc="6733a0b7" md5="bdef67d949c1425641742724a217ae0f" sha1="4e9839a8c28f98ceb135d32c00c8fd23a11dd50b" />
+  </game>
+  <game name="Summer Fling (World) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Summer Fling (World) (Uncensor Patch)</description>
+    <rom name="summerfling-adultpatch.zip" size="301" crc="5400da47" md5="cfc347a41be64adabc8d2c8234bae471" sha1="678671138de64d46afc41836e1d45f9129ed2944" />
+  </game>
+  <game name="Sunrider - Mask of Arcadius (World) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Sunrider - Mask of Arcadius (World) (Uncensor Patch)</description>
+    <rom name="Decensor-Patch.zip" size="1333840" crc="ff5d63ce" md5="14928c99dbc241ae3472a99cd8111550" sha1="ac99e10e6c0a0a451ab36b6a41ec095d90cd5339" />
+  </game>
+  <game name="Sunrider Academy (World) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Sunrider Academy (World) (Uncensor Patch)</description>
+    <rom name="SA_Restoration_Mod.zip" size="114746914" crc="0889e210" md5="565612fbf9f4e0bd78c6378c70f47dd7" sha1="c3109923770af6019f082c9f405b043a4a65963c" />
+  </game>
+  <game name="Sunrider Liberation Day (World) (Patch)">
+    <category>Games</category>
+    <description>Sunrider Liberation Day (World) (Patch)</description>
+    <rom name="SunriderLDCaptEditionDecensorMod.zip" size="28236271" crc="9efedb21" md5="3738e2821b4eb24f91f26e13d2240976" sha1="9692c43720a760498dad6caed452e9f75d2e9823" />
+  </game>
+  <game name="Sweet Volley High (World) (Patch)">
+    <category>Games</category>
+    <description>Sweet Volley High (World) (Patch)</description>
+    <rom name="Sweet_Volley_High-1.0-Patch.zip" size="279976875" crc="cfccb15b" md5="7592816716f789ca5c7c23de115b28ac" sha1="25d6f324386eb9d299ec8848f42081b9ce99c91c" />
+  </game>
+  <game name="Trouble Days (World) (En,Ja) (Uncensor Patch)">
+    <category>Games</category>
+    <description>Trouble Days (World) (En,Ja) (Uncensor Patch)</description>
+    <rom name="patch.zip" size="365769952" crc="86b85861" md5="a2800b3e7b81ddf666256274ea94edf9" sha1="da8bc79f1758f30828c92c1a6d368f8f5c0e4ded" sha256="84383d42d82e8a013d5948931e8b671209b005beefb911e9e59b5351cb5c3862" />
+  </game>
+  <game name="Wagamama Milk DE Shite Ageru Ecchi na Oneesan-tachi to no Dopyudopyu Home Share Seikatsu (World) (Update)">
+    <category>Games</category>
+    <description>Wagamama Milk DE Shite Ageru Ecchi na Oneesan-tachi to no Dopyudopyu Home Share Seikatsu (World) (Update)</description>
+    <rom name="WAGAMAMA_MILK_up01.zip" size="136595" crc="c18a9998" md5="593c2e96bcf7a7f448f354164bb82398" sha1="b03bbc1058fabd711617170c0e5d7c596a435d9b" />
+  </game>
+  <game name="Yubikiri Kon'yaku Lolita (World) (v1.0.1) (Patch)">
+    <category>Games</category>
+    <description>Yubikiri Kon'yaku Lolita (World) (v1.0.1) (Patch)</description>
+    <rom name="lol2_patch_v1.0.1.zip" size="83585" crc="6b589566" md5="c66b9baa7babc6822bf279bd001c8330" sha1="3ec26bc2df283068dfcd1ca0cf352bad5dabf5cd" />
+  </game>
+</datafile>

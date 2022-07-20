@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Non-Redump - IBM - PC Compatible (Discs) (Retool)</name>
+    <description>Non-Redump - IBM - PC Compatible (Discs) (Retool)</description>
+    <version>20220716-083431</version>
+    <date>2022-07-20 08-08-08</date>
+    <author>Hiccup, MeguCocoa, SonGoku, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Computer BattleTech (World)">
+    <category>Games</category>
+    <description>Computer BattleTech (World)</description>
+    <rom name="Computer BattleTech (World).bin" size="114032016" crc="d3479291" md5="4b174c5d5f5e48017a7202fd633aa689" sha1="d5e29e1d28ba213279ac53e7b31488f3bc4ad5ef" sha256="7752debf8fc1379227d4776f33f3a8e984810f3a8efd980a9cf5bafc9efd6469" />
+    <rom name="Computer BattleTech (World).cue" size="87" crc="d78ef598" md5="7e151b44a802eb52ae9e542c10fdddaa" sha1="63c2d860b7820540313a22570a7922f5ed2975df" sha256="b8e2717054c37aec2280fe382ed365a516d88d0fb766aed796e174e534ec8bf5" />
+  </game>
+</datafile>

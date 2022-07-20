@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Non-Redump - Sony - PlayStation Portable (No-Intro) (Retool)</name>
+    <description>Non-Redump - Sony - PlayStation Portable (No-Intro) (Retool)</description>
+    <version>20220711-104758</version>
+    <date>2022-07-20 08-08-12</date>
+    <author>C. V. Reynolds, chillerecke, diego-rbb, DirkDagger, einstein95, Gefflon, Gintoki, Hiccup, hking0036, jimmsu, MeguCocoa, norkmetnoil577, RetroGamer, Rifu, SonGoku, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Buzz! Brain of the World (Europe)">
+    <category>Games</category>
+    <description>Buzz! Brain of the World (Europe)</description>
+    <rom name="Buzz! Brain of the World (Europe).iso" size="1519321088" crc="1dc06731" md5="0296dce0d14e0375aafb9a9335c63e11" sha1="424743f02c8a05f62b94dc03e6853f1a79baec76" />
+  </game>
+  <game name="Buzz! Quiz World (Europe) (Es,Pt)">
+    <category>Games</category>
+    <description>Buzz! Quiz World (Europe) (Es,Pt)</description>
+    <rom name="Buzz! Quiz World (Europe) (Es,Pt).iso" size="1591050240" crc="dfc61d74" md5="5ceddc5ec2b7d9055ec710c716ead9e9" sha1="f75997519f591d50c65202f3658bedabdccdbff2" />
+  </game>
+  <game name="Crash - Mind Over Mutant (Europe) (Fr,Nl)">
+    <category>Games</category>
+    <description>Crash - Mind Over Mutant (Europe) (Fr,Nl)</description>
+    <rom name="Crash - Mind Over Mutant (Europe) (Fr,Nl).iso" size="1574895616" crc="d9229e6b" md5="8d1301828af3505c7a17304cb0fbcd1e" sha1="6516cf53bb9852f52f882e52fbfcc7dde818335e" />
+  </game>
+  <game name="Dead Head Fred (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Dead Head Fred (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Dead Head Fred (Europe) (En,Fr,De,Es,It).iso" size="1771124736" crc="2a8d2ee9" md5="a541ac349b138968ba28dad741332992" sha1="f040c6100c19498cd447425fac8df2a0b304d7ec" />
+  </game>
+  <game name="Elminage Original - Limited Edition (Europe)">
+    <category>Games</category>
+    <description>Elminage Original - Limited Edition (Europe)</description>
+    <rom name="Elminage Original - Limited Edition (Europe).iso" size="568197120" crc="bb6698ec" md5="c5c0045631df27b4d9ed141a9299d2c5" sha1="5f60630b9fa64782cbdf784261df77565155c984" />
+  </game>
+  <game name="FIFA 13 (Europe) (En,Es)">
+    <category>Games</category>
+    <description>FIFA 13 (Europe) (En,Es)</description>
+    <rom name="FIFA 13 (Europe) (En,Es).iso" size="1242413056" crc="9c1385f5" md5="459199805958d1657fab2862558d8852" sha1="295b52356a5e431e94bb6dc99d4c2a867b6adb8c" />
+  </game>
+  <game name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Nl) (v1.02)">
+    <category>Games</category>
+    <description>LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Nl) (v1.02)</description>
+    <rom name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Nl) (v1.02).iso" size="1426063360" crc="9dcdcc7e" md5="d3c176498b5ff9d0a0f9f3bf3d6c4ba0" sha1="981af911bcb7a3908b8229396dfe2b805fa05eb9" />
+  </game>
+  <game name="Namco Museum - Battle Collection (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Namco Museum - Battle Collection (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Namco Museum - Battle Collection (Europe) (En,Fr,De,Es,It).iso" size="559251456" crc="e3ee5264" md5="00baa334738c920cd53abc47e6cdc995" sha1="e2aee9bc2ccadbbadbb6b119167079de0ed8b7e5" />
+  </game>
+  <game name="Pro Evolution Soccer 2013 (Europe) (Fr,De)">
+    <category>Games</category>
+    <description>Pro Evolution Soccer 2013 (Europe) (Fr,De)</description>
+    <rom name="Pro Evolution Soccer 2013 (Europe) (Fr,De).iso" size="1263665152" crc="e0b41540" md5="1695abb62799df08c2a254f16eab377b" sha1="9a411b09c487b48d919598670977d3f6a47828ca" />
+  </game>
+  <game name="Scooby-Doo! - Who's Watching Who (Europe)">
+    <category>Games</category>
+    <description>Scooby-Doo! - Who's Watching Who (Europe)</description>
+    <rom name="Scooby-Doo! - Who's Watching Who (Europe).iso" size="618496000" crc="6763e795" md5="5e23eab7e14e4e9bc1e7da6a41870af1" sha1="2de19e74555e8edbb70d1f0cf04aa92e448b8bff" />
+  </game>
+  <game name="Tube Mania (Europe) (Fr,Nl)">
+    <category>Games</category>
+    <description>Tube Mania (Europe) (Fr,Nl)</description>
+    <rom name="Tube Mania (Europe) (Fr,Nl).iso" size="322306048" crc="c8ed4b91" md5="1442e2a76636b001c50a695e91db4ee9" sha1="db88a2671fa8cb33aded8d7145a24d0695e758fb" />
+  </game>
+  <game name="WALL-E (Europe) (En,Sv)">
+    <category>Games</category>
+    <description>WALL-E (Europe) (En,Sv)</description>
+    <rom name="WALL-E (Europe) (En,Sv).iso" size="773193728" crc="b45869ac" md5="833cf13d29b6ec24a656c804b19856b8" sha1="a4dac8970c48d2bda227c684a8f6b41a3b34faff" />
+  </game>
+  <game name="Yu-Gi-Oh! GX - Tag Force 2 (Europe) (En,Fr,De,Es,It) (v1.01)">
+    <category>Games</category>
+    <description>Yu-Gi-Oh! GX - Tag Force 2 (Europe) (En,Fr,De,Es,It) (v1.01)</description>
+    <rom name="Yu-Gi-Oh! GX - Tag Force 2 (Europe) (En,Fr,De,Es,It) (v1.01).iso" size="1754347520" crc="665b0ee4" md5="e49569baa900a74dbd365d983cfb74e6" sha1="9a67ac15f8b56b3442f7e307e35b4519590d8fe2" />
+  </game>
+</datafile>

@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Apple - Macintosh (A2R) (Retool)</name>
+    <description>Apple - Macintosh (A2R) (Retool)</description>
+    <version>20220719-215227</version>
+    <date>2022-07-20 08-04-40</date>
+    <author>FakeShemp, Gefflon, MeguCocoa, UnlockerPT, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="APS PowerTools (USA, Europe) (v4.01)">
+    <category>Games</category>
+    <description>APS PowerTools (USA, Europe) (v4.01)</description>
+    <rom name="APS PowerTools (USA, Europe) (v4.01).a2r" size="43342361" crc="4bad679f" md5="890463b5d1b4a9595c07ba636b3b0464" sha1="ba3b6311ee5b3e1c15ec7bc6498fce50e6d083e8" sha256="ebc7242ba63422b8391f5082b9f0f5dc91a491696ebe63f9212048d4dbe63afc" />
+  </game>
+  <game name="APS PowerTools (USA, Europe) (v4.1)">
+    <category>Games</category>
+    <description>APS PowerTools (USA, Europe) (v4.1)</description>
+    <rom name="APS PowerTools (USA, Europe) (v4.1).a2r" size="41982336" crc="e518c4cb" md5="6e44069d89956f20aad7410626899f86" sha1="a734ff0bdcbb7125e59fe858b7b46cee07a8b0d3" sha256="4ae401a96ea883df2015c68af70bdfd39a806fb032d982b6045fbf2c5132de4c" />
+  </game>
+  <game name="Adobe Illustrator (USA, Europe) (v3.2)">
+    <category>Games</category>
+    <description>Adobe Illustrator (USA, Europe) (v3.2)</description>
+    <rom name="Adobe Illustrator (USA, Europe) (v3.2).a2r" size="23377314" crc="3c519ffa" md5="70688f037920a5f522a2b661536aa416" sha1="3e8e57e8d645b2f72ef0dc758290167b49abddfa" sha256="a2f12c5c18a1c2617ceee31bf4660eeedba22a3eddf1dbd54db3de70102704da" />
+  </game>
+  <game name="Adobe Illustrator 88 (USA, Europe)">
+    <category>Games</category>
+    <description>Adobe Illustrator 88 (USA, Europe)</description>
+    <rom name="Adobe Illustrator - Disk 1.a2r" size="22087129" crc="b920da4b" md5="c43c9bf8a1055ed69e9bd374a0127811" sha1="b1d5e7f10a14314644440bd87483be47654c28ea" sha256="1e67ceabfc612315bf8f9f36ea80c78617664feecd50b4707450ff9148db37bf" />
+  </game>
+  <game name="Adobe Type Manager (USA, Europe) (v1.2)">
+    <category>Games</category>
+    <description>Adobe Type Manager (USA, Europe) (v1.2)</description>
+    <rom name="Adobe Type Manager (USA, Europe) (v1.2).a2r" size="22292688" crc="139c7b85" md5="96290135f54d2ff0ba0d25f9b392d2d6" sha1="bf02571407f2cc2c7d7c6c1e89528a23ca39f3ff" sha256="7e205490fce553f501597c3194de99ceb707a58ee9286f6f65301c932b2d1650" />
+  </game>
+  <game name="Airborne! (USA, Europe)">
+    <category>Games</category>
+    <description>Airborne! (USA, Europe)</description>
+    <rom name="Airborne! (USA, Europe).a2r" size="14169032" crc="78042b4f" md5="0c571255d348946b395ebe0d9555fa03" sha1="43258230ac276436d64ad19bfd7e4dd4ac5e8d1d" sha256="3b545349014467a85ed272dc0054a443db3d0810fc2fd5cd4f2116d98a3d6e4f" />
+  </game>
+  <game name="Aladdin Spring Cleaning (USA, Europe)">
+    <category>Games</category>
+    <description>Aladdin Spring Cleaning (USA, Europe)</description>
+    <rom name="Aladdin Spring Cleaning (USA, Europe).a2r" size="40472863" crc="cb320558" md5="4961ba01d00dc3930e3b141834bb8035" sha1="bd942421e0618e1e534f61d74409835439f86322" sha256="131058720bf29d8d32810703f85b99d7623fda674504d72c6f6cce42eed9e64f" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 1)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 1)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 1).a2r" size="39596782" crc="a5bb80d5" md5="89f6c8b7521a1b355f183da07989eca5" sha1="4a4ca241a7dd255c16a59ff201e3382e0e97bff3" sha256="e2fbbc10ff6879f0406623eeb66d6d5d03944f2ac87c2684c927762c75cad2cf" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 2)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 2)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 2).a2r" size="39724484" crc="f6f45f33" md5="0e5c95b68b6322106df4a0509c6894a8" sha1="a679e8da19aa4e7767fecbb704d05d8503b0f0a3" sha256="154c02589188535bd503574afbdfe1542fb694a8310ffb2fa1c7668bf2ff00ed" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 3)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 3)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 3).a2r" size="39721411" crc="74502c81" md5="ab6c5f90dfa8fe4a7d5973385bb1d175" sha1="c8d14cc7743162d89c7f739ede23916f7fd58f6d" sha256="95cf0be2e9e87b1dadfc880d9b522344dc62e2256719bf48db1ebc376476c5ed" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 4)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 4)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 4).a2r" size="39553735" crc="39ee6e46" md5="22741f5960e62f7e6ca9d2f739bf0096" sha1="b6e9117fd4acfa38cb27db6cd69c8fc55c7e0322" sha256="c885787f87d197f407fcb2ac78d046ebed29cdc7cdfcc998874665957168599e" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 5)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 5)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 5).a2r" size="39551271" crc="4c243c7b" md5="d877c052fa56be6be0832b9a068e7529" sha1="825993edd6cb514dc1d9a087e2bbcd8a367f4e24" sha256="092170f96bd17e08d2c641227004fee7bc461dbd0c85828a14307494b9810eee" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0.1) (Upgrade Disk)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0.1) (Upgrade Disk)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0.1) (Upgrade Disk).a2r" size="40869281" crc="0bf151c7" md5="1011afd8d380ea5a4769361392284d15" sha1="24e8c28331dd2ec4cd0c50ae42a7c7af3cc4e700" sha256="aae32058fb2789985bed514978c7612a16a26716de1e3d5536bedb28747f96e6" />
+  </game>
+  <game name="Alge-Blaster Plus! (USA, Europe) (v1.1)">
+    <category>Games</category>
+    <description>Alge-Blaster Plus! (USA, Europe) (v1.1)</description>
+    <rom name="Alge-Blaster Plus! (USA, Europe) (v1.1).a2r" size="22546422" crc="44054107" md5="ecf675a6da2e355236959b7907e02d88" sha1="cc443b88a28b634cb20364578d78edc55cd79897" sha256="826201842cd3c7872922da99ad4fb298f012f906e0af7168f135c36349527b51" />
+  </game>
+  <game name="Anubis Utility (USA, Europe) (v2.54u)">
+    <category>Games</category>
+    <description>Anubis Utility (USA, Europe) (v2.54u)</description>
+    <rom name="Anubis Utility (USA, Europe) (v2.54u).a2r" size="24374338" crc="d774b97d" md5="8363f2dcfbcec7469d69c06b639573d7" sha1="703a80c811831b939260e8e983c8fade613cf4e6" sha256="78e8cccd445185575fecd99e4ca12bd57da375ad01eb8e00a2c1e56e2497cfcd" />
+  </game>
+  <game name="Apache Strike (USA, Europe)">
+    <category>Games</category>
+    <description>Apache Strike (USA, Europe)</description>
+    <rom name="Apache Strike (USA, Europe).a2r" size="24418495" crc="4809bdda" md5="05c1cb9127b938e998f2bc24cc89716a" sha1="4394d6bcd147e60369fd73f9d5a4bc22366e8882" sha256="33b47a8ce82457b78f3a5e1eedc77e61240283b800aaa0fde5218edfd15c1b8b" />
+  </game>
+  <game name="Apple Font Pack (USA, Europe)">
+    <category>Games</category>
+    <description>Apple Font Pack (USA, Europe)</description>
+    <rom name="Apple Font Pack (USA, Europe).a2r" size="22513410" crc="687045c8" md5="ed9540f85c6ed5b7db18de14d5e2398c" sha1="2df4eff2ee46cd5d7f085cad88b75020004964eb" sha256="9c23c591d2a0a35b273b97a4678daeb27a4df18b390c0ff0c7598aff66fc1c45" />
+  </game>
+  <game name="Apple Multiple Scan Software for Macintosh (USA, Europe) (v1.2)">
+    <category>Games</category>
+    <description>Apple Multiple Scan Software for Macintosh (USA, Europe) (v1.2)</description>
+    <rom name="Apple Multiple Scan Software for Macintosh (USA, Europe) (v1.2).a2r" size="23055938" crc="0a40847e" md5="c958ee1689d4071be2ff52200e48ae48" sha1="4d82a1a178195359a5a043e6116e6b102f5bd879" sha256="b570e035007f21132e54b488bcdeb6b72f0867601d5b7b080ebdd803096a37d1" />
+  </game>
+  <game name="Apple Remote Access Client (USA, Europe) (Install Disk 1)">
+    <category>Games</category>
+    <description>Apple Remote Access Client (USA, Europe) (Install Disk 1)</description>
+    <rom name="Apple Remote Access Client (USA, Europe) (Install Disk 1).a2r" size="22024689" crc="2fa1f390" md5="5e23f78c43648869946186308001f4df" sha1="b7b8ac5fcca7098e9fdfeadadbb8b4f4fb41373c" sha256="2fb0c24ac7689d30b4c2e95eca9bcaed884b9b5b2157e9bdb004d54b637feea3" />
+  </game>
+  <game name="Apple Remote Access Client (USA, Europe) (Install Disk 2)">
+    <category>Games</category>
+    <description>Apple Remote Access Client (USA, Europe) (Install Disk 2)</description>
+    <rom name="Apple Remote Access Client (USA, Europe) (Install Disk 2).a2r" size="21989021" crc="1b6554e5" md5="f17c9f160847021950ff28d6dfc5d864" sha1="6c98870a622018b44c29e2396fe61c3913a4b95b" sha256="ca30e4706dec2965a806021fc39e8d6c560c2ea8ea2c0fc93d47c7666edbbf4e" />
+  </game>
+  <game name="Apple Remote Access Client (USA, Europe) (Install Disk 3)">
+    <category>Games</category>
+    <description>Apple Remote Access Client (USA, Europe) (Install Disk 3)</description>
+    <rom name="Apple Remote Access Client (USA, Europe) (Install Disk 3).a2r" size="20207034" crc="c9f7aa31" md5="7c62ac8a1e983904b7f2c4158d409b72" sha1="c9b9047687f4c4b365c70ef7fd1b9bba93037c00" sha256="9f088338e1e20e361c0cda8df53369f5100e20f9e4cdd4ca39b1f753c62c7e0a" />
+  </game>
+  <game name="Baron (USA, Europe)">
+    <category>Games</category>
+    <description>Baron (USA, Europe)</description>
+    <rom name="Baron (USA, Europe).a2r" size="14901424" crc="9238a2ad" md5="db59afafe303f554eb3cf602ce732d5d" sha1="47b62d7dd7113a0ff36fa12443fd640e57dd4cce" sha256="8e31efeb062784aa6cea40e644f738534008a10fcdb6c8c1493b193b46358f5f" />
+  </game>
+  <game name="Battleship (USA, Europe)">
+    <category>Games</category>
+    <description>Battleship (USA, Europe)</description>
+    <rom name="Battleship (USA, Europe).a2r" size="18478248" crc="2d6796b1" md5="6886c38fc344bc985ee9281caef8b86a" sha1="e049d1887df7ffe39433b59532fa9c9fac1e0a0f" sha256="ffb94e2a2764250a20730474956d68f65610bf09f90d929e2bf3df949cddb5cf" />
+  </game>
+  <game name="Dark Castle (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Dark Castle (USA, Europe) (Disk 1)</description>
+    <rom name="Dark Castle (USA, Europe) (Disk 1).a2r" size="15074777" crc="4ce7bebe" md5="5b1a10eafc476e29db9fa52ec6cbb094" sha1="8af2de6e9a39bbd41c70d4ae080ea350349fe797" sha256="880ee0c75f72da73d9ce37157c8ad92654cf6ad6b6ad31c020957409b97199f0" />
+  </game>
+  <game name="Dark Castle (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Dark Castle (USA, Europe) (Disk 2)</description>
+    <rom name="Dark Castle (USA, Europe) (Disk 2).a2r" size="15092063" crc="e0ca8d9a" md5="f6b08823c02b130a713fd180c70444fe" sha1="ea59aec529a74db75c89a50487c66e8d44d2cf4f" sha256="590aedb8db66008d0e40023e49b9e27a1649fa2ac8b5b912f2ea4565c6b16727" />
+  </game>
+  <game name="Mind Forever Voyaging, A (USA, Europe)">
+    <category>Games</category>
+    <description>Mind Forever Voyaging, A (USA, Europe)</description>
+    <rom name="Mind Forever Voyaging, A (USA, Europe).a2r" size="11160379" crc="7a164545" md5="4dc10e6b4c4bbf876d01c4c658ef12cc" sha1="c98ae14a1285e6b81dfb653c80b8df240069397a" sha256="ce1df3c52f3f3d5c926ed31c24529bba4edfcf31a15dd599964ef59248e6e3a8" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 1)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 1).a2r" size="22637125" crc="05fc3a24" md5="33ba55e5cf048708007978b2c635f904" sha1="3b21c4f4ecec4cc3a91724470dd67700f2207855" sha256="de0cb92a6aa8ee342e2e065bc0a86912c98a6bba4a0e532c1c1871b3eb06cc8d" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 2)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 2).a2r" size="22111891" crc="c4b72245" md5="6876f4955d0d075e2885e130b1f19224" sha1="5f382940307d96bcd62de82cb41bd761d2cd01b2" sha256="419a9fddb454db4ea5474caaecfa91580ae5ee471e49efcd91acbe437de113ef" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 3)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 3).a2r" size="21850995" crc="5da5bb77" md5="f692ea2625d4b303ac7fafed0948da3c" sha1="87c01887338d2eb64207b1923f8ba6c6a7ed68d0" sha256="deb6b097598c328d764afc66ef8b1dc6944418647564a6a3245c1a08bfd3e9b3" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 4)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 4)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 4).a2r" size="22235425" crc="24b2a920" md5="6829ca36a33ec2023c07bdc8c515d8b1" sha1="353ce4962d8fffef9f6e27e6ea1cf2be5e5ef914" sha256="0bd4ea1b39a0b9cad692d26c88c58c2e9b5f526306293745a05c94aa8bdb13d3" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 5)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 5)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 5).a2r" size="22384837" crc="d4f73173" md5="140d7d15fd688f061cdc111c459d4a2e" sha1="864da790f1957e248a4b5b6099de731c1f5e1ae2" sha256="8d748bf5fd7abda46105c5ee3c0df825dcb3dbb096daf0f07ed028407c9a31fc" />
+  </game>
+</datafile>

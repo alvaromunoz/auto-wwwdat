@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Mobile - Pocket PC (Digital) (Retool)</name>
+    <description>Mobile - Pocket PC (Digital) (Retool)</description>
+    <version>20220608-212717</version>
+    <date>2022-07-20 08-06-23</date>
+    <author>NovaAurora &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Batty (Europe) (ARM)">
+    <category>Games</category>
+    <description>Batty (Europe) (ARM)</description>
+    <rom name="Batty (Europe) (ARM).cab" size="116567" crc="6db111a0" md5="457dc5db6e014dced27b9f629996719d" sha1="673da5dffe31d1b82f68cd2a7cb5b80db2751d8b" />
+  </game>
+  <game name="Batty (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Batty (Europe) (MIPS)</description>
+    <rom name="Batty (Europe) (MIPS).cab" size="118103" crc="347cf967" md5="e3342307f155596cb4563080bb3f2740" sha1="1fa28cfac98030d8bd5de6f0ef0f4a4cce804910" />
+  </game>
+  <game name="Batty (Europe) (SH3)">
+    <category>Games</category>
+    <description>Batty (Europe) (SH3)</description>
+    <rom name="Batty (Europe) (SH3).cab" size="113495" crc="989d5551" md5="8b0f5ebe0335e17940a60aab3f664193" sha1="1b11c22d13ef7b7dc6dd36f4289d4a87ad29d574" />
+  </game>
+  <game name="BoxMan (Europe) (ARM)">
+    <category>Games</category>
+    <description>BoxMan (Europe) (ARM)</description>
+    <rom name="BoxMan_ARM.exe" size="674816" crc="f1261279" md5="127654d81b838891f6d17f7c69473c9e" sha1="7eb26c1127830c87173c8e17ecf749b2d494e147" />
+    <rom name="gx.dll" size="8704" crc="b0d0be22" md5="70f5a414b60e6b6ea0619ee7b18d5031" sha1="feea25e0a062930dcf3962b72e5eae86e2756b3d" />
+    <rom name="gx.lib" size="4476" crc="102a6c33" md5="4d10aa66b40eba7bd85b4882e0aed1bf" sha1="30836297adc56ac0270a5b532e9fd08967186555" />
+  </game>
+  <game name="BoxMan (Europe) (MIPS)">
+    <category>Games</category>
+    <description>BoxMan (Europe) (MIPS)</description>
+    <rom name="BoxMan_MIPS.exe" size="675328" crc="a627faed" md5="c69101efe6c4f20f83248206da8adfb2" sha1="37cec1c0812a637435a432eac833945df92013ee" />
+    <rom name="gx.dll" size="10752" crc="96cb9feb" md5="d78bb0fccd4845e3a9b885b226ec72a3" sha1="d8bd4dc6f48557835540e6d9b66453068d7202e3" />
+    <rom name="gx.lib" size="4476" crc="0e62e1a0" md5="3817a7d585996ba72903bdd41611a444" sha1="551b65fd916935bf505b0585fcbc558e7f6c8185" />
+  </game>
+  <game name="BoxMan (Europe) (SH3)">
+    <category>Games</category>
+    <description>BoxMan (Europe) (SH3)</description>
+    <rom name="BoxMan_SH3.exe" size="668160" crc="8fb73b8c" md5="81e865413c00bc3e6f74630b23fca8cb" sha1="6aeb78c5798820938f65235baed7609904a0e95d" />
+    <rom name="gx.dll" size="11264" crc="d3a28e05" md5="b6937dcec29d42432d9f1ec19ba84a26" sha1="1d021a5bc14e8b289a253760f1f524d53e1ea93f" />
+    <rom name="gx.lib" size="4476" crc="2af600ea" md5="e1785701b0b37f066d030a88ab1fd131" sha1="599eb81e5faf345918615ec97e67475a4baa00df" />
+  </game>
+  <game name="Leo's Flight Simulator (Europe) (ARM)">
+    <category>Games</category>
+    <description>Leo's Flight Simulator (Europe) (ARM)</description>
+    <rom name="Leo's Flight Simulator (Europe) (ARM).cab" size="2624822" crc="45e0c97b" md5="c98a2f90d70fa505a17190c31e5db967" sha1="f5ed567ab2bdd6b56c403b4d0d9f764a70572cbd" />
+  </game>
+  <game name="Leo's Flight Simulator (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Leo's Flight Simulator (Europe) (MIPS)</description>
+    <rom name="Leo's Flight Simulator (Europe) (MIPS).cab" size="2705734" crc="c5ff5c98" md5="85a9d668093339584ba980cb127a66dc" sha1="bc2600be6618aa4b4b321d64bd87181d9ad9c08a" />
+  </game>
+  <game name="Leo's Flight Simulator (Europe) (SH3)">
+    <category>Games</category>
+    <description>Leo's Flight Simulator (Europe) (SH3)</description>
+    <rom name="Leo's Flight Simulator (Europe) (SH3).cab" size="2565414" crc="85c6dffd" md5="9f44be1590a0dbf90e88d860b2fdab72" sha1="b8b1f719f20519205076f22089eef6451565e96b" />
+  </game>
+  <game name="Leo's Void (Europe) (ARM)">
+    <category>Games</category>
+    <description>Leo's Void (Europe) (ARM)</description>
+    <rom name="Leo's Void (Europe) (ARM).cab" size="1630218" crc="c984aeb6" md5="0c1a8b0c65105c3f3ba2e5897688ffba" sha1="a16046e598471ac45e126549d9a10cc8469be499" />
+  </game>
+  <game name="Leo's Void (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Leo's Void (Europe) (MIPS)</description>
+    <rom name="Leo's Void (Europe) (MIPS).cab" size="1831986" crc="90ac8530" md5="bfde8962dfd5095744ce81f5a6b1ed6d" sha1="e8ac96318c44e3af3fb1071bf1e09ea74d6f1fb1" />
+  </game>
+  <game name="Leo's Void (Europe) (SH3)">
+    <category>Games</category>
+    <description>Leo's Void (Europe) (SH3)</description>
+    <rom name="Leo's Void (Europe) (SH3).cab" size="1549810" crc="92f68987" md5="49a3b9e7b7980b34f2a8d9aa111f8fe5" sha1="f79a32e362c1ba91c6139811fd76ddac46476ec8" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (ARM)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (ARM)</description>
+    <rom name="Oliver's Action Pack (Europe) (ARM).cab" size="288676" crc="090a2d48" md5="c5164349550468b2533e7c2e45d8e835" sha1="31a5e0eaaefca105ec0e5203704cff4b516e39c5" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (ARM) (HPCPRO)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (ARM) (HPCPRO)</description>
+    <rom name="Oliver's Action Pack (Europe) (ARM) (HPCPRO).cab" size="290720" crc="62736baf" md5="9207b31acf5510c00c3875ddd6af41fa" sha1="07e8d353014eeac7923616f7a608d181fcf2bc9b" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (MIPS)</description>
+    <rom name="Oliver's Action Pack (Europe) (MIPS).cab" size="298916" crc="d24c9394" md5="b8b8d714e55d141e61e4c8be9e41fe20" sha1="c25f982021e5a3141f16b4d739eff9d66380fc50" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (MIPS) (HPCPRO)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (MIPS) (HPCPRO)</description>
+    <rom name="Oliver's Action Pack (Europe) (MIPS) (HPCPRO).cab" size="298912" crc="927eb0d3" md5="1a0baab396810495177e4eb996969689" sha1="b42c6e461a474fd45c1628917b976172bafd9a29" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (MIPS) (PSPC)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (MIPS) (PSPC)</description>
+    <rom name="Oliver's Action Pack (Europe) (MIPS) (PSPC).cab" size="298916" crc="26ac04e0" md5="42f042cc5f89ebe05f01c7f5238c40f2" sha1="cccd377642f9af0828493b430b47df99f0942cfb" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (SH3)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (SH3)</description>
+    <rom name="Oliver's Action Pack (Europe) (SH3).cab" size="285604" crc="e735e7e4" md5="dce60739753fb001a09a89f163445f21" sha1="16616a61a328797207c59d52a9cf047b823336aa" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (SH3) (HPCPRO)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (SH3) (HPCPRO)</description>
+    <rom name="Oliver's Action Pack (Europe) (SH3) (HPCPRO).cab" size="286112" crc="662402cb" md5="838e60d6d6039bab452fb198ed405a98" sha1="f6d7c11356cfa080059e9f1d1dd5f04a727dafa4" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (SH3) (PSPC)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (SH3) (PSPC)</description>
+    <rom name="Oliver's Action Pack (Europe) (SH3) (PSPC).cab" size="286116" crc="65ada9ad" md5="0211d4efa8b4c0b86b2d422d42a210cf" sha1="8777fdf356c09c99ddb75aa8f4f80de1dbcfa663" />
+  </game>
+  <game name="Oliver's Action Pack (Europe) (SH4) (HPCPRO)">
+    <category>Games</category>
+    <description>Oliver's Action Pack (Europe) (SH4) (HPCPRO)</description>
+    <rom name="Oliver's Action Pack (Europe) (SH4) (HPCPRO).cab" size="286112" crc="c3005e8c" md5="f45671d207cb3b336de2e73281676e8a" sha1="5f5cdfe25d30c0ced9ad8f808c596ed7f724f17f" />
+  </game>
+  <game name="Peter's Casino (Europe) (ARM)">
+    <category>Games</category>
+    <description>Peter's Casino (Europe) (ARM)</description>
+    <rom name="Peter's Casino (Europe) (ARM).cab" size="198399" crc="e36628b9" md5="83c1f7d860f1597d3d6efc3b6434ad89" sha1="cd2128a18e13a785a2b088bfd009f63d4bd5b0fb" />
+  </game>
+  <game name="Peter's Casino (Europe) (ARM) (HPCPRO)">
+    <category>Games</category>
+    <description>Peter's Casino (Europe) (ARM) (HPCPRO)</description>
+    <rom name="Peter's Casino (Europe) (ARM) (HPCPRO).cab" size="155957" crc="c3b2ccd0" md5="bf1bafe43c72175606b2257e2796b887" sha1="5353defe87cfe969fcdfb56c21805d0ec7e0a32b" />
+  </game>
+  <game name="Peter's Casino (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Peter's Casino (Europe) (MIPS)</description>
+    <rom name="Peter's Casino (Europe) (MIPS).cab" size="201471" crc="a3d9315e" md5="995de708643abc2b0bae6d7da8e0d2e3" sha1="7520637962504e0b9c797de9fd5bc0ffd450888a" />
+  </game>
+  <game name="Peter's Casino (Europe) (MIPS) (HPCPRO)">
+    <category>Games</category>
+    <description>Peter's Casino (Europe) (MIPS) (HPCPRO)</description>
+    <rom name="Peter's Casino (Europe) (MIPS) (HPCPRO).cab" size="158517" crc="9befe7d3" md5="6a6d36efc17ffd5baef7897eb885a1d8" sha1="a78fc10c55f469c64f7425e265efacddc81fcf83" />
+  </game>
+  <game name="Peter's Casino (Europe) (SH3)">
+    <category>Games</category>
+    <description>Peter's Casino (Europe) (SH3)</description>
+    <rom name="Peter's Casino (Europe) (SH3).cab" size="196351" crc="d172a0d7" md5="d219e1d91fee1f604a2224d2681bd2b8" sha1="119852f450713771bd655895b3b2deaa1540029d" />
+  </game>
+  <game name="Peter's Casino (Europe) (SH3) (HPCPRO)">
+    <category>Games</category>
+    <description>Peter's Casino (Europe) (SH3) (HPCPRO)</description>
+    <rom name="Peter's Casino (Europe) (SH3) (HPCPRO).cab" size="153397" crc="4aa97a9b" md5="5b926a6bbbd6546faeaa368a2ff7ad92" sha1="541d96aed88149c4984629ef5648033b82c972ca" />
+  </game>
+  <game name="Peter's Casino (Europe) (SH4) (HPCPRO)">
+    <category>Games</category>
+    <description>Peter's Casino (Europe) (SH4) (HPCPRO)</description>
+    <rom name="Peter's Casino (Europe) (SH4) (HPCPRO).cab" size="153397" crc="c3ba5471" md5="4dd2449048c590fbf2a97c9ccaf56966" sha1="7581889df011b14d80484b6ed1ca116a1b316dce" />
+  </game>
+  <game name="Peter's GameBox (Europe) (ARM)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (ARM)</description>
+    <rom name="Peter's GameBox (Europe) (ARM).cab" size="341746" crc="c5583fda" md5="71c0aa747c7c293eaa86e93472ad2cc7" sha1="aa609cb2e9f0d5b8bc7c65b7ef3a2476a57b88be" />
+  </game>
+  <game name="Peter's GameBox (Europe) (ARM) (HPCPRO)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (ARM) (HPCPRO)</description>
+    <rom name="Peter's GameBox (Europe) (ARM) (HPCPRO).cab" size="342766" crc="74892772" md5="5958d91d2f3debadb3c20167d2f0b313" sha1="d21a2194bfd1b1dd2d762ea2fa47c7c28e8d2f00" />
+  </game>
+  <game name="Peter's GameBox (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (MIPS)</description>
+    <rom name="Peter's GameBox (Europe) (MIPS).cab" size="359666" crc="af5ff896" md5="4860a245f30ee5bf79b2753884332433" sha1="937d357343fb6c04f7ce88eb578c0190eb180c99" />
+  </game>
+  <game name="Peter's GameBox (Europe) (MIPS) (HPCPRO)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (MIPS) (HPCPRO)</description>
+    <rom name="Peter's GameBox (Europe) (MIPS) (HPCPRO).cab" size="360182" crc="ac9834aa" md5="d4517fed6d94ce046ea7c282cf2285e9" sha1="3c8120abfdb1caaa55233e61d8fed6b1b2712b0b" />
+  </game>
+  <game name="Peter's GameBox (Europe) (MIPS) (PSPC)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (MIPS) (PSPC)</description>
+    <rom name="Peter's GameBox (Europe) (MIPS) (PSPC).cab" size="360186" crc="bb81dbc3" md5="28249a5a351524ba21cbb99ea233e6bb" sha1="ba88d15b668eca3e0bbf926e724c75875c899a99" />
+  </game>
+  <game name="Peter's GameBox (Europe) (SH3)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (SH3)</description>
+    <rom name="Peter's GameBox (Europe) (SH3).cab" size="334066" crc="95b75330" md5="eaa2fc3325b9fda5c2ef12e6199633eb" sha1="5a40cad2edc1d922701ef5a0175a06eb6f5cb92d" />
+  </game>
+  <game name="Peter's GameBox (Europe) (SH3) (HPCPRO)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (SH3) (HPCPRO)</description>
+    <rom name="Peter's GameBox (Europe) (SH3) (HPCPRO).cab" size="335086" crc="6cb15b6a" md5="3116e723c1165afa993e30017efc122f" sha1="1e22333113cd7936a4f3c14c859a3fbc201f1ee7" />
+  </game>
+  <game name="Peter's GameBox (Europe) (SH3) (PSPC)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (SH3) (PSPC)</description>
+    <rom name="Peter's GameBox (Europe) (SH3) (PSPC).cab" size="335090" crc="7f634146" md5="d781f97ffc5d80c35fe42f7d8bd18716" sha1="410c6b867b4b28d6d9c1b8d37d455f790cd1473a" />
+  </game>
+  <game name="Peter's GameBox (Europe) (SH4) (HPCPRO)">
+    <category>Games</category>
+    <description>Peter's GameBox (Europe) (SH4) (HPCPRO)</description>
+    <rom name="Peter's GameBox (Europe) (SH4) (HPCPRO).cab" size="335598" crc="1ef8486b" md5="dcf3a20f1f091743d18cf94a2538d342" sha1="19a4955b69933420a2a6f5a4f27401694a2904e2" />
+  </game>
+  <game name="Picture Perfect (Europe) (ARM)">
+    <category>Games</category>
+    <description>Picture Perfect (Europe) (ARM)</description>
+    <rom name="Picture Perfect (Europe) (ARM).cab" size="450133" crc="8fe5bff1" md5="51b27e49575f5f44c02fb9cdd0b3c962" sha1="6efa29cd5ee5d26775bc138fe4cb5169dce3ee36" />
+  </game>
+  <game name="Picture Perfect (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Picture Perfect (Europe) (MIPS)</description>
+    <rom name="Picture Perfect (Europe) (MIPS).cab" size="488029" crc="4ffbc7b6" md5="38c11d04288f223d7c3ecf2beb612dea" sha1="65d4bca2df86ed0d222f9946fe072c634ca06ff0" />
+  </game>
+  <game name="Picture Perfect (Europe) (SH3)">
+    <category>Games</category>
+    <description>Picture Perfect (Europe) (SH3)</description>
+    <rom name="Picture Perfect (Europe) (SH3).cab" size="415309" crc="aaa2e3a8" md5="a3dec0716bbf99b2b169cfac65640066" sha1="ceeefc8b1daebb81c7b999df539109eb043e7bf2" />
+  </game>
+  <game name="Pocket Fritz (Europe) (ARM)">
+    <category>Games</category>
+    <description>Pocket Fritz (Europe) (ARM)</description>
+    <rom name="Pocket Fritz (Europe) (ARM).cab" size="1170626" crc="db3b37cb" md5="04fc2a9e5058ecca8c068931c5fa05ae" sha1="29c78fa33872ee569c7fc55407e2c257a2ab6000" />
+  </game>
+  <game name="Pocket Fritz (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Pocket Fritz (Europe) (MIPS)</description>
+    <rom name="Pocket Fritz (Europe) (MIPS).cab" size="1238226" crc="4a7ec559" md5="1f5f21bd275547e025ebce087a5ab3d9" sha1="839a771b93e1513162b1f109f790c567c07fe00a" />
+  </game>
+  <game name="Pocket Fritz (Europe) (SH3)">
+    <category>Games</category>
+    <description>Pocket Fritz (Europe) (SH3)</description>
+    <rom name="Pocket Fritz (Europe) (SH3).cab" size="1157301" crc="0aad3703" md5="4b8982182c0cb617256f39614dfbaa81" sha1="b4efb24b24e680639c675fc75d4b656cdb628c3b" />
+  </game>
+  <game name="Puzzle of Pipes (Europe) (ARM)">
+    <category>Games</category>
+    <description>Puzzle of Pipes (Europe) (ARM)</description>
+    <rom name="Puzzle of Pipes (Europe) (ARM).cab" size="61794" crc="84dc9ea7" md5="27c6b3d68530551365ae316d44a595bd" sha1="54727ed64eb5a921071948934dc6bdcbb39d633a" />
+  </game>
+  <game name="Puzzle of Pipes (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Puzzle of Pipes (Europe) (MIPS)</description>
+    <rom name="Puzzle of Pipes (Europe) (MIPS).cab" size="63842" crc="940c8a43" md5="336bcbc8baa1b56584b07c23e907fc8a" sha1="e12fb058b8ad1339ee654903bb09ea18560c2ccf" />
+  </game>
+  <game name="Puzzle of Pipes (Europe) (MIPS) (CE)">
+    <category>Games</category>
+    <description>Puzzle of Pipes (Europe) (MIPS) (CE)</description>
+    <rom name="Puzzle of Pipes (Europe) (MIPS) (CE).cab" size="63842" crc="ab68297f" md5="590bb9ed9cce151da355f66472bd918c" sha1="26629b44e0fc6a302217ce3208eeae45f67b90a4" />
+  </game>
+  <game name="Puzzle of Pipes (Europe) (SH3)">
+    <category>Games</category>
+    <description>Puzzle of Pipes (Europe) (SH3)</description>
+    <rom name="Puzzle of Pipes (Europe) (SH3).cab" size="59746" crc="a853caeb" md5="c4ccf43cfe111869e6ab032740d2babf" sha1="10aa764000f3aada2e5ec4afeacbb34dc918b08a" />
+  </game>
+  <game name="Puzzle of Pipes (Europe) (SH3) (CE)">
+    <category>Games</category>
+    <description>Puzzle of Pipes (Europe) (SH3) (CE)</description>
+    <rom name="Puzzle of Pipes (Europe) (SH3) (CE).cab" size="59746" crc="3f70d4bc" md5="4477bb34eea717e4980ba08ccda1f74d" sha1="3a70f35613460ded73fdccf83fdb0433771acc20" />
+  </game>
+  <game name="QTris (Europe) (ARM)">
+    <category>Games</category>
+    <description>QTris (Europe) (ARM)</description>
+    <rom name="QTris (Europe) (ARM).cab" size="100183" crc="bae3a9f0" md5="f0bb73461bf1d61eb934741146bc5cf0" sha1="12a44152d5ee046321c8094fea55e05c844eb7bc" />
+  </game>
+  <game name="QTris (Europe) (MIPS)">
+    <category>Games</category>
+    <description>QTris (Europe) (MIPS)</description>
+    <rom name="QTris (Europe) (MIPS).cab" size="103255" crc="09fea072" md5="903cca4d36b1acf6d5bb30f2d8c9df52" sha1="71112d4b069feb455ff7abf8ec06488ded1d08c5" />
+  </game>
+  <game name="QTris (Europe) (SH3)">
+    <category>Games</category>
+    <description>QTris (Europe) (SH3)</description>
+    <rom name="QTris (Europe) (SH3).cab" size="98647" crc="d039cf9b" md5="46bc1db9c1dcecdf604215b5dfaf5c4e" sha1="5ee2a0722fb59d26d000b9f7589a104d4d6d88fa" />
+  </game>
+  <game name="Rat-Splat (Europe) (ARM)">
+    <category>Games</category>
+    <description>Rat-Splat (Europe) (ARM)</description>
+    <rom name="Rat-Splat (Europe) (ARM).cab" size="42320" crc="2720281b" md5="53f8a11860d22d242e7354f579032c96" sha1="141492db882f6f9be216328c1317e18ef57666de" />
+  </game>
+  <game name="Rat-Splat (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Rat-Splat (Europe) (MIPS)</description>
+    <rom name="Rat-Splat (Europe) (MIPS).cab" size="43344" crc="4fe31d6c" md5="ed0f0f26cfd059727ae27a9868a86d58" sha1="b81df2e45f6ad96cf2919a7225776ed01d2901bd" />
+  </game>
+  <game name="Rat-Splat (Europe) (SH3)">
+    <category>Games</category>
+    <description>Rat-Splat (Europe) (SH3)</description>
+    <rom name="Rat-Splat (Europe) (SH3).cab" size="41808" crc="5638163f" md5="2b63c0c4a555ded29841ffe0a63d3462" sha1="c4273334bb243a429928b1482aa6739ad53149c6" />
+  </game>
+  <game name="Squirmy (Europe) (ARM)">
+    <category>Games</category>
+    <description>Squirmy (Europe) (ARM)</description>
+    <rom name="Squirmy (Europe) (ARM).cab" size="108381" crc="9752b63e" md5="a69ec12cbad5e318b3ba765625a184ee" sha1="3a40515253ce9618ff910e2b865b57583dd3638a" />
+  </game>
+  <game name="Squirmy (Europe) (MIPS)">
+    <category>Games</category>
+    <description>Squirmy (Europe) (MIPS)</description>
+    <rom name="Squirmy (Europe) (MIPS).cab" size="110941" crc="08ce5e80" md5="ce9f6eb958e42e6e457d4491cfe3b692" sha1="9de72b3caa3b000779086ea4013f7dcc69bd2133" />
+  </game>
+  <game name="Squirmy (Europe) (SH3)">
+    <category>Games</category>
+    <description>Squirmy (Europe) (SH3)</description>
+    <rom name="Squirmy (Europe) (SH3).cab" size="106845" crc="b65e4dc3" md5="2084a2e9c89422ab95143b55b17be620" sha1="af6f0dff0f590cd75f9855068bdd68641ed61e90" />
+  </game>
+</datafile>

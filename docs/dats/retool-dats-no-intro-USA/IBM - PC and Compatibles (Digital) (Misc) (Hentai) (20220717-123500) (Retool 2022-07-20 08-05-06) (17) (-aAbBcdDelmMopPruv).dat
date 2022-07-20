@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>IBM - PC and Compatibles (Digital) (Misc) (Hentai) (Retool)</name>
+    <description>IBM - PC and Compatibles (Digital) (Misc) (Hentai) (Retool)</description>
+    <version>20220717-123500</version>
+    <date>2022-07-20 08-05-06</date>
+    <author>FakeShemp, MeguCocoa, norkmetnoil577 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Aisai Injoku Settai Shakkin no Kata ni Tsuma no Choukyou o Meijirareta Otto (World) (Trial)">
+    <category>Games</category>
+    <description>Aisai Injoku Settai Shakkin no Kata ni Tsuma no Choukyou o Meijirareta Otto (World) (Trial)</description>
+    <rom name="apt120_tr.zip" size="144451114" crc="de957338" md5="a1467663af2eded0923926409e935996" sha1="999ee395c91c3edcda3fc0bda7bc6d59bde371b2" />
+  </game>
+  <game name="Aku Yome Akuma na Yome ni Shiborareru (World) (Trial)">
+    <category>Games</category>
+    <description>Aku Yome Akuma na Yome ni Shiborareru (World) (Trial)</description>
+    <rom name="Akuyome_trial.zip" size="384090133" crc="46fc77eb" md5="020dde1ced48101eb3c3c4d7a8f8d281" sha1="6859d9a4aa1e7be79d2d3c6d057d332e3229801e" />
+  </game>
+  <game name="Akumeru Family - H na Kazoku no Acme Loop Royale (World) (Trial)">
+    <category>Games</category>
+    <description>Akumeru Family - H na Kazoku no Acme Loop Royale (World) (Trial)</description>
+    <rom name="AcmelFamily_trial.zip" size="601850632" crc="6af81a63" md5="bea910e586bca6593ef6addac3663ad8" sha1="c779ca331c34f9cdf9a856d506d94a80b4aa9a86" />
+  </game>
+  <game name="Akumu no Merumaga Ochita Imouto wa Kaerenai (World) (Trial)">
+    <category>Games</category>
+    <description>Akumu no Merumaga Ochita Imouto wa Kaerenai (World) (Trial)</description>
+    <rom name="apt020_tr.zip" size="117726966" crc="f1def31d" md5="aab7002946f061c0af6d025a413a59b0" sha1="20827576332aa11f95856c3d64277419dc9fe641" />
+  </game>
+  <game name="Amayakashi na Kanojo Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu (World) (Trial)">
+    <category>Games</category>
+    <description>Amayakashi na Kanojo Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu (World) (Trial)</description>
+    <rom name="Amayakashi_trial.zip" size="603538862" crc="c4cf6b79" md5="a3c694c77d06bda1a7768b8d96146e59" sha1="c5ca72429803ed0ac6a5789ea6329056013b1a31" />
+  </game>
+  <game name="Anal Mama Ushiro no Ana wa Musuko Sen'you na no (World) (Trial)">
+    <category>Games</category>
+    <description>Anal Mama Ushiro no Ana wa Musuko Sen'you na no (World) (Trial)</description>
+    <rom name="apt033_tr.zip" size="131855117" crc="286278c0" md5="93886587cb8782de714ed024252b7e3f" sha1="c8b1c7600c93f327c24e2f170df0bdc756d9c7c4" />
+  </game>
+  <game name="Anezuma In'yoku Choukyou Buotoko de Hikkii na Boku to no Gikei ni wa Ienai Himitsu no Ecstasy (World) (Trial)">
+    <category>Games</category>
+    <description>Anezuma In'yoku Choukyou Buotoko de Hikkii na Boku to no Gikei ni wa Ienai Himitsu no Ecstasy (World) (Trial)</description>
+    <rom name="apt028_tr.zip" size="114011896" crc="4b5709a2" md5="4cbfd5c547e1655d520399d99821b462" sha1="ee0c27262f4e2ac7c629bdfa0541c0fa968400a9" sha256="3525768cbe727be7e839c520301c9191a7926a74ae47c682b071522dc7ba0b78" />
+  </game>
+  <game name="Ano Koro, Sobo wa Erokatta Mukashi ni Modotte, Baa-chan ni Ecchi na Okaeshi o (World) (Trial)">
+    <category>Games</category>
+    <description>Ano Koro, Sobo wa Erokatta Mukashi ni Modotte, Baa-chan ni Ecchi na Okaeshi o (World) (Trial)</description>
+    <rom name="apt108_tr.zip" size="128844304" crc="6de6e525" md5="6e288aae10064b9b7524ce08cc8fdd8a" sha1="a8a09dc893c3f038d57eb95d414e7019d2b5ffae" />
+  </game>
+  <game name="Arasa Otoko ga Seiso Ojou-sama o Tasuketara. Oshikake Semarare Mankitsu H (World) (Trial)">
+    <category>Games</category>
+    <description>Arasa Otoko ga Seiso Ojou-sama o Tasuketara. Oshikake Semarare Mankitsu H (World) (Trial)</description>
+    <rom name="aptd018_tr.zip" size="226179531" crc="94a187ae" md5="619dba4c0c9aeb29b89cdc8ff4ac56e9" sha1="9efb1b59d7a1a6f99b9cda5b2c05218fcc5ac4e1" />
+  </game>
+  <game name="Arbeit no Senpai no Onna no Ko ni Shigoto o Osowatteitara Hajimacchau H na Kankei (World) (Trial)">
+    <category>Games</category>
+    <description>Arbeit no Senpai no Onna no Ko ni Shigoto o Osowatteitara Hajimacchau H na Kankei (World) (Trial)</description>
+    <rom name="baito_h_trial.zip.exe" size="315073866" crc="fd07fd4c" md5="47e8bea107d6d82ca08477b5d098073b" sha1="d695777dd197bd3027d615cd1916b885b8c8baa6" />
+  </game>
+  <game name="Baaba to Mama to no Choujuku Oyakodon 3 Sedai de no Kateinai Ecchi (World) (Trial)">
+    <category>Games</category>
+    <description>Baaba to Mama to no Choujuku Oyakodon 3 Sedai de no Kateinai Ecchi (World) (Trial)</description>
+    <rom name="apt130_tr.zip" size="133002610" crc="a743be0a" md5="0aa4fc60a70baede7f98a5ad92fb65d4" sha1="1150682a76f457ece570b743167db22ddba3ce2f" />
+  </game>
+  <game name="Bitch Gal no Gachi Iki Acme Katei Kyoushi no Doutei Kyokon ni Hamari Ochi (World) (Trial)">
+    <category>Games</category>
+    <description>Bitch Gal no Gachi Iki Acme Katei Kyoushi no Doutei Kyokon ni Hamari Ochi (World) (Trial)</description>
+    <rom name="apt110_tr.zip" size="141459633" crc="0d99bfd2" md5="cac8822c2b33ea4644e0ad00d510e6a4" sha1="feede4d3ae313db96437c0ec0d1ec2b844724534" />
+  </game>
+  <game name="Don't Stop the Camera! Hidden Desires of a Young Wife (World) (En) (Windows)">
+    <category>Games</category>
+    <description>Don't Stop the Camera! Hidden Desires of a Young Wife (World) (En) (Windows)</description>
+    <rom name="Don't Stop the Camera! Hidden Desires of a Young Wife (World) (En) (Windows).zip" size="370071045" crc="3e439652" md5="38f82d15ee53f1675d54a8d07e5d1729" sha1="971e49718c42b90773bc93fc6276bc4dabd4bcd2" sha256="e5fd157b9d87f5dc55b3467c5fb37198da670d564ec91514fd5cb65000636ceb" />
+  </game>
+  <game name="Invisible Man's Stealth NTR, The - Convincing and Inseminating the New Announcer with an Invisible Boner (World) (En) (Windows)">
+    <category>Games</category>
+    <description>Invisible Man's Stealth NTR, The - Convincing and Inseminating the New Announcer with an Invisible Boner (World) (En) (Windows)</description>
+    <rom name="Invisible Man's Stealth NTR, The - Convincing and Inseminating the New Announcer with an Invisible Boner (World) (En) (Windows).zip" size="456891123" crc="4503c3fa" md5="609226164be68ce8e42ca9eab3ecad39" sha1="3f20eb98eeb1bf6bcad318f5da61bbad4138d065" sha256="23ed08b4d5d8b302cbb4886ae770da3839f2ab1568620571604926b1d6655bf1" />
+  </game>
+  <game name="Koisuru Otome to Shugo no Tate - The Code Name is 'Shield 9' (World) (En) (Partial English Patched)">
+    <category>Games</category>
+    <description>Koisuru Otome to Shugo no Tate - The Code Name is 'Shield 9' (World) (En) (Partial English Patched)</description>
+    <rom name="Koisuru Otome to Shugo no Tate - The Code Name is 'Shield 9' (World) (En) (Partial English Patched).zip" size="2772878989" crc="06f7c25d" md5="2564b807ca0ab143debc1046437d5475" sha1="28f4eb98f3a4fa00746ecb98da4d197cdc8f463c" sha256="2a9041ea5a79f8cc51103a72b3d7488ebb2a2936ebf532ce6daf5902f9346601" />
+  </game>
+  <game name="Take Me in and I'll Love and Serve You - Sweet and Sexy Life with a Demi-human Girl (World) (En) (Windows)">
+    <category>Games</category>
+    <description>Take Me in and I'll Love and Serve You - Sweet and Sexy Life with a Demi-human Girl (World) (En) (Windows)</description>
+    <rom name="Take Me in and I'll Love and Serve You - Sweet and Sexy Life with a Demi-human Girl (World) (En) (Windows).zip" size="593400469" crc="ae8a75f0" md5="ba1f817518dbfab20b2fb7b1c26de987" sha1="fa4f657c85bad11325c54e4c26409a4658788446" sha256="0b4010dde106d969bed60fa542b4d48c6224af313b27264043e185709de365ac" />
+  </game>
+  <game name="Venus Blood - Chimera (World) (v1.03) (English Patched)">
+    <category>Games</category>
+    <description>Venus Blood - Chimera (World) (v1.03) (English Patched)</description>
+    <rom name="Venus Blood - Chimera (World) (v1.03) (English Patched).zip" size="1512710842" crc="6ca2cabf" md5="50f5c5dddb9e54567784c4f684f4bdba" sha1="a3f9068a3ba8b0e6dfb8051d375f17ef3b4c7417" sha256="a35a6995d1cd1925dd8484e5acc955164d4162a7fe25eefe88778f45218122cb" />
+  </game>
+</datafile>

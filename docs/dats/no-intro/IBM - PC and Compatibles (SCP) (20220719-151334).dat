@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>IBM - PC and Compatibles (SCP)</name>
+    <description>IBM - PC and Compatibles (SCP)</description>
+    <version>20220719-151334</version>
+    <author>FakeShemp, Gefflon, Hiccup, MeguCocoa, xuom2</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <comment>Software Preservation Society (http://www.softpres.org/games)</comment>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="3D Construction Kit (Disk 1) (Unknown) (3.5 inch)">
+    <description>3D Construction Kit (Disk 1) (Unknown) (3.5 inch)</description>
+    <rom name="3D Construction Kit (Disk 1) (Unknown) (3.5 inch).scp" size="64852621" crc="8cc40aa7" md5="1c4ed8b6663ce3a4c63141c1bed2330d" sha1="94525b7c4cb054b726e2a2d80404496679642f33" />
+  </game>
+  <game name="3D Construction Kit (Disk 2) (Unknown) (3.5 inch)">
+    <description>3D Construction Kit (Disk 2) (Unknown) (3.5 inch)</description>
+    <rom name="3D Construction Kit (Disk 2) (Unknown) (3.5 inch).scp" size="64654337" crc="a9cfc83b" md5="2f129fe58207d9aa118d27ed74b4f574" sha1="2fb3156772befe0931f939af72fe5ee68d431c90" />
+  </game>
+  <game name="3D World Boxing (Disk 1) (Unknown) (3.5 inch)">
+    <description>3D World Boxing (Disk 1) (Unknown) (3.5 inch)</description>
+    <rom name="3D World Boxing (Disk 1) (Unknown) (3.5 inch).scp" size="66463001" crc="07af7667" md5="5451987a3a8300b3dd0168acbea3743b" sha1="57c4a07bdb06e0aa4a86f7cfa530eaa05e344a51" />
+  </game>
+  <game name="3D World Boxing (Disk 2) (Unknown) (3.5 inch)">
+    <description>3D World Boxing (Disk 2) (Unknown) (3.5 inch)</description>
+    <rom name="3D World Boxing (Disk 2) (Unknown) (3.5 inch).scp" size="64127113" crc="0c1b37bf" md5="1470a862e2745856fc89536009a66bdc" sha1="b1183f6ddbcc0cf0ec589d0ab1b6eb99100716c1" />
+  </game>
+  <game name="4th &amp; Inches (Unknown) (3.5 inch)">
+    <description>4th &amp; Inches (Unknown) (3.5 inch)</description>
+    <rom name="4th &amp; Inches (Unknown) (3.5 inch).scp" size="62593747" crc="a459b6c4" md5="bf1b49dee1167892b98e52f4115993f5" sha1="2a460e20d9f3bf9b5b2a2b0c8f09dee62082e093" />
+  </game>
+  <game name="Pac Man (USA) (Booter) (5.25 inch)">
+    <description>Pac Man (USA) (Booter) (5.25 inch)</description>
+    <rom name="Pac Man (USA) (Booter) (5.25 inch).scp" size="12684247" crc="bfd5aca8" md5="a6311bdbb6561e6048b2005abe43e5af" sha1="f2af75ea3e4f5371450861c70c36e3446412a1d6" />
+  </game>
+  <game name="Super Off Road (Unknown) (3.5 inch)">
+    <description>Super Off Road (Unknown) (3.5 inch)</description>
+    <rom name="Super Off Road (Unknown) (3.5 inch).scp" size="68043571" crc="f652293b" md5="91787faff8dad9717c9ef743202e3dfe" sha1="ac9cf587ee48df70ddf1b827ca752478941dfafb" />
+  </game>
+</datafile>

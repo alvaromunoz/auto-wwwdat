@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Commodore - Amiga CD32 (Retool)</name>
+    <description>Commodore - Amiga CD32 (Retool)</description>
+    <version>2022-07-19 19-19-52</version>
+    <date>2022-07-20 08-04-53</date>
+    <author>redump.org &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://redump.org/</url>
+  </header>
+  <game name="Defender of the Crown II (USA) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Defender of the Crown II (USA) (En,Fr,De,Es,It)</description>
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It).cue" size="1709" crc="2cc686bc" md5="d7233b3896b71b4f7f9f23fd3c67a308" sha1="4fe46a83fb8fdfbb5dfbce8bcf83f61443822319" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 01).bin" size="65030448" crc="3c1bd1a7" md5="8d06279c2d025c37185bd930beef5c2a" sha1="def7d790861d74742596bc430ce6ee73f055ced5" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 02).bin" size="6225744" crc="ef8f115b" md5="3e2e895ffb6546941bdbf25cf365255b" sha1="78b4dddfe28d1eb2539cc6bbdea00723c421e4ca" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 03).bin" size="10819200" crc="73babf1b" md5="8e24b06073cdc5ec155b2c1d0d101f04" sha1="8830adfe6248bdc6ce0558e4b730184d18f29c30" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 04).bin" size="5851776" crc="f51597cc" md5="e36993c26ebb6236d73ca37cda86b9c1" sha1="74439dbab8c2f836a8c33d73a116108735d5e041" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 05).bin" size="5400192" crc="63a1ce42" md5="682b7a999e97043ca32adc03ed10be67" sha1="e7470e8040340c5d611be3f3c9c07832bf8e7690" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 06).bin" size="5475456" crc="d4f28bd1" md5="fb055e587cd4db8b3f8fb6eb5fba784a" sha1="1b3d88af19ff230c431457dc67dcf984dc7bb2f6" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 07).bin" size="5550720" crc="59058cf0" md5="18b85afc5e0fda42f24ed4130f8ffc8d" sha1="ba44ebb264fba458c5fe35e6552c448002d13308" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 08).bin" size="6679680" crc="292ac899" md5="005ed4f316b1b39a08ff6c2116222b98" sha1="5219d872fd05c144490ba636c9b0fb53c0cbc58c" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 09).bin" size="10743936" crc="b509a742" md5="d1c1fd20f36948e72d9c5ba6ddcc004b" sha1="01dec3d1373a465fa044b088c93c1b230bc40c78" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 10).bin" size="1862784" crc="c8d09149" md5="1e6694fe8ab15614649b3b431c8a2dd7" sha1="aab89ae9668d0db76dc842625fa4d0f7e9f69e17" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 11).bin" size="5475456" crc="c7f71fa2" md5="5af03014d3382588a8125cda9a7fc59d" sha1="2f5081347ff2478f6b313c5245c75fc871066244" />
+    <rom name="Defender of the Crown II (USA) (En,Fr,De,Es,It) (Track 12).bin" size="14711760" crc="f0a729f6" md5="2de38dcdfe7c6409317fccd33221607d" sha1="df2fafe0e61dccb635aab213c3c87284461639bd" />
+  </game>
+</datafile>

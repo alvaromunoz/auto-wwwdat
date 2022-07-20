@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Apple - II (A2R)</name>
+    <description>Apple - II (A2R)</description>
+    <version>20220719-154145</version>
+    <author>FakeShemp, MeguCocoa</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Beyond Castle Wolfenstein (USA)">
+    <description>Beyond Castle Wolfenstein (USA)</description>
+    <rom name="Beyond Castle Wolfenstein (USA).a2r" size="25223659" crc="dbfac109" md5="2e2f74408125bd385f114f427a5af315" sha1="bd43ea9d8e5eccffc181dfd9dce93a30f97c5ca3" sha256="ca7c2997443d88bd4862874fb9c7366fc9786d4663d0be7479ebd1c7e4e406b6" />
+  </game>
+  <game name="Drugs - Their Effects On You (Unknown) (Side A)">
+    <description>Drugs - Their Effects On You (Unknown) (Side A)</description>
+    <rom name="Drugs - Their Effects On You (Unknown) (Side A).a2r" size="22216382" crc="b581ea67" md5="42001e5b58e7e8325e5f5ddb60d13605" sha1="4a89d43f50704860d5be902c2566802f380efddb" />
+    <rom name="Drugs - Their Effects On You (Unknown) (Side A).a2r" size="22216382" crc="b581ea67" md5="42001e5b58e7e8325e5f5ddb60d13605" sha1="4a89d43f50704860d5be902c2566802f380efddb" />
+  </game>
+  <game name="Drugs - Their Effects On You (Unknown) (Side B)">
+    <description>Drugs - Their Effects On You (Unknown) (Side B)</description>
+    <rom name="Drugs - Their Effects On You (Unknown) (Side B).a2r" size="26347412" crc="6ad533ed" md5="3a8cc0614d79cfd11c93dd0deb8925fb" sha1="19735537474bb14bd5a2fd40409f01221fff4890" />
+  </game>
+  <game name="Star Dance (USA)">
+    <description>Star Dance (USA)</description>
+    <rom name="Star Dance (USA).a2r" size="8977045" crc="e86f0663" md5="c61c04d5f16a1c4600d41c55bd50e215" sha1="b014c1a19319dad211eb2348845237a93fe549fe" sha256="87e42d65e6fafd38b69bf31ad1aebf14c5da1c34639b428a10c50e76eabd314d" />
+  </game>
+  <game name="The NeverEnding Story (Unknown)">
+    <description>The NeverEnding Story (Unknown)</description>
+    <rom name="The NeverEnding Story - Disk 1, Side A.a2r" size="14146838" crc="5601d5a2" md5="3d2eb20419222ecc7fd47be9d0e53259" sha1="f75d066a2cd2439836ea890bda2ffd5ca737d52d" />
+  </game>
+</datafile>
