@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Apple - Macintosh (WOZ) (Retool)</name>
+    <description>Apple - Macintosh (WOZ) (Retool)</description>
+    <version>20220720-090259</version>
+    <date>2022-07-21 08-10-13</date>
+    <author>FakeShemp, Gefflon, MeguCocoa, UnlockerPT, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Airborne! (USA, Europe)">
+    <category>Games</category>
+    <description>Airborne! (USA, Europe)</description>
+    <rom name="Airborne! (USA, Europe).woz" size="648992" crc="1fdc26f4" md5="38ab03098e22a45d6127f06c4da5fefc" sha1="78f6b077ec0fbb4aecd32a3f4dd17e08cf92fb71" sha256="de84dbc767c3cba405828bb5e06225e35b9eacdd40a2bfeb823f6b778d975765" />
+  </game>
+</datafile>
