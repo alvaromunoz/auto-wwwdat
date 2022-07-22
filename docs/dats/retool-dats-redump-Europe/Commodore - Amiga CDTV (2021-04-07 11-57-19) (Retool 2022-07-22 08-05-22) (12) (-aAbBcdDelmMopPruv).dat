@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Commodore - Amiga CDTV (Retool)</name>
+    <description>Commodore - Amiga CDTV (Retool)</description>
+    <version>2021-04-07 11-57-19</version>
+    <date>2022-07-22 08-05-22</date>
+    <author>redump.org &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://redump.org/</url>
+  </header>
+  <game name="Case of the Cautious Condor, The (Europe)">
+    <category>Games</category>
+    <description>Case of the Cautious Condor, The (Europe)</description>
+    <rom name="Case of the Cautious Condor, The (Europe).cue" size="107" crc="c3d776df" md5="5b2ab5c87a950b487ab8c18068e566c3" sha1="2e89f9191f721b3980aecf06f80de7878fa6876b" />
+    <rom name="Case of the Cautious Condor, The (Europe).bin" size="153204576" crc="057a0f34" md5="b1ef10bd3234fbafa04dcb477b1da105" sha1="506500ac32ba1d775d4ef75968cd84e8967f0690" />
+  </game>
+  <game name="Classic Board Games (Europe) (En,Ja,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Classic Board Games (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Classic Board Games (Europe) (En,Ja,Fr,De,Es,It).cue" size="114" crc="2a14355f" md5="cb64d8efa755b6dae5634b4a4fd71053" sha1="28d8e8e1ee93cff118663a3bfa00ebc331e70868" />
+    <rom name="Classic Board Games (Europe) (En,Ja,Fr,De,Es,It).bin" size="113926176" crc="5540a1d9" md5="343851d323c2d708ceb39208f98d712d" sha1="3080a6870e2f574672d8349562df52b4014b8427" />
+  </game>
+  <game name="Defender of the Crown (Europe)">
+    <category>Games</category>
+    <description>Defender of the Crown (Europe)</description>
+    <rom name="Defender of the Crown (Europe).cue" size="230" crc="ee8b8985" md5="c10783a113cccba70286675709e39926" sha1="f41a5d3c09a51956901ed96ed0593cf2e882cd42" />
+    <rom name="Defender of the Crown (Europe) (Track 1).bin" size="9878400" crc="104f29d5" md5="937a65f3cbecc340e006234e811f9386" sha1="b481c4a1645bd946c4e9643d55a105e6fa747526" />
+    <rom name="Defender of the Crown (Europe) (Track 2).bin" size="260961456" crc="c387dbaf" md5="97272f12a36df7867ab5424b9dcff8e8" sha1="1f582a800fa371d0ac39f446e47f7c95776ec6b8" />
+  </game>
+  <game name="Lemmings (Europe)">
+    <category>Games</category>
+    <description>Lemmings (Europe)</description>
+    <rom name="Lemmings (Europe).cue" size="83" crc="32fc8209" md5="1ce60d243301f7881ded33df38e1f7dc" sha1="b865b14cd6f5ae0a27a0b2599ccc7da45de61ef6" />
+    <rom name="Lemmings (Europe).bin" size="69259344" crc="1659d12d" md5="1ee64a7b66aa58a94adefb98c412f622" sha1="ceaec027822c03a08e060b139908c0340c77bb20" />
+  </game>
+  <game name="Log!cal (Europe)">
+    <category>Games</category>
+    <description>Log!cal (Europe)</description>
+    <rom name="Log!cal (Europe).cue" size="82" crc="fad771da" md5="ffde14e09e6466114b3b0f15f9a2e145" sha1="f7ec454633127a2547f4fd9017cfc29cc6c0b08c" />
+    <rom name="Log!cal (Europe).bin" size="20815200" crc="9005c890" md5="cbe25fd3c5bcf9e6edcff7c9e940b864" sha1="200f812cb38236840c3189c71108c63d8bc41d24" />
+  </game>
+  <game name="Prehistorik (Europe)">
+    <category>Games</category>
+    <description>Prehistorik (Europe)</description>
+    <rom name="Prehistorik (Europe).cue" size="1362" crc="1ce936d6" md5="75934f23529856efeab853844f207fbc" sha1="b1c956fcc3099bc70760f57b134481e071bee390" />
+    <rom name="Prehistorik (Europe) (Track 01).bin" size="20815200" crc="56b4d0fa" md5="4a064683c8e096a393953fa89e70f035" sha1="24e5ac0166ba71d8dad2a9866effff44e695069d" />
+    <rom name="Prehistorik (Europe) (Track 02).bin" size="16468704" crc="b037b721" md5="349c5f19fcdda8d500ca4626e8a63303" sha1="85323e4be1116bb9ea228652faa38213825b049e" />
+    <rom name="Prehistorik (Europe) (Track 03).bin" size="34922496" crc="f04a918a" md5="3409e84fe46de14a64d40cb83b725403" sha1="e226afbd55dd1ed6f2a1de9465958cdf60c25fe4" />
+    <rom name="Prehistorik (Europe) (Track 04).bin" size="30357264" crc="6e206333" md5="22cf4fe6f24877381a4a8df88e9380b5" sha1="b1c31d9ab120de4a089af3e1f832671e96031cc1" />
+    <rom name="Prehistorik (Europe) (Track 05).bin" size="34550880" crc="be6729d2" md5="e38a61fb655b1125f92319cd6880e29c" sha1="122ffaf38ca2f337f2cf7504150d15b58b246e42" />
+    <rom name="Prehistorik (Europe) (Track 06).bin" size="20622336" crc="de6d3809" md5="1dfef6afdce0af91ac2a63513e2d1962" sha1="4f953e2315fb0822d41316756f7b9c0aa9d10388" />
+    <rom name="Prehistorik (Europe) (Track 07).bin" size="4767504" crc="8e8ec611" md5="a1cca469272a4e3ffdcb3bb17205aa8e" sha1="ac0abe748519f4f94a20882e9ed181c20d25d3ca" />
+    <rom name="Prehistorik (Europe) (Track 08).bin" size="33464256" crc="f8e596fc" md5="0199e0d75f96cc43aeefe28e72a8093d" sha1="976f155f313fe0ca812da698c434e340ec7bc13a" />
+    <rom name="Prehistorik (Europe) (Track 09).bin" size="3857280" crc="3333b3cd" md5="0e89d2c98a8a4d7556a6e27201e4c49a" sha1="0d48b81478fb9ab204b5ab9f6d89fa00082bfb86" />
+    <rom name="Prehistorik (Europe) (Track 10).bin" size="38114160" crc="3a3d72ff" md5="12674f3cd6f09139dc6f1edcabc82694" sha1="66bf47ea12384c7bdef7aaf4c5e23dab439ec7c3" />
+    <rom name="Prehistorik (Europe) (Track 11).bin" size="3633840" crc="cd08893e" md5="226062ab6a048301f41ec7cdfacca943" sha1="1f6f6461c8df6e2a85e3edfbddcc597ce1cf172c" />
+    <rom name="Prehistorik (Europe) (Track 12).bin" size="2222640" crc="7611df1b" md5="b1d9a5e82f5886a72eeb0c8e6756104a" sha1="f7134cb90bec4139383723ad4ee2c0510174c588" />
+  </game>
+  <game name="Psycho Killer (Europe)">
+    <category>Games</category>
+    <description>Psycho Killer (Europe)</description>
+    <rom name="Psycho Killer (Europe).cue" size="399" crc="0ac80308" md5="fc589e70df1d58cd85f5e9842a97c017" sha1="3f0ae24c2cf1082bb0f5f174f033003c843de460" />
+    <rom name="Psycho Killer (Europe) (Track 1).bin" size="57769824" crc="f980487b" md5="4b19901c0a1d54a5b3072415d4c75269" sha1="b736e60d043783af98ff3ab4cd6857c8628c976e" />
+    <rom name="Psycho Killer (Europe) (Track 2).bin" size="14648256" crc="c2901df2" md5="6e7593e6616a787d2b763794242d7eb0" sha1="156cb5dafc12c506cf8a55c00e1e30c2f66ed6ac" />
+    <rom name="Psycho Killer (Europe) (Track 3).bin" size="12700800" crc="515f6db3" md5="4df215db241a60fbb54275d0b455a007" sha1="d6a164262167d3baf77e5765bc0d5e0e5f39d0c7" />
+  </game>
+  <game name="SimCity (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>SimCity (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It).cue" size="2414" crc="cfbbfe89" md5="80021fe8a73f42665f374f1cc9f33838" sha1="7fc3f9d83ad93320b1cf1d8dcc1ef56a91570a99" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="6091680" crc="287d124f" md5="aa9de61812285e908c3a111dff70758d" sha1="5a84eb2a945b50206da5e6dc3dd1172238a2ff8b" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="37930704" crc="ebf52a7d" md5="0dc904e1835b22e0f7403d41c2e2be9a" sha1="31b897c96fbd1c53fb1b2ccf3cb1968938500efc" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="9525600" crc="3ce9cfa5" md5="ba5e52edfe0befab44337c662f818918" sha1="8f7cb4e19306c3cfe5c38721c2cdb47ef7ecdb4f" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="23997456" crc="f6e4e1ed" md5="e49ae5cbe35b2ea885f1055e4d64caa9" sha1="60954af77bb90961f832381588560c50488095a3" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 05).bin" size="28581504" crc="4b4b5e2a" md5="27e41f4e378fb3c749c27afbda81c1ac" sha1="f07eaaec1e5bb69a3a767bc07dcef4fe52e36154" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 06).bin" size="6886656" crc="4a74afb3" md5="f0591b6dc1f08214f4e26b634bbf5314" sha1="7a1c5e4220de3b2a08a981cb684996f980115778" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 07).bin" size="7413504" crc="0e7d7633" md5="c89cbdafb7de9e60471d9c4959ad077f" sha1="7230c1702d4ca32642115b299eca0119deae89b5" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 08).bin" size="10231200" crc="b6d35220" md5="e7d5b39a7503ea8fae574c3be7e852f2" sha1="2604b65ef94d104e035fc3da4259d44a4f277dce" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 09).bin" size="7063056" crc="99661fd6" md5="11d03ee3164d6cfb0b5009c03819826a" sha1="542b29eed6c08e44b1bc5ba98d9965070dadebc4" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 10).bin" size="6009360" crc="f8b868a9" md5="a1040240e36e798dffee4e0d73f972b6" sha1="693682045069863e1ae0e7302198ba36c4db897f" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 11).bin" size="11289600" crc="a3952254" md5="559f28e3aedd1c9933cd09f0be651730" sha1="239da6a94ad8bf8fc54166f587bb5fc046321ba3" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 12).bin" size="15527904" crc="360e392a" md5="c73d0fe9102c34607dc3fc59fd9289b7" sha1="e4d014ec31b91629458c37b01b181dd2672e36c8" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 13).bin" size="22057056" crc="5e58b7df" md5="9ad79d9d9608a23fddc7c9b6705984c8" sha1="18fc53e2bcee5eb6690c0ecad1692a50f73aa8a6" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 14).bin" size="14112000" crc="16c67cf3" md5="c45eb034a26356bd8a60e23177063ced" sha1="c8ab87a029b410f67187fa7da5342e64f90485a4" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 15).bin" size="7942704" crc="56df5b85" md5="66c1bda1978bb8cb7b7a006ca884a430" sha1="e9e5f66f3e7b4c890eba513aad086936785115dc" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 16).bin" size="9003456" crc="452c19d3" md5="0267fea677396bf2ba214fb18c504807" sha1="6e7a1acd2e00aabf1bd58f4a8e8c540b52f05bd1" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 17).bin" size="10066560" crc="a376e9ea" md5="d175d3fbd6df5384207bd5f418cfc5d5" sha1="322b9a8b7651bd8e214c65dcec5df988bb4f8946" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 18).bin" size="10231200" crc="8292e162" md5="e2ceb61bf0641fa97e1ff762ddff2abb" sha1="273d847d5cf25e72dfde7f5560724ea03286d386" />
+    <rom name="SimCity (Europe) (En,Fr,De,Es,It) (Track 19).bin" size="8119104" crc="8b75cc6e" md5="88d22182ec667ac5357a5b97802e9791" sha1="cacafa1bdf008d9d756abe51ec72ffc065e9e487" />
+  </game>
+  <game name="Team Yankee (Europe)">
+    <category>Games</category>
+    <description>Team Yankee (Europe)</description>
+    <rom name="Team Yankee (Europe).cue" size="86" crc="08deab09" md5="1f7f0657553fdb0697a6d54d35d66d20" sha1="284b5661257cd403430bca3a18240acc4ac86b14" />
+    <rom name="Team Yankee (Europe).bin" size="6091680" crc="a500bad1" md5="807ed3b870edeae21752141dcabeeb58" sha1="845b51c3bf7ea9e0a3e94ac6af544dcab34b5f93" />
+  </game>
+  <game name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 1)">
+    <category>Games</category>
+    <description>Trivial Pursuit - The CDTV Edition (Europe) (Disc 1)</description>
+    <rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 1).cue" size="118" crc="7564a5ff" md5="ab9214b9ca49398815cd45521843e50c" sha1="62679bc5c37d8cbc4503eef3a7bfaef055aba8e5" />
+    <rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 1).bin" size="270562320" crc="48b01ac5" md5="5b43f79ea4f4419e77024bee6a95461a" sha1="ceda26140d4ae1f7cef6763f396d9863d0a421b9" />
+  </game>
+  <game name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 2)">
+    <category>Games</category>
+    <description>Trivial Pursuit - The CDTV Edition (Europe) (Disc 2)</description>
+    <rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 2).cue" size="118" crc="7439832e" md5="9feb7538e24fd218af9fe3799db6775e" sha1="ea1004f64de951b7aeed370b9f95129b0df752c7" />
+    <rom name="Trivial Pursuit - The CDTV Edition (Europe) (Disc 2).bin" size="269873184" crc="ee29ff98" md5="474bc93345bf2503ae2a11a1d0148966" sha1="d49eae1588d08a51cca075d8ab3ffe23fd5e8e21" />
+  </game>
+  <game name="Xenon 2 - Megablast (Europe) (En,Fr,De,It)">
+    <category>Games</category>
+    <description>Xenon 2 - Megablast (Europe) (En,Fr,De,It)</description>
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It).cue" size="1763" crc="a51efa14" md5="bf30ad9d39af11048b52362dfc2adc73" sha1="ebce78861572a303853ad872fcc8ee41f8a40010" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 01).bin" size="14123760" crc="74f0388c" md5="c6d86451da6881150267b20a9ed625ec" sha1="a1cd9d031308295f76927c660aa37e4c7ff4e9ca" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 02).bin" size="48921600" crc="b4614563" md5="6b028111a6d69689c2d3270dacbad392" sha1="331fb27fe3b2b76c501a8e62c717b4c585b0f309" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 03).bin" size="75205200" crc="defc133a" md5="c6905e204542c54bf9da039ee3a92aeb" sha1="96e8fe0c4f0d1c289a0dd5c3bdf1230853d761a1" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 04).bin" size="65884224" crc="3ab4a0f9" md5="92dfede47d576562f67088ff9df79beb" sha1="b4719f61e460c7ff330dcf3e3f0b12a8d856ee87" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 05).bin" size="56330400" crc="4b560cf8" md5="bf5a59f6577c615d58da9ad770028cd3" sha1="38e8d775b3f9b22f129ac639a8a30ee32abf03fd" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 06).bin" size="54860400" crc="3099b68e" md5="4bf0f3c127446a9805afd961c3099549" sha1="15346d2fde55d3e848675ef572565ff72006e504" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 07).bin" size="72500400" crc="85dc22fe" md5="e1a5ee468df29065f503797eb90e9d34" sha1="9a04ad6453825169af952619e3200e88e6389261" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 08).bin" size="47804400" crc="48ede2fc" md5="b6d18097c3246f9bbcd80ae12ab4106a" sha1="5d42c26eaa06509813001b5929bc6354b38472c6" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 09).bin" size="59623200" crc="5ba4b786" md5="b7e7a982808837f11b785873fbd4e24f" sha1="51b7c5761e6fd28ccafb5000d1166fc2575387f4" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 10).bin" size="62974800" crc="95895ff1" md5="d2a914adc1807e51158c8decc1f4bc9b" sha1="053f4134fdf75eb2e542e07c872f08cfcbf24b43" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 11).bin" size="71354976" crc="3c53724a" md5="fd45bd0e2f6bcad889a2bc7a85c271f8" sha1="888e44da5728c30202e0dc3b8c1aea546da48154" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 12).bin" size="35691600" crc="3d9f5590" md5="65cc971eb2443e145e10ed40e2fc9278" sha1="de5b2de9c8dcda755213a1e086e551f6c9bb02a3" />
+    <rom name="Xenon 2 - Megablast (Europe) (En,Fr,De,It) (Track 13).bin" size="60975600" crc="765df8df" md5="31df16fc7429ffec552ce01f73bcf331" sha1="6e5d4fca1812beeb9276793566159fa62650e9b4" />
+  </game>
+</datafile>

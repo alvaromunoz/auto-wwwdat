@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Nintendo - Family Computer Disk System (QD) (Retool)</name>
+    <description>Nintendo - Family Computer Disk System (QD) (Retool)</description>
+    <version>20220720-111152</version>
+    <date>2022-07-22 08-06-53</date>
+    <author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Hiccup, kazumi213, omonim2007, relax, RetroUprising, SonGoku, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)">
+    <category>Games</category>
+    <description>Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)</description>
+    <rom name="Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).qd" size="65536" crc="378cb78c" md5="11ddfc008e43faed668d60255b0c33ce" sha1="b47163160ed6925a95c3cc3da0a5171f908d99ea" sha256="26ea14af6c931b4efb6cc99aa7bc1bcbda35e441714c9f6062e8f8cf206ea213" />
+  </game>
+</datafile>
