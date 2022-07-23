@@ -194,10 +194,10 @@
 <datfile>
 <name>Atari - 2600</name>
 <description>Atari - 2600</description>
-<version>20220721-040500</version>
+<version>20220722-072113</version>
 <author>ajshell1, Arctic Circle System, C. V. Reynolds, FakeShemp, Flashfire42, Hiccup, omonim2007, RetroUprising, SonGoku, xuom2</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Atari - 2600 (20220721-040500).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Atari - 2600 (20220722-072113).dat</url>
 </datfile>
 <datfile>
 <name>Atari - 5200</name>
@@ -370,10 +370,10 @@
 <datfile>
 <name>Coleco - ColecoVision</name>
 <description>Coleco - ColecoVision</description>
-<version>20220430-211046</version>
-<author>C. V. Reynolds, kazumi213, MeguCocoa, omonim2007, xuom2</author>
+<version>20220722-080200</version>
+<author>Arctic Circle System, C. V. Reynolds, Hiccup, kazumi213, MeguCocoa, omonim2007, xuom2</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Coleco - ColecoVision (20220430-211046).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Coleco - ColecoVision (20220722-080200).dat</url>
 </datfile>
 <datfile>
 <name>Commodore - Amiga</name>
@@ -642,10 +642,10 @@
 <datfile>
 <name>IBM - PC and Compatibles (Flash Media)</name>
 <description>IBM - PC and Compatibles (Flash Media)</description>
-<version>20220721-102328</version>
+<version>20220722-173038</version>
 <author>Hiccup, NovaAurora, SonGoku</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/IBM - PC and Compatibles (Flash Media) (20220721-102328).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/IBM - PC and Compatibles (Flash Media) (20220722-173038).dat</url>
 </datfile>
 <datfile>
 <name>IBM - PC and Compatibles (IPF)</name>
@@ -970,10 +970,10 @@
 <datfile>
 <name>Nintendo - Game Boy</name>
 <description>Nintendo - Game Boy</description>
-<version>20220721-043953</version>
+<version>20220722-225933</version>
 <author>aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Hiccup, hking0036, InternalLoss, jimmsu, kazumi213, leekindo, Madeline, Money_114, NESBrew12, NGEfreak, norkmetnoil577, NovaAurora, omonim2007, Powerpuff, PPLToast, relax, RetroUprising, rpg2813, sCZther, SonGoku, Tauwasser, togemet2, xNo, xuom2</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Game Boy (20220721-043953).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Game Boy (20220722-225933).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Game Boy Advance</name>
@@ -1050,10 +1050,10 @@
 <datfile>
 <name>Nintendo - New Nintendo 3DS (Decrypted)</name>
 <description>Nintendo - New Nintendo 3DS (Decrypted)</description>
-<version>20220720-104945</version>
+<version>20220722-122942</version>
 <author>aci68, Arctic Circle System, b2071988, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, PPLToast, SonGoku, xprism</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - New Nintendo 3DS (Decrypted) (20220720-104945).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - New Nintendo 3DS (Decrypted) (20220722-122942).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - New Nintendo 3DS (Digital) (Deprecated)</name>
@@ -1066,10 +1066,10 @@
 <datfile>
 <name>Nintendo - New Nintendo 3DS (Encrypted)</name>
 <description>Nintendo - New Nintendo 3DS (Encrypted)</description>
-<version>20220720-104945</version>
+<version>20220722-122942</version>
 <author>aci68, Arctic Circle System, b2071988, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, PPLToast, SonGoku, xprism</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - New Nintendo 3DS (Encrypted) (20220720-104945).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - New Nintendo 3DS (Encrypted) (20220722-122942).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Nintendo 3DS (Decrypted)</name>
@@ -1146,26 +1146,26 @@
 <datfile>
 <name>Nintendo - Nintendo DS (Decrypted)</name>
 <description>Nintendo - Nintendo DS (Decrypted)</description>
-<version>20220721-232318</version>
+<version>20220722-230554</version>
 <author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, leekindo, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, omonim2007, Powerpuff, PPLToast, rarenight, relax, RetroGamer, Rifu, scorp256, Sir VG, SonGoku, Tauwasser, ToeKnee, togemet2, Tori, u53r123, ufocrossing, Vallaine01, Vigi, Whovian9369, Xenirina, xuom2, zg</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo DS (Decrypted) (20220721-232318).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo DS (Decrypted) (20220722-230554).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Nintendo DS (Download Play)</name>
 <description>Nintendo - Nintendo DS (Download Play)</description>
-<version>20220721-165623</version>
+<version>20220722-124434</version>
 <author>Arctic Circle System, baldjared, Gefflon, Hiccup, Larsenv, Lesserkuma, SonGoku, ToeKnee, xNo, xuom2</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo DS (Download Play) (20220721-165623).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo DS (Download Play) (20220722-124434).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Nintendo DS (Encrypted)</name>
 <description>Nintendo - Nintendo DS (Encrypted)</description>
-<version>20220721-232318</version>
+<version>20220722-230554</version>
 <author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, leekindo, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, omonim2007, Powerpuff, PPLToast, rarenight, relax, RetroGamer, Rifu, scorp256, Sir VG, SonGoku, Tauwasser, ToeKnee, togemet2, Tori, u53r123, ufocrossing, Vallaine01, Vigi, Whovian9369, Xenirina, xuom2, zg</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo DS (Encrypted) (20220721-232318).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo DS (Encrypted) (20220722-230554).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Nintendo DSi (Decrypted)</name>
@@ -1210,18 +1210,18 @@
 <datfile>
 <name>Nintendo - Nintendo Entertainment System (Headered)</name>
 <description>Nintendo - Nintendo Entertainment System (Headered)</description>
-<version>20220721-211625</version>
+<version>20220722-205224</version>
 <author>aci68, Arctic Circle System, baldjared, BigFred, BitLooter, Blank, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, einstein95, fuzzball, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, Madeline, Money_114, NESBrew12, niemand, norkmetnoil577, NovaAurora, omonim2007, Powerpuff, PPLToast, relax, RetroUprising, Rifu, sCZther, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, Vigi, xuom2</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo Entertainment System (Headered) (20220721-211625).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo Entertainment System (Headered) (20220722-205224).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Nintendo Entertainment System (Headerless)</name>
 <description>Nintendo - Nintendo Entertainment System (Headerless)</description>
-<version>20220721-211625</version>
+<version>20220722-205224</version>
 <author>aci68, Arctic Circle System, baldjared, BigFred, BitLooter, Blank, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, einstein95, fuzzball, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, Madeline, Money_114, NESBrew12, niemand, norkmetnoil577, NovaAurora, omonim2007, Powerpuff, PPLToast, relax, RetroUprising, Rifu, sCZther, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, Vigi, xuom2</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo Entertainment System (Headerless) (20220721-211625).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Nintendo Entertainment System (Headerless) (20220722-205224).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Nintendo GameCube (NPDP Carts)</name>
@@ -1266,10 +1266,10 @@
 <datfile>
 <name>Nintendo - Super Nintendo Entertainment System</name>
 <description>Nintendo - Super Nintendo Entertainment System</description>
-<version>20220721-212409</version>
+<version>20220722-055416</version>
 <author>aci68, alcoatjez, Arctic Circle System, BigFred, Blank, C. V. Reynolds, chillerecke, coraz, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Hiccup, Jack, jimmsu, kazumi213, Madeline, Money_114, NESBrew12, norkmetnoil577, NovaAurora, omonim2007, Powerpuff, PPLToast, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Super Nintendo Entertainment System (20220721-212409).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Nintendo - Super Nintendo Entertainment System (20220722-055416).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Virtual Boy</name>
@@ -1552,6 +1552,14 @@
 <url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Sega - Master System - Mark III (20220716-074453).dat</url>
 </datfile>
 <datfile>
+<name>Sega - Mega Drive - Genesis</name>
+<description>Sega - Mega Drive - Genesis</description>
+<version>20220722-000758</version>
+<author>Arctic Circle System, baldjared, BigFred, BitLooter, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Hiccup, Jack, Madeline, Money_114, niemand, norkmetnoil577, NovaAurora, omonim2007, Powerpuff, relax, RetroUprising, Rifu, sCZther, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
+<comment>auto-wwwdat</comment>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Sega - Mega Drive - Genesis (20220722-000758).dat</url>
+</datfile>
+<datfile>
 <name>Sega - PICO</name>
 <description>Sega - PICO</description>
 <version>20211220-204306</version>
@@ -1800,6 +1808,14 @@
 <url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/TeleNova - Compis (Flux) (20220712-150738).dat</url>
 </datfile>
 <datfile>
+<name>Texas Instruments - TI-99-4A (A2R)</name>
+<description>Texas Instruments - TI-99-4A (A2R)</description>
+<version>20220720-123634</version>
+<author>FakeShemp</author>
+<comment>auto-wwwdat</comment>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Texas Instruments - TI-99-4A (Flux) (20220720-123634).dat</url>
+</datfile>
+<datfile>
 <name>Tiger - Game.com</name>
 <description>Tiger - Game.com</description>
 <version>20081125-110950</version>
@@ -1886,14 +1902,6 @@
 <author>Densetsu, SonGoku, xuom2</author>
 <comment>auto-wwwdat</comment>
 <url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Unofficial - Sony - PlayStation 3 (PSN) (Decrypted) (20180429-070319).dat</url>
-</datfile>
-<datfile>
-<name>Unofficial - Sony - PlayStation 4 (PSN)</name>
-<description>Unofficial - Sony - PlayStation 4 (PSN)</description>
-<version>20220624-224500</version>
-<author>xuom2</author>
-<comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/no-intro/Unofficial - Sony - PlayStation 4 (PSN) (20220624-224500).dat</url>
 </datfile>
 <datfile>
 <name>Unofficial - Sony - PlayStation Portable (PSN) (Decrypted)</name>

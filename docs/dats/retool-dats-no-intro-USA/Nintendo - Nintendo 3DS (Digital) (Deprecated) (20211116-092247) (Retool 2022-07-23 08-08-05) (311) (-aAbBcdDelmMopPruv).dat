@@ -1,0 +1,1569 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Nintendo - Nintendo 3DS (Digital) (Deprecated) (Retool)</name>
+    <description>Nintendo - Nintendo 3DS (Digital) (Deprecated) (Retool)</description>
+    <version>20211116-092247</version>
+    <date>2022-07-23 08-08-05</date>
+    <author>aci68, C. V. Reynolds, coraz, Densetsu, einstein95, Gefflon, Hiccup, Jack, jimmsu, MeguCocoa, norkmetnoil577, relax, Rifu, SonGoku, Xenirina, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="10-in-1 - Arcade Collection (USA) (eShop)">
+    <category>Games</category>
+    <description>10-in-1 - Arcade Collection (USA) (eShop)</description>
+    <rom name="10-in-1 - Arcade Collection (USA) (eShop).3ds" size="134217728" crc="d94a6a86" md5="a3af7d8828dd89616292029a07074de6" sha1="5ed68aacc30ccac03374ee68aa92330a4c92af36" />
+  </game>
+  <game name="1001 Spikes (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>1001 Spikes (USA) (Rev 1) (eShop)</description>
+    <rom name="1001 Spikes (USA) (Rev 1) (eShop).3ds" size="134217728" crc="7bf79c2b" md5="64f13ce087d11edd7987b337dc811f7b" sha1="c546af8b3a2acaaa2d70c504d53b995e568c30db" />
+  </game>
+  <game name="2048 (USA) (eShop)">
+    <category>Games</category>
+    <description>2048 (USA) (eShop)</description>
+    <rom name="2048 (USA) (eShop).3ds" size="134217728" crc="d6513220" md5="7a637e7954fae929cf3fbc6a297c5945" sha1="8c25f854409d8a959d9ba142ca1024916d8afa28" />
+  </game>
+  <game name="3D After Burner II (USA) (eShop) (Encrypted CIA)">
+    <category>Games</category>
+    <description>3D After Burner II (USA) (eShop) (Encrypted CIA)</description>
+    <rom name="3D After Burner II (USA) (eShop).cia" size="9382208" crc="2b1ea728" md5="8a85c529b1680f477474529784d09e39" sha1="1481fabcc1bae21f09d5e0148f021e4b8c07a754" sha256="46d0d3b362b562c20056199b1a16a4fde96d07e4357359ccdd9a4d971326b3b8" />
+  </game>
+  <game name="3D Altered Beast (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Altered Beast (USA) (eShop)</description>
+    <rom name="3D Altered Beast (USA) (eShop).3ds" size="134217728" crc="718af82b" md5="f8342f441fb23e4576c86293b2886f60" sha1="b4d9893141c87949d85169dca7ee4c93275ea746" />
+  </game>
+  <game name="3D Classics - Excitebike (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>3D Classics - Excitebike (USA) (Rev 1) (eShop)</description>
+    <rom name="3D Classics - Excitebike (USA) (Rev 1) (eShop).3ds" size="134217728" crc="0fa60f31" md5="51fb3b2d10cc0b74a06b73f2fc62a9fd" sha1="1285f3e07e216d8a3e74ef1ccab49c11cb42df39" />
+  </game>
+  <game name="3D Classics - Kid Icarus (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Classics - Kid Icarus (USA) (eShop)</description>
+    <rom name="3D Classics - Kid Icarus (USA) (eShop).3ds" size="134217728" crc="3e8dfc97" md5="9d92c0bee42da46f6fbaf89ddf456fca" sha1="34b3717f9fe6670bb70cbe19d2d2352d72fe4717" />
+  </game>
+  <game name="3D Classics - Kirby's Adventure (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Classics - Kirby's Adventure (USA) (eShop)</description>
+    <rom name="3D Classics - Kirby's Adventure (USA) (eShop).3ds" size="134217728" crc="617dc304" md5="dbd55a20d51937690b780c5a4ae99d53" sha1="f033f929878567143856f5cc3dd8e72cdc66e66a" />
+  </game>
+  <game name="3D Classics - TwinBee (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Classics - TwinBee (USA) (eShop)</description>
+    <rom name="3D Classics - TwinBee (USA) (eShop).3ds" size="134217728" crc="05e41e72" md5="c9fa203bcd8e498ccf7a49ae0013d1fa" sha1="bd0fc906879baeafcda7fd98694a3020442b9d67" />
+  </game>
+  <game name="3D Classics - Xevious (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Classics - Xevious (USA) (eShop)</description>
+    <rom name="3D Classics - Xevious (USA) (eShop).3ds" size="134217728" crc="2140e62f" md5="9cca49110972e4e9f4ee302833261eaa" sha1="91d769a4721a2aea89983f709d9be23e225879e4" />
+  </game>
+  <game name="3D Classics Urban Champion (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Classics Urban Champion (USA) (eShop)</description>
+    <rom name="3D Classics Urban Champion (USA) (eShop).3ds" size="134217728" crc="e6416521" md5="cba8264235406911f6a650cc520df00a" sha1="1adaeb308ec337f67a6c133c66b04ef8a7684dcc" />
+  </game>
+  <game name="3D Ecco the Dolphin (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Ecco the Dolphin (USA) (eShop)</description>
+    <rom name="3D Ecco the Dolphin (USA) (eShop).3ds" size="134217728" crc="2b532b66" md5="9b58e541a9836231557617081de70d2e" sha1="d79ede5184f15e7dcb3b2e15f6948abb3dd53ba2" />
+  </game>
+  <game name="3D Fantasy Zone - Opa-Opa Bros. (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Fantasy Zone - Opa-Opa Bros. (USA) (eShop)</description>
+    <rom name="3D Fantasy Zone - Opa-Opa Bros. (USA) (eShop).3ds" size="134217728" crc="ce4bb2f1" md5="82ed236945bf5e08f9f4af257ac0aa32" sha1="5dda6de71f2d06c87cffd86145cec02c895aa7a2" />
+  </game>
+  <game name="3D Galaxy Force II (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>3D Galaxy Force II (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="3D Galaxy Force II (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="257e7f1c" md5="4d6707b7919e501fd34cb330de32521a" sha1="ab3aba0ee37ace4371340dd2dd4ae2476d74252b" />
+  </game>
+  <game name="3D Gunstar Heroes (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Gunstar Heroes (USA) (eShop)</description>
+    <rom name="3D Gunstar Heroes (USA) (eShop).3ds" size="134217728" crc="6b71bc5c" md5="2d074fd22f4df6c01e9af44a44fd0880" sha1="3e6f92199e1964c238192270822a5dad40008880" />
+  </game>
+  <game name="3D Sonic the Hedgehog (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Sonic the Hedgehog (USA) (eShop)</description>
+    <rom name="3D Sonic the Hedgehog (USA) (eShop).3ds" size="134217728" crc="6934ad65" md5="53779a4008adc37b2639896c48ea02c0" sha1="03f4460af0975c6d1cb50272e9ba85345c0384a9" />
+  </game>
+  <game name="3D Sonic the Hedgehog 2 (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Sonic the Hedgehog 2 (USA) (eShop)</description>
+    <rom name="3D Sonic the Hedgehog 2 (USA) (eShop).3ds" size="134217728" crc="3eadb5ff" md5="2b4c297f92176bb19485e99bcd5e39bc" sha1="5043d09e4dccbf84070fcc94b9487a47699654b0" />
+  </game>
+  <game name="3D Space Harrier (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Space Harrier (USA) (eShop)</description>
+    <rom name="3D Space Harrier (USA) (eShop).3ds" size="134217728" crc="693f3d4e" md5="c9bf7ed9fe3a4eb93a430d335905363b" sha1="d0dc3ece649b5dcf86a7a8d1752341b8ecd78ea1" />
+  </game>
+  <game name="3D Streets of Rage (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>3D Streets of Rage (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="3D Streets of Rage (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="76fae1e6" md5="e69f9890b6f7ae042bac6b1d314da3be" sha1="6165772760a67057b83c5cf9c3fd3db810454a0a" />
+  </game>
+  <game name="3D Streets of Rage 2 (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Streets of Rage 2 (USA) (eShop)</description>
+    <rom name="3D Streets of Rage 2 (USA) (eShop).3ds" size="134217728" crc="49262579" md5="d33d163a16705990592ad37f2f670c79" sha1="349e9bf2c8700c6a602e39adaa361fb895658ccb" />
+  </game>
+  <game name="3D Super Hang-On (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Super Hang-On (USA) (eShop)</description>
+    <rom name="3D Super Hang-On (USA) (eShop).3ds" size="134217728" crc="9a6a0d6d" md5="e5adb352183b327b14eee35e95babb53" sha1="a8f2d58a26afb548508c3f51eb475acc40cdccdd" />
+  </game>
+  <game name="3D Thunder Blade (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Thunder Blade (USA) (eShop)</description>
+    <rom name="3D Thunder Blade (USA) (eShop).3ds" size="134217728" crc="580ff268" md5="0bb926393fa3384c53aa9f7b790a535f" sha1="927524cf93cf4d9ff839353698b5b90cb5125020" />
+  </game>
+  <game name="3D Visual Experience (USA) (eShop)">
+    <category>Games</category>
+    <description>3D Visual Experience (USA) (eShop)</description>
+    <rom name="3D Visual Experience (USA) (eShop).3ds" size="134217728" crc="d33f2b84" md5="337fdb21ec5ea32c2b372537e3a361fa" sha1="7c32e73dcc1df703e363009b543bc88a4cf10f46" />
+  </game>
+  <game name="50 Pinch Barrage!! (USA) (eShop)">
+    <category>Games</category>
+    <description>50 Pinch Barrage!! (USA) (eShop)</description>
+    <rom name="50 Pinch Barrage!! (USA) (eShop).3ds" size="134217728" crc="8ff1600d" md5="f686b62a521e9195738184f198cf711a" sha1="8e19c957973f410c66bfb9bbd17790ef0a74a4bb" />
+  </game>
+  <game name="7th Dragon III Code - VFD (USA) (eShop)">
+    <category>Games</category>
+    <description>7th Dragon III Code - VFD (USA) (eShop)</description>
+    <rom name="7th Dragon III Code - VFD (USA) (eShop).3ds" size="2147483648" crc="cb7a455c" md5="069435f7a83dd70c86c36d7cdf466558" sha1="f9ed43ddc4836a4e1d84befadfd6c6f157f32614" />
+  </game>
+  <game name="ATV Wild Ride (USA) (eShop)">
+    <category>Games</category>
+    <description>ATV Wild Ride (USA) (eShop)</description>
+    <rom name="ATV Wild Ride (USA) (eShop).3ds" size="134217728" crc="54af5fc1" md5="b054ff69e5dad1dcad08a74bd58a9046" sha1="1940ec85e717ab85b0b5caeb84ec4b84b95d8c4a" />
+  </game>
+  <game name="Adventure Bar Story (USA) (eShop)">
+    <category>Games</category>
+    <description>Adventure Bar Story (USA) (eShop)</description>
+    <rom name="Adventure Bar Story (USA) (eShop).3ds" size="134217728" crc="5d822290" md5="be19c16f7bf21ab469bf20fdc2d1c523" sha1="8d51f1de57f3fe562671339176238601d761addc" />
+  </game>
+  <game name="Aero Porter (USA) (eShop)">
+    <category>Games</category>
+    <description>Aero Porter (USA) (eShop)</description>
+    <rom name="Aero Porter (USA) (eShop).3ds" size="134217728" crc="4f274a94" md5="eee5b98caaa1d73784f5beee902da3c1" sha1="3847694612ad0d048107742728c957ca94d0b204" />
+  </game>
+  <game name="AeternoBlade (USA) (eShop)">
+    <category>Games</category>
+    <description>AeternoBlade (USA) (eShop)</description>
+    <rom name="AeternoBlade (USA) (eShop).3ds" size="536870912" crc="7828fc62" md5="143769d14650c37f068cde761f720cdc" sha1="3476b09d86074d27a1637f97d8a87b1bb2432147" />
+  </game>
+  <game name="Alien on the Run (USA) (eShop)">
+    <category>Games</category>
+    <description>Alien on the Run (USA) (eShop)</description>
+    <rom name="Alien on the Run (USA) (eShop).3ds" size="134217728" crc="e4eb5ea2" md5="4a156e65100c444b569b0469b234a577" sha1="e0d6fde2605f46f8f8ab5bc63aaaeebe51712aa9" />
+  </game>
+  <game name="Alphadia (USA) (eShop)">
+    <category>Games</category>
+    <description>Alphadia (USA) (eShop)</description>
+    <rom name="Alphadia (USA) (eShop).3ds" size="134217728" crc="acbdf08b" md5="734efe2594cc78705a875e6b3cee95e7" sha1="260ee853f53f31401aa8ef9a1a213521942706d1" />
+  </game>
+  <game name="Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop)">
+    <category>Games</category>
+    <description>Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop)</description>
+    <rom name="Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop).3ds" size="134217728" crc="25f61ae3" md5="766f8338d3799bd719741ecb1866c7cc" sha1="3f26147167216a5ae28a8acd0b6f471530744d3c" />
+  </game>
+  <game name="Angry Video Game Nerd Adventures, The (USA) (eShop)">
+    <category>Games</category>
+    <description>Angry Video Game Nerd Adventures, The (USA) (eShop)</description>
+    <rom name="Angry Video Game Nerd Adventures, The (USA) (eShop).3ds" size="134217728" crc="a2b05859" md5="ed9be7af2bec55e6bc6b85cc94e08cd8" sha1="b27a5e06ea6f0365338f3df955f2e61f5e9a7023" />
+  </game>
+  <game name="Animal Crossing - New Leaf (USA) (Legit CIA)">
+    <category>Games</category>
+    <description>Animal Crossing - New Leaf (USA) (Legit CIA)</description>
+    <rom name="Animal Crossing - New Leaf (USA) (Legit CIA).cia" size="775653696" crc="26e11c49" md5="5f0131cc82aa6c67e922370c99ad15b9" sha1="a05aed731f18d52beb206836377f0f43ebb051ff" />
+  </game>
+  <game name="Art of Balance TOUCH! (USA) (eShop)">
+    <category>Games</category>
+    <description>Art of Balance TOUCH! (USA) (eShop)</description>
+    <rom name="Art of Balance TOUCH! (USA) (eShop).3ds" size="134217728" crc="3e9ae8ab" md5="e8a5cadfa554a97c6a6fecb087eb2d44" sha1="7f8c1e53b8f81c27afa3aaa4a3bbb548a6b2b5d6" />
+  </game>
+  <game name="Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop)">
+    <category>Games</category>
+    <description>Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop)</description>
+    <rom name="Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop).3ds" size="536870912" crc="d13697ac" md5="19f9f7feeafb796d204f1a8d1d87c301" sha1="a8129e2b27a7db125ba0873081bbd90b83b21435" />
+  </game>
+  <game name="Attack on Titan - Humanity in Chains (USA) (eShop)">
+    <category>Games</category>
+    <description>Attack on Titan - Humanity in Chains (USA) (eShop)</description>
+    <rom name="Attack on Titan - Humanity in Chains (USA) (eShop).3ds" size="2147483648" crc="6d82c18f" md5="02205203c8d875a821ccf48691e3b0fb" sha1="9a8c6b708a202ceaeae5bcc923459c886e44ee08" />
+  </game>
+  <game name="Azure Striker Gunvolt (USA) (eShop)">
+    <category>Games</category>
+    <description>Azure Striker Gunvolt (USA) (eShop)</description>
+    <rom name="Azure Striker Gunvolt (USA) (eShop).3ds" size="536870912" crc="5c898c63" md5="bf50065a602d99cc0a7ac3a656b1b94c" sha1="2e3e487ef98f94d5ea976ba410616b418874a037" />
+  </game>
+  <game name="BOXBOY! (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>BOXBOY! (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="BOXBOY! (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="58921123" md5="dab297d85044a6e17b0ae0ad59645743" sha1="62c0d6e212acc28d29709a1f3eea7d5eb87ccbd2" />
+  </game>
+  <game name="Balloon Fight (USA) (Rev 2) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Balloon Fight (USA) (Rev 2) (NES) (Virtual Console)</description>
+    <rom name="Balloon Fight (USA) (Rev 2) (NES) (Virtual Console).3ds" size="134217728" crc="9759c4a4" md5="5a28fb7515208faed37505d8305e136d" sha1="dbbf1e7b378603597a7de8f5dd7d77530fd65d5c" />
+  </game>
+  <game name="Battleminer (USA) (eShop)">
+    <category>Games</category>
+    <description>Battleminer (USA) (eShop)</description>
+    <rom name="Battleminer (USA) (eShop).3ds" size="268435456" crc="1b9e4b96" md5="2aed246b260c9eb2382ada48e6e71a64" sha1="419dc1d567b4e2858cc9a0037a86ded7ea6e1f55" />
+  </game>
+  <game name="Bike Rider DX (USA) (eShop)">
+    <category>Games</category>
+    <description>Bike Rider DX (USA) (eShop)</description>
+    <rom name="Bike Rider DX (USA) (eShop).3ds" size="134217728" crc="25e694a3" md5="c11945c2b08021de0fb113e427f65e98" sha1="6680c794435c655042f2982d28c0deb0a0bcfc69" />
+  </game>
+  <game name="Bike Rider DX2 - Galaxy (USA) (eShop)">
+    <category>Games</category>
+    <description>Bike Rider DX2 - Galaxy (USA) (eShop)</description>
+    <rom name="Bike Rider DX2 - Galaxy (USA) (eShop).3ds" size="134217728" crc="810a5671" md5="9ef528cac8f9a8b9024ce9ac0ba02300" sha1="336b88583c9b34c9b29d15e0746ae0a4b1541362" />
+  </game>
+  <game name="Bird Mania Christmas 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Bird Mania Christmas 3D (USA) (eShop)</description>
+    <rom name="Bird Mania Christmas 3D (USA) (eShop).3ds" size="134217728" crc="68c5e168" md5="12e263e5283d9f179a63e59a861dbebf" sha1="f10470345f48ce365eec7bbed336fb4082ba9a87" />
+  </game>
+  <game name="Bit Boy!! Arcade (USA) (eShop)">
+    <category>Games</category>
+    <description>Bit Boy!! Arcade (USA) (eShop)</description>
+    <rom name="Bit Boy!! Arcade (USA) (eShop).3ds" size="536870912" crc="3d8884b4" md5="63e8b56408288022d89de498acffbb7f" sha1="c4e8f990abd43f3dedd373c3209e578d4cc15664" />
+  </game>
+  <game name="Blast 'Em Bunnies (USA) (eShop)">
+    <category>Games</category>
+    <description>Blast 'Em Bunnies (USA) (eShop)</description>
+    <rom name="Blast 'Em Bunnies (USA) (eShop).3ds" size="134217728" crc="045c4a48" md5="2e577b79b1938cf613a91db2c6c8a27e" sha1="5f01566fefcf109ca710fc014af2348d54260881" />
+  </game>
+  <game name="BlazBlue - Clone Phantasma (USA) (eShop)">
+    <category>Games</category>
+    <description>BlazBlue - Clone Phantasma (USA) (eShop)</description>
+    <rom name="BlazBlue - Clone Phantasma (USA) (eShop).3ds" size="268435456" crc="25f5b859" md5="351c9f8635068a2a308b206e78281b08" sha1="3d1903d51250321d0844d36f0e9a1bb0c554b0f9" />
+  </game>
+  <game name="Bomb Monkey (USA) (eShop)">
+    <category>Games</category>
+    <description>Bomb Monkey (USA) (eShop)</description>
+    <rom name="Bomb Monkey (USA) (eShop).3ds" size="134217728" crc="15874c2b" md5="f8a62afa20d60cbb78a146fa82c35db2" sha1="1883d136fdfd1291b112d4d81051937a879ee554" />
+  </game>
+  <game name="Boulder Dash-XL 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Boulder Dash-XL 3D (USA) (eShop)</description>
+    <rom name="Boulder Dash-XL 3D (USA) (eShop).3ds" size="134217728" crc="349700d9" md5="9fccbad3fdd03c3e954477b6942d6b02" sha1="df0b90829c0a163921fe24d95de62d18047e6858" />
+  </game>
+  <game name="Brave Tank Hero (USA) (eShop)">
+    <category>Games</category>
+    <description>Brave Tank Hero (USA) (eShop)</description>
+    <rom name="Brave Tank Hero (USA) (eShop).3ds" size="134217728" crc="184ea536" md5="3933fc570872c473eb78a7f9898a3b91" sha1="179c13bfca29adc3e9b586e0e8a4ebceea9e20ca" />
+  </game>
+  <game name="Castle Conqueror Defender (USA) (eShop)">
+    <category>Games</category>
+    <description>Castle Conqueror Defender (USA) (eShop)</description>
+    <rom name="Castle Conqueror Defender (USA) (eShop).3ds" size="134217728" crc="b9ec1642" md5="a75f98a3a550e4b571cb32d592979579" sha1="05fb987d83d112ad39d3a190c7d87f603aad312b" />
+  </game>
+  <game name="Castle Conqueror EX (USA) (eShop)">
+    <category>Games</category>
+    <description>Castle Conqueror EX (USA) (eShop)</description>
+    <rom name="Castle Conqueror EX (USA) (eShop).3ds" size="134217728" crc="08dfbb0f" md5="380a2535834e6f7191d267a0b4d010ff" sha1="c761b5c524dc0534e1f6c995b95df8f24354a7d7" />
+  </game>
+  <game name="Cave Story (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Cave Story (USA) (Rev 1) (eShop)</description>
+    <rom name="Cave Story (USA) (Rev 1) (eShop).3ds" size="134217728" crc="b9b80b5a" md5="883ace1009e4b651a652325a03c35144" sha1="825eb1953110e5ad7b1b3c33cdf4b053964c4ce5" />
+  </game>
+  <game name="Chain Blaster (USA) (eShop)">
+    <category>Games</category>
+    <description>Chain Blaster (USA) (eShop)</description>
+    <rom name="Chain Blaster (USA) (eShop).3ds" size="134217728" crc="95c036f7" md5="aeb4275d681f8a1b8ffade005e42e1ea" sha1="06822c2f029172dec26e209f6889befe49a73af6" />
+  </game>
+  <game name="Chat-A-Lot (USA) (eShop)">
+    <category>Games</category>
+    <description>Chat-A-Lot (USA) (eShop)</description>
+    <rom name="Chat-A-Lot (USA) (eShop).3ds" size="134217728" crc="7d4c22da" md5="f79e5f6cb01366f928ef3eee179eb802" sha1="df507703034f9e5d51f312041feb5444ce7ba260" />
+  </game>
+  <game name="Chibi-Robo! Photo Finder (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Chibi-Robo! Photo Finder (USA) (Rev 1) (eShop)</description>
+    <rom name="Chibi-Robo! Photo Finder (USA) (Rev 1) (eShop).3ds" size="536870912" crc="d01f9d31" md5="47846afbc9b33a8742635bd664da0d89" sha1="7582b0c92e22e5911ef13b235ec7f87cda4e6db6" />
+  </game>
+  <game name="Citizens of Earth (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Citizens of Earth (USA) (Rev 1) (eShop)</description>
+    <rom name="Citizens of Earth (USA) (Rev 1) (eShop).3ds" size="2147483648" crc="2c328581" md5="049d2fc37a8bcde3bd8086a41b4cab20" sha1="02eafbdc7d198c23c42720b3fd9e1b038c9f413f" />
+  </game>
+  <game name="Color Zen (USA) (eShop)">
+    <category>Games</category>
+    <description>Color Zen (USA) (eShop)</description>
+    <rom name="Color Zen (USA) (eShop).3ds" size="134217728" crc="a896e456" md5="b3d4eb1075f4392d8fb9664928369504" sha1="00dfb0ebe3d4ca240ad2e25886c0d94006248da6" />
+  </game>
+  <game name="Colors! 3D (USA) (En,Fr,Es,Pt) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Colors! 3D (USA) (En,Fr,Es,Pt) (Rev 1) (eShop)</description>
+    <rom name="Colors! 3D (USA) (En,Fr,Es,Pt) (Rev 1) (eShop).3ds" size="134217728" crc="b17c2678" md5="705beb8f3b6b44d64122b9ed649aa473" sha1="4a18f2fcb24c920126f3a54ab757f22c15f8d376" />
+  </game>
+  <game name="Crashmo (USA) (eShop)">
+    <category>Games</category>
+    <description>Crashmo (USA) (eShop)</description>
+    <rom name="Crashmo (USA) (eShop).3ds" size="134217728" crc="1ad32083" md5="ea9a38bc771dcefecaa5e96754779238" sha1="e6f8227d334cac67a248f58ce723425a00f2039c" />
+  </game>
+  <game name="Crimson Shroud (USA) (eShop)">
+    <category>Games</category>
+    <description>Crimson Shroud (USA) (eShop)</description>
+    <rom name="Crimson Shroud (USA) (eShop).3ds" size="268435456" crc="619f113a" md5="bd7b3e424e54931c21d85d22a4860e40" sha1="7baf1893ff5a37319e2b122e75854dee28ea8786" />
+  </game>
+  <game name="Cube Creator 3D (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Cube Creator 3D (USA) (Rev 1) (eShop)</description>
+    <rom name="Cube Creator 3D (USA) (Rev 1) (eShop).3ds" size="134217728" crc="2723f201" md5="f72ccfb21989d828957c97a172a3e3cb" sha1="fee5954dff1c91f0257c684fc5e2e61e420f9a01" />
+  </game>
+  <game name="Cube Tactics (USA) (eShop)">
+    <category>Games</category>
+    <description>Cube Tactics (USA) (eShop)</description>
+    <rom name="Cube Tactics (USA) (eShop).3ds" size="134217728" crc="519b7f86" md5="d4c7a986ba095c98a13dce7cb755a9cc" sha1="1dc50d54112c65bb863f328fb696efa93e226284" />
+  </game>
+  <game name="Cubit - The Hardcore Platformer Robot (USA) (eShop)">
+    <category>Games</category>
+    <description>Cubit - The Hardcore Platformer Robot (USA) (eShop)</description>
+    <rom name="Cubit - The Hardcore Platformer Robot (USA) (eShop).3ds" size="134217728" crc="bc0b9d8d" md5="85145efad71c7513b1a0e6a5d9353ba4" sha1="80cf4f5a72034690842418a001d096da8ca66f8d" />
+  </game>
+  <game name="Cut the Rope (USA) (eShop)">
+    <category>Games</category>
+    <description>Cut the Rope (USA) (eShop)</description>
+    <rom name="Cut the Rope (USA) (eShop).3ds" size="134217728" crc="f0ab8f45" md5="1dc11efd64bc6c85a49f2cc77a34cca4" sha1="5b1c29a1ddd8f93fb40703f3b617d885c1571d74" />
+  </game>
+  <game name="DOOORS (USA) (eShop)">
+    <category>Games</category>
+    <description>DOOORS (USA) (eShop)</description>
+    <rom name="DOOORS (USA) (eShop).3ds" size="268435456" crc="d415d15f" md5="b098182909579302703866fe91cd299e" sha1="6292e4e70fea2671354d170cb292e3065d2e359a" />
+  </game>
+  <game name="Darts Up 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Darts Up 3D (USA) (eShop)</description>
+    <rom name="Darts Up 3D (USA) (eShop).3ds" size="134217728" crc="6423d93f" md5="6713716d6dfd4535cbf57ec6f9733e3b" sha1="a5961b578482bf85ca98cf0b6125568b75dc99f6" />
+  </game>
+  <game name="Dedede's Drum Dash Deluxe (USA) (eShop)">
+    <category>Games</category>
+    <description>Dedede's Drum Dash Deluxe (USA) (eShop)</description>
+    <rom name="Dedede's Drum Dash Deluxe (USA) (eShop).3ds" size="134217728" crc="39a78624" md5="254805a1b4edf916fd22a8d65e911398" sha1="2534f9b52e79bb45f8f8cf94205602a5232250a2" />
+  </game>
+  <game name="Deer Hunting King (USA) (eShop)">
+    <category>Games</category>
+    <description>Deer Hunting King (USA) (eShop)</description>
+    <rom name="Deer Hunting King (USA) (eShop).3ds" size="134217728" crc="64b10b46" md5="d9cf41e284c93c6b202798f68cd0e424" sha1="d631d88c704989b36c9508c5e421c1a6b693e22b" />
+  </game>
+  <game name="Dementium Remastered (USA) (eShop)">
+    <category>Games</category>
+    <description>Dementium Remastered (USA) (eShop)</description>
+    <rom name="Dementium Remastered (USA) (eShop).3ds" size="134217728" crc="4e42f780" md5="510f2a807276c826768a0a688671a179" sha1="39fbd0e469363f514e2e54bb632f52c0c0247561" />
+  </game>
+  <game name="Demon King Box (USA) (eShop)">
+    <category>Games</category>
+    <description>Demon King Box (USA) (eShop)</description>
+    <rom name="Demon King Box (USA) (eShop).3ds" size="536870912" crc="52e0cc35" md5="b71cea4a60db83213ec1e98799f719ad" sha1="cd4fa0b4a9ab2c82c8086d23a013b9a2c9141820" />
+  </game>
+  <game name="Dillon's Rolling Western (USA) (eShop)">
+    <category>Games</category>
+    <description>Dillon's Rolling Western (USA) (eShop)</description>
+    <rom name="Dillon's Rolling Western (USA) (eShop).3ds" size="134217728" crc="38e63ff8" md5="2b088e2f84c7d99595e3c1d7807f373b" sha1="65cd22b8acb4d4455432b95a3e9d74101f737221" />
+  </game>
+  <game name="Dillon's Rolling Western - The Last Ranger (USA) (eShop)">
+    <category>Games</category>
+    <description>Dillon's Rolling Western - The Last Ranger (USA) (eShop)</description>
+    <rom name="Dillon's Rolling Western - The Last Ranger (USA) (eShop).3ds" size="536870912" crc="fb77f29c" md5="10f3ef8fc071900f593f6eaef7d3e4b6" sha1="e93ecaa0b94b64481823014d5d5706503a90960c" />
+  </game>
+  <game name="Donkey Kong (USA) (Rev 1) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Donkey Kong (USA) (Rev 1) (GB) (Virtual Console)</description>
+    <rom name="Donkey Kong (USA) (Rev 1) (GB) (Virtual Console).3ds" size="134217728" crc="242513c6" md5="d5112bfb864622a1beb6c2beb75ffb07" sha1="d70af472dc4fcfba905442a52ce120129fe95d59" />
+  </game>
+  <game name="Donkey Kong - Original Edition (USA) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Donkey Kong - Original Edition (USA) (NES) (Virtual Console)</description>
+    <rom name="Donkey Kong - Original Edition (USA) (NES) (Virtual Console).3ds" size="134217728" crc="6459c4ea" md5="6b55fff09c08b45548116a09393266a7" sha1="9064f939d1fcf19d3cd43419927c622122b3ee68" />
+  </game>
+  <game name="Donkey Kong Jr. (USA) (Rev 2) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Donkey Kong Jr. (USA) (Rev 2) (NES) (Virtual Console)</description>
+    <rom name="Donkey Kong Jr. (USA) (Rev 2) (NES) (Virtual Console).3ds" size="134217728" crc="c943763c" md5="66ce7d04ddb4e59bf87e597a7a95edb8" sha1="453075344bb8f959a9007d6c18ef1d0160567461" />
+  </game>
+  <game name="Dr. Mario - Miracle Cure (World) (En,Ja,Fr,De,Es,It) (eShop)">
+    <category>Games</category>
+    <description>Dr. Mario - Miracle Cure (World) (En,Ja,Fr,De,Es,It) (eShop)</description>
+    <rom name="Dr. Mario - Miracle Cure (World) (En,Ja,Fr,De,Es,It) (eShop).3ds" size="134217728" crc="3640b3da" md5="d1f9700f8cfe4b45f3dd47cfa482d6f3" sha1="b0d839a4898009d5000423f34dbca697b7f1f2dd" />
+  </game>
+  <game name="Dragon Fantasy - The Volumes of Westeria (USA) (eShop)">
+    <category>Games</category>
+    <description>Dragon Fantasy - The Volumes of Westeria (USA) (eShop)</description>
+    <rom name="Dragon Fantasy - The Volumes of Westeria (USA) (eShop).3ds" size="134217728" crc="1718929f" md5="db468b153a9a737b28585a7ea7da18de" sha1="7beda8271013822fe40e9ad6b8ef979e855930b6" />
+  </game>
+  <game name="Drop Zone - Under Fire (USA) (eShop)">
+    <category>Games</category>
+    <description>Drop Zone - Under Fire (USA) (eShop)</description>
+    <rom name="Drop Zone - Under Fire (USA) (eShop).3ds" size="134217728" crc="398f8a20" md5="7de0df78936dc01aeaf08d6b0b426935" sha1="be55199657b2afe2a3f052376c2f903637104d04" />
+  </game>
+  <game name="Edge (USA) (eShop)">
+    <category>Games</category>
+    <description>Edge (USA) (eShop)</description>
+    <rom name="Edge (USA) (eShop).3ds" size="134217728" crc="76eda094" md5="bbb748802fd06c9f10d7f731407dd9b3" sha1="dede4e9a98691e3fa0d9d9ddd8829ba6132eb418" />
+  </game>
+  <game name="Escape From Zombie City (USA) (eShop)">
+    <category>Games</category>
+    <description>Escape From Zombie City (USA) (eShop)</description>
+    <rom name="Escape From Zombie City (USA) (eShop).3ds" size="134217728" crc="91bda4eb" md5="8d60132a12e727500b4334ced1119cd7" sha1="005141ad6bf57758a87703c9839f6f20b5eb5fcb" />
+  </game>
+  <game name="European Conqueror 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>European Conqueror 3D (USA) (eShop)</description>
+    <rom name="European Conqueror 3D (USA) (eShop).3ds" size="134217728" crc="909c0e27" md5="e5cc449b7481d26120419d8412912013" sha1="54ccababadbd14a15a5b00b9c600a07fb962ad23" />
+  </game>
+  <game name="Excave (USA) (eShop)">
+    <category>Games</category>
+    <description>Excave (USA) (eShop)</description>
+    <rom name="Excave (USA) (eShop).3ds" size="134217728" crc="abe0dd82" md5="f4cf68b46bf6f7191cd8d378ef79574f" sha1="1dc04fc1daa232f1d08d2fc07de2b92410cd6322" />
+  </game>
+  <game name="Excave II - Wizard of the Underworld (USA) (eShop)">
+    <category>Games</category>
+    <description>Excave II - Wizard of the Underworld (USA) (eShop)</description>
+    <rom name="Excave II - Wizard of the Underworld (USA) (eShop).3ds" size="134217728" crc="2c339c54" md5="3f2cdcceb60205435b7037270f197fcb" sha1="1532e1872019b51bfc61eb9e7723b180f992e2fa" />
+  </game>
+  <game name="F-Zero - Maximum Velocity (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>F-Zero - Maximum Velocity (USA) (GBA) (Virtual Console)</description>
+    <rom name="F-Zero - Maximum Velocity (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="ebcfa428" md5="21a86a9b6cad0fff6dd490c80d061962" sha1="7cbef338248adc12fc40537b4bdaa758e539e0c4" />
+  </game>
+  <game name="Fairune (USA) (eShop)">
+    <category>Games</category>
+    <description>Fairune (USA) (eShop)</description>
+    <rom name="Fairune (USA) (eShop).3ds" size="134217728" crc="fb65ad15" md5="6e632d21889fece42c6a13c95d8dd16b" sha1="a42d3b7bd04a0f5e38fb30407384b89779428596" />
+  </game>
+  <game name="Family Bowling 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Family Bowling 3D (USA) (eShop)</description>
+    <rom name="Family Bowling 3D (USA) (eShop).3ds" size="134217728" crc="a9705876" md5="2d38b8d78e53d3b809c1ace274b151ff" sha1="361e7855409f7e17a514201315670451d0e83dcf" />
+  </game>
+  <game name="Fire Emblem - The Sacred Stones (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>Fire Emblem - The Sacred Stones (USA) (GBA) (Virtual Console)</description>
+    <rom name="Fire Emblem - The Sacred Stones (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="eba73005" md5="5d6af994f9f4778f97f08c713bdab145" sha1="ef5056f39f89d9cb545909513b8b26600f68a6c0" />
+  </game>
+  <game name="Fire Emblem Awakening (USA) (Legit CIA)">
+    <category>Games</category>
+    <description>Fire Emblem Awakening (USA) (Legit CIA)</description>
+    <rom name="Fire Emblem Awakening (USA) (Legit CIA).cia" size="1123371328" crc="14007a6d" md5="08fa7c57a682e49f869102084626f0f1" sha1="c3113c9c9e55d407d18e079994823374a8b60ebd" />
+  </game>
+  <game name="Flipnote Studio 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Flipnote Studio 3D (USA) (eShop)</description>
+    <rom name="Flipnote Studio 3D (USA) (eShop).3ds" size="134217728" crc="33a45a36" md5="4e2a25d09d4802805e05183dafd84841" sha1="61df327622f8dde7d7fcd56bb7ab951d84369238" />
+  </game>
+  <game name="Fluidity - Spin Cycle (USA) (eShop)">
+    <category>Games</category>
+    <description>Fluidity - Spin Cycle (USA) (eShop)</description>
+    <rom name="Fluidity - Spin Cycle (USA) (eShop).3ds" size="268435456" crc="50613043" md5="22c6c8814320f3df8b321dac680eb9e7" sha1="24103bc82d5a1b2e0b69d0ee977ad8277fd5eef9" />
+  </game>
+  <game name="Fortified Zone (USA) (Rev 1) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Fortified Zone (USA) (Rev 1) (GB) (Virtual Console)</description>
+    <rom name="Fortified Zone (USA) (Rev 1) (GB) (Virtual Console).3ds" size="134217728" crc="385789fa" md5="f6ebfadd188e715da852a9167adf2ced" sha1="0d91910ef37a78c388023746805d6c6a3ae596ff" />
+  </game>
+  <game name="Freakyforms - Your Creations, Alive! (USA) (Rev 2) (eShop)">
+    <category>Games</category>
+    <description>Freakyforms - Your Creations, Alive! (USA) (Rev 2) (eShop)</description>
+    <rom name="Freakyforms - Your Creations, Alive! (USA) (Rev 2) (eShop).3ds" size="134217728" crc="39c77e11" md5="b228f21d95406eeaa678bdc80bff47c6" sha1="bdfb6ceae8a6849175760fa1bf3f9c1af097acc2" />
+  </game>
+  <game name="Fun! Fun! Minigolf Touch! (USA) (eShop)">
+    <category>Games</category>
+    <description>Fun! Fun! Minigolf Touch! (USA) (eShop)</description>
+    <rom name="Fun! Fun! Minigolf Touch! (USA) (eShop).3ds" size="134217728" crc="d03c0303" md5="63e3af7aa569674ddcd30248f7ce9580" sha1="5d965552bf88c31eeaed8c4c4d748f5cb18f3686" />
+  </game>
+  <game name="Gotcha Racing (USA) (eShop)">
+    <category>Games</category>
+    <description>Gotcha Racing (USA) (eShop)</description>
+    <rom name="Gotcha Racing (USA) (eShop).3ds" size="134217728" crc="1d0ce08e" md5="091407b147f4bd2af470b932ff449d01" sha1="39d6a99c4772bec3397624b69d0b27a09dc0c4fa" />
+  </game>
+  <game name="Gunman Clive (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Gunman Clive (USA) (Rev 1) (eShop)</description>
+    <rom name="Gunman Clive (USA) (Rev 1) (eShop).3ds" size="134217728" crc="d051d8b6" md5="13ca188cdfab46aa8afd0225c8a6e339" sha1="3f1d761fb4c01de695babc0cfc239fd0f16e145f" />
+  </game>
+  <game name="Gunman Clive 2 (USA) (eShop)">
+    <category>Games</category>
+    <description>Gunman Clive 2 (USA) (eShop)</description>
+    <rom name="Gunman Clive 2 (USA) (eShop).3ds" size="134217728" crc="c26a0423" md5="9deb23f10bcf34ff5ce602b5940cd0c9" sha1="d8424f54d4224c0e1c8ff1715ae56115ebef554c" />
+  </game>
+  <game name="Gunslugs 2 (USA) (eShop)">
+    <category>Games</category>
+    <description>Gunslugs 2 (USA) (eShop)</description>
+    <rom name="Gunslugs 2 (USA) (eShop).3ds" size="134217728" crc="f56a6413" md5="38169fe3d5530315a838a618404e09b0" sha1="ac098a76fcbae0cc2b8fa999a0067e7b012dddf7" />
+  </game>
+  <game name="HarmoKnight (USA) (eShop)">
+    <category>Games</category>
+    <description>HarmoKnight (USA) (eShop)</description>
+    <rom name="HarmoKnight (USA) (eShop).3ds" size="268435456" crc="8c0bf98f" md5="92e5279f0834c1a6050b58482c0de739" sha1="0ee61a255f6927e581b08c6ae5eaf5949347efa1" />
+  </game>
+  <game name="Hazumi (USA) (eShop)">
+    <category>Games</category>
+    <description>Hazumi (USA) (eShop)</description>
+    <rom name="Hazumi (USA) (eShop).3ds" size="134217728" crc="5e2bc82d" md5="972db9edb827b9ea66abd36ed9bb6634" sha1="8a8b5e9742cf87d024db9ef683a9baec27828e8a" />
+  </game>
+  <game name="Hulu Plus (USA) (eShop)">
+    <category>Games</category>
+    <description>Hulu Plus (USA) (eShop)</description>
+    <rom name="Hulu Plus (USA) (eShop).3ds" size="134217728" crc="53b6cf10" md5="5263438ddb8d409640f3aac8e3e02ef9" sha1="10299552a40f90e6952b07e7da604d121a032062" />
+  </game>
+  <game name="I've Got to Run - Complete Edition! (USA) (eShop)">
+    <category>Games</category>
+    <description>I've Got to Run - Complete Edition! (USA) (eShop)</description>
+    <rom name="I've Got to Run - Complete Edition! (USA) (eShop).3ds" size="134217728" crc="32326604" md5="ace9c09358987ff295ba29c6d77a7f8f" sha1="c3194b3f63ca44c1f1321e5b5acc163ba1c0f5ce" />
+  </game>
+  <game name="IRONFALL Invasion (USA) (Rev 2) (eShop)">
+    <category>Games</category>
+    <description>IRONFALL Invasion (USA) (Rev 2) (eShop)</description>
+    <rom name="IRONFALL Invasion (USA) (Rev 2) (eShop).3ds" size="536870912" crc="a3ab2654" md5="922fe1f9b35165b5b13d3638bfbae1e6" sha1="0eefab1138cde0a7125fbfad177c1426e58efd0e" />
+  </game>
+  <game name="Ice Climber (USA) (Rev 2) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Ice Climber (USA) (Rev 2) (NES) (Virtual Console)</description>
+    <rom name="Ice Climber (USA) (Rev 2) (NES) (Virtual Console).3ds" size="134217728" crc="a97974da" md5="888c8ae74275388e0474fd6783b85e08" sha1="90fc01984ba196d27ef32392141eb6330457a8da" />
+  </game>
+  <game name="Ikachan (USA) (eShop)">
+    <category>Games</category>
+    <description>Ikachan (USA) (eShop)</description>
+    <rom name="Ikachan (USA) (eShop).3ds" size="134217728" crc="91dad851" md5="f21300c70875be2c6378a8af2d332da0" sha1="e1d5cb7e8969c878aa7de9fe2e1afe6007f14407" />
+  </game>
+  <game name="Inazuma Eleven (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Inazuma Eleven (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Inazuma Eleven (USA) (En,Fr,Es) (eShop).3ds" size="536870912" crc="2dc7dbb3" md5="785035df38a2da1016dac73a3dda27b0" sha1="1325558920e9b88265916651b350b5b9db98ba80" />
+  </game>
+  <game name="Iron Combat - War in the Air (USA) (eShop)">
+    <category>Games</category>
+    <description>Iron Combat - War in the Air (USA) (eShop)</description>
+    <rom name="Iron Combat - War in the Air (USA) (eShop).3ds" size="134217728" crc="4e5cf061" md5="ba6d6f0cf1b35b3d8c86f11611518f9c" sha1="b7c21757efe0cfdda902f8874ef6a1e76faa4d97" />
+  </game>
+  <game name="Japanese Rail Sim 3D - Journey in Suburbs #1 (USA) (eShop)">
+    <category>Games</category>
+    <description>Japanese Rail Sim 3D - Journey in Suburbs #1 (USA) (eShop)</description>
+    <rom name="Japanese Rail Sim 3D - Journey in Suburbs #1 (USA) (eShop).3ds" size="536870912" crc="87395866" md5="d06043314f432dc438c9ab79c2bf22fa" sha1="5cd77bbe6cb9b2db64d20d3569240be489c358fe" />
+  </game>
+  <game name="Johnny HotShot (USA) (eShop)">
+    <category>Games</category>
+    <description>Johnny HotShot (USA) (eShop)</description>
+    <rom name="Johnny HotShot (USA) (eShop).3ds" size="134217728" crc="cc2d52a8" md5="39d8840bdc6bfcc6053da912dd6bf408" sha1="1a6ee34ce8425ece79a4b219f926d74404ece216" />
+  </game>
+  <game name="Johnny Kung Fu (USA) (eShop)">
+    <category>Games</category>
+    <description>Johnny Kung Fu (USA) (eShop)</description>
+    <rom name="Johnny Kung Fu (USA) (eShop).3ds" size="134217728" crc="d842a13c" md5="1be85971d7b8e2feb99e042df4b370e4" sha1="a2a529c55fceea951e4ebce542f2b6ec8317da31" />
+  </game>
+  <game name="Justice Chronicles (USA)">
+    <category>Games</category>
+    <description>Justice Chronicles (USA)</description>
+    <rom name="Justice Chronicles (USA).3ds" size="268435456" crc="5fe2d5f7" md5="5ab01f96fc568e9fefdafa6f2fddb63d" sha1="f19ef951519864afc3ae007f047a90e4fae31146" />
+  </game>
+  <game name="KAMI (USA) (eShop)">
+    <category>Games</category>
+    <description>KAMI (USA) (eShop)</description>
+    <rom name="KAMI (USA) (eShop).3ds" size="134217728" crc="237847df" md5="956d36f23d2add9f0dbf0c4ee51df9b6" sha1="3640d5cafd9f84ef94b3b4d8715c0fcc21db2c5c" />
+  </game>
+  <game name="KORG DSN 12 (USA) (En,Fr,Es,Pt) (eShop)">
+    <category>Games</category>
+    <description>KORG DSN 12 (USA) (En,Fr,Es,Pt) (eShop)</description>
+    <rom name="KORG DSN 12 (USA) (En,Fr,Es,Pt) (eShop).3ds" size="134217728" crc="2ea340c6" md5="0b8c60dd64d7ee1bd5dbafbcb80bc369" sha1="6484bf813042199d156744f42fa938b5bb51307e" />
+  </game>
+  <game name="KORG M01D (USA) (eShop)">
+    <category>Games</category>
+    <description>KORG M01D (USA) (eShop)</description>
+    <rom name="KORG M01D (USA) (eShop).3ds" size="134217728" crc="f96412b2" md5="24a055bbb4bbdb7b03d4bc249603aa48" sha1="2097a828bc744f4abd26312b88381f3d28519fa6" />
+  </game>
+  <game name="Keep, The (USA) (En,Fr,Es,Pt) (eShop)">
+    <category>Games</category>
+    <description>Keep, The (USA) (En,Fr,Es,Pt) (eShop)</description>
+    <rom name="Keep, The (USA) (En,Fr,Es,Pt) (eShop).3ds" size="268435456" crc="1c27185f" md5="a881834d4a786969ca2d7784c1703210" sha1="5a1bfb71d3a6fa170f03ddf24181e6f371f020be" />
+  </game>
+  <game name="KemonoMix Plus (USA) (eShop)">
+    <category>Games</category>
+    <description>KemonoMix Plus (USA) (eShop)</description>
+    <rom name="KemonoMix Plus (USA) (eShop).3ds" size="134217728" crc="f20f9151" md5="d0b6fabf5e1cec2dee49cc3a6b7f43a3" sha1="42c4e71012ea7ea53bd9ff718be0600c2583b9dc" />
+  </game>
+  <game name="Kersploosh! (USA) (eShop)">
+    <category>Games</category>
+    <description>Kersploosh! (USA) (eShop)</description>
+    <rom name="Kersploosh! (USA) (eShop).3ds" size="134217728" crc="8ef40a7e" md5="85e68005e867e45dee853d9e57296233" sha1="5fdfb784082f4199d08d46d31c89988e88cda558" />
+  </game>
+  <game name="Ketzal's Corridors (USA) (eShop)">
+    <category>Games</category>
+    <description>Ketzal's Corridors (USA) (eShop)</description>
+    <rom name="Ketzal's Corridors (USA) (eShop).3ds" size="134217728" crc="e0af1723" md5="298f141be9705166ae0e11ecdc45a10f" sha1="b9988a67c72ebee854000285044f42f934bfbdb0" />
+  </game>
+  <game name="Kirby &amp; the Amazing Mirror (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>Kirby &amp; the Amazing Mirror (USA) (GBA) (Virtual Console)</description>
+    <rom name="Kirby &amp; the Amazing Mirror (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="6e6db580" md5="d91cbdc017d4f46c4f4795b5830f88a6" sha1="f85abb6aa409ce4fb778cb618810e4935cf23519" />
+  </game>
+  <game name="Kirby - Planet Robobot (World) (En,Ja,Fr,De,Es,It) (eShop)">
+    <category>Games</category>
+    <description>Kirby - Planet Robobot (World) (En,Ja,Fr,De,Es,It) (eShop)</description>
+    <rom name="Kirby - Planet Robobot (World) (En,Ja,Fr,De,Es,It) (eShop).3ds" size="1073741824" crc="dcf89aa3" md5="4efc00730c8b2ed5c5ae4bdc563aab9e" sha1="51f9bba2971c132728a402e68a3be51cca49ee60" />
+  </game>
+  <game name="Kirby - Right Back At Ya! (USA) (eShop) (Video)">
+    <category>Games</category>
+    <description>Kirby - Right Back At Ya! (USA) (eShop) (Video)</description>
+    <rom name="Kirby - Right Back At Ya! (USA) (eShop) (Video).3ds" size="134217728" crc="c4fa9582" md5="2961c16a48ae0139e2fe4bdd55876d5c" sha1="faf2a87cf9118864f9b8c9e72777c144d589b5f8" />
+  </game>
+  <game name="Kirby's Block Ball (USA) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Kirby's Block Ball (USA) (GB) (Virtual Console)</description>
+    <rom name="Kirby's Block Ball (USA) (GB) (Virtual Console).3ds" size="134217728" crc="9d427ea1" md5="3d3ada44609ffac15e0d25da742799ba" sha1="03b2e1e5b590f468253845dbbc92280ec068a3e0" />
+  </game>
+  <game name="Kirby's Dream Land (USA) (Rev 1) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Kirby's Dream Land (USA) (Rev 1) (GB) (Virtual Console)</description>
+    <rom name="Kirby's Dream Land (USA) (Rev 1) (GB) (Virtual Console).3ds" size="134217728" crc="f3be54f6" md5="79b9bd50668d47e56c3685dc0d1e888d" sha1="c13ad7597dbd68eca14cdb04aee4a43ddbe31795" />
+  </game>
+  <game name="Kokuga (USA) (eShop)">
+    <category>Games</category>
+    <description>Kokuga (USA) (eShop)</description>
+    <rom name="Kokuga (USA) (eShop).3ds" size="134217728" crc="10d15edd" md5="72504cce544a099fbfb48228e9484b97" sha1="6b9baecb3c059f8e04211dcf323a30f021eab546" />
+  </game>
+  <game name="Kung Fu Rabbit (USA) (eShop)">
+    <category>Games</category>
+    <description>Kung Fu Rabbit (USA) (eShop)</description>
+    <rom name="Kung Fu Rabbit (USA) (eShop).3ds" size="134217728" crc="dd76e059" md5="22b4c09cc622fe14fdb459ef3e3d4f79" sha1="eb2e887ae2f70a83464d0c389f75903482120128" />
+  </game>
+  <game name="League of Heroes (USA) (eShop)">
+    <category>Games</category>
+    <description>League of Heroes (USA) (eShop)</description>
+    <rom name="League of Heroes (USA) (eShop).3ds" size="134217728" crc="e1079ab0" md5="bb87042b20c788a2afb2569f1264629d" sha1="a902fcd21d02750bd3628ecf9b22fb19d5c7b8fe" />
+  </game>
+  <game name="Legend of Dark Witch 2, The (USA) (eShop)">
+    <category>Games</category>
+    <description>Legend of Dark Witch 2, The (USA) (eShop)</description>
+    <rom name="Legend of Dark Witch 2, The (USA) (eShop).3ds" size="536870912" crc="655e0571" md5="083263c2ce1f829977ff677dbd9b441d" sha1="7ffdb2aad7e42d65f65b012420c1c33808543cdb" />
+  </game>
+  <game name="Legend of Dark Witch, The (USA) (eShop)">
+    <category>Games</category>
+    <description>Legend of Dark Witch, The (USA) (eShop)</description>
+    <rom name="Legend of Dark Witch, The (USA) (eShop).3ds" size="536870912" crc="d8e24556" md5="d5b2df9a6b4e1bdca00dc3e3bcc38298" sha1="9fe6ec31eec0e0f2d9f4ec8093c771ed4a466c6a" />
+  </game>
+  <game name="Legend of Zelda, The (USA) (Rev 2) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Legend of Zelda, The (USA) (Rev 2) (NES) (Virtual Console)</description>
+    <rom name="Legend of Zelda, The (USA) (Rev 2) (NES) (Virtual Console).3ds" size="134217728" crc="6ad4a1e5" md5="94b7e46fa221138a7b4311b7285b73a0" sha1="d753ab8649342e00b7e223ab7dd2189411231310" />
+  </game>
+  <game name="Legend of Zelda, The - Oracle of Ages (USA) (GBC) (Virtual Console)">
+    <category>Games</category>
+    <description>Legend of Zelda, The - Oracle of Ages (USA) (GBC) (Virtual Console)</description>
+    <rom name="Legend of Zelda, The - Oracle of Ages (USA) (GBC) (Virtual Console).3ds" size="134217728" crc="2e303f3b" md5="e90a89de570011028e014165be9a5eeb" sha1="1a66c8119e57365596b0a9eef01f7396a40e0ee8" />
+  </game>
+  <game name="Legend of Zelda, The - Oracle of Seasons (USA) (GBC) (Virtual Console)">
+    <category>Games</category>
+    <description>Legend of Zelda, The - Oracle of Seasons (USA) (GBC) (Virtual Console)</description>
+    <rom name="Legend of Zelda, The - Oracle of Seasons (USA) (GBC) (Virtual Console).3ds" size="134217728" crc="9bec2fdb" md5="ce3679f5a13d3baf047c5c7a2e05fb75" sha1="f8d7a4cce78eafa70c77dcda9876fe67e893b01f" />
+  </game>
+  <game name="Legend of Zelda, The - The Minish Cap (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>Legend of Zelda, The - The Minish Cap (USA) (GBA) (Virtual Console)</description>
+    <rom name="Legend of Zelda, The - The Minish Cap (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="c7c8dab8" md5="bf63889407bebfcc7ccc75da7e21e870" sha1="cbabc229919a16ac1183d52f2521b63363044fa9" />
+  </game>
+  <game name="Let's Golf 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Let's Golf 3D (USA) (eShop)</description>
+    <rom name="Let's Golf 3D (USA) (eShop).3ds" size="268435456" crc="33d17a6a" md5="f7ce1b18d1d204948463c564a46a1808" sha1="9f9a04febaa18f1f2117efe59367306547a51fa3" />
+  </game>
+  <game name="Liberation Maiden (USA) (eShop)">
+    <category>Games</category>
+    <description>Liberation Maiden (USA) (eShop)</description>
+    <rom name="Liberation Maiden (USA) (eShop).3ds" size="268435456" crc="a5e4ec52" md5="e27cb395a357bd44f85352788f9beb63" sha1="65a4da1296ab816bd852d62b6d8727da3c6b839b" />
+  </game>
+  <game name="Lionel City Builder 3D - Rise of the Rails (USA) (eShop)">
+    <category>Games</category>
+    <description>Lionel City Builder 3D - Rise of the Rails (USA) (eShop)</description>
+    <rom name="Lionel City Builder 3D - Rise of the Rails (USA) (eShop).3ds" size="134217728" crc="7e23a49b" md5="c7acf723d6748175c748ef122c6538d5" sha1="60d4b6ce8546aee067a756b8b26e430d3ac481fb" />
+  </game>
+  <game name="Lufia - The Legend Returns (USA) (GBC) (Virtual Console)">
+    <category>Games</category>
+    <description>Lufia - The Legend Returns (USA) (GBC) (Virtual Console)</description>
+    <rom name="Lufia - The Legend Returns (USA) (GBC) (Virtual Console).3ds" size="134217728" crc="0f68978a" md5="27befb9671f3fa6c9c696bd603677f1e" sha1="159f9445a15a72877ff7c404ba73406ddeb588d9" />
+  </game>
+  <game name="Luigi's Mansion - Dark Moon (USA) (En,Fr,Es) (Legit CIA)">
+    <category>Games</category>
+    <description>Luigi's Mansion - Dark Moon (USA) (En,Fr,Es) (Legit CIA)</description>
+    <rom name="Luigi's Mansion - Dark Moon (USA) (En,Fr,Es) (Legit CIA).cia" size="883714432" crc="9cca9654" md5="4c84811601d18768b41a1a11d9ed6f0b" sha1="37c00536d65eec256cbbf850f927f205a22ff9cd" />
+  </game>
+  <game name="Magic Hammer, The (USA) (eShop)">
+    <category>Games</category>
+    <description>Magic Hammer, The (USA) (eShop)</description>
+    <rom name="Magic Hammer, The (USA) (eShop).3ds" size="134217728" crc="9e343b0c" md5="1d9508ecf5b8792cb9277c5172752a66" sha1="9cedac7b256c1c70743c437e8f447220045a1aba" />
+  </game>
+  <game name="Mahjong 3D - Essentials (USA) (eShop)">
+    <category>Games</category>
+    <description>Mahjong 3D - Essentials (USA) (eShop)</description>
+    <rom name="Mahjong 3D - Essentials (USA) (eShop).3ds" size="134217728" crc="7296132c" md5="f43e2945a941db8f2e93deedb3d7e546" sha1="c0019befda0a845c66b1319ac4902deb79e21220" />
+  </game>
+  <game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Legit CIA)">
+    <category>Games</category>
+    <description>Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Legit CIA)</description>
+    <rom name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Legit CIA).cia" size="864041280" crc="683b0601" md5="e05819917fc96b77645d3fce0fde4c8e" sha1="89d7914f584e6edbf5ae9e78490e998b12486877" />
+  </game>
+  <game name="Mario Kart - Super Circuit (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>Mario Kart - Super Circuit (USA) (GBA) (Virtual Console)</description>
+    <rom name="Mario Kart - Super Circuit (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="479de44d" md5="a7e0fcc28e879918b28e98ae51c19583" sha1="dccf7531576253c3f43d4f4966429a4c2db8b5cb" />
+  </game>
+  <game name="Mario Kart 7 (USA) (En,Fr,Es) (Legit CIA)">
+    <category>Games</category>
+    <description>Mario Kart 7 (USA) (En,Fr,Es) (Legit CIA)</description>
+    <rom name="Mario Kart 7 (USA) (En,Fr,Es) (Legit CIA).cia" size="665131392" crc="edfefaff" md5="d5c8b820ab3f87c09f0666b17d370745" sha1="ec0619e0377fd509d4809216ceca719f72477d63" />
+  </game>
+  <game name="Mario and Donkey Kong - Minis on the Move (USA) (eShop)">
+    <category>Games</category>
+    <description>Mario and Donkey Kong - Minis on the Move (USA) (eShop)</description>
+    <rom name="Mario and Donkey Kong - Minis on the Move (USA) (eShop).3ds" size="134217728" crc="f5806bc3" md5="753145c25247a4f03a6e4031f16fc55e" sha1="dcd7c8e9a13642364071c1865f5addb25453aeab" />
+  </game>
+  <game name="Mario vs Donkey Kong - Tipping Stars (USA) (eShop)">
+    <category>Games</category>
+    <description>Mario vs Donkey Kong - Tipping Stars (USA) (eShop)</description>
+    <rom name="Mario vs Donkey Kong - Tipping Stars (USA) (eShop).3ds" size="268435456" crc="a7d8ed41" md5="f2f4f3b956e522703324c43e03cfd871" sha1="45a44d8090b5213d72b4d0c2c9378ad5f76d99f5" />
+  </game>
+  <game name="Mario vs. Donkey Kong (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>Mario vs. Donkey Kong (USA) (GBA) (Virtual Console)</description>
+    <rom name="Mario vs. Donkey Kong (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="ae6a7765" md5="f488469a0bfc6ef1dac975c10198dc7c" sha1="268e2f0547f95971f5e7d3ecabd6ee8c1b7b80a4" />
+  </game>
+  <game name="Marvel Pinball 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Marvel Pinball 3D (USA) (eShop)</description>
+    <rom name="Marvel Pinball 3D (USA) (eShop).3ds" size="134217728" crc="9568dcbe" md5="7115164ad0b1855ffde55da2a4ef5515" sha1="e9e68e1f624887f2144822949b5de383e00800e3" />
+  </game>
+  <game name="Mega Man - Dr. Wily's Revenge (USA) (Rev 1) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man - Dr. Wily's Revenge (USA) (Rev 1) (GB) (Virtual Console)</description>
+    <rom name="Mega Man - Dr. Wily's Revenge (USA) (Rev 1) (GB) (Virtual Console).3ds" size="134217728" crc="a9d8e346" md5="ab60a1e6df5f0dc7a63933163e0d9380" sha1="6e417ee725cc71308d35aeb3e46f56b429415903" />
+  </game>
+  <game name="Mega Man 2 (USA) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man 2 (USA) (NES) (Virtual Console)</description>
+    <rom name="Mega Man 2 (USA) (NES) (Virtual Console).3ds" size="134217728" crc="33916a65" md5="35a083fafdf19d4150d784c6ab0cd14c" sha1="9b4fc55fa846d638eedb53bc03753a121e827ef4" />
+  </game>
+  <game name="Mega Man II (USA) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man II (USA) (GB) (Virtual Console)</description>
+    <rom name="Mega Man II (USA) (GB) (Virtual Console).3ds" size="134217728" crc="f731e10f" md5="c0e67046f13540cb33e766aa866d98ba" sha1="7c7251794fd9fb381b8bbd4f61c85c5d8aa58e66" />
+  </game>
+  <game name="Mega Man III (USA) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man III (USA) (GB) (Virtual Console)</description>
+    <rom name="Mega Man III (USA) (GB) (Virtual Console).3ds" size="134217728" crc="4532b873" md5="53d6abcbc493e9b1bb6d7832d14824f6" sha1="bc7a51e16152e279b1ce5f2361634f875f8f7126" />
+  </game>
+  <game name="Mega Man IV (USA) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man IV (USA) (GB) (Virtual Console)</description>
+    <rom name="Mega Man IV (USA) (GB) (Virtual Console).3ds" size="134217728" crc="b5efa27f" md5="066eb28f19a8007b43f93e1bbefa6890" sha1="b0b114134e9bea9c67645d5f2c89696ae508748b" />
+  </game>
+  <game name="Mega Man V (USA) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man V (USA) (GB) (Virtual Console)</description>
+    <rom name="Mega Man V (USA) (GB) (Virtual Console).3ds" size="134217728" crc="598a438d" md5="1ae0f04ba8b54516897d86795d930215" sha1="348bd12b0d77fe4d4a11335d02ee0b26089c4e99" />
+  </game>
+  <game name="Mega Man VI (USA) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man VI (USA) (NES) (Virtual Console)</description>
+    <rom name="Mega Man VI (USA) (NES) (Virtual Console).3ds" size="134217728" crc="01917567" md5="2d2466a75d27b03721c15346de84524f" sha1="4d22ef7ce1d23c970e9f9a011d621379dffd0dce" />
+  </game>
+  <game name="Mega Man Xtreme (USA) (GBC) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man Xtreme (USA) (GBC) (Virtual Console)</description>
+    <rom name="Mega Man Xtreme (USA) (GBC) (Virtual Console).3ds" size="134217728" crc="47593093" md5="da01f87de42e8bd5b88704ce4a838f53" sha1="4912381d77f4f3d7f096fc4789b7a7bf62330dbf" />
+  </game>
+  <game name="Mega Man Xtreme 2 (USA) (GBC) (Virtual Console)">
+    <category>Games</category>
+    <description>Mega Man Xtreme 2 (USA) (GBC) (Virtual Console)</description>
+    <rom name="Mega Man Xtreme 2 (USA) (GBC) (Virtual Console).3ds" size="134217728" crc="90986973" md5="e986d6d642451c7ef572b59472cdbdd4" sha1="67ef33e60fc40778f362314ef66e46622f5092c6" />
+  </game>
+  <game name="Mes Comptines (USA) (eShop)">
+    <category>Games</category>
+    <description>Mes Comptines (USA) (eShop)</description>
+    <rom name="Mes Comptines (USA) (eShop).3ds" size="536870912" crc="67b714c1" md5="312e5c7976fa1045e0b7f0e8af15d7ab" sha1="db91a002742f6e978cb74ec4e69bf513f8d326dd" />
+  </game>
+  <game name="Metroid (USA) (Rev 2) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Metroid (USA) (Rev 2) (NES) (Virtual Console)</description>
+    <rom name="Metroid (USA) (Rev 2) (NES) (Virtual Console).3ds" size="134217728" crc="d55f3723" md5="0a032f7c3df216e10bf17e4c210ab488" sha1="dfef23cae17a4f2216c608204e3b2cedefb9814e" />
+  </game>
+  <game name="Metroid Fusion (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>Metroid Fusion (USA) (GBA) (Virtual Console)</description>
+    <rom name="Metroid Fusion (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="4bfeaeb4" md5="6ede8c3283e7e0955c163482972f724d" sha1="75eb238b329ef0bb5e1ada89797278aa78e9cf22" />
+  </game>
+  <game name="Metroid II - Return of Samus (USA) (Rev 1) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Metroid II - Return of Samus (USA) (Rev 1) (GB) (Virtual Console)</description>
+    <rom name="Metroid II - Return of Samus (USA) (Rev 1) (GB) (Virtual Console).3ds" size="134217728" crc="d0974596" md5="da20fec735e872e4b6a0cafcc1334240" sha1="4b0ef1453dc575d48b448deec3ad3104ec90c0ec" />
+  </game>
+  <game name="Mighty Final Fight (USA) (eShop)">
+    <category>Games</category>
+    <description>Mighty Final Fight (USA) (eShop)</description>
+    <rom name="Mighty Final Fight (USA) (eShop).3ds" size="134217728" crc="ccbbcef1" md5="97293442c6c672068656be85156afd55" sha1="176353142f47ac68a47156abf234c0b244a7fd21" />
+  </game>
+  <game name="Mighty Gunvolt (USA) (eShop)">
+    <category>Games</category>
+    <description>Mighty Gunvolt (USA) (eShop)</description>
+    <rom name="Mighty Gunvolt (USA) (eShop).3ds" size="134217728" crc="371be932" md5="c4a1012a1ef808b4ecd18fc251791a61" sha1="77d3f9eafa747061cc35cc52ca4be6e5eee21d55" />
+  </game>
+  <game name="Mighty Switch Force! (USA) (eShop)">
+    <category>Games</category>
+    <description>Mighty Switch Force! (USA) (eShop)</description>
+    <rom name="Mighty Switch Force! (USA) (eShop).3ds" size="536870912" crc="987d79ea" md5="d6054255a80593b8bd01cb139f363af0" sha1="7344de7365db1c5e817a76572a797a4925bdeded" />
+  </game>
+  <game name="Mighty Switch Force! 2 (USA) (eShop)">
+    <category>Games</category>
+    <description>Mighty Switch Force! 2 (USA) (eShop)</description>
+    <rom name="Mighty Switch Force! 2 (USA) (eShop).3ds" size="134217728" crc="22b84361" md5="98e6002acca4f8fb93b74b69ad21c76d" sha1="45143b054cc7ae2890453f16599cd9726317469f" />
+  </game>
+  <game name="Mini-Mario &amp; Friends - amiibo Challenge (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Mini-Mario &amp; Friends - amiibo Challenge (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Mini-Mario &amp; Friends - amiibo Challenge (USA) (En,Fr,Es) (eShop).3ds" size="536870912" crc="a0e65f2a" md5="3723cfe70ba2e3d9ef63840611c3f9cd" sha1="21a1f0c3a7ab33e6a66e132dd33fe46bb3564f1a" />
+  </game>
+  <game name="Monster Hunter 3 Ultimate Data Transfer Program (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Monster Hunter 3 Ultimate Data Transfer Program (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Monster Hunter 3 Ultimate Data Transfer Program (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="10e2e08f" md5="3d75608d3ca155748e2d040a643fccb9" sha1="d7e7570ad0f73055878c3004c29e894a10c70680" />
+  </game>
+  <game name="Monster Hunter 4 Ultimate (USA) (Legit CIA)">
+    <category>Games</category>
+    <description>Monster Hunter 4 Ultimate (USA) (Legit CIA)</description>
+    <rom name="Monster Hunter 4 Ultimate (USA) (Legit CIA).cia" size="2726275392" crc="3ef5f928" md5="0535675158bfe343d6c5f63be19054f1" sha1="14d1a60079e0441787ac61ffdc09f5048b08420c" />
+  </game>
+  <game name="Moon Chronicles (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Moon Chronicles (USA) (Rev 1) (eShop)</description>
+    <rom name="Moon Chronicles (USA) (Rev 1) (eShop).3ds" size="134217728" crc="2e2e9faf" md5="023933196359764cbf5e6f1baba83da1" sha1="4bc7057f8f2b7ac1d4e25884afec2075835ca383" />
+  </game>
+  <game name="Musicverse - Electronic Keyboard (USA) (eShop)">
+    <category>Games</category>
+    <description>Musicverse - Electronic Keyboard (USA) (eShop)</description>
+    <rom name="Musicverse - Electronic Keyboard (USA) (eShop).3ds" size="134217728" crc="be018517" md5="27b8b7e8f1177cbb39b498581321ce14" sha1="19e84a40c650a83facaa39e2d3a3d25e3a821dcb" />
+  </game>
+  <game name="Mutant Mudds (USA) (eShop)">
+    <category>Games</category>
+    <description>Mutant Mudds (USA) (eShop)</description>
+    <rom name="Mutant Mudds (USA) (eShop).3ds" size="134217728" crc="24ca3e64" md5="705c6f9035540e09f0153698f0370c72" sha1="dfda87536d73030f005708e8529e0bbff16dfd6e" />
+  </game>
+  <game name="Mutant Mudds - Super Challenge (USA) (eShop)">
+    <category>Games</category>
+    <description>Mutant Mudds - Super Challenge (USA) (eShop)</description>
+    <rom name="Mutant Mudds - Super Challenge (USA) (eShop).3ds" size="134217728" crc="2d9a4311" md5="8a48b3286c511d0abb7a44dca1978de5" sha1="c6fb58bc72f60ca5e36a70e5dcfe4969913e243e" />
+  </game>
+  <game name="My First Songs (USA) (eShop)">
+    <category>Games</category>
+    <description>My First Songs (USA) (eShop)</description>
+    <rom name="My First Songs (USA) (eShop).3ds" size="536870912" crc="6ddb43ee" md5="59a668aae09738af7c6f6ba1664d7734" sha1="5fb7d963224acb44b1fac1333598d41c58282cf2" />
+  </game>
+  <game name="My Nintendo Picross - The Legend of Zelda - Twilight Princess (World) (En,Ja,Fr,De,Es,It) (eShop)">
+    <category>Games</category>
+    <description>My Nintendo Picross - The Legend of Zelda - Twilight Princess (World) (En,Ja,Fr,De,Es,It) (eShop)</description>
+    <rom name="My Nintendo Picross - The Legend of Zelda - Twilight Princess (World) (En,Ja,Fr,De,Es,It) (eShop).3ds" size="134217728" crc="fe6d91e3" md5="6dcde2bc444dbec6cb6b2c24475baa59" sha1="dea4d6685c6925c986803762bf4505f746175fcd" />
+  </game>
+  <game name="My Style Studio - Hair Salon (USA) (eShop)">
+    <category>Games</category>
+    <description>My Style Studio - Hair Salon (USA) (eShop)</description>
+    <rom name="My Style Studio - Hair Salon (USA) (eShop).3ds" size="134217728" crc="5cd95af9" md5="09ff7039f9f4ea3577705feb4e10c428" sha1="cb76767b48e51acb95597ff66242c0bb16d53b04" />
+  </game>
+  <game name="NES Open Tournament Golf (USA) (Rev 2) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>NES Open Tournament Golf (USA) (Rev 2) (NES) (Virtual Console)</description>
+    <rom name="NES Open Tournament Golf (USA) (Rev 2) (NES) (Virtual Console).3ds" size="134217728" crc="f2aa2d95" md5="287f4b405deb3def34afb4530bfd1998" sha1="6ef67cd7cefbd320d82527fe9e2e9bc35072ae50" />
+  </game>
+  <game name="Nano Assault EX (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Nano Assault EX (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Nano Assault EX (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="d2774de2" md5="da9a0feb6f8bcdaea2c57909df02730c" sha1="f98e847e60c3e85498da1201f20a96c93380d6c0" />
+  </game>
+  <game name="Netflix (USA) (Rev 2) (eShop)">
+    <category>Games</category>
+    <description>Netflix (USA) (Rev 2) (eShop)</description>
+    <rom name="Netflix (USA) (Rev 2) (eShop).3ds" size="134217728" crc="e3e9fb8a" md5="d75e20a35c27a3e62f2c6909c1598afa" sha1="1f6729b436408c615c8ca20b1d82f5bdc6c5385c" />
+  </game>
+  <game name="New Super Mario Bros. 2 Gold Edition (USA) (Legit CIA)">
+    <category>Games</category>
+    <description>New Super Mario Bros. 2 Gold Edition (USA) (Legit CIA)</description>
+    <rom name="New Super Mario Bros. 2 Gold Edition (USA) (Legit CIA).cia" size="357488960" crc="79f74900" md5="2afe0cb283f68c69977c354a6687ffa4" sha1="53c04dcb9e8a82ea80627cd878bf11284c8c3e66" />
+  </game>
+  <game name="NightSky (USA) (eShop)">
+    <category>Games</category>
+    <description>NightSky (USA) (eShop)</description>
+    <rom name="NightSky (USA) (eShop).3ds" size="268435456" crc="16cc9a9e" md5="2e0859840a35638e2754d57448e434b0" sha1="b400413767fc81d10d6b9a5109b656a0a999d92b" />
+  </game>
+  <game name="Ninja Battle Heroes (USA) (eShop)">
+    <category>Games</category>
+    <description>Ninja Battle Heroes (USA) (eShop)</description>
+    <rom name="Ninja Battle Heroes (USA) (eShop).3ds" size="134217728" crc="ead053c5" md5="3e0a2a3d9a47562b6f0f514397a3c158" sha1="5add2a980e2f047e86bafe833860b9949291bedf" />
+  </game>
+  <game name="Ninja Usagimaru - The Gem of Blessings (USA) (eShop)">
+    <category>Games</category>
+    <description>Ninja Usagimaru - The Gem of Blessings (USA) (eShop)</description>
+    <rom name="Ninja Usagimaru - The Gem of Blessings (USA) (eShop).3ds" size="134217728" crc="5662fe52" md5="3ea4bdaaa8ee89ad513247fdcad30b9b" sha1="3b8483028190627f3b9dfe62101105cbc34e6864" />
+  </game>
+  <game name="Nintendo Badge Arcade (USA) (eShop)">
+    <category>Games</category>
+    <description>Nintendo Badge Arcade (USA) (eShop)</description>
+    <rom name="Nintendo Badge Arcade (USA) (eShop).3ds" size="134217728" crc="e176d022" md5="cbe660f1485472f07a8fe9e4b56dfe36" sha1="43e62fd228fa709d76b5444aee42c99a267187db" />
+  </game>
+  <game name="Nintendo Video (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Nintendo Video (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Nintendo Video (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="52c9c76d" md5="3e6bc4f4bd1050da7a7019d888b1a79c" sha1="7acd961beb45d2f180457e29e598959741d0154c" />
+  </game>
+  <game name="Olli Olli (USA) (En,Fr,De,Es,It) (eShop)">
+    <category>Games</category>
+    <description>Olli Olli (USA) (En,Fr,De,Es,It) (eShop)</description>
+    <rom name="Olli Olli (USA) (En,Fr,De,Es,It) (eShop).3ds" size="134217728" crc="b2e5fac9" md5="4628694c7442935e2bc8bbf38e2fec7b" sha1="944c9078ab00f243879d3d2284a9123d2b149936" />
+  </game>
+  <game name="Order Up!! (USA) (eShop)">
+    <category>Games</category>
+    <description>Order Up!! (USA) (eShop)</description>
+    <rom name="Order Up!! (USA) (eShop).3ds" size="536870912" crc="244b63d5" md5="8c4c38d465077183e1844c95e4f2d0ca" sha1="67107e3141ec9117e98639b06df29da4e10fd8ba" />
+  </game>
+  <game name="Outdoors Unleashed - Africa 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Outdoors Unleashed - Africa 3D (USA) (eShop)</description>
+    <rom name="Outdoors Unleashed - Africa 3D (USA) (eShop).3ds" size="134217728" crc="35118e65" md5="de188db11369c369a3ea9932ad192670" sha1="a917e73de91fc1eadeb43a8fa0a736e12b174f96" />
+  </game>
+  <game name="PIX3D (USA) (eShop)">
+    <category>Games</category>
+    <description>PIX3D (USA) (eShop)</description>
+    <rom name="PIX3D (USA) (eShop).3ds" size="134217728" crc="d52aeec0" md5="5ccc4d117ca6731eedad403f21e4a28c" sha1="90de21e8558a0e191fa15e15e0730ceb7b78cefc" />
+  </game>
+  <game name="PUZZLEBOX setup (USA) (eShop)">
+    <category>Games</category>
+    <description>PUZZLEBOX setup (USA) (eShop)</description>
+    <rom name="PUZZLEBOX setup (USA) (eShop).3ds" size="134217728" crc="65c619a4" md5="60f1d9424427b6b4ab90eef8dd733cb4" sha1="9d3a7339f906833ff28bfba1f91e180f54029df2" />
+  </game>
+  <game name="Parascientific Escape Cruise in the Distant Seas (USA)">
+    <category>Games</category>
+    <description>Parascientific Escape Cruise in the Distant Seas (USA)</description>
+    <rom name="Parascientific Escape Cruise in the Distant Seas (USA).3ds" size="134217728" crc="86e7c004" md5="d0ec608cf47d82e087b784720bace46c" sha1="65c96ba737bd81da9a38761707fff0464010b527" />
+  </game>
+  <game name="Petit Novel Series - Harvest December (USA) (eShop)">
+    <category>Games</category>
+    <description>Petit Novel Series - Harvest December (USA) (eShop)</description>
+    <rom name="Petit Novel Series - Harvest December (USA) (eShop).3ds" size="536870912" crc="538944f9" md5="a542880e841e93b1b4026c7f1b4bdb95" sha1="454b3e5e60cc7a7753a6cc6b60ba9cf54e1a3886" />
+  </game>
+  <game name="Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop)">
+    <category>Games</category>
+    <description>Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop)</description>
+    <rom name="Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop).3ds" size="1073741824" crc="a011c9df" md5="ee28cc1d2ae52dff09b8fbb926615773" sha1="13a13a5cc2d02d890276d972225209c51b5d680c" />
+  </game>
+  <game name="Phoenix Wright - Ace Attorney Trilogy (USA) (eShop)">
+    <category>Games</category>
+    <description>Phoenix Wright - Ace Attorney Trilogy (USA) (eShop)</description>
+    <rom name="Phoenix Wright - Ace Attorney Trilogy (USA) (eShop).3ds" size="536870912" crc="fde837ea" md5="34822c25a0b1c0db1eec64e531676b70" sha1="ae0cd5a5263f01a5a273adbe9a34b5deb63697fe" />
+  </game>
+  <game name="Photos with Mario (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Photos with Mario (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Photos with Mario (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="edfa3b95" md5="8875141143491e1f1b025f8b6b4e3230" sha1="17e4510750ec475529eb66dbe875644bced9c906" />
+  </game>
+  <game name="Picdun 2 - Witch's Curse (USA) (eShop)">
+    <category>Games</category>
+    <description>Picdun 2 - Witch's Curse (USA) (eShop)</description>
+    <rom name="Picdun 2 - Witch's Curse (USA) (eShop).3ds" size="134217728" crc="66f0f2bc" md5="0975970d4e38edc56eeef8f90b50da0e" sha1="0cde6ea5ed04c926e5e25f435e38254e20d7d527" />
+  </game>
+  <game name="Picross e (USA) (eShop)">
+    <category>Games</category>
+    <description>Picross e (USA) (eShop)</description>
+    <rom name="Picross e (USA) (eShop).3ds" size="134217728" crc="6f246e00" md5="fe38e46b397c4e76e819259ae78abad4" sha1="717544f8e902572a58575fffde036d55f19c87c5" />
+  </game>
+  <game name="Picross e2 (USA) (eShop)">
+    <category>Games</category>
+    <description>Picross e2 (USA) (eShop)</description>
+    <rom name="Picross e2 (USA) (eShop).3ds" size="134217728" crc="7cec086d" md5="e404edcba389c7d619f8223449830f90" sha1="14e8192c6476d04b99ae8aec9d2f84cc39f0670d" />
+  </game>
+  <game name="Picross e3 (USA) (eShop)">
+    <category>Games</category>
+    <description>Picross e3 (USA) (eShop)</description>
+    <rom name="Picross e3 (USA) (eShop).3ds" size="134217728" crc="69fcaa8b" md5="48181f9099ea419cc7783ccfafa08dfa" sha1="9ee4730df684b3be61e5ce47c3b788b1f1690ce4" />
+  </game>
+  <game name="Picross e4 (USA) (eShop)">
+    <category>Games</category>
+    <description>Picross e4 (USA) (eShop)</description>
+    <rom name="Picross e4 (USA) (eShop).3ds" size="134217728" crc="dd953a9c" md5="a9230266f6d7644246af0a99e85ef997" sha1="9f28fe3a19122b7af3cc1aee3f69c7f9c122c90a" />
+  </game>
+  <game name="Picross e5 (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Picross e5 (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Picross e5 (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="76a2d97b" md5="53d56aae8d272fdb6636fca48a827cb3" sha1="2b876970a1d10a540bd391f86dd91c723ce86ebb" />
+  </game>
+  <game name="Picross e6 (USA) (eShop)">
+    <category>Games</category>
+    <description>Picross e6 (USA) (eShop)</description>
+    <rom name="Picross e6 (USA) (eShop).3ds" size="134217728" crc="d4116df5" md5="4052e25b718f2dd50548b31e61f0d295" sha1="8a97d197cc0ada2c98aba6b7f921f1d147ef5e86" />
+  </game>
+  <game name="Pikmin Short Movies 3D (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Pikmin Short Movies 3D (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Pikmin Short Movies 3D (USA) (En,Fr,Es) (eShop).3ds" size="536870912" crc="8f879d26" md5="733a8b7a59487feb49c0138fbcc00df4" sha1="ad0fb1222b490f9a0dcae7886315d96b63eb88f9" />
+  </game>
+  <game name="Pocket Card Jockey (USA) (eShop)">
+    <category>Games</category>
+    <description>Pocket Card Jockey (USA) (eShop)</description>
+    <rom name="Pocket Card Jockey (USA) (eShop).3ds" size="134217728" crc="d88c6589" md5="411f4abab458822cf37d8bd99d194494" sha1="d1e7351ff1b681ac15b6c41b1bbe5373dd51f107" />
+  </game>
+  <game name="Poke Transporter (World) (En,Ja,Fr,De,Es,It,Ko) (eShop)">
+    <category>Games</category>
+    <description>Poke Transporter (World) (En,Ja,Fr,De,Es,It,Ko) (eShop)</description>
+    <rom name="Poke Transporter (World) (En,Ja,Fr,De,Es,It,Ko) (eShop).cia" size="28023104" crc="3d267685" md5="21faa07082a3788534fbb7500e835110" sha1="6aa86a216f25bb0cf3c34d480b27d33d06bf17c3" />
+  </game>
+  <game name="Pokedex 3D (World) (En,Fr,Es) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Pokedex 3D (World) (En,Fr,Es) (Rev 1) (eShop)</description>
+    <rom name="Pokedex 3D (World) (En,Fr,Es) (Rev 1) (eShop).3ds" size="134217728" crc="2b911fdb" md5="62a26f8d51140c578449252afe82bcd9" sha1="7fbdead7fc35d75a36e1aaaefcaee32a8218d1a0" />
+  </game>
+  <game name="Pokedex 3D Pro (World) (En,Ja,Fr,De,Es,It,Ko) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Pokedex 3D Pro (World) (En,Ja,Fr,De,Es,It,Ko) (Rev 1) (eShop)</description>
+    <rom name="Pokedex 3D Pro (World) (En,Ja,Fr,De,Es,It,Ko) (Rev 1) (eShop).3ds" size="536870912" crc="fefc9c16" md5="36d34329e0ddb4ca3f78349310acf062" sha1="cd1f7dff95b46f712e6cc0dcbe2eafcd1fddece2" />
+  </game>
+  <game name="Pokemon - Alpha Sapphire (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)">
+    <category>Games</category>
+    <description>Pokemon - Alpha Sapphire (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)</description>
+    <rom name="Pokemon - Alpha Sapphire (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA).cia" size="1898686784" crc="fe03f4e7" md5="ddf91163d057ae1e937facbd1ec07b28" sha1="15e804fd6d89b64881d6e775c47dbeb6371f3002" />
+  </game>
+  <game name="Pokemon - Omega Ruby (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)">
+    <category>Games</category>
+    <description>Pokemon - Omega Ruby (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)</description>
+    <rom name="Pokemon - Omega Ruby (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA).cia" size="1898568000" crc="43e37e2a" md5="bfe54d3db37046774437f74151bf20aa" sha1="46744033f1b99190b646d7bf2d1f9d253c31b7e4" />
+  </game>
+  <game name="Pokemon Bank (World) (En,Ja,Fr,De,Es,It,Ko) (eShop)">
+    <category>Games</category>
+    <description>Pokemon Bank (World) (En,Ja,Fr,De,Es,It,Ko) (eShop)</description>
+    <rom name="Pokemon Bank (World) (En,Ja,Fr,De,Es,It,Ko) (eShop).cia" size="30615872" crc="bd0d1bb4" md5="425710611c1386f8b8d610e4576d60c5" sha1="d3fcd29a7e96f98d12bc8a19f27b501dfd07942d" />
+  </game>
+  <game name="Pokemon Picross (World) (En,Ja,Fr,De,Es,It) (eShop)">
+    <category>Games</category>
+    <description>Pokemon Picross (World) (En,Ja,Fr,De,Es,It) (eShop)</description>
+    <rom name="Pokemon Picross (World) (En,Ja,Fr,De,Es,It) (eShop).3ds" size="134217728" crc="57af96cc" md5="b1459e8ac0c1b6d99559e3f2ecd411a3" sha1="423f4eac802322e85eead20737ec79365b37828c" />
+  </game>
+  <game name="Pokemon Rumble World (World) (En,Ja,Fr,De,Es,It) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Pokemon Rumble World (World) (En,Ja,Fr,De,Es,It) (Rev 1) (eShop)</description>
+    <rom name="Pokemon Rumble World (World) (En,Ja,Fr,De,Es,It) (Rev 1) (eShop).3ds" size="134217728" crc="71792a0d" md5="a5607f1c83a1dc5492eb423838fc7ba2" sha1="668c6fda29f015d41c192064676855180a3f6870" />
+  </game>
+  <game name="Pokemon Shuffle (World) (En,Ja,Fr,De,Es,It) (Rev 3) (eShop)">
+    <category>Games</category>
+    <description>Pokemon Shuffle (World) (En,Ja,Fr,De,Es,It) (Rev 3) (eShop)</description>
+    <rom name="Pokemon Shuffle (World) (En,Ja,Fr,De,Es,It) (Rev 3) (eShop).3ds" size="134217728" crc="90df668f" md5="a6a5ced1fe56b308aa7009ac7ca213ee" sha1="a791b1e04b7293efdc801fdde7a5c1603ce40b0e" />
+  </game>
+  <game name="Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)">
+    <category>Games</category>
+    <description>Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)</description>
+    <rom name="Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA).cia" size="1807300928" crc="6086cd4f" md5="d0843da277e06acd4f85c7310adb19ac" sha1="750cc9388641acaebb9999402a6d23da5ee73912" />
+  </game>
+  <game name="Pokemon X - Update 1.2 (World) (En,Ja,Fr,De,Es,It,Ko)">
+    <category>Games</category>
+    <description>Pokemon X - Update 1.2 (World) (En,Ja,Fr,De,Es,It,Ko)</description>
+    <rom name="Pokemon X - Update 1.2 (World) (En,Ja,Fr,De,Es,It,Ko).cia" size="30361856" crc="5d61d3b3" md5="464d6b374a9753ded4d435be57def26b" sha1="e0ce60b69c24909af61b0921232adf3c7700351c" />
+  </game>
+  <game name="Pokemon X - Update 1.3 (World) (En,Ja,Fr,De,Es,It,Ko)">
+    <category>Games</category>
+    <description>Pokemon X - Update 1.3 (World) (En,Ja,Fr,De,Es,It,Ko)</description>
+    <rom name="Pokemon X - Update 1.3 (World) (En,Ja,Fr,De,Es,It,Ko).cia" size="41494784" crc="f31a9c23" md5="7980acc0aac0281fbb2683cc18f69593" sha1="e80d1e6e58d0a18c295ac4c7767580d199e78f21" />
+  </game>
+  <game name="Pokemon Y (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)">
+    <category>Games</category>
+    <description>Pokemon Y (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)</description>
+    <rom name="Pokemon Y (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA).cia" size="1807300928" crc="de6dab18" md5="d1a49883a588eb45c785db86b33dc5f5" sha1="d276e32f9285066cdb14170da048235b832b623f" />
+  </game>
+  <game name="Pokemon Y - Update 1.2 (World) (En,Ja,Fr,De,Es,It,Ko)">
+    <category>Games</category>
+    <description>Pokemon Y - Update 1.2 (World) (En,Ja,Fr,De,Es,It,Ko)</description>
+    <rom name="Pokemon Y - Update 1.2 (World) (En,Ja,Fr,De,Es,It,Ko).cia" size="30361856" crc="0e2ffab0" md5="68a58ce302672fa5c9e218ad02c328f5" sha1="3c4e0d52dd0a28fb6a8adc63dcd489fc196a787d" />
+  </game>
+  <game name="Pokemon Y - Update 1.3 (World) (En,Ja,Fr,De,Es,It,Ko)">
+    <category>Games</category>
+    <description>Pokemon Y - Update 1.3 (World) (En,Ja,Fr,De,Es,It,Ko)</description>
+    <rom name="Pokemon Y - Update 1.3 (World) (En,Ja,Fr,De,Es,It,Ko).cia" size="41494784" crc="96781fbd" md5="9ede4376f72f17d331f5326cdd010075" sha1="6da0fce08d65d5d846d264262e9fd367ab390efc" />
+  </game>
+  <game name="Pong Pong Candy (USA) (eShop)">
+    <category>Games</category>
+    <description>Pong Pong Candy (USA) (eShop)</description>
+    <rom name="Pong Pong Candy (USA) (eShop).3ds" size="134217728" crc="972d3cab" md5="65059645f2c057b9571685404ea47bad" sha1="d61dca58cc17716808049ff130a3eecb5b1e8dcc" />
+  </game>
+  <game name="Punch-Out!! Featuring Mr. Dream (USA) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Punch-Out!! Featuring Mr. Dream (USA) (NES) (Virtual Console)</description>
+    <rom name="Punch-Out!! Featuring Mr. Dream (USA) (NES) (Virtual Console).3ds" size="134217728" crc="32140db5" md5="a3aeeaa8319dad243281741b0046411e" sha1="c783bbcb9c289be079ae8895f0c4070021f2593f" />
+  </game>
+  <game name="Pushmo (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Pushmo (USA) (Rev 1) (eShop)</description>
+    <rom name="Pushmo (USA) (Rev 1) (eShop).3ds" size="134217728" crc="cd7f4c50" md5="7a0f876ca82a0317d6869913a829b5e8" sha1="43e05c97a11f1bd56ed526fb9090e94f1a6e1b3c" />
+  </game>
+  <game name="Pyramids (USA) (eShop)">
+    <category>Games</category>
+    <description>Pyramids (USA) (eShop)</description>
+    <rom name="Pyramids (USA) (eShop).3ds" size="134217728" crc="72faade0" md5="51873c8e7922a55c666f3477bec1d69a" sha1="0f16896590aecac075518e05da70f1f41863c5fa" />
+  </game>
+  <game name="Pyramids 2 (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Pyramids 2 (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Pyramids 2 (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="e6e94a92" md5="ff5f7dfb00e6cb19437f35c5c30bf256" sha1="5865c100d63a02ad8223f38ab4b194609a9d4cf7" />
+  </game>
+  <game name="Quell Memento (USA) (eShop)">
+    <category>Games</category>
+    <description>Quell Memento (USA) (eShop)</description>
+    <rom name="Quell Memento (USA) (eShop).3ds" size="134217728" crc="8097e2fb" md5="f158ac35706d32e128c7a4c9ae3a05d4" sha1="a203dba11e4afe22f665a44e5732f81a9d6a9b5a" />
+  </game>
+  <game name="Quell Reflect (USA) (eShop)">
+    <category>Games</category>
+    <description>Quell Reflect (USA) (eShop)</description>
+    <rom name="Quell Reflect (USA) (eShop).3ds" size="134217728" crc="7637b182" md5="600101fa796d0c63bdf612656e59ba90" sha1="717f94b377a59278b843a28e86b50974a9f00d62" />
+  </game>
+  <game name="RV-7 My Drone (USA) (eShop)">
+    <category>Games</category>
+    <description>RV-7 My Drone (USA) (eShop)</description>
+    <rom name="RV-7 My Drone (USA) (eShop).3ds" size="134217728" crc="23ec3f96" md5="195915687aec03ae4b5bbcacc22cef86" sha1="b03cef0a90e4d2e2473d6db499f616a3f8bb9f1b" />
+  </game>
+  <game name="Rabi Laby 3 (USA) (eShop)">
+    <category>Games</category>
+    <description>Rabi Laby 3 (USA) (eShop)</description>
+    <rom name="Rabi Laby 3 (USA) (eShop).3ds" size="134217728" crc="4beb22b2" md5="df8d0e95172b3d426cc9352e76ee966d" sha1="8ad7d56798aa4c02507cd0f5398f9e2bd0d9a66d" />
+  </game>
+  <game name="Rage of the Gladiator (USA) (eShop)">
+    <category>Games</category>
+    <description>Rage of the Gladiator (USA) (eShop)</description>
+    <rom name="Rage of the Gladiator (USA) (eShop).3ds" size="134217728" crc="3607bea5" md5="50cc1ed0fdcfdb13b5e861c9858f9a11" sha1="e3c71399461712e85f95f006b7de1b3d8bccef49" />
+  </game>
+  <game name="Retro City Rampage - DX (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Retro City Rampage - DX (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Retro City Rampage - DX (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="2c30a91b" md5="d20c80aba6974ed8ab710c2902854bca" sha1="db1522989ffce214e3b72b8874fe2d03db615900" />
+  </game>
+  <game name="Rising Board 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Rising Board 3D (USA) (eShop)</description>
+    <rom name="Rising Board 3D (USA) (eShop).3ds" size="134217728" crc="7f5d6951" md5="39f94e531735f9e50810b0cf5b990366" sha1="eebf63bfcc6a03334436e0485eb837cac2d61fc2" />
+  </game>
+  <game name="Robot Rescue 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>Robot Rescue 3D (USA) (eShop)</description>
+    <rom name="Robot Rescue 3D (USA) (eShop).3ds" size="134217728" crc="54b1fe82" md5="a511d0aa7e264e79c4402ea9fbbf684e" sha1="0af863449e8ae320604b867c7ef3f87b7e57106e" />
+  </game>
+  <game name="Runny Egg (USA) (eShop)">
+    <category>Games</category>
+    <description>Runny Egg (USA) (eShop)</description>
+    <rom name="Runny Egg (USA) (eShop).3ds" size="134217728" crc="57997894" md5="505392f229d3696e63755bca969e6be2" sha1="29e8b07c91d4d2e2498e492c6e575079ec6c2c90" />
+  </game>
+  <game name="Rusty's Real Deal Baseball (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Rusty's Real Deal Baseball (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Rusty's Real Deal Baseball (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="85e5a34d" md5="8f5aff280381853f0ed132190543cc13" sha1="5d70c5e3c21e9e6047c6c79fe2a55c2e000b28e5" />
+  </game>
+  <game name="Rytmik Ultimate (USA) (eShop)">
+    <category>Games</category>
+    <description>Rytmik Ultimate (USA) (eShop)</description>
+    <rom name="Rytmik Ultimate (USA) (eShop).3ds" size="134217728" crc="6975bc39" md5="0f23e57d718fb2ddb091eca1ed015f45" sha1="5d187f082e51b110e06c40bb5a8f9dff9da8eadf" />
+  </game>
+  <game name="Sadame (USA) (eShop)">
+    <category>Games</category>
+    <description>Sadame (USA) (eShop)</description>
+    <rom name="Sadame (USA) (eShop).3ds" size="536870912" crc="52955d93" md5="9ac2db4fd0b4f4731e067e97a6ae80bd" sha1="19b3cf6a5330c3725dd8a60a6634bee0f4bd90a0" />
+  </game>
+  <game name="Sakura Samurai - Art of the Sword (USA) (eShop)">
+    <category>Games</category>
+    <description>Sakura Samurai - Art of the Sword (USA) (eShop)</description>
+    <rom name="Sakura Samurai - Art of the Sword (USA) (eShop).3ds" size="134217728" crc="5f106abf" md5="8a9c6ad7856785c1185ab675d8322594" sha1="ac66bf0b087f50e6da648493e0cd906f795a38ea" />
+  </game>
+  <game name="Samurai Defender (USA) (eShop)">
+    <category>Games</category>
+    <description>Samurai Defender (USA) (eShop)</description>
+    <rom name="Samurai Defender (USA) (eShop).3ds" size="134217728" crc="07291674" md5="074819634b5ce7a84eb9b2d386a49e50" sha1="43255daeebfdce144a417ce6f7d85cdc99537e16" />
+  </game>
+  <game name="Samurai Sword Destiny (USA) (eShop)">
+    <category>Games</category>
+    <description>Samurai Sword Destiny (USA) (eShop)</description>
+    <rom name="Samurai Sword Destiny (USA) (eShop).3ds" size="134217728" crc="7d5a8957" md5="9fccccedf735df904246528fcda63ad2" sha1="421b5d05aeafd86d11c207507eef388fedc6f198" />
+  </game>
+  <game name="Samurai Warriors Chronicles 3 (USA) (eShop)">
+    <category>Games</category>
+    <description>Samurai Warriors Chronicles 3 (USA) (eShop)</description>
+    <rom name="Samurai Warriors Chronicles 3 (USA) (eShop).3ds" size="4294967296" crc="3716a32c" md5="b68a6f607cf13ea1402373edec3924a4" sha1="56ac53f258c137ef4c006b066ddc06fb51bd0473" />
+  </game>
+  <game name="Save Data Transfer Tool (World) (En,Fr,De,Es,It,Pt,Ru) (eShop)">
+    <category>Games</category>
+    <description>Save Data Transfer Tool (World) (En,Fr,De,Es,It,Pt,Ru) (eShop)</description>
+    <rom name="Save Data Transfer Tool (World) (En,Fr,De,Es,It,Pt,Ru) (eShop).cia" size="2676992" crc="4fd4aafe" md5="5500d75aa4f9a01def160a27e68f5f66" sha1="cd41469c6a9e4cfee8f35eb8df051710ea0bb7fa" />
+  </game>
+  <game name="Scarygirl Illustration Kit (USA) (eShop)">
+    <category>Games</category>
+    <description>Scarygirl Illustration Kit (USA) (eShop)</description>
+    <rom name="Scarygirl Illustration Kit (USA) (eShop).3ds" size="134217728" crc="9e1cf2d5" md5="1e541a6bd43f710df26d12c1b92d0c87" sha1="402554ed4dd2658e274ed5c26bc92dac290ad824" />
+  </game>
+  <game name="Secret Journeys - Cities of the World (USA) (eShop)">
+    <category>Games</category>
+    <description>Secret Journeys - Cities of the World (USA) (eShop)</description>
+    <rom name="Secret Journeys - Cities of the World (USA) (eShop).3ds" size="134217728" crc="13915e4f" md5="be743e86e2e5d373134fbc01aba4ca9e" sha1="fd69bca03b3566e24e3232da16169f4d3b2747d0" />
+  </game>
+  <game name="Senran Kagura Burst (USA) (eShop)">
+    <category>Games</category>
+    <description>Senran Kagura Burst (USA) (eShop)</description>
+    <rom name="Senran Kagura Burst (USA) (eShop).3ds" size="2147483648" crc="ccec21a7" md5="27a15a3e25fa081cbae41cd8571ea068" sha1="2656f9fe79264f79525fe9dd88e965b623bfc8b6" />
+  </game>
+  <game name="Shantae and the Pirate's Curse (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Shantae and the Pirate's Curse (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Shantae and the Pirate's Curse (USA) (En,Fr,Es) (eShop).3ds" size="536870912" crc="5b505641" md5="b9a42257577c196fe511c157134da274" sha1="063d8e1071d966acaa8639c78ff8b9019ed90873" />
+  </game>
+  <game name="Shovel Knight + Shovel Knight - Plague of Shadows (USA) (En,Fr,De,Es,It) (v2.2) (eShop)">
+    <category>Games</category>
+    <description>Shovel Knight + Shovel Knight - Plague of Shadows (USA) (En,Fr,De,Es,It) (v2.2) (eShop)</description>
+    <rom name="Shovel Knight + Shovel Knight - Plague of Shadows (USA) (En,Fr,De,Es,It) (v2.2) (eShop).3ds" size="134217728" crc="5e9b4ad8" md5="4bb7dd4837cc0db136ed16ca08e5c349" sha1="e62882db75680da5829607bb166204878b50c368" />
+  </game>
+  <game name="Siesta Fiesta (USA) (eShop)">
+    <category>Games</category>
+    <description>Siesta Fiesta (USA) (eShop)</description>
+    <rom name="Siesta Fiesta (USA) (eShop).3ds" size="268435456" crc="ab59d763" md5="9186d4ab2c5154a1f829da2fa5dc2a55" sha1="06b55ee4d3dc3d5eba18a4e7206af687e49be01a" />
+  </game>
+  <game name="SkyPeace (USA) (eShop)">
+    <category>Games</category>
+    <description>SkyPeace (USA) (eShop)</description>
+    <rom name="SkyPeace (USA) (eShop).3ds" size="134217728" crc="8f2c5e0e" md5="4f6ed036246e177c58184a11016bc231" sha1="3625fd6738ee5f3a21f27eda40290ba6e957eb5d" />
+  </game>
+  <game name="Smash Cat Heroes (USA) (eShop)">
+    <category>Games</category>
+    <description>Smash Cat Heroes (USA) (eShop)</description>
+    <rom name="Smash Cat Heroes (USA) (eShop).3ds" size="134217728" crc="9599c68f" md5="c25c1761a3d1467ec498b9de8a7f3aef" sha1="73b345401956704e6cbe24d172ad459d57e77d52" />
+  </game>
+  <game name="Smash Controller (USA) (eShop)">
+    <category>Games</category>
+    <description>Smash Controller (USA) (eShop)</description>
+    <rom name="Smash Controller (USA) (eShop).3ds" size="134217728" crc="088e9f9b" md5="455ec4a59b4867d5b9f8746394424bf2" sha1="b3b218693479c3ff2b51ae2edd8437d1b7c7fd92" />
+  </game>
+  <game name="SmileBASIC (USA) (eShop)">
+    <category>Games</category>
+    <description>SmileBASIC (USA) (eShop)</description>
+    <rom name="SmileBASIC (USA) (eShop).3ds" size="134217728" crc="6db53541" md5="3b21ed4522ed4c406e124bed65470752" sha1="2fce6145d9a172132a93d577b6be286b9a9ae0b1" />
+  </game>
+  <game name="Space Lift Danger Panic! (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Space Lift Danger Panic! (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Space Lift Danger Panic! (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="9957c8e1" md5="eac47bded7e6ce49053c97d8134c32d7" sha1="480d9e13f118132eb14d7aeedbe1013d846850e9" />
+  </game>
+  <game name="SpeedX 3D (USA) (eShop)">
+    <category>Games</category>
+    <description>SpeedX 3D (USA) (eShop)</description>
+    <rom name="SpeedX 3D (USA) (eShop).3ds" size="134217728" crc="738d8cdb" md5="a476d19cacd3da90cbac58f9bec6f4c3" sha1="bb543149f3cadba0477766c6b9dbc92f8a8336c3" />
+  </game>
+  <game name="SpeedX 3D Hyper Edition (USA) (eShop)">
+    <category>Games</category>
+    <description>SpeedX 3D Hyper Edition (USA) (eShop)</description>
+    <rom name="SpeedX 3D Hyper Edition (USA) (eShop).3ds" size="134217728" crc="8f25af20" md5="d40bc85b85294ceae057ff453eb8f889" sha1="05875918bec6ec89ea0bb6ad6aa16149d8d3d502" />
+  </game>
+  <game name="Squids Odyssey (USA) (eShop)">
+    <category>Games</category>
+    <description>Squids Odyssey (USA) (eShop)</description>
+    <rom name="Squids Odyssey (USA) (eShop).3ds" size="268435456" crc="4be56179" md5="153436942bb75bc38449a7bb66c66c3b" sha1="59136d67a2ead429e51f195d2e1ded605e074da9" />
+  </game>
+  <game name="Star Wars Pinball (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Star Wars Pinball (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Star Wars Pinball (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="c320ba8b" md5="daa6c79bc977d913d493ff74f81b5a1e" sha1="33d857dd960b3033fe1d5e29410454cc714728b1" />
+  </game>
+  <game name="SteamWorld Heist (USA) (eShop)">
+    <category>Games</category>
+    <description>SteamWorld Heist (USA) (eShop)</description>
+    <rom name="SteamWorld Heist (USA) (eShop).3ds" size="268435456" crc="f791e8f1" md5="dca36da0c5e00d1c427b4ae0f965493d" sha1="4f322351b7b114f63dbd10f268893cb8a6c5dc51" />
+  </game>
+  <game name="Steamworld Dig (USA) (eShop)">
+    <category>Games</category>
+    <description>Steamworld Dig (USA) (eShop)</description>
+    <rom name="Steamworld Dig (USA) (eShop).3ds" size="134217728" crc="638f3c49" md5="41c5f510146c667925002fa403ccc69e" sha1="2ad4d458b8e42b0ebe496cf696bb244cd8a04949" />
+  </game>
+  <game name="Steel Diver - Sub Wars (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Steel Diver - Sub Wars (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Steel Diver - Sub Wars (USA) (En,Fr,Es) (eShop).3ds" size="268435456" crc="b2e5b3a0" md5="b8e2f3b90560d64a5ac57719bc2511eb" sha1="39cb6c50f5a4b01be4bcc77129ce6715205d1887" />
+  </game>
+  <game name="Stretchmo (USA) (eShop)">
+    <category>Games</category>
+    <description>Stretchmo (USA) (eShop)</description>
+    <rom name="Stretchmo (USA) (eShop).3ds" size="134217728" crc="ed6e4f46" md5="e1c89ad004394684c0df9f77a44dd65e" sha1="38d1d3d0ff514958ed497fa6986dbd1f5a2b78a0" />
+  </game>
+  <game name="Strike Force Foxx (USA) (eShop)">
+    <category>Games</category>
+    <description>Strike Force Foxx (USA) (eShop)</description>
+    <rom name="Strike Force Foxx (USA) (eShop).3ds" size="134217728" crc="db3111b8" md5="8b1185fa0528eba1bc85946b237f79f3" sha1="3df0c0759b047a2c188176d2151163b7312c74ee" />
+  </game>
+  <game name="Super Dodge Ball (USA) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Super Dodge Ball (USA) (NES) (Virtual Console)</description>
+    <rom name="Super Dodge Ball (USA) (NES) (Virtual Console).3ds" size="134217728" crc="519a39b8" md5="ec623121c2b8a62efce60e1abb703e94" sha1="87a66be5e1ce70908ab1cfcfea743e97659836e7" />
+  </game>
+  <game name="Super Little Acorns 3D Turbo (USA) (eShop)">
+    <category>Games</category>
+    <description>Super Little Acorns 3D Turbo (USA) (eShop)</description>
+    <rom name="Super Little Acorns 3D Turbo (USA) (eShop).3ds" size="134217728" crc="6ee8206c" md5="4c1aa8aa76ce9c98c19cbb6e776cba76" sha1="37e2adeb18c96724ff5a2e2f8aaa1d09c9161d00" />
+  </game>
+  <game name="Super Mario 3D Land (USA) (Legit CIA)">
+    <category>Games</category>
+    <description>Super Mario 3D Land (USA) (Legit CIA)</description>
+    <rom name="Super Mario 3D Land (USA) (Legit CIA).cia" size="303458624" crc="8174f92d" md5="985a62ea699b8b2725cda23c37384e34" sha1="ea6139a385d0bc43527ba4b92d781d554ea1ac5c" />
+  </game>
+  <game name="Super Mario Bros. (USA) (Rev 1) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Super Mario Bros. (USA) (Rev 1) (NES) (Virtual Console)</description>
+    <rom name="Super Mario Bros. (USA) (Rev 1) (NES) (Virtual Console).3ds" size="134217728" crc="2aabcbb2" md5="5b749a8b233cce5a69be543899fc5149" sha1="c3312629e58285b58633c401a11a1e7826bfa236" />
+  </game>
+  <game name="Super Mario Bros. - The Lost Levels (USA) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Super Mario Bros. - The Lost Levels (USA) (NES) (Virtual Console)</description>
+    <rom name="Super Mario Bros. - The Lost Levels (USA) (NES) (Virtual Console).3ds" size="134217728" crc="63f8862a" md5="4e82d279510566d562fcfb72ab8c1188" sha1="d2d99d6c6e8ff0b117a1781e4b3a5abdd82cea61" />
+  </game>
+  <game name="Super Mario Bros. 2 (USA) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Super Mario Bros. 2 (USA) (NES) (Virtual Console)</description>
+    <rom name="Super Mario Bros. 2 (USA) (NES) (Virtual Console).3ds" size="134217728" crc="5333fa34" md5="e03f3f27679e34658931acc19620b989" sha1="1755e66393b484bb20524a9404ea6d617694bc95" />
+  </game>
+  <game name="Super Mario Bros. 3 (USA) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Super Mario Bros. 3 (USA) (NES) (Virtual Console)</description>
+    <rom name="Super Mario Bros. 3 (USA) (NES) (Virtual Console).3ds" size="134217728" crc="a9a34425" md5="583576b27b3fc8a02d2c1bde993bb4ce" sha1="d1ea4c201f69f115b2859a8c323badbe9e164d44" />
+  </game>
+  <game name="Super Mario Land (USA) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Super Mario Land (USA) (GB) (Virtual Console)</description>
+    <rom name="Super Mario Land (USA) (GB) (Virtual Console).3ds" size="134217728" crc="58319d4a" md5="3f6c2b22070e2a3241b14dfddce7da25" sha1="18cddfe224d240ca2b0938984655924fac8de459" />
+  </game>
+  <game name="Super Mario Land 2 - 6 Golden Coins (USA) (Rev 1) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Super Mario Land 2 - 6 Golden Coins (USA) (Rev 1) (GB) (Virtual Console)</description>
+    <rom name="Super Mario Land 2 - 6 Golden Coins (USA) (Rev 1) (GB) (Virtual Console).3ds" size="134217728" crc="f0a846fe" md5="49a15411dafdf97909057c97bb2b0e8d" sha1="7004e3f681e5b9d237fecc2423655263ae37517f" />
+  </game>
+  <game name="Super Smash Bros. Special Demo Version (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Super Smash Bros. Special Demo Version (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Super Smash Bros. Special Demo Version (USA) (En,Fr,Es) (eShop).3ds" size="536870912" crc="2b31ad09" md5="da91e25111af8c5a1f1f7bd6b517cdd9" sha1="dad6c869236300383f89dbe066f43643c8d26f94" />
+  </game>
+  <game name="Swapnote (USA) (En,Fr,Es,Pt) (Rev 2) (eShop)">
+    <category>Games</category>
+    <description>Swapnote (USA) (En,Fr,Es,Pt) (Rev 2) (eShop)</description>
+    <rom name="Swapnote (USA) (En,Fr,Es,Pt) (Rev 2) (eShop).3ds" size="134217728" crc="e8c134b8" md5="36c3114c8ce9c65cd37e0c16ff66331a" sha1="bb3efc6ac328c376826fc831b21e6ce41d85ff4a" />
+  </game>
+  <game name="Swords &amp; Darkness (USA) (eShop)">
+    <category>Games</category>
+    <description>Swords &amp; Darkness (USA) (eShop)</description>
+    <rom name="Swords &amp; Darkness (USA) (eShop).3ds" size="134217728" crc="7a188d56" md5="ad357de38d97f2038b7c9962320014b6" sha1="bde31a6f72c4df924460440262a3a055ca55de30" />
+  </game>
+  <game name="THE DENPA MEN - They Came By Wave (USA) (eShop)">
+    <category>Games</category>
+    <description>THE DENPA MEN - They Came By Wave (USA) (eShop)</description>
+    <rom name="THE DENPA MEN - They Came By Wave (USA) (eShop).3ds" size="134217728" crc="7d23663b" md5="dada463b83ebed28366fa6f83f107752" sha1="93e8c543fc5e49db01d615a168e120d0b2c11312" />
+  </game>
+  <game name="THE DENPA MEN 2 - Beyond the Waves (USA) (eShop)">
+    <category>Games</category>
+    <description>THE DENPA MEN 2 - Beyond the Waves (USA) (eShop)</description>
+    <rom name="THE DENPA MEN 2 - Beyond the Waves (USA) (eShop).3ds" size="536870912" crc="12558ada" md5="f3c8adef557cfd34c2779e1298179a68" sha1="f9a7ee511709316157f3aed82c58e84d3730b104" />
+  </game>
+  <game name="THE DENPA MEN 3 - The Rise of Digitoll (USA) (eShop)">
+    <category>Games</category>
+    <description>THE DENPA MEN 3 - The Rise of Digitoll (USA) (eShop)</description>
+    <rom name="THE DENPA MEN 3 - The Rise of Digitoll (USA) (eShop).3ds" size="536870912" crc="273d0d65" md5="4b8f2852cfcc9bdc6d5f6489094a049c" sha1="f485632a2ce51ef45ef2f7566b514316ea063b80" />
+  </game>
+  <game name="Tangram Attack (USA) (eShop)">
+    <category>Games</category>
+    <description>Tangram Attack (USA) (eShop)</description>
+    <rom name="Tangram Attack (USA) (eShop).3ds" size="134217728" crc="492e7355" md5="04eaf929dd0c21cd30e2544a13a27702" sha1="40b8d2014b7463a9c0c141dbbc02b2c13e101f52" />
+  </game>
+  <game name="Tappingo (USA) (eShop)">
+    <category>Games</category>
+    <description>Tappingo (USA) (eShop)</description>
+    <rom name="Tappingo (USA) (eShop).3ds" size="134217728" crc="d3b8446c" md5="1245a781d924d2521f8bf1142a575103" sha1="abbd20b9232de40d18011ff594819024623986dd" />
+  </game>
+  <game name="Tappingo 2 (USA) (eShop)">
+    <category>Games</category>
+    <description>Tappingo 2 (USA) (eShop)</description>
+    <rom name="Tappingo 2 (USA) (eShop).3ds" size="134217728" crc="dc14abd4" md5="91dd573395b2e56640ac11426d30a15d" sha1="3620bc22a3b41da66f9c0e43e36e8b0ddbeb7629" />
+  </game>
+  <game name="Terraria (USA) (eShop)">
+    <category>Games</category>
+    <description>Terraria (USA) (eShop)</description>
+    <rom name="Terraria (USA) (eShop).3ds" size="134217728" crc="f283b957" md5="9ea98a6bd3bac2abec1f8e0a54f8b4c9" sha1="4bf885285ca5adee7b572dea5690af0e22e2a84f" />
+  </game>
+  <game name="Tetris (USA) (GB) (Virtual Console)">
+    <category>Games</category>
+    <description>Tetris (USA) (GB) (Virtual Console)</description>
+    <rom name="Tetris (USA) (GB) (Virtual Console).3ds" size="134217728" crc="322190bb" md5="6e2d88fe9953d79d37257d215f39d355" sha1="275086d77234ae914b0d5800246f16a82da30d73" />
+  </game>
+  <game name="Thorium Wars - Attack of the Skyfighter (USA) (eShop)">
+    <category>Games</category>
+    <description>Thorium Wars - Attack of the Skyfighter (USA) (eShop)</description>
+    <rom name="Thorium Wars - Attack of the Skyfighter (USA) (eShop).3ds" size="134217728" crc="56671a5a" md5="18918c20b2f17757643e98d6196f51e6" sha1="e2ab3612d16ee3b10380131e8f94418530c05d80" />
+  </game>
+  <game name="Tokyo Crash Mobs (USA) (eShop)">
+    <category>Games</category>
+    <description>Tokyo Crash Mobs (USA) (eShop)</description>
+    <rom name="Tokyo Crash Mobs (USA) (eShop).3ds" size="268435456" crc="84ace9a5" md5="478244675dcb39e16c89504f52a09c7f" sha1="af33569826af33acc58b547eccd1e327e81577ee" />
+  </game>
+  <game name="Tomodachi Life - Move-In Version (USA) (eShop)">
+    <category>Games</category>
+    <description>Tomodachi Life - Move-In Version (USA) (eShop)</description>
+    <rom name="Tomodachi Life - Move-In Version (USA) (eShop).3ds" size="134217728" crc="ea10b50f" md5="4ddafa295298ec422b53e31cb4391506" sha1="0fc0fc678ec6dd80739f5f817abf86655062cc22" />
+  </game>
+  <game name="Toy Stunt Bike (USA) (eShop)">
+    <category>Games</category>
+    <description>Toy Stunt Bike (USA) (eShop)</description>
+    <rom name="Toy Stunt Bike (USA) (eShop).3ds" size="134217728" crc="ae033e79" md5="a182bf81ad23e9fcdbc0af144adb682a" sha1="60961be6cfd56e727fefd152d3f6612787363a45" />
+  </game>
+  <game name="Toys vs Monsters (USA) (eShop)">
+    <category>Games</category>
+    <description>Toys vs Monsters (USA) (eShop)</description>
+    <rom name="Toys vs Monsters (USA) (eShop).3ds" size="134217728" crc="0c68f61a" md5="ac1ac0b71c62d240a22b95c46be5d26e" sha1="7f409453d774fd7c2aca933b16af061881af341d" />
+  </game>
+  <game name="Turtle Tale (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>Turtle Tale (USA) (Rev 1) (eShop)</description>
+    <rom name="Turtle Tale (USA) (Rev 1) (eShop).3ds" size="134217728" crc="a5e994b7" md5="f68a1440c9e80493218e8d9dd43c170a" sha1="e7e49dad22078280514c262bac4a4c2365eb1904" />
+  </game>
+  <game name="Unchained Blades (USA) (eShop)">
+    <category>Games</category>
+    <description>Unchained Blades (USA) (eShop)</description>
+    <rom name="Unchained Blades (USA) (eShop).3ds" size="1073741824" crc="ad33fb70" md5="ae7a144564a1301e46e9be2a4ac707e9" sha1="00a1a57d9d6c5b48480ca43c64bb9c4e076813fe" />
+  </game>
+  <game name="Undead Bowling (USA) (eShop)">
+    <category>Games</category>
+    <description>Undead Bowling (USA) (eShop)</description>
+    <rom name="Undead Bowling (USA) (eShop).3ds" size="134217728" crc="859a788f" md5="f820b7d96b800f9f06795ab135e6904c" sha1="e8a94e733fb8ca33b94c2ed8c763c03fb2ae7cc6" />
+  </game>
+  <game name="Undead Storm Nightmare (USA) (eShop)">
+    <category>Games</category>
+    <description>Undead Storm Nightmare (USA) (eShop)</description>
+    <rom name="Undead Storm Nightmare (USA) (eShop).3ds" size="134217728" crc="7e1f2b31" md5="9e75e7a80d42d1ffbff66ade33445e30" sha1="9c46962fec0d1da6b9f0bc8b6e7fdbca63c07960" />
+  </game>
+  <game name="VVVVVV (USA) (Rev 1) (eShop)">
+    <category>Games</category>
+    <description>VVVVVV (USA) (Rev 1) (eShop)</description>
+    <rom name="VVVVVV (USA) (Rev 1) (eShop).3ds" size="134217728" crc="7d50a4cb" md5="cdc0cc13c418a0bfc380c0a2a21c36ae" sha1="00ec8498536cf709bb0a6e4b677c759e827f101b" />
+  </game>
+  <game name="VectorRacing (USA) (eShop)">
+    <category>Games</category>
+    <description>VectorRacing (USA) (eShop)</description>
+    <rom name="VectorRacing (USA) (eShop).3ds" size="134217728" crc="19b3982e" md5="d26ec6006503e8c6032bdeb6577a7027" sha1="35d741891dc8409153a48e7fa940a681702da124" />
+  </game>
+  <game name="Wario Land 4 (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>Wario Land 4 (USA) (GBA) (Virtual Console)</description>
+    <rom name="Wario Land 4 (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="311de71f" md5="79fe20ed47a39dc89f8260f034189a91" sha1="e2f06828f704c94dd9f15770bc07e5ad1c293f74" />
+  </game>
+  <game name="Wario Land II (USA) (GBC) (Virtual Console)">
+    <category>Games</category>
+    <description>Wario Land II (USA) (GBC) (Virtual Console)</description>
+    <rom name="Wario Land II (USA) (GBC) (Virtual Console).3ds" size="134217728" crc="cbaf1e58" md5="9cbbe73a00ee28d74096a400aa2abca5" sha1="feea07b6c6bae5cdaf25e7b104525a62137c11a4" />
+  </game>
+  <game name="WarioWare, Inc. - Mega Microgame$! (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>WarioWare, Inc. - Mega Microgame$! (USA) (GBA) (Virtual Console)</description>
+    <rom name="WarioWare, Inc. - Mega Microgame$! (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="ad851450" md5="114af81215553dbd82f765f8e90ef8a1" sha1="0658e8a364680506cf35d09b853b00faa2187f06" />
+  </game>
+  <game name="Weapon Shop de Omasse (USA) (eShop)">
+    <category>Games</category>
+    <description>Weapon Shop de Omasse (USA) (eShop)</description>
+    <rom name="Weapon Shop de Omasse (USA) (eShop).3ds" size="134217728" crc="bebc9c44" md5="760d0eac0be30e5e79f716e5e3542d6f" sha1="3bb592ea44b4925ec8349a0825553c699f5df859" />
+  </game>
+  <game name="Wild Adventures - Ultimate Deer Hunt 3D (USA) (En,Fr) (eShop)">
+    <category>Games</category>
+    <description>Wild Adventures - Ultimate Deer Hunt 3D (USA) (En,Fr) (eShop)</description>
+    <rom name="Wild Adventures - Ultimate Deer Hunt 3D (USA) (En,Fr) (eShop).3ds" size="134217728" crc="fa5aee89" md5="0701a7cfd89dfb09e48c3763109f3f14" sha1="146bb7c3921bcab6d707e3f3e860f7670a8ddfea" />
+  </game>
+  <game name="Witch &amp; Hero (USA) (eShop)">
+    <category>Games</category>
+    <description>Witch &amp; Hero (USA) (eShop)</description>
+    <rom name="Witch &amp; Hero (USA) (eShop).3ds" size="134217728" crc="0ae25736" md5="b13b0eae4d3c6ffe7164cacf35c3272d" sha1="d32f18dbd4f853e6afb442c63434cfb5f1cb4f21" />
+  </game>
+  <game name="Witch &amp; Hero II (USA) (eShop)">
+    <category>Games</category>
+    <description>Witch &amp; Hero II (USA) (eShop)</description>
+    <rom name="Witch &amp; Hero II (USA) (eShop).3ds" size="134217728" crc="b6161186" md5="e5ce4d81bf4f037f9a273693c6a10ba9" sha1="80740462efccacad40ae59b4c28a0965c96e1570" />
+  </game>
+  <game name="Woah Dave! (USA) (eShop)">
+    <category>Games</category>
+    <description>Woah Dave! (USA) (eShop)</description>
+    <rom name="Woah Dave! (USA) (eShop).3ds" size="134217728" crc="f4c5691b" md5="c894e9c13d20a6db9688f2620d1dfcf2" sha1="c12b7ea90beecd415dbf43122782b46afb3b6934" />
+  </game>
+  <game name="Word Puzzles by POWGI (USA) (eShop)">
+    <category>Games</category>
+    <description>Word Puzzles by POWGI (USA) (eShop)</description>
+    <rom name="Word Puzzles by POWGI (USA) (eShop).3ds" size="134217728" crc="7e871463" md5="0e8082c80bfd4fb2c747e71ee2a24cd8" sha1="48bf01f803a594e9cedc8cdee54b4b8a573475e3" />
+  </game>
+  <game name="Wrecking Crew (USA) (Rev 1) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Wrecking Crew (USA) (Rev 1) (NES) (Virtual Console)</description>
+    <rom name="Wrecking Crew (USA) (Rev 1) (NES) (Virtual Console).3ds" size="134217728" crc="f6928048" md5="1c98c08f5a20f112a729faefb4244883" sha1="66af4298c4b5e752c4798dc61d9ef51b4b8fa031" />
+  </game>
+  <game name="Xeodrifter (USA) (eShop)">
+    <category>Games</category>
+    <description>Xeodrifter (USA) (eShop)</description>
+    <rom name="Xeodrifter (USA) (eShop).3ds" size="134217728" crc="a2d83768" md5="f9b950fa411a3dc68cc1ef0055a6fbb2" sha1="7170881b705cc6e8299c7547a2a2513309e41dde" />
+  </game>
+  <game name="Yo-Kai Watch (USA) (Legit CIA)">
+    <category>Games</category>
+    <description>Yo-Kai Watch (USA) (Legit CIA)</description>
+    <rom name="Yo-Kai Watch (USA) (Legit CIA).cia" size="869329216" crc="06fe7e91" md5="27fa474297b4ed3505ce78df2d4d13fd" sha1="ff4d2ad9cdb55e535e4273fcdb402b526171fb60" />
+  </game>
+  <game name="Yoshi (USA) (Rev 1) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Yoshi (USA) (Rev 1) (NES) (Virtual Console)</description>
+    <rom name="Yoshi (USA) (Rev 1) (NES) (Virtual Console).3ds" size="134217728" crc="d35f748c" md5="0c399a447c7000a28e0910a418ff6401" sha1="e177e7ff41ba23f013e4b512fe3317e83d16a9e1" />
+  </game>
+  <game name="Yoshi's Island - Super Mario Advance 3 (USA) (GBA) (Virtual Console)">
+    <category>Games</category>
+    <description>Yoshi's Island - Super Mario Advance 3 (USA) (GBA) (Virtual Console)</description>
+    <rom name="Yoshi's Island - Super Mario Advance 3 (USA) (GBA) (Virtual Console).3ds" size="134217728" crc="b4530a00" md5="dcce22614de8a26e2d795026e442cf52" sha1="f9c2909fd5824e0063f871cd4d0eb456791848af" />
+  </game>
+  <game name="YouTube (USA) (Rev 2) (eShop)">
+    <category>Games</category>
+    <description>YouTube (USA) (Rev 2) (eShop)</description>
+    <rom name="YouTube (USA) (Rev 2) (eShop).3ds" size="134217728" crc="324e2af3" md5="b709b7471697306ec2e8145ddca0cd8e" sha1="706f2f8329a678789d119aadda76ccc0f148b2d1" />
+  </game>
+  <game name="Yumi's Odd Odyssey (USA) (eShop)">
+    <category>Games</category>
+    <description>Yumi's Odd Odyssey (USA) (eShop)</description>
+    <rom name="Yumi's Odd Odyssey (USA) (eShop).3ds" size="268435456" crc="3218aa00" md5="93090089ef0e72514321637ba96c29b3" sha1="05acaf4fdad5bcbfaebc7e763547b2a060df8e66" />
+  </game>
+  <game name="Zelda II - The Adventure of Link (USA) (Rev 1) (NES) (Virtual Console)">
+    <category>Games</category>
+    <description>Zelda II - The Adventure of Link (USA) (Rev 1) (NES) (Virtual Console)</description>
+    <rom name="Zelda II - The Adventure of Link (USA) (Rev 1) (NES) (Virtual Console).3ds" size="134217728" crc="65352b30" md5="7063ab2c2d66ed78778da76989b82b19" sha1="33de22c56faadbe32150e499270061058fd64ba5" />
+  </game>
+  <game name="Zen Pinball (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Zen Pinball (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Zen Pinball (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="0e7d5faf" md5="20b121af955bf1d63c5e4817edaf4532" sha1="b47fbbedfda38c098f03d2a323ca4c52e59ff34a" />
+  </game>
+  <game name="Zombie Incident (USA) (eShop)">
+    <category>Games</category>
+    <description>Zombie Incident (USA) (eShop)</description>
+    <rom name="Zombie Incident (USA) (eShop).3ds" size="134217728" crc="d272775b" md5="89c491d43bce5f99a72e63e016c53316" sha1="9d1963f4464821de45574b859aa6fd48a650abaf" />
+  </game>
+  <game name="Zombie Panic in Wonderland DX (USA) (En,Fr,Es) (eShop)">
+    <category>Games</category>
+    <description>Zombie Panic in Wonderland DX (USA) (En,Fr,Es) (eShop)</description>
+    <rom name="Zombie Panic in Wonderland DX (USA) (En,Fr,Es) (eShop).3ds" size="134217728" crc="abb13ae3" md5="a48ec6041637bb72986e873b8d5eaebf" sha1="adf7d4480fe44b49f75c36ca40df78f6b3ccf423" />
+  </game>
+  <game name="Zombie Slayer Diox (USA) (eShop)">
+    <category>Games</category>
+    <description>Zombie Slayer Diox (USA) (eShop)</description>
+    <rom name="Zombie Slayer Diox (USA) (eShop).3ds" size="268435456" crc="829ce50b" md5="2d4c5794a547ba8cd347613dcdaa7fdf" sha1="93d25005343ea00e2262ff0076fd99c3a6d4ea8a" />
+  </game>
+  <game name="escapeVektor (USA) (eShop)">
+    <category>Games</category>
+    <description>escapeVektor (USA) (eShop)</description>
+    <rom name="escapeVektor (USA) (eShop).3ds" size="134217728" crc="1daa3d64" md5="7beb12572b3e4130451cc53ac7b31270" sha1="ce677c7817f12bada6b3ce31575a3ab04d85b122" />
+  </game>
+</datafile>

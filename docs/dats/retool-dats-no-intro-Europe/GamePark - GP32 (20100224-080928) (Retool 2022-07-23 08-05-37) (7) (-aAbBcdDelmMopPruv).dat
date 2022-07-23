@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>GamePark - GP32 (Retool)</name>
+    <description>GamePark - GP32 (Retool)</description>
+    <version>20100224-080928</version>
+    <date>2022-07-23 08-05-37</date>
+    <author>ElBarto &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)">
+    <category>Games</category>
+    <description>Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)</description>
+    <rom name="Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt).smc" size="17302528" crc="54ff5945" md5="8b22486246c4a979e3f469f6ea4b7b4f" sha1="369f96bb41378ab4108d0dc8866148b328cbd75e" />
+  </game>
+  <game name="Dungeon &amp; Guarder - Dragon Gore (Europe)">
+    <category>Games</category>
+    <description>Dungeon &amp; Guarder - Dragon Gore (Europe)</description>
+    <rom name="Dungeon &amp; Guarder - Dragon Gore (Europe).smc" size="17302528" crc="e76d34a6" md5="4b7309a84ada9cf69964eb87872d5499" sha1="433da4a0cdbf3c797f62bf01bfa86608434b04f2" />
+  </game>
+  <game name="Dyhard - With Infinite Stairs (Europe)">
+    <category>Games</category>
+    <description>Dyhard - With Infinite Stairs (Europe)</description>
+    <rom name="Dyhard - With Infinite Stairs (Europe).smc" size="17302528" crc="c16523fb" md5="5e7a1e15bffa6adaf46a974e47f9ce06" sha1="b684b443b1450f98a43953393352b0724a9171cb" />
+  </game>
+  <game name="Her Knights - All for the Princess (Europe)">
+    <category>Games</category>
+    <description>Her Knights - All for the Princess (Europe)</description>
+    <rom name="Her Knights - All for the Princess (Europe).smc" size="17302528" crc="1e0150ea" md5="b561135cf79cd02e3577146c26b3dc41" sha1="d137f8ed7e2a092037d64d8cf65bace68e2d6ebb" />
+  </game>
+  <game name="Little Wizard (Europe)">
+    <category>Games</category>
+    <description>Little Wizard (Europe)</description>
+    <rom name="Little Wizard (Europe).smc" size="17302528" crc="47d66121" md5="fb042b0746cb376b1dc3d9fe7a0ee782" sha1="ef1cae9d810ee55aeefb86410843241503df30f1" />
+  </game>
+  <game name="Tomak - Save the Earth, Again (Europe) (v2.0)">
+    <category>Games</category>
+    <description>Tomak - Save the Earth, Again (Europe) (v2.0)</description>
+    <rom name="Tomak - Save the Earth, Again (Europe) (v2.0).smc" size="17302528" crc="eec1c3db" md5="90ac7332d078caebd45ba8b01dfe18d3" sha1="9c0e29cfa7be8a6644c63499b7065d4e5f40208e" />
+  </game>
+  <game name="Woody &amp; Kunta - Treasure Island (Europe)">
+    <category>Games</category>
+    <description>Woody &amp; Kunta - Treasure Island (Europe)</description>
+    <rom name="Woody &amp; Kunta - Treasure Island (Europe).smc" size="17302528" crc="ab479052" md5="c77e84df52823cd86ab2e9740570bb4f" sha1="cd1df6228293dc8193e779bdba562f3040e21b4a" />
+  </game>
+</datafile>

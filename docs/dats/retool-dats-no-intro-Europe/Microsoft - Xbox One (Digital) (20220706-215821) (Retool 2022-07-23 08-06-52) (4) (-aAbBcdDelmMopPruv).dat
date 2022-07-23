@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Microsoft - Xbox One (Digital) (Retool)</name>
+    <description>Microsoft - Xbox One (Digital) (Retool)</description>
+    <version>20220706-215821</version>
+    <date>2022-07-23 08-06-52</date>
+    <author>FakeShemp, Hiccup, NESBrew12, SonGoku, xprism, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Fortnite (World) (v1.0.384.7564)">
+    <category>Games</category>
+    <description>Fortnite (World) (v1.0.384.7564)</description>
+    <rom name="Fortnite_1.0.384.7564_neutral__d5xxtpggmzx6p" size="17378127872" crc="1931876e" md5="45edfd46c1965cf8fe97553f0a2ed2f7" sha1="24ada1774459529458e81a522ddd7935bd81eb7a" />
+  </game>
+  <game name="Hitman 2 - Expansion 8 (World) (v1.0.0.2) (DLC)">
+    <category>Games</category>
+    <description>Hitman 2 - Expansion 8 (World) (v1.0.0.2) (DLC)</description>
+    <rom name="Hitman2.DLC.Expansion8_1.0.0.2_neutral__w0401r1rf5aza" size="7395696640" crc="b235f0a8" md5="78005536894ca1ec71b1cb49b21c24ee" sha1="94b3419f2d12c6450930d0037451faf52400b028" />
+  </game>
+  <game name="Monopoly (World) (v1.1.0.1)">
+    <category>Games</category>
+    <description>Monopoly (World) (v1.1.0.1)</description>
+    <rom name="Monopoly7259173A_1.1.0.1_x64__b6krnev7r9sf8" size="1104412672" crc="efacf521" md5="479c04d7c578912fda85e1632ccfd536" sha1="94281ea560ad4c8d18576afd037c0198254d6db0" />
+  </game>
+  <game name="Wolfenstein - The Old Blood (World) (v1.0.1.0)">
+    <category>Games</category>
+    <description>Wolfenstein - The Old Blood (World) (v1.0.1.0)</description>
+    <rom name="WolfOldBlood_1.0.1.0_x64_ww_e86sq5yxzajhg" size="39879405568" crc="313c2608" md5="7923ea08f49b9eb0c807b1db726f893d" sha1="abcbb61c947fb691394956707db5ca19dba57487" />
+  </game>
+</datafile>
