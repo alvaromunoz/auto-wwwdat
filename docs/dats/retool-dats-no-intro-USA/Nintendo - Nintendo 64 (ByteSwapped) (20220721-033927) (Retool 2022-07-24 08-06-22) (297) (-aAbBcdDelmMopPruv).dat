@@ -1,0 +1,1499 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Nintendo - Nintendo 64 (ByteSwapped) (Retool)</name>
+    <description>Nintendo - Nintendo 64 (ByteSwapped) (Retool)</description>
+    <version>20220721-033927</version>
+    <date>2022-07-24 08-06-22</date>
+    <author>aci68, Arctic Circle System, Aringon, BigFred, BitLooter, Blank, C. V. Reynolds, chillerecke, DeriLoko3, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, kazumi213, LNRC, Madeline, MeguCocoa, Money_114, NovaAurora, omonim2007, Powerpuff, PPLToast, relax, Rifu, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="007 - The World Is Not Enough (USA)">
+    <category>Games</category>
+    <description>007 - The World Is Not Enough (USA)</description>
+    <rom name="007 - The World Is Not Enough (USA).v64" size="33554432" crc="34f0ee5b" md5="2b1594e9b9f1ec0105c5adabe3c024ce" sha1="e93005466ac84bc1d19b40673d0c50b604a8753c" />
+  </game>
+  <game name="1080 Snowboarding (Japan, USA) (En,Ja)">
+    <category>Games</category>
+    <description>1080 Snowboarding (Japan, USA) (En,Ja)</description>
+    <rom name="1080 Snowboarding (Japan, USA) (En,Ja).v64" size="16777216" crc="d1744951" md5="18381c8f37e2b29f5940eea9b5f96814" sha1="5f837c13a2fb3c8cdfd6fb720bd4a963ab515632" />
+  </game>
+  <game name="AeroFighters Assault (USA)">
+    <category>Games</category>
+    <description>AeroFighters Assault (USA)</description>
+    <rom name="AeroFighters Assault (USA).v64" size="8388608" crc="b08ef0b9" md5="adee8c02a192470a3fe09418d7ea7aef" sha1="de542f002e4f08cfdac19dec57f5bbaea6edeafe" sha256="03c105333c722450359ddde439a8afdb1db1fe684a71c778232cd74fab15953d" />
+  </game>
+  <game name="AeroGauge (USA)">
+    <category>Games</category>
+    <description>AeroGauge (USA)</description>
+    <rom name="AeroGauge (USA).v64" size="8388608" crc="04038cb8" md5="4766856942945eaa9cf521937be5fee3" sha1="204df59cbd065e39cadccc23a68e08ae212546d0" />
+  </game>
+  <game name="Aidyn Chronicles - The First Mage (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Aidyn Chronicles - The First Mage (USA) (Rev 1)</description>
+    <rom name="Aidyn Chronicles - The First Mage (USA) (Rev 1).v64" size="33554432" crc="276178df" md5="0e1ae1400b9a50740bdbf9bac070be2d" sha1="c4d93da5205edcad44177a26e32532d98795fa3e" />
+  </game>
+  <game name="All Star Tennis 99 (USA)">
+    <category>Games</category>
+    <description>All Star Tennis 99 (USA)</description>
+    <rom name="All Star Tennis 99 (USA).v64" size="8388608" crc="7326e6c9" md5="1714f404f1ad75ec85d237e8d4d2362c" sha1="2655af06374c3ca9f8a40a76f7f9fc6e1044b576" sha256="bcb11b1ee1aee6cc6dffbfe09b16607f8ab75d6dcd7b0b79879f85275b82fbb3" />
+  </game>
+  <game name="All-Star Baseball 2000 (USA)">
+    <category>Games</category>
+    <description>All-Star Baseball 2000 (USA)</description>
+    <rom name="All-Star Baseball 2000 (USA).v64" size="16777216" crc="15063eac" md5="984528194ca782d74a92cb8c0ea42358" sha1="c0d574af5c3523a4a804182b4d6465212fd9ee29" sha256="b2448dac9637b008b5fb969a1ff2565cd1c8c2a0cc8842558afdf9c632a794da" />
+  </game>
+  <game name="All-Star Baseball 2001 (USA)">
+    <category>Games</category>
+    <description>All-Star Baseball 2001 (USA)</description>
+    <rom name="All-Star Baseball 2001 (USA).v64" size="16777216" crc="3e8be0e0" md5="d00d67475255a3043394c23b7cf978a3" sha1="353ad679666287988a0e645851ee01eff2048449" />
+  </game>
+  <game name="All-Star Baseball 99 (USA)">
+    <category>Games</category>
+    <description>All-Star Baseball 99 (USA)</description>
+    <rom name="All-Star Baseball 99 (USA).v64" size="12582912" crc="82b7e47d" md5="9b9631fd0cd2b7c434057902b78e5a03" sha1="6d01a4986311a4486b4b0be029658e8df63f4ee4" />
+  </game>
+  <game name="Armorines - Project S.W.A.R.M. (USA)">
+    <category>Games</category>
+    <description>Armorines - Project S.W.A.R.M. (USA)</description>
+    <rom name="Armorines - Project S.W.A.R.M. (USA).v64" size="16777216" crc="950985f6" md5="1655f81b5987234481ea96bb9e964d38" sha1="a9c1319c582668b9afc7807dcd59f68d09b5317e" />
+  </game>
+  <game name="Army Men - Air Combat (USA)">
+    <category>Games</category>
+    <description>Army Men - Air Combat (USA)</description>
+    <rom name="Army Men - Air Combat (USA).v64" size="8388608" crc="2355e4f3" md5="7e57b116c3d0740b7b8f873bd007f4dc" sha1="52f4722cbf3ded8e55a62471fbc5a6cf07f4fd5d" />
+  </game>
+  <game name="Army Men - Sarge's Heroes (USA)">
+    <category>Games</category>
+    <description>Army Men - Sarge's Heroes (USA)</description>
+    <rom name="Army Men - Sarge's Heroes (USA).v64" size="8388608" crc="97bf6db2" md5="7c4ea4747805499059aad17c209a6e77" sha1="82f8d41d16c9161ff21776a8b2531cb11857f410" />
+  </game>
+  <game name="Army Men - Sarge's Heroes 2 (USA)">
+    <category>Games</category>
+    <description>Army Men - Sarge's Heroes 2 (USA)</description>
+    <rom name="Army Men - Sarge's Heroes 2 (USA).v64" size="8388608" crc="3e9d1c51" md5="f85ec17f51f076d9d0f315edae6c192b" sha1="ff1a799c6c0aec45efa7e0f8d107d91e1bba5eea" />
+  </game>
+  <game name="Asteroids Hyper 64 (USA)">
+    <category>Games</category>
+    <description>Asteroids Hyper 64 (USA)</description>
+    <rom name="Asteroids Hyper 64 (USA).v64" size="4194304" crc="fb982b44" md5="257601175e6c41604bd5b9ab93a3ec75" sha1="6e1c4af8f765dee69b5308ec5a0b20bc7fb8d862" />
+  </game>
+  <game name="Automobili Lamborghini (USA)">
+    <category>Games</category>
+    <description>Automobili Lamborghini (USA)</description>
+    <rom name="Automobili Lamborghini (USA).v64" size="4194304" crc="17932c62" md5="77c7e53a78c68eb1c254d17383dd7293" sha1="022cde34610af501687baf6b33b76f9b6841044b" />
+  </game>
+  <game name="Banjo-Kazooie (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Banjo-Kazooie (USA) (Rev 1)</description>
+    <rom name="Banjo-Kazooie (USA) (Rev 1).v64" size="16777216" crc="90b38651" md5="767d015db4ce450d5f0c55276eab1ca4" sha1="93c5cfac5cca89e54c0f1d076625e2a4570994fd" />
+  </game>
+  <game name="Banjo-Tooie (USA)">
+    <category>Games</category>
+    <description>Banjo-Tooie (USA)</description>
+    <rom name="Banjo-Tooie (USA).v64" size="33554432" crc="0e0dc5a5" md5="ca0df738ae6a16bfb4b46d3860c159d9" sha1="139051ab7312fd5e1314ba6baf7d424ea5987eac" />
+  </game>
+  <game name="Bassmasters 2000 (USA)">
+    <category>Games</category>
+    <description>Bassmasters 2000 (USA)</description>
+    <rom name="Bassmasters 2000 (USA).v64" size="12582912" crc="8b7bd07e" md5="f4ac3af45a448b9f0d5d38af14a285b9" sha1="747b3b6c49f27e3381d91e9df59d01dbee769a58" />
+  </game>
+  <game name="Batman Beyond - Return of the Joker (USA)">
+    <category>Games</category>
+    <description>Batman Beyond - Return of the Joker (USA)</description>
+    <rom name="Batman Beyond - Return of the Joker (USA).v64" size="4194304" crc="d64e0a7b" md5="ad242c47475d1b14ec2a29201b52a9f1" sha1="a67cef8a1f06ce201e0486ad2b9507314398799f" />
+  </game>
+  <game name="BattleTanx (USA)">
+    <category>Games</category>
+    <description>BattleTanx (USA)</description>
+    <rom name="BattleTanx (USA).v64" size="8388608" crc="66123c8b" md5="e4f24ef9b43259bad0a1bf235745d81e" sha1="1daced29439e8f2605349e9f453e90155fea46f4" />
+  </game>
+  <game name="BattleTanx - Global Assault (USA)">
+    <category>Games</category>
+    <description>BattleTanx - Global Assault (USA)</description>
+    <rom name="BattleTanx - Global Assault (USA).v64" size="8388608" crc="5819d423" md5="88da33ca04ef2d936f0c1b73248b71aa" sha1="08a9037488c47d1e26ce6f709955639e9f0f0bb8" />
+  </game>
+  <game name="Battlezone - Rise of the Black Dogs (USA)">
+    <category>Games</category>
+    <description>Battlezone - Rise of the Black Dogs (USA)</description>
+    <rom name="Battlezone - Rise of the Black Dogs (USA).v64" size="16777216" crc="18ccccfd" md5="69cc951520ccee8c99f28e086ba6baaa" sha1="cdd1d1dec9763ce6b7b1a70668effcead0a185a0" />
+  </game>
+  <game name="Beetle Adventure Racing! (USA) (En,Fr,De)">
+    <category>Games</category>
+    <description>Beetle Adventure Racing! (USA) (En,Fr,De)</description>
+    <rom name="Beetle Adventure Racing! (USA) (En,Fr,De).v64" size="16777216" crc="e3517fd8" md5="5559a7aae79e960851ce754f873280cb" sha1="52171429b655825a02864a94499816187d4014dc" />
+  </game>
+  <game name="Big Mountain 2000 (USA)">
+    <category>Games</category>
+    <description>Big Mountain 2000 (USA)</description>
+    <rom name="Big Mountain 2000 (USA).v64" size="12582912" crc="ff44020c" md5="e0b3354c7205db2d67c1fa23462f6326" sha1="cdc88d4ffa5883d34ffc426c552df200c4c65023" />
+  </game>
+  <game name="Bio F.R.E.A.K.S. (USA)">
+    <category>Games</category>
+    <description>Bio F.R.E.A.K.S. (USA)</description>
+    <rom name="Bio F.R.E.A.K.S. (USA).v64" size="16777216" crc="52283865" md5="8b112f230a6e1e185f10f9574d676ef8" sha1="7d0a70c4437fe985aaf4faf82ca1dc011b8ed4e1" />
+  </game>
+  <game name="Blast Corps (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Blast Corps (USA) (Rev 1)</description>
+    <rom name="Blast Corps (USA) (Rev 1).v64" size="8388608" crc="23d415f8" md5="fd169651b23b5424c2d4cb5d9af81fc3" sha1="80e5365bd5ee8388e38a04b23bf3db9b5e4bf06b" />
+  </game>
+  <game name="Blues Brothers 2000 (USA)">
+    <category>Games</category>
+    <description>Blues Brothers 2000 (USA)</description>
+    <rom name="Blues Brothers 2000 (USA).v64" size="16777216" crc="109907b5" md5="d7f17e918ab32f64a67409dc86d89c5c" sha1="62655484f77091f31fb6a8142af90ae58489e0e2" />
+  </game>
+  <game name="Body Harvest (USA)">
+    <category>Games</category>
+    <description>Body Harvest (USA)</description>
+    <rom name="Body Harvest (USA).v64" size="12582912" crc="7b878c56" md5="20113a1ac62660f507b00e541a3ac584" sha1="f61c30bc6feaac9700578a865d552ae42079b0e5" />
+  </game>
+  <game name="Bomberman 64 (USA)">
+    <category>Games</category>
+    <description>Bomberman 64 (USA)</description>
+    <rom name="Bomberman 64 (USA).v64" size="8388608" crc="50a98bdf" md5="e52ce4ab747ff37663e93e5c322be9d2" sha1="df52caea78cc786f896cb14e532088ec9ca6bea6" />
+  </game>
+  <game name="Bomberman 64 - The Second Attack! (USA)">
+    <category>Games</category>
+    <description>Bomberman 64 - The Second Attack! (USA)</description>
+    <rom name="Bomberman 64 - The Second Attack! (USA).v64" size="16777216" crc="302b3135" md5="cb7f9fad147f0adb63a79edc57237219" sha1="5c2c59506aa4dfd83ce80e9e5e377f64f4f18c58" />
+  </game>
+  <game name="Bomberman Hero (USA)">
+    <category>Games</category>
+    <description>Bomberman Hero (USA)</description>
+    <rom name="Bomberman Hero (USA).v64" size="12582912" crc="3e73af1a" md5="f59261e74b9466ac9f8a2a709cfae8b7" sha1="f4377bd43de34cc61e59ca5167109d4d6123272a" />
+  </game>
+  <game name="Bottom of the 9th (USA)">
+    <category>Games</category>
+    <description>Bottom of the 9th (USA)</description>
+    <rom name="Bottom of the 9th (USA).v64" size="16777216" crc="0f016e17" md5="9746e155104f336facb6ba7789f0a3d0" sha1="a4d2e5afc511631d1cc5d8af6c4c705f17ea8ed6" />
+  </game>
+  <game name="Brunswick Circuit Pro Bowling (USA)">
+    <category>Games</category>
+    <description>Brunswick Circuit Pro Bowling (USA)</description>
+    <rom name="Brunswick Circuit Pro Bowling (USA).v64" size="8388608" crc="3ac1bbae" md5="db929d47127ea55bb919f8c7623e0256" sha1="578bef71585b2cc956a6847c682b123599be830a" />
+  </game>
+  <game name="Buck Bumble (USA)">
+    <category>Games</category>
+    <description>Buck Bumble (USA)</description>
+    <rom name="Buck Bumble (USA).v64" size="12582912" crc="da2acd5e" md5="2bd134f866af753ab46767fac3144e2e" sha1="9cf046e320e5437159a41c49694dc66d4d8e79bd" />
+  </game>
+  <game name="Bug's Life, A (USA)">
+    <category>Games</category>
+    <description>Bug's Life, A (USA)</description>
+    <rom name="Bug's Life, A (USA).v64" size="12582912" crc="7c2f610d" md5="f4eb001d85f6d3229069cb82b8d3495f" sha1="e30e1b6bdcfd985b000757a8e611a419d1f38233" />
+  </game>
+  <game name="Bust-A-Move '99 (USA)">
+    <category>Games</category>
+    <description>Bust-A-Move '99 (USA)</description>
+    <rom name="Bust-A-Move '99 (USA).v64" size="8388608" crc="2a95290f" md5="f81f1fa671a2c861c484500150643360" sha1="3561149ddff17a60210ec5752781c512b6f4e126" sha256="10de2822067cb158139ef2fe1fe0469e5ee6108b43e98a46e22b25b7abd26979" />
+  </game>
+  <game name="Bust-A-Move 2 - Arcade Edition (USA)">
+    <category>Games</category>
+    <description>Bust-A-Move 2 - Arcade Edition (USA)</description>
+    <rom name="Bust-A-Move 2 - Arcade Edition (USA).v64" size="8388608" crc="47511877" md5="8b2f1700cd02e34a99752213bdd150cf" sha1="9f7dcb8ee0a918eb9b257ac9f210f0d30f9f6430" />
+  </game>
+  <game name="California Speed (USA)">
+    <category>Games</category>
+    <description>California Speed (USA)</description>
+    <rom name="California Speed (USA).v64" size="16777216" crc="387b0c4c" md5="50726d8e0714f80f5514bec192796ba2" sha1="afe86aed561560bfcf1bc7130c8341252142269b" sha256="ae85561caee350f84d1fd9e7b01b4e4bbdfde261f82e67f27518153a457e74ae" />
+  </game>
+  <game name="Carmageddon 64 (USA)">
+    <category>Games</category>
+    <description>Carmageddon 64 (USA)</description>
+    <rom name="Carmageddon 64 (USA).v64" size="16777216" crc="e78debb6" md5="0b3c3a0940b9034ecf84a8db19b25200" sha1="ab3a1a52754fed3dea98e587fb9cc4cd64973403" />
+  </game>
+  <game name="Castlevania (USA) (Rev 2)">
+    <category>Games</category>
+    <description>Castlevania (USA) (Rev 2)</description>
+    <rom name="Castlevania (USA) (Rev 2).v64" size="12582912" crc="7f50e637" md5="609b7b72221ee6dc3e25e419752aedce" sha1="c99a25022cc019ca8d3dd6b58552049b0ee0718c" />
+  </game>
+  <game name="Castlevania - Legacy of Darkness (USA)">
+    <category>Games</category>
+    <description>Castlevania - Legacy of Darkness (USA)</description>
+    <rom name="Castlevania - Legacy of Darkness (USA).v64" size="16777216" crc="1f147376" md5="8a1729b7ef9bf63375194109c07bc41f" sha1="ab24feae782703886ee61069b930a2713b398c6d" />
+  </game>
+  <game name="Chameleon Twist (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Chameleon Twist (USA) (Rev 1)</description>
+    <rom name="Chameleon Twist (USA) (Rev 1).v64" size="12582912" crc="c0345565" md5="4c8fc1aaf634c3b12ae30d126668eaf7" sha1="115cd6c1c75eb1f4b4e5debfcbace61e94647579" />
+  </game>
+  <game name="Chameleon Twist 2 (USA)">
+    <category>Games</category>
+    <description>Chameleon Twist 2 (USA)</description>
+    <rom name="Chameleon Twist 2 (USA).v64" size="8388608" crc="356736c7" md5="be134500da3342cd5dc7922b5e2697b7" sha1="185141b800bf109367905f1a6b0ef6823f224ce8" />
+  </game>
+  <game name="Charlie Blast's Territory (USA)">
+    <category>Games</category>
+    <description>Charlie Blast's Territory (USA)</description>
+    <rom name="Charlie Blast's Territory (USA).v64" size="4194304" crc="28153f07" md5="84c0b44c939b3c9a73fd7ef4a0b00132" sha1="b85e977648f0f75a438d7281887d19a85e86680e" sha256="c3205a9dace38d4beaf81e56bae431e77fc7963469e888fe3d7aebb888095a32" />
+  </game>
+  <game name="Chopper Attack (USA)">
+    <category>Games</category>
+    <description>Chopper Attack (USA)</description>
+    <rom name="Chopper Attack (USA).v64" size="8388608" crc="2c22147d" md5="2537f5b2c1c49c13e5f39421a376ee7a" sha1="ce39f1afac5efc889cbe0ae03f0ccfa9a2e5b085" />
+  </game>
+  <game name="Clay Fighter - Sculptor's Cut (USA)">
+    <category>Games</category>
+    <description>Clay Fighter - Sculptor's Cut (USA)</description>
+    <rom name="Clay Fighter - Sculptor's Cut (USA).v64" size="16777216" crc="f59fd73e" md5="b0d4356ad7c988b8d6f257bf039faf50" sha1="99cc2fe3c4f7e8df185feca570281364bab987c6" />
+  </game>
+  <game name="Clay Fighter 63 1-3 (USA)">
+    <category>Games</category>
+    <description>Clay Fighter 63 1-3 (USA)</description>
+    <rom name="Clay Fighter 63 1-3 (USA).v64" size="12582912" crc="e7c70f25" md5="8ff24347d96b0f1bdc755e864e8dba91" sha1="475e41f3e2ac43892657146170fd223d5d6557a9" />
+  </game>
+  <game name="Command &amp; Conquer (USA)">
+    <category>Games</category>
+    <description>Command &amp; Conquer (USA)</description>
+    <rom name="Command &amp; Conquer (USA).v64" size="33554432" crc="8d23ba95" md5="d822dde8cafad279c3ea27c22beaefec" sha1="63bafa4615eb7488aec3c631021720e05376aa1c" />
+  </game>
+  <game name="Conker's Bad Fur Day (USA)">
+    <category>Games</category>
+    <description>Conker's Bad Fur Day (USA)</description>
+    <rom name="Conker's Bad Fur Day (USA).v64" size="67108864" crc="6acdb3fc" md5="220543f489a9828021ea82a69e6305a3" sha1="27d3123dd4a3d84cb1a7ecf2ced3bc44389f4607" />
+  </game>
+  <game name="Cruis'n Exotica (USA)">
+    <category>Games</category>
+    <description>Cruis'n Exotica (USA)</description>
+    <rom name="Cruis'n Exotica (USA).v64" size="16777216" crc="20e7dbd7" md5="ac67b606aea6a01f3cfcccbc30061a10" sha1="130fed584a6eb820b69e90e8ac8ec9301d69c3c5" sha256="5e15fbb5f314a1e82e9f27b1028323b96e7be447c080cad82ed0a5f8674311c6" />
+  </game>
+  <game name="Cruis'n USA (USA) (Rev 2)">
+    <category>Games</category>
+    <description>Cruis'n USA (USA) (Rev 2)</description>
+    <rom name="Cruis'n USA (USA) (Rev 2).v64" size="8388608" crc="e466c124" md5="4379ee6c5cb0b521c2d0866a3ba71973" sha1="4e0af2979c573aaab84a60f42266ec0c3fa60b84" />
+  </game>
+  <game name="Cruis'n World (USA)">
+    <category>Games</category>
+    <description>Cruis'n World (USA)</description>
+    <rom name="Cruis'n World (USA).v64" size="12582912" crc="41877d7d" md5="fcf34799bb1f3ca47b46371bd23b4424" sha1="a584735385485ee0b158e3206ce9b2e47feca830" />
+  </game>
+  <game name="CyberTiger (USA)">
+    <category>Games</category>
+    <description>CyberTiger (USA)</description>
+    <rom name="CyberTiger (USA).v64" size="16777216" crc="f0f89bb9" md5="4f1540ca7e7dedbb2b3ee4bf6509975d" sha1="afb3e9290730fd19106eca24cb305c1b55f2e864" />
+  </game>
+  <game name="Dark Rift (USA)">
+    <category>Games</category>
+    <description>Dark Rift (USA)</description>
+    <rom name="Dark Rift (USA).v64" size="8388608" crc="2afab93c" md5="a524d85ecd2c9c239f10439a95a79467" sha1="8e7ec39e0f4b0a1351cf15f12ad5e5afa337f5f4" />
+  </game>
+  <game name="Deadly Arts (USA)">
+    <category>Games</category>
+    <description>Deadly Arts (USA)</description>
+    <rom name="Deadly Arts (USA).v64" size="12582912" crc="b4afbf51" md5="72cc6bc6a40705e4d49bbacabc84e347" sha1="f4c7b5f79cee09d263b8a75b683ffbdb453d88f4" />
+  </game>
+  <game name="Destruction Derby 64 (USA)">
+    <category>Games</category>
+    <description>Destruction Derby 64 (USA)</description>
+    <rom name="Destruction Derby 64 (USA).v64" size="16777216" crc="ef680f71" md5="5b9d74019ffcc91b8737ce09c0af5030" sha1="31981b9b32814bbc3fe0c2a71c888858566352f9" />
+  </game>
+  <game name="Diddy Kong Racing (USA) (En,Fr) (Rev 1)">
+    <category>Games</category>
+    <description>Diddy Kong Racing (USA) (En,Fr) (Rev 1)</description>
+    <rom name="Diddy Kong Racing (USA) (En,Fr) (Rev 1).v64" size="12582912" crc="96c32bb6" md5="34fceba45079808a1a4f735b27344ef6" sha1="03f04dfe0c34e8bad370aa4b68f4bb8ed3429fde" />
+  </game>
+  <game name="Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)</description>
+    <rom name="Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).v64" size="33554432" crc="edefc39b" md5="612e286f2b1377c98afc39d8131309fb" sha1="38098c159b6b47dba201ffbbf68f3cd958fc01eb" sha256="fddaa23fc4663db1b9457fd42486bf2b4e72f28650c78f6f910649bed0ff8043" />
+  </game>
+  <game name="Donkey Kong 64 (USA)">
+    <category>Games</category>
+    <description>Donkey Kong 64 (USA)</description>
+    <rom name="Donkey Kong 64 (USA).v64" size="33554432" crc="96972d67" md5="b71a88ba73e141fa2d355a6a72f46f6c" sha1="3ead7798284c0593d8c91e09923cde03e87c6b09" sha256="5778c9ef72ef269cdcc52333710a79961a343b1f01d12189d1dbe94df3cbabed" />
+  </game>
+  <game name="Doom 64 (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Doom 64 (USA) (Rev 1)</description>
+    <rom name="Doom 64 (USA) (Rev 1).v64" size="8388608" crc="0f080d06" md5="300ce844f090807053377d43c6706e33" sha1="07a7dac8084f1be8b102312fcd3ee65be095109c" />
+  </game>
+  <game name="Dr. Mario 64 (USA)">
+    <category>Games</category>
+    <description>Dr. Mario 64 (USA)</description>
+    <rom name="Dr. Mario 64 (USA).v64" size="4194304" crc="f7c44b5b" md5="30ec4f3e1c435ed8b1d1fd3788b6a407" sha1="188abdf9e879dd8c92e78a2e978284879a00a8bf" />
+  </game>
+  <game name="Dual Heroes (USA)">
+    <category>Games</category>
+    <description>Dual Heroes (USA)</description>
+    <rom name="Dual Heroes (USA).v64" size="12582912" crc="8968d989" md5="4f154f3490d35c0a6d38cb94fd842d0b" sha1="ac48d0a10a26de691976618d1d0caebf402f9123" />
+  </game>
+  <game name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)</description>
+    <rom name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).v64" size="16777216" crc="b67bbc15" md5="fa00dc1372a4c347bbd7b102ce17a835" sha1="40ce11880a5e0603a42ae46b0518b95ae174556c" />
+  </game>
+  <game name="Duke Nukem - Zero Hour (USA)">
+    <category>Games</category>
+    <description>Duke Nukem - Zero Hour (USA)</description>
+    <rom name="Duke Nukem - Zero Hour (USA).v64" size="33554432" crc="912f576f" md5="c6cb6e8ceda52641313f49bdbf1fbbfe" sha1="18fc2f1d69b34b31588a0617e81abb794a9205ef" />
+  </game>
+  <game name="Duke Nukem 64 (USA)">
+    <category>Games</category>
+    <description>Duke Nukem 64 (USA)</description>
+    <rom name="Duke Nukem 64 (USA).v64" size="8388608" crc="1bf948c3" md5="a18868c5d7bcf919a65999d91653b268" sha1="72fcf260632323c2538a6d2feea7030b8da5bac8" />
+  </game>
+  <game name="ECW Hardcore Revolution (USA)">
+    <category>Games</category>
+    <description>ECW Hardcore Revolution (USA)</description>
+    <rom name="ECW Hardcore Revolution (USA).v64" size="33554432" crc="4ba40079" md5="2321d612f4b48262f4a65cba8e631a07" sha1="8bc52ec9d4a66f4c7a8dd2349c5da90aa2dd3684" />
+  </game>
+  <game name="Earthworm Jim 3D (USA)">
+    <category>Games</category>
+    <description>Earthworm Jim 3D (USA)</description>
+    <rom name="Earthworm Jim 3D (USA).v64" size="16777216" crc="1017be14" md5="9f793770d32e576f62dbd57f35ea441d" sha1="1b0aa4d94194edc885d9a9c2a4f37000c963756a" />
+  </game>
+  <game name="Excitebike 64 (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Excitebike 64 (USA) (Rev 1)</description>
+    <rom name="Excitebike 64 (USA) (Rev 1).v64" size="16777216" crc="820a12db" md5="604f1e6f01aa6cf5215fa7c410f732de" sha1="88214240204ab3c01f31c0a19d74a4eafe53c027" />
+  </game>
+  <game name="Extreme-G (USA)">
+    <category>Games</category>
+    <description>Extreme-G (USA)</description>
+    <rom name="Extreme-G (USA).v64" size="8388608" crc="a43a0b17" md5="3f55d4e4e4a851d03bdd1667fb3eab3a" sha1="3544a3779af1b7bca0c03e2298aad0acbb3c0b2a" />
+  </game>
+  <game name="Extreme-G XG2 (USA)">
+    <category>Games</category>
+    <description>Extreme-G XG2 (USA)</description>
+    <rom name="Extreme-G XG2 (USA).v64" size="12582912" crc="849c18ce" md5="335ce3973ae33c062c92825d8df083d7" sha1="e27268a708b6d6a707b6e01af94d062ea9cbc26d" />
+  </game>
+  <game name="F-1 World Grand Prix (USA)">
+    <category>Games</category>
+    <description>F-1 World Grand Prix (USA)</description>
+    <rom name="F-1 World Grand Prix (USA).v64" size="12582912" crc="4d203242" md5="82dcd2b311352ad9b571089aff6b6171" sha1="ca05633242b31e3ec808945e9afeafc2fe4de652" />
+  </game>
+  <game name="F-Zero X (USA)">
+    <category>Games</category>
+    <description>F-Zero X (USA)</description>
+    <rom name="F-Zero X (USA).v64" size="16777216" crc="9408c2c1" md5="dee6ef2cbaac89846a59983e19a55348" sha1="c322c80a676604cda4b605558b5bd8aa6f1a2060" />
+  </game>
+  <game name="F1 Pole Position 64 (USA) (En,Fr,De)">
+    <category>Games</category>
+    <description>F1 Pole Position 64 (USA) (En,Fr,De)</description>
+    <rom name="F1 Pole Position 64 (USA) (En,Fr,De).v64" size="8388608" crc="873bc45a" md5="ea2a94d17b1513d08c0a69e277275523" sha1="bbc6ca8fe4c5bdb77d9963696ba8bf8e46fb39a6" />
+  </game>
+  <game name="FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)">
+    <category>Games</category>
+    <description>FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)</description>
+    <rom name="FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).v64" size="12582912" crc="9504b3df" md5="73aedbd8ab7fe0ae842f3bd70f77adc2" sha1="7deb782823b8d14496ce9843384281d07cc814fc" />
+  </game>
+  <game name="FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)">
+    <category>Games</category>
+    <description>FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+    <rom name="FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).v64" size="16777216" crc="d69dd3d1" md5="e7a508b8e27cfef334e96de549e385d3" sha1="5a085f6d871fb697a672f56b4023cf3b822e4cf9" />
+  </game>
+  <game name="FIFA Soccer 64 (USA) (En,Fr,De)">
+    <category>Games</category>
+    <description>FIFA Soccer 64 (USA) (En,Fr,De)</description>
+    <rom name="FIFA Soccer 64 (USA) (En,Fr,De).v64" size="8388608" crc="3b22f9f2" md5="1f7ba149359b4c402e41c40fd68ec174" sha1="a27a2ba02bb02eaac999e60e3cedd67fb937b580" />
+  </game>
+  <game name="Fighter Destiny 2 (USA)">
+    <category>Games</category>
+    <description>Fighter Destiny 2 (USA)</description>
+    <rom name="Fighter Destiny 2 (USA).v64" size="16777216" crc="7fc19103" md5="ec8b2dbd67221c8dcbc7f28f2fb8e56d" sha1="55af6bfb78d58700d0b97a5ef390693817195051" />
+  </game>
+  <game name="Fighters Destiny (USA)">
+    <category>Games</category>
+    <description>Fighters Destiny (USA)</description>
+    <rom name="Fighters Destiny (USA).v64" size="12582912" crc="a625973f" md5="c34077e5027fc18ef5a502e7364b5f68" sha1="2fba94ec3a6eac33e2680e1db661178c3e320bc4" />
+  </game>
+  <game name="Fighting Force 64 (USA)">
+    <category>Games</category>
+    <description>Fighting Force 64 (USA)</description>
+    <rom name="Fighting Force 64 (USA).v64" size="16777216" crc="ade7dca4" md5="a47af0821704b001c3565c0c1d5afef1" sha1="3ce2ddafaa5101d3b2f49210ab6e6976994e5fbe" />
+  </game>
+  <game name="Flying Dragon (USA)">
+    <category>Games</category>
+    <description>Flying Dragon (USA)</description>
+    <rom name="Flying Dragon (USA).v64" size="12582912" crc="87e4e352" md5="a7a2bd96167eea31edee3e05f4d3dd04" sha1="25fd5cc411092d917d18c6d6ba3d7749b2f27f1a" />
+  </game>
+  <game name="Forsaken 64 (USA)">
+    <category>Games</category>
+    <description>Forsaken 64 (USA)</description>
+    <rom name="Forsaken 64 (USA).v64" size="8388608" crc="f970e4a4" md5="a35a36ccedbe741236eed34b26cb7473" sha1="7741fa3cc164e7b51d79079e14c46edd5be205bf" />
+  </game>
+  <game name="Fox Sports College Hoops '99 (USA)">
+    <category>Games</category>
+    <description>Fox Sports College Hoops '99 (USA)</description>
+    <rom name="Fox Sports College Hoops '99 (USA).v64" size="12582912" crc="fede3ef8" md5="d468caf0aab6d1c9607b69ad1bad1824" sha1="86d16b039abe70bc5b8b16805dd48483477fbdf6" />
+  </game>
+  <game name="GT 64 - Championship Edition (USA)">
+    <category>Games</category>
+    <description>GT 64 - Championship Edition (USA)</description>
+    <rom name="GT 64 - Championship Edition (USA).v64" size="12582912" crc="b6dc4cfd" md5="15ae9e64114f87de8adabd5a24ca8a2f" sha1="bbf4039865fdcf30e403a45478dc6c8450944512" />
+  </game>
+  <game name="Gauntlet Legends (USA)">
+    <category>Games</category>
+    <description>Gauntlet Legends (USA)</description>
+    <rom name="Gauntlet Legends (USA).v64" size="16777216" crc="7e90c0a8" md5="a45b7398e01414ccfe2f66d8f02968d4" sha1="5debf6cc5dc00b962b29079caf505cdf50914e1d" />
+  </game>
+  <game name="Gex 3 - Deep Cover Gecko (USA)">
+    <category>Games</category>
+    <description>Gex 3 - Deep Cover Gecko (USA)</description>
+    <rom name="Gex 3 - Deep Cover Gecko (USA).v64" size="33554432" crc="3571f3bd" md5="6e47938ffeb8b202198877c7cb0efa1d" sha1="4d26566ba00f6f633fb41384a01a4464a7371000" />
+  </game>
+  <game name="Gex 64 - Enter the Gecko (USA)">
+    <category>Games</category>
+    <description>Gex 64 - Enter the Gecko (USA)</description>
+    <rom name="Gex 64 - Enter the Gecko (USA).v64" size="16777216" crc="3f90e7c2" md5="a949166a1eb9592c8f46471e7aac290f" sha1="8c10971d9052ef796973f4ce137858109a63a598" />
+  </game>
+  <game name="Glover (USA)">
+    <category>Games</category>
+    <description>Glover (USA)</description>
+    <rom name="Glover (USA).v64" size="8388608" crc="d024893a" md5="a43f68079c8fff2920137585b39fc73e" sha1="ed756cae1582a4940ddb854b5376a0013f7f5634" sha256="f19c9a5a3651a96ae82a6f6f4e6642e996a5ef7e53c1d1ece64792786ec884ec" />
+  </game>
+  <game name="Goemon's Great Adventure (USA)">
+    <category>Games</category>
+    <description>Goemon's Great Adventure (USA)</description>
+    <rom name="Goemon's Great Adventure (USA).v64" size="16777216" crc="e3c7a184" md5="b31debb9007459b0b20d7e73c189cffb" sha1="fb5f82d315ec99e5cd1ed5edda0d2f289231851e" />
+  </game>
+  <game name="Golden Nugget 64 (USA)">
+    <category>Games</category>
+    <description>Golden Nugget 64 (USA)</description>
+    <rom name="Golden Nugget 64 (USA).v64" size="8388608" crc="05a0db83" md5="f97ab8431c40f2a2e333c32ff6841bbe" sha1="fe9d5a5ebd075b9030f23c0525cedda6fe790002" />
+  </game>
+  <game name="GoldenEye 007 (USA)">
+    <category>Games</category>
+    <description>GoldenEye 007 (USA)</description>
+    <rom name="GoldenEye 007 (USA).v64" size="12582912" crc="8b70cb5b" md5="2a56a06a05a9dbf9e693325b503ab5b1" sha1="7dd376e996d77d108316ac7ced087125c5674fa4" />
+  </game>
+  <game name="Harvest Moon 64 (USA)">
+    <category>Games</category>
+    <description>Harvest Moon 64 (USA)</description>
+    <rom name="Harvest Moon 64 (USA).v64" size="16777216" crc="d2ee315f" md5="0a5d1e13b410d209835b43f2a985ef64" sha1="7fcab48a10a9b3b7ba5834347ff180c74d7b932c" />
+  </game>
+  <game name="Hercules - The Legendary Journeys (USA)">
+    <category>Games</category>
+    <description>Hercules - The Legendary Journeys (USA)</description>
+    <rom name="Hercules - The Legendary Journeys (USA).v64" size="16777216" crc="cf90bc4a" md5="0a121700a0fc84557841eef7282316b2" sha1="09e56e035981831a2bb0b932774e4ebe34ea175f" sha256="a82241a2ee960ae9837ca05f911a40b4e4111288b5562f1c18fe8814c663d957" />
+  </game>
+  <game name="Hexen (USA)">
+    <category>Games</category>
+    <description>Hexen (USA)</description>
+    <rom name="Hexen (USA).v64" size="8388608" crc="d2b22343" md5="a8531bfd6ffbad2059ef4f34aabc6282" sha1="5b58cc647fb10178c89d4dacc97cd25f5fbff2d0" />
+  </game>
+  <game name="Hey You, Pikachu! (USA)">
+    <category>Games</category>
+    <description>Hey You, Pikachu! (USA)</description>
+    <rom name="Hey You, Pikachu! (USA).v64" size="16777216" crc="0149e9f6" md5="3ff2abe65504c4a9c0602090aa6d2b27" sha1="615835390e80921f37cb9c081d27fea42920fcce" sha256="89efadb49aa3fa36a4176f2d4a92674b18a97a360fac8dd9cce617ffeb12979e" />
+  </game>
+  <game name="Hot Wheels - Turbo Racing (USA)">
+    <category>Games</category>
+    <description>Hot Wheels - Turbo Racing (USA)</description>
+    <rom name="Hot Wheels - Turbo Racing (USA).v64" size="12582912" crc="525e8f8f" md5="3bd7f78af738fc3d68d855c2cd525c26" sha1="477818165666648bfbe8452f2f89f42277add932" sha256="3092dabb9dbbf9c428990da45963d738cbf91c288fc0be0e790e7868d7877095" />
+  </game>
+  <game name="Hybrid Heaven (USA)">
+    <category>Games</category>
+    <description>Hybrid Heaven (USA)</description>
+    <rom name="Hybrid Heaven (USA).v64" size="16777216" crc="7ce3ea39" md5="ec6e73eca53e902e305168f773f67b11" sha1="a0f6777dcecf8b956f12ff69ec5051a9be4c234f" />
+  </game>
+  <game name="Hydro Thunder (USA)">
+    <category>Games</category>
+    <description>Hydro Thunder (USA)</description>
+    <rom name="Hydro Thunder (USA).v64" size="33554432" crc="6b78c2c8" md5="801e1b409166f76228c3dd8dc9d286aa" sha1="665e3d9773b0a6802814cd3e7b930cab62fc583d" sha256="a6547e935eb5d0b6f20fd83681a8057e6680245cf2e1aae02fc396bbb02106e0" />
+  </game>
+  <game name="Iggy's Reckin' Balls (USA)">
+    <category>Games</category>
+    <description>Iggy's Reckin' Balls (USA)</description>
+    <rom name="Iggy's Reckin' Balls (USA).v64" size="4194304" crc="5953567e" md5="07e0d07122336dc0fc83ef1e0bcbeea0" sha1="289a26f3a0d656ff522252caabc0e005c760faca" />
+  </game>
+  <game name="In-Fisherman - Bass Hunter 64 (USA)">
+    <category>Games</category>
+    <description>In-Fisherman - Bass Hunter 64 (USA)</description>
+    <rom name="In-Fisherman - Bass Hunter 64 (USA).v64" size="8388608" crc="88279f19" md5="3451c623e119c62e8a0ac6c3e57bff6f" sha1="39fde60d5447006cf864624860f3889c8b20ef27" />
+  </game>
+  <game name="Indiana Jones and the Infernal Machine (USA)">
+    <category>Games</category>
+    <description>Indiana Jones and the Infernal Machine (USA)</description>
+    <rom name="Indiana Jones and the Infernal Machine (USA).v64" size="33554432" crc="a8f86eb6" md5="2e32be40f6aeaa549579b026989a017f" sha1="9d326652e881d80742e49c51d60fa3ffea21207c" />
+  </game>
+  <game name="Indy Racing 2000 (USA)">
+    <category>Games</category>
+    <description>Indy Racing 2000 (USA)</description>
+    <rom name="Indy Racing 2000 (USA).v64" size="16777216" crc="1c622354" md5="7e6dfa14b1550ec31d33b33695e67aef" sha1="b8983fa34d9614af433fee6dfd331bf8793a4dd1" />
+  </game>
+  <game name="International Superstar Soccer '98 (USA)">
+    <category>Games</category>
+    <description>International Superstar Soccer '98 (USA)</description>
+    <rom name="International Superstar Soccer '98 (USA).v64" size="12582912" crc="d685f2ec" md5="673ae2592fc748112b78d2a21c95a43d" sha1="1ee4dd4d774fed61248513e0d2f5285918b98d73" />
+  </game>
+  <game name="International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)">
+    <category>Games</category>
+    <description>International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)</description>
+    <rom name="International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).v64" size="16777216" crc="8b73672c" md5="a2c596871e9c01691d7c36994158270b" sha1="aa53928967839fcdd864b3f384f23fda435e3e5e" />
+  </game>
+  <game name="International Superstar Soccer 64 (USA)">
+    <category>Games</category>
+    <description>International Superstar Soccer 64 (USA)</description>
+    <rom name="International Superstar Soccer 64 (USA).v64" size="8388608" crc="91cb6803" md5="da2174464a3bd5df10f8d891d8896e9d" sha1="94d4969597596c9e990754aefdd506d3c75177ba" />
+  </game>
+  <game name="International Track &amp; Field 2000 (USA)">
+    <category>Games</category>
+    <description>International Track &amp; Field 2000 (USA)</description>
+    <rom name="International Track &amp; Field 2000 (USA).v64" size="12582912" crc="f93868a3" md5="ce7249ffffb3d600010435f34574a527" sha1="d5b614b9a95086b2366c5470659fa5b89facec68" />
+  </game>
+  <game name="Jeopardy! (USA)">
+    <category>Games</category>
+    <description>Jeopardy! (USA)</description>
+    <rom name="Jeopardy! (USA).v64" size="4194304" crc="82b2ab69" md5="bd65646119cf596491406e59ee60fed8" sha1="6f22227ea9a64f16f4b8a5a8b84a30fac55fd84c" />
+  </game>
+  <game name="Jeremy McGrath Supercross 2000 (USA)">
+    <category>Games</category>
+    <description>Jeremy McGrath Supercross 2000 (USA)</description>
+    <rom name="Jeremy McGrath Supercross 2000 (USA).v64" size="16777216" crc="67bf293b" md5="bed43c3e682f5450cd35c346cb230532" sha1="1c0352bad4f56f1cf5d892e85f2d04d956edb49e" />
+  </game>
+  <game name="Jet Force Gemini (USA)">
+    <category>Games</category>
+    <description>Jet Force Gemini (USA)</description>
+    <rom name="Jet Force Gemini (USA).v64" size="33554432" crc="b5932174" md5="0ef01afde32e40228c03904e3d884add" sha1="aa7edc75952104f0b52bf1300df427835a128b01" sha256="774614a2cfe5d3efbe444adf92f236b977098b6caf40cd6140a94cbdd1b93890" />
+  </game>
+  <game name="John Romero's Daikatana (USA)">
+    <category>Games</category>
+    <description>John Romero's Daikatana (USA)</description>
+    <rom name="John Romero's Daikatana (USA).v64" size="16777216" crc="cb126ea9" md5="fee7f48f3da74aea78994ffc862a3641" sha1="c9f3d07af09adef1cc977bf263b899e005a5aab6" />
+  </game>
+  <game name="Ken Griffey Jr.'s Slugfest (USA)">
+    <category>Games</category>
+    <description>Ken Griffey Jr.'s Slugfest (USA)</description>
+    <rom name="Ken Griffey Jr.'s Slugfest (USA).v64" size="16777216" crc="42d1ed42" md5="e6993c8fceb6e4841639af2701454830" sha1="ec8497ee9ebe1333032472b39206f9899c9213b3" />
+  </game>
+  <game name="Killer Instinct Gold (USA) (Rev 2)">
+    <category>Games</category>
+    <description>Killer Instinct Gold (USA) (Rev 2)</description>
+    <rom name="Killer Instinct Gold (USA) (Rev 2).v64" size="12582912" crc="8e1db3c2" md5="b8c98e55712842e6dc07c1a5e9ebc612" sha1="291f62378dc3d378d443d649689cfcbf43382174" />
+  </game>
+  <game name="Kirby 64 - The Crystal Shards (USA)">
+    <category>Games</category>
+    <description>Kirby 64 - The Crystal Shards (USA)</description>
+    <rom name="Kirby 64 - The Crystal Shards (USA).v64" size="33554432" crc="8eb3565b" md5="968a49ea33d35c94a393a770a8117aa3" sha1="56d8a1c461a3ee38c5c1977d497686058b90df8a" />
+  </game>
+  <game name="Knife Edge - Nose Gunner (USA)">
+    <category>Games</category>
+    <description>Knife Edge - Nose Gunner (USA)</description>
+    <rom name="Knife Edge - Nose Gunner (USA).v64" size="8388608" crc="cf204405" md5="2ccbea019d3d1aaa1e8e6198dd677573" sha1="b6b92b53285d22967e2250b6d020350eafb72643" />
+  </game>
+  <game name="Knockout Kings 2000 (USA)">
+    <category>Games</category>
+    <description>Knockout Kings 2000 (USA)</description>
+    <rom name="Knockout Kings 2000 (USA).v64" size="16777216" crc="a26533fc" md5="e10de38bc510ed100318bf313f666d1c" sha1="2c8a091cb5ee9be6aaaf390d25642e12409330f8" sha256="17af1d3c2e9aa19d5f1bf6428075cdf3f91e167470529aa8613e56abd50a3bca" />
+  </game>
+  <game name="Kobe Bryant in NBA Courtside (USA)">
+    <category>Games</category>
+    <description>Kobe Bryant in NBA Courtside (USA)</description>
+    <rom name="Kobe Bryant in NBA Courtside (USA).v64" size="12582912" crc="0ff8c439" md5="d34d9dda767d0af4d2e6803fc5cf81c6" sha1="c17d414b741338fd2c079b1ac6238d4ed87b0675" />
+  </game>
+  <game name="LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <category>Games</category>
+    <description>LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <rom name="LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).v64" size="16777216" crc="3339e557" md5="30a227e03d4d07a4676d24d1da971470" sha1="9c5b574680a18fc87c74e7c1feea19aae87cc059" sha256="cbf477152fc07a1a9ad755d8f4ee1bf2830245d10c030f6c898526d50524ef36" />
+  </game>
+  <game name="Legend of Zelda, The - Majora's Mask (USA)">
+    <category>Games</category>
+    <description>Legend of Zelda, The - Majora's Mask (USA)</description>
+    <rom name="Legend of Zelda, The - Majora's Mask (USA).v64" size="33554432" crc="3ee3f2d1" md5="b0cc37a45bc1b6c76cd7f0b71fe2bb1f" sha1="22f8bfa1ab6c763013a3c2a568bb014395b12499" />
+  </game>
+  <game name="Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)">
+    <category>Games</category>
+    <description>Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)</description>
+    <rom name="Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).v64" size="33554432" crc="3c7dbf5b" md5="1f26107a97cd9d923df493ebfbfd234d" sha1="3ac86253e0c0d55486d212e647350c1527b9c92d" />
+  </game>
+  <game name="Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)">
+    <category>Games</category>
+    <description>Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)</description>
+    <rom name="Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).v64" size="33554432" crc="7b89b13f" md5="5e4e20f344128d32df88cbbfb89c8e13" sha1="e1d070ad7b017de9f992b362164dcd9d7f820f7e" />
+  </game>
+  <game name="Lode Runner 3-D (USA)">
+    <category>Games</category>
+    <description>Lode Runner 3-D (USA)</description>
+    <rom name="Lode Runner 3-D (USA).v64" size="8388608" crc="5af38589" md5="a884dfd24237f838fc902c2ca0d5a3f4" sha1="361ca0a284ce8de1b8e54716ed3952a179e0a148" />
+  </game>
+  <game name="MRC - Multi-Racing Championship (USA)">
+    <category>Games</category>
+    <description>MRC - Multi-Racing Championship (USA)</description>
+    <rom name="MRC - Multi-Racing Championship (USA).v64" size="12582912" crc="2f30b7fe" md5="f7e833f423bbe33af47df45a998e9fb5" sha1="72009eba46cd9362cb7979d457eb1c7581b552da" />
+  </game>
+  <game name="Mace - The Dark Age (USA)">
+    <category>Games</category>
+    <description>Mace - The Dark Age (USA)</description>
+    <rom name="Mace - The Dark Age (USA).v64" size="12582912" crc="e49d603a" md5="f56e658854300db6cedf9b3c41983ced" sha1="55d187b8ae20d2271f96fa9a8fb76fc11301a2eb" />
+  </game>
+  <game name="Madden Football 64 (USA)">
+    <category>Games</category>
+    <description>Madden Football 64 (USA)</description>
+    <rom name="Madden Football 64 (USA).v64" size="12582912" crc="43b28179" md5="14f3988408e222f8b1a0fc9d8e2c6df6" sha1="65fdc159374e6161a0ce0ba8ed520a669512094f" />
+  </game>
+  <game name="Madden NFL 2000 (USA)">
+    <category>Games</category>
+    <description>Madden NFL 2000 (USA)</description>
+    <rom name="Madden NFL 2000 (USA).v64" size="12582912" crc="f41b2332" md5="50e191f2cdc12aaedbd6694c6d6bb431" sha1="a2a09dfde793bd42f5b3c11429628e48794091b1" />
+  </game>
+  <game name="Madden NFL 2001 (USA)">
+    <category>Games</category>
+    <description>Madden NFL 2001 (USA)</description>
+    <rom name="Madden NFL 2001 (USA).v64" size="12582912" crc="3b49ec33" md5="6b386503e10ca7494c20b6be4fc1eadf" sha1="fba3c676a8acd733f16ddf7ef9bf95811974f9f1" />
+  </game>
+  <game name="Madden NFL 2002 (USA)">
+    <category>Games</category>
+    <description>Madden NFL 2002 (USA)</description>
+    <rom name="Madden NFL 2002 (USA).v64" size="12582912" crc="0c711dfe" md5="6d90daa85df1667c3b7cd431af703a3f" sha1="df3f696131141b4e5bc9e71a72a9815fb24c9112" />
+  </game>
+  <game name="Madden NFL 99 (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Madden NFL 99 (USA) (Rev 1)</description>
+    <rom name="Madden NFL 99 (USA) (Rev 1).v64" size="12582912" crc="e05b574d" md5="c282adca809cfa43a3fe9ced77ba9571" sha1="c686a44e43df6b4e5ecd816d113a402ae9e1570b" />
+  </game>
+  <game name="Magical Tetris Challenge (USA)">
+    <category>Games</category>
+    <description>Magical Tetris Challenge (USA)</description>
+    <rom name="Magical Tetris Challenge (USA).v64" size="16777216" crc="167c60e6" md5="25f5f55c6938175f06140099a1ff46a9" sha1="d0cbbe4e61af75b6bc41ae76881f81b499f1ae3e" />
+  </game>
+  <game name="Major League Baseball Featuring Ken Griffey Jr. (USA)">
+    <category>Games</category>
+    <description>Major League Baseball Featuring Ken Griffey Jr. (USA)</description>
+    <rom name="Major League Baseball Featuring Ken Griffey Jr. (USA).v64" size="16777216" crc="7542d45d" md5="3a99f4f24adee8c6e53bcc410fbd35fe" sha1="ee0ab1e8af669712afbaf4b9bbcee62e8eb13a4a" />
+  </game>
+  <game name="Mario Golf (USA)">
+    <category>Games</category>
+    <description>Mario Golf (USA)</description>
+    <rom name="Mario Golf (USA).v64" size="33554432" crc="ceb5b977" md5="846984c666c35407961c7c069066fc42" sha1="03db12b8a018eb10a31d3edcf693d92ab8676f1b" />
+  </game>
+  <game name="Mario Kart 64 (USA)">
+    <category>Games</category>
+    <description>Mario Kart 64 (USA)</description>
+    <rom name="Mario Kart 64 (USA).v64" size="12582912" crc="2bcee11c" md5="e19398a0fd1cc12df64fca7fbcaa82cc" sha1="e72fdcbb4edec32535a62b672c4559b04b07a081" />
+  </game>
+  <game name="Mario Party (USA)">
+    <category>Games</category>
+    <description>Mario Party (USA)</description>
+    <rom name="Mario Party (USA).v64" size="33554432" crc="4717cd1b" md5="22d2815355f2be326aa4ab08976ea091" sha1="08390db915dd689191906a13f4f736d419e2aff9" />
+  </game>
+  <game name="Mario Party 2 (USA)">
+    <category>Games</category>
+    <description>Mario Party 2 (USA)</description>
+    <rom name="Mario Party 2 (USA).v64" size="33554432" crc="3ba5471b" md5="f107f70ee02dced2617a5dedff72869b" sha1="528ecd9e10233ea7ce372559a16196a8e9438763" />
+  </game>
+  <game name="Mario Party 3 (USA)">
+    <category>Games</category>
+    <description>Mario Party 3 (USA)</description>
+    <rom name="Mario Party 3 (USA).v64" size="33554432" crc="a1bee3f8" md5="ac422fb77258336895ee5355f1b2b36d" sha1="58bd552b48bcec6aa39174de9796a7c093d64b67" />
+  </game>
+  <game name="Mario Tennis (USA)">
+    <category>Games</category>
+    <description>Mario Tennis (USA)</description>
+    <rom name="Mario Tennis (USA).v64" size="16777216" crc="995c9f24" md5="8dfb2fac888368660b54e390fe9042f4" sha1="9bb2d4e8d1cc4e31bd75a588bd94eb085ff7d73e" />
+  </game>
+  <game name="Mega Man 64 (USA)">
+    <category>Games</category>
+    <description>Mega Man 64 (USA)</description>
+    <rom name="Mega Man 64 (USA).v64" size="33554432" crc="b57dd0e4" md5="19e60fd08033b4afc86aa0f2ed39181d" sha1="c24b210f2fc297897940af1add23c1c19c191699" />
+  </game>
+  <game name="Mia Hamm Soccer 64 (USA) (En,Es)">
+    <category>Games</category>
+    <description>Mia Hamm Soccer 64 (USA) (En,Es)</description>
+    <rom name="Mia Hamm Soccer 64 (USA) (En,Es).v64" size="16777216" crc="3aa4bff5" md5="537d7cfed7a0f3287d711f187e70b2fc" sha1="656daa19bc199929ef2ed52f841487e3ffac7692" />
+  </game>
+  <game name="Mickey's Speedway USA (USA)">
+    <category>Games</category>
+    <description>Mickey's Speedway USA (USA)</description>
+    <rom name="Mickey's Speedway USA (USA).v64" size="33554432" crc="6e589c47" md5="99d8fe5ed2f827fb1c43a3ea2b7ca9fd" sha1="1156459d3da0cd1ac8da73f75aecdc23d093afff" />
+  </game>
+  <game name="Micro Machines 64 Turbo (USA)">
+    <category>Games</category>
+    <description>Micro Machines 64 Turbo (USA)</description>
+    <rom name="Micro Machines 64 Turbo (USA).v64" size="12582912" crc="02790693" md5="514faa23f81391ea58a25564eb62478f" sha1="b62d18dcecad57852b21107d5b9c026237cbee6e" />
+  </game>
+  <game name="Midway's Greatest Arcade Hits - Volume 1 (USA)">
+    <category>Games</category>
+    <description>Midway's Greatest Arcade Hits - Volume 1 (USA)</description>
+    <rom name="Midway's Greatest Arcade Hits - Volume 1 (USA).v64" size="4194304" crc="202a2718" md5="68cf12426b11e75df95d64dc6b94d41d" sha1="db7cae68d2a73018ada2e9587e997ec8557f8a8a" />
+  </game>
+  <game name="Mike Piazza's Strike Zone (USA)">
+    <category>Games</category>
+    <description>Mike Piazza's Strike Zone (USA)</description>
+    <rom name="Mike Piazza's Strike Zone (USA).v64" size="12582912" crc="9042cb8e" md5="0900c5e52c6b2196e38de6f5b8ddad9a" sha1="d333e7c755451f244f24ac56352a0c6294406016" sha256="f3af26cfc59f758344b5f499af7d7ca31125d571fb6837a62e06a8f827249d9d" />
+  </game>
+  <game name="Milo's Astro Lanes (USA)">
+    <category>Games</category>
+    <description>Milo's Astro Lanes (USA)</description>
+    <rom name="Milo's Astro Lanes (USA).v64" size="4194304" crc="dff1ba7e" md5="ed92851c90f5bc542a41ac86f1dafc30" sha1="fc5c26b0089b50624f330e9f769078d333754a5e" sha256="e79cb525285bb3e3928b5b0ddaf3d24fb705061bd3487db5e39da6c4134759d7" />
+  </game>
+  <game name="Mischief Makers (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Mischief Makers (USA) (Rev 1)</description>
+    <rom name="Mischief Makers (USA) (Rev 1).v64" size="8388608" crc="c454e245" md5="a54eeb1a4fd3768553d9223e5a3a63c6" sha1="3a66a71240b34df5607c8bb84c679c44472a6da2" />
+  </game>
+  <game name="Mission - Impossible (USA)">
+    <category>Games</category>
+    <description>Mission - Impossible (USA)</description>
+    <rom name="Mission - Impossible (USA).v64" size="12582912" crc="2dbd815d" md5="85e09c5b9c3a6c6e7b8fce029d5cd50d" sha1="c17c89f1a8485cfd481426800870f860c2ceae24" />
+  </game>
+  <game name="Monaco Grand Prix (USA)">
+    <category>Games</category>
+    <description>Monaco Grand Prix (USA)</description>
+    <rom name="Monaco Grand Prix (USA).v64" size="16777216" crc="30079403" md5="1fb6ac64be78637a9e79c1ab1d17060d" sha1="75f401c150cd9210432a96cf6db411f6f46e0047" />
+  </game>
+  <game name="Monopoly (USA)">
+    <category>Games</category>
+    <description>Monopoly (USA)</description>
+    <rom name="Monopoly (USA).v64" size="8388608" crc="416b1f8f" md5="b0f1bc097c75f6ac50751a1f81e209d2" sha1="99d176b45784ced5f469c64e065f6ea3e1176188" />
+  </game>
+  <game name="Monster Truck Madness 64 (USA)">
+    <category>Games</category>
+    <description>Monster Truck Madness 64 (USA)</description>
+    <rom name="Monster Truck Madness 64 (USA).v64" size="8388608" crc="b8d03ffb" md5="268465ab3095c1d2fff2aa025c49e610" sha1="f7e66b1eb2905df6c6dfadf1593064fc6d592c17" />
+  </game>
+  <game name="Mortal Kombat 4 (USA)">
+    <category>Games</category>
+    <description>Mortal Kombat 4 (USA)</description>
+    <rom name="Mortal Kombat 4 (USA).v64" size="16777216" crc="aa865b66" md5="27445bfdedd5233ac56012f3331c4a41" sha1="5fb558a40f06365a1f759b4df718623f1f3ac3df" />
+  </game>
+  <game name="Mortal Kombat Mythologies - Sub-Zero (USA)">
+    <category>Games</category>
+    <description>Mortal Kombat Mythologies - Sub-Zero (USA)</description>
+    <rom name="Mortal Kombat Mythologies - Sub-Zero (USA).v64" size="16777216" crc="f0f7d9e3" md5="74fbf4979df136e2edfb71948ecdcfa7" sha1="04b8029337afddf618d9b0f0998bd0692782048f" />
+  </game>
+  <game name="Mortal Kombat Trilogy (USA) (Rev 2)">
+    <category>Games</category>
+    <description>Mortal Kombat Trilogy (USA) (Rev 2)</description>
+    <rom name="Mortal Kombat Trilogy (USA) (Rev 2).v64" size="12582912" crc="e58597d7" md5="116d3ffc3c906620f99b0a5f0b6b1600" sha1="4092a66080afc03d7bf9779aad047aff1a56ecb6" />
+  </game>
+  <game name="Ms. Pac-Man - Maze Madness (USA)">
+    <category>Games</category>
+    <description>Ms. Pac-Man - Maze Madness (USA)</description>
+    <rom name="Ms. Pac-Man - Maze Madness (USA).v64" size="12582912" crc="d5017d76" md5="7caf992661ae9008d556e880d72f1a2a" sha1="b3924a297a03a0b10ff246a7c90f424c90e7ab64" />
+  </game>
+  <game name="Mystical Ninja Starring Goemon (USA)">
+    <category>Games</category>
+    <description>Mystical Ninja Starring Goemon (USA)</description>
+    <rom name="Mystical Ninja Starring Goemon (USA).v64" size="16777216" crc="81c10ad9" md5="f2162be647e4aa59254ec5ed7db1e94a" sha1="7a7cc41a47f0edbc96efa29d3f0f0e1c0d1e65af" />
+  </game>
+  <game name="NASCAR 2000 (USA)">
+    <category>Games</category>
+    <description>NASCAR 2000 (USA)</description>
+    <rom name="NASCAR 2000 (USA).v64" size="12582912" crc="d07ad471" md5="fb698dd422fab3ce770224b2385173d5" sha1="d889b2f0e632cdc9d1ec6261a6841f7822a5d130" />
+  </game>
+  <game name="NASCAR 99 (USA)">
+    <category>Games</category>
+    <description>NASCAR 99 (USA)</description>
+    <rom name="NASCAR 99 (USA).v64" size="12582912" crc="2d234fb7" md5="2eab72bf6ee786dd521a360d94a868dd" sha1="c65ca3084221ccbd63a21cab179a50184a7fa798" sha256="b63acfc81c64aac3b1b795ee57f129cd5576ef6bc5f2f3155ae0c7b0df1f625c" />
+  </game>
+  <game name="NBA Courtside 2 featuring Kobe Bryant (USA)">
+    <category>Games</category>
+    <description>NBA Courtside 2 featuring Kobe Bryant (USA)</description>
+    <rom name="NBA Courtside 2 featuring Kobe Bryant (USA).v64" size="16777216" crc="7a8fd7d3" md5="ff29db046c31adce1b5280558dbc3df8" sha1="63711be92268098bc69bec3168c09d0088db8ce6" sha256="971b0824627e196fceba652cf38b418c98394f394f997a0d8aabb6f47f9ad740" />
+  </game>
+  <game name="NBA Hangtime (USA)">
+    <category>Games</category>
+    <description>NBA Hangtime (USA)</description>
+    <rom name="NBA Hangtime (USA).v64" size="12582912" crc="72e2aca9" md5="458170659e9f493099bc1d6fe50aa937" sha1="2a1ef108f5345e6ca80d7f73f4ca4557e7843594" sha256="7a9412a19c59a434328be4f3e5f731e8c8b567bc3015c892637c86e8f821edac" />
+  </game>
+  <game name="NBA Jam 2000 (USA)">
+    <category>Games</category>
+    <description>NBA Jam 2000 (USA)</description>
+    <rom name="NBA Jam 2000 (USA).v64" size="16777216" crc="65a3bd1c" md5="2bc421e0b95150299cad0d9ea37e289f" sha1="58facec83666d3eba51986df97024229a087c78d" />
+  </game>
+  <game name="NBA Jam 99 (USA)">
+    <category>Games</category>
+    <description>NBA Jam 99 (USA)</description>
+    <rom name="NBA Jam 99 (USA).v64" size="12582912" crc="f40c871a" md5="6b1912a7269e4a2feea518653277b7b6" sha1="5303a21d20bef75e6f77fbaedd120391cb4131d5" />
+  </game>
+  <game name="NBA Live 2000 (USA) (En,Fr,De,Es)">
+    <category>Games</category>
+    <description>NBA Live 2000 (USA) (En,Fr,De,Es)</description>
+    <rom name="NBA Live 2000 (USA) (En,Fr,De,Es).v64" size="16777216" crc="94fc12d3" md5="c3071968bc7891fac1a1dee216fdb5c0" sha1="61e5052589bfe9b7736b9e758125a8af11a11cb3" />
+  </game>
+  <game name="NBA Live 99 (USA) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>NBA Live 99 (USA) (En,Fr,De,Es,It)</description>
+    <rom name="NBA Live 99 (USA) (En,Fr,De,Es,It).v64" size="16777216" crc="74bc96be" md5="32d4469e1b2b600e36708ed6d903628f" sha1="c040aabd6a985052a6d2e9ab7b8d458233d0793f" />
+  </game>
+  <game name="NBA Showtime - NBA on NBC (USA)">
+    <category>Games</category>
+    <description>NBA Showtime - NBA on NBC (USA)</description>
+    <rom name="NBA Showtime - NBA on NBC (USA).v64" size="16777216" crc="a9302dee" md5="9f62363594b50f8a2695c113e52d9485" sha1="4857b02997b65aa86d2ada8e7364e62b5ff10356" />
+  </game>
+  <game name="NBA in the Zone '98 (USA)">
+    <category>Games</category>
+    <description>NBA in the Zone '98 (USA)</description>
+    <rom name="NBA in the Zone '98 (USA).v64" size="12582912" crc="2bb83c0e" md5="73334f6adab3f19c314c9f9cb2006e97" sha1="b0e5d3a7fc83ec86027f9e7efdd876b7639e727c" />
+  </game>
+  <game name="NBA in the Zone '99 (USA)">
+    <category>Games</category>
+    <description>NBA in the Zone '99 (USA)</description>
+    <rom name="NBA in the Zone '99 (USA).v64" size="12582912" crc="c15afc69" md5="d56ab19b2d4550d8cd082c96904dab0b" sha1="be6b8fad67ece51e3dc09182ca7497652d92b241" />
+  </game>
+  <game name="NBA in the Zone 2000 (USA)">
+    <category>Games</category>
+    <description>NBA in the Zone 2000 (USA)</description>
+    <rom name="NBA in the Zone 2000 (USA).v64" size="16777216" crc="d850cfa3" md5="3e9f73902fd5c9af3decb26f0e045128" sha1="681d09e327e4faaa3ea53977047be5434aba1468" sha256="2523e89012828c8f869cfbaacea77ad7db131df9bf88f421be3b15e9d0fff6fa" />
+  </game>
+  <game name="NFL Blitz (USA)">
+    <category>Games</category>
+    <description>NFL Blitz (USA)</description>
+    <rom name="NFL Blitz (USA).v64" size="16777216" crc="5fa3455d" md5="4fe0df8523e907de4c7c85e836bfb637" sha1="fa193a704b83f00cf3874d2f49275930168f0416" />
+  </game>
+  <game name="NFL Blitz - Special Edition (USA)">
+    <category>Games</category>
+    <description>NFL Blitz - Special Edition (USA)</description>
+    <rom name="NFL Blitz - Special Edition (USA).v64" size="16777216" crc="3dd3eb64" md5="7b5036a93b1f01f1d90d3df554dacb51" sha1="2f64076b423a72f873a04910a40d3a3f5dddbb25" />
+  </game>
+  <game name="NFL Blitz 2000 (USA) (Rev 1)">
+    <category>Games</category>
+    <description>NFL Blitz 2000 (USA) (Rev 1)</description>
+    <rom name="NFL Blitz 2000 (USA) (Rev 1).v64" size="16777216" crc="f77108c0" md5="25f57c4fd8cae69ef829d7d3144b3397" sha1="2041bc6ebc6bfd412640a14d236a279b07cae616" />
+  </game>
+  <game name="NFL Blitz 2001 (USA)">
+    <category>Games</category>
+    <description>NFL Blitz 2001 (USA)</description>
+    <rom name="NFL Blitz 2001 (USA).v64" size="16777216" crc="e18211e5" md5="86b10a10d32821f6972e14752ef0a56b" sha1="1305ea64fa5eb62b36e029c5646299c080daede9" />
+  </game>
+  <game name="NFL QB Club 2001 (USA)">
+    <category>Games</category>
+    <description>NFL QB Club 2001 (USA)</description>
+    <rom name="NFL QB Club 2001 (USA).v64" size="12582912" crc="2c0d748b" md5="0272b74693620913f7c5170d747a546e" sha1="1b31a55a7c744f5de52f6198820c17bf25785ebf" />
+  </game>
+  <game name="NFL Quarterback Club 2000 (USA)">
+    <category>Games</category>
+    <description>NFL Quarterback Club 2000 (USA)</description>
+    <rom name="NFL Quarterback Club 2000 (USA).v64" size="12582912" crc="b61d114a" md5="574d2f51e9d4b05057925b49cf45526b" sha1="63b52f8c4d8efaaabc87237938fd65975ec19bad" />
+  </game>
+  <game name="NFL Quarterback Club 98 (USA)">
+    <category>Games</category>
+    <description>NFL Quarterback Club 98 (USA)</description>
+    <rom name="NFL Quarterback Club 98 (USA).v64" size="8388608" crc="94368db1" md5="593678bcd8c2c98e0b72cb8b22771584" sha1="afa0fa7b55931325426c46c3a04a1a5bec81f711" />
+  </game>
+  <game name="NFL Quarterback Club 99 (USA)">
+    <category>Games</category>
+    <description>NFL Quarterback Club 99 (USA)</description>
+    <rom name="NFL Quarterback Club 99 (USA).v64" size="12582912" crc="ce525bc5" md5="86fd9dde3d248e1fa2fa0c31045ae3e2" sha1="bb054fa24a084018995b68164560020de44c6c92" />
+  </game>
+  <game name="NHL 99 (USA)">
+    <category>Games</category>
+    <description>NHL 99 (USA)</description>
+    <rom name="NHL 99 (USA).v64" size="12582912" crc="50f81f73" md5="e6c12ac9c562d772b8eb4f3fa439a84d" sha1="94b9957551bc31e5bfb49c72310155e376887757" />
+  </game>
+  <game name="NHL Blades of Steel '99 (USA)">
+    <category>Games</category>
+    <description>NHL Blades of Steel '99 (USA)</description>
+    <rom name="NHL Blades of Steel '99 (USA).v64" size="12582912" crc="5ef28cfb" md5="c6dc3887063705863c70cd516c036867" sha1="176bde5f17295aeccea06c09c761add271a6931f" />
+  </game>
+  <game name="NHL Breakaway 98 (USA)">
+    <category>Games</category>
+    <description>NHL Breakaway 98 (USA)</description>
+    <rom name="NHL Breakaway 98 (USA).v64" size="12582912" crc="f59b082f" md5="08fad70ef737b685ad030604f237c674" sha1="4ce6fa90bc8a92a73eafebb677ea6ddb90e93ecc" />
+  </game>
+  <game name="NHL Breakaway 99 (USA)">
+    <category>Games</category>
+    <description>NHL Breakaway 99 (USA)</description>
+    <rom name="NHL Breakaway 99 (USA).v64" size="12582912" crc="9f774781" md5="67fb118a37b3c742f5dd8b1f452f43d8" sha1="b026fb43057815b7d383f82170617ab5d59120f9" />
+  </game>
+  <game name="Nagano Winter Olympics '98 (USA)">
+    <category>Games</category>
+    <description>Nagano Winter Olympics '98 (USA)</description>
+    <rom name="Nagano Winter Olympics '98 (USA).v64" size="12582912" crc="1f8d21fb" md5="89dbb22886a2973838b2d682a150295c" sha1="090d652498885ccfa841c1465e4b721d090d7b39" />
+  </game>
+  <game name="Namco Museum 64 (USA)">
+    <category>Games</category>
+    <description>Namco Museum 64 (USA)</description>
+    <rom name="Namco Museum 64 (USA).v64" size="4194304" crc="03776764" md5="d2675b639421fc6ebce92f0511f5bc5d" sha1="8ff73b91e62abe925ad475b166ea65b1a698dae7" />
+  </game>
+  <game name="New Tetris, The (USA)">
+    <category>Games</category>
+    <description>New Tetris, The (USA)</description>
+    <rom name="New Tetris, The (USA).v64" size="12582912" crc="82a76dc9" md5="fd417f24466bee4443cf0a7740e34c1a" sha1="cc88bfed8b77885cda6123c08e5d3b11451c6074" />
+  </game>
+  <game name="Nightmare Creatures (USA)">
+    <category>Games</category>
+    <description>Nightmare Creatures (USA)</description>
+    <rom name="Nightmare Creatures (USA).v64" size="16777216" crc="134c09da" md5="eebb2936cd8514c47e973a98fc37296a" sha1="1d01be47a805679d17bedc4f5294db20bbb2875d" />
+  </game>
+  <game name="Nuclear Strike 64 (USA)">
+    <category>Games</category>
+    <description>Nuclear Strike 64 (USA)</description>
+    <rom name="Nuclear Strike 64 (USA).v64" size="33554432" crc="1a70d11a" md5="3b7330d7055ad8d514e4f516f2a80101" sha1="ea1371d29cbdede166a69c77b2c4a77d6edab77d" />
+  </game>
+  <game name="Off Road Challenge (USA)">
+    <category>Games</category>
+    <description>Off Road Challenge (USA)</description>
+    <rom name="Off Road Challenge (USA).v64" size="16777216" crc="129badcc" md5="4ca359921b3a49dcd5bbd725656a255d" sha1="914239aa8172c91c44280a09e34b6e7ce046ca1b" />
+  </game>
+  <game name="Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)</description>
+    <rom name="Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).v64" size="41943040" crc="50c78d4c" md5="c784ec9f1de01a78ba0c7719e0da5eb0" sha1="6f3c590d1f3225cca9bf7e7dec8c20f91d61d645" sha256="97fa7d632abd6c54a75cd06c0e827e045c59d6c75d598e0c65d411c4de48e10c" />
+  </game>
+  <game name="Olympic Hockey 98 (USA)">
+    <category>Games</category>
+    <description>Olympic Hockey 98 (USA)</description>
+    <rom name="Olympic Hockey 98 (USA).v64" size="8388608" crc="c57c7643" md5="c80f8e7d193a9582a0662c923b128f7f" sha1="7e200f4f4d2a7eb0ddc2011bd55628b5a50788bf" />
+  </game>
+  <game name="PGA European Tour (USA)">
+    <category>Games</category>
+    <description>PGA European Tour (USA)</description>
+    <rom name="PGA European Tour (USA).v64" size="16777216" crc="2b07f591" md5="1accd330228ecec87dac81ccb999486d" sha1="6417f608e7dd002dc1193641d8c846328c3faab2" />
+  </game>
+  <game name="Paper Mario (USA)">
+    <category>Games</category>
+    <description>Paper Mario (USA)</description>
+    <rom name="Paper Mario (USA).v64" size="41943040" crc="d56d1c89" md5="7de64234ee20788b9d74d2fdb3462aed" sha1="77693a00418a9d8971b7a005f2001d997e359bff" />
+  </game>
+  <game name="Paperboy (USA)">
+    <category>Games</category>
+    <description>Paperboy (USA)</description>
+    <rom name="Paperboy (USA).v64" size="12582912" crc="2fceeff6" md5="3cd24a79755d55d4c5bfc71236c73cc3" sha1="0dccd178f9af55a2fcbc5b963b60e7a897e237ff" />
+  </game>
+  <game name="Penny Racers (USA)">
+    <category>Games</category>
+    <description>Penny Racers (USA)</description>
+    <rom name="Penny Racers (USA).v64" size="8388608" crc="06beea3f" md5="a9e6e459908009b979c4cb649609a208" sha1="f8ca8a70653dbe488749fd3ea3e428fb9b1f72c8" />
+  </game>
+  <game name="Perfect Dark (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Perfect Dark (USA) (Rev 1)</description>
+    <rom name="Perfect Dark (USA) (Rev 1).v64" size="33554432" crc="f85a16f1" md5="f267577a1faeca4c07f1bb188452ca80" sha1="07e74d1b42aaadc6d95b171f6bd5f16e7c641284" sha256="93a222a87b18dae8430f6a4f88885d10df86499548abe217136bde1c15227e82" />
+  </game>
+  <game name="Pilotwings 64 (USA)">
+    <category>Games</category>
+    <description>Pilotwings 64 (USA)</description>
+    <rom name="Pilotwings 64 (USA).v64" size="8388608" crc="c445f7e3" md5="c5569227242e04138aac8457b7f83e6c" sha1="0576080dd468ff528d90cf2de6c4a7790e4923f3" />
+  </game>
+  <game name="Pokemon Puzzle League (USA)">
+    <category>Games</category>
+    <description>Pokemon Puzzle League (USA)</description>
+    <rom name="Pokemon Puzzle League (USA).v64" size="33554432" crc="281afb0d" md5="afe4cc6f067852b96fec84cb739b4c99" sha1="e52af5a60ea9bd2dae34e4252d71bedaf496cdb3" />
+  </game>
+  <game name="Pokemon Snap (USA)">
+    <category>Games</category>
+    <description>Pokemon Snap (USA)</description>
+    <rom name="Pokemon Snap (USA).v64" size="16777216" crc="df387848" md5="9b10b9d70dac67ae40953148fbe9cb96" sha1="cfa6c20848651b686761f3bd72d5d97c3b83cca9" />
+  </game>
+  <game name="Pokemon Stadium (USA) (Rev 2)">
+    <category>Games</category>
+    <description>Pokemon Stadium (USA) (Rev 2)</description>
+    <rom name="Pokemon Stadium (USA) (Rev 2).v64" size="33554432" crc="d2e2ec6d" md5="d14b499623a0d3d578bd3417c817a8a5" sha1="f7b4e8fd76b97c34a81f448a7e016c38d7fdff0e" />
+  </game>
+  <game name="Pokemon Stadium 2 (USA)">
+    <category>Games</category>
+    <description>Pokemon Stadium 2 (USA)</description>
+    <rom name="Pokemon Stadium 2 (USA).v64" size="67108864" crc="fbff058a" md5="fe05fb7a1e76adcf8942b24a97748939" sha1="d6337714e46b39d43e570813cc51c64f7c62d981" sha256="a9797b8d8ff582979df7941c20f6ef25965dd973ea64a9425494101b4e920d07" />
+  </game>
+  <game name="Polaris SnoCross (USA)">
+    <category>Games</category>
+    <description>Polaris SnoCross (USA)</description>
+    <rom name="Polaris SnoCross (USA).v64" size="12582912" crc="ba3ec852" md5="dd5c6a2e856472cee5d3347f15893241" sha1="2a9585e5819fa7984877848c58fbf9973380d624" />
+  </game>
+  <game name="Power Rangers - Lightspeed Rescue (USA)">
+    <category>Games</category>
+    <description>Power Rangers - Lightspeed Rescue (USA)</description>
+    <rom name="Power Rangers - Lightspeed Rescue (USA).v64" size="12582912" crc="eb8ce95b" md5="23e1f0f7b63de817ddcce91a8ca0ec9f" sha1="a7523544e7e293f58207ecea9ca44f713e9deee2" />
+  </game>
+  <game name="Powerpuff Girls, The - Chemical X-Traction (USA)">
+    <category>Games</category>
+    <description>Powerpuff Girls, The - Chemical X-Traction (USA)</description>
+    <rom name="Powerpuff Girls, The - Chemical X-Traction (USA).v64" size="8388608" crc="4ee7cd7e" md5="ba39cf3e29e026030b9d2bd23908f721" sha1="8f982bab4f1857d6562113d120bce82bd316f78d" />
+  </game>
+  <game name="Quake (USA)">
+    <category>Games</category>
+    <description>Quake (USA)</description>
+    <rom name="Quake (USA).v64" size="12582912" crc="06d5cdbb" md5="056e41dd8205e701f630b8e19ae4f523" sha1="4df581ebf44eb0e6060c331995febd39a04ccedd" />
+  </game>
+  <game name="Quake II (USA)">
+    <category>Games</category>
+    <description>Quake II (USA)</description>
+    <rom name="Quake II (USA).v64" size="12582912" crc="5d880e55" md5="ca711afdd1e85147d309f0c8c56241ad" sha1="24b792fef01fca18faf73a1b980e9c738822298f" />
+  </game>
+  <game name="Quest 64 (USA)">
+    <category>Games</category>
+    <description>Quest 64 (USA)</description>
+    <rom name="Quest 64 (USA).v64" size="16777216" crc="e90856e8" md5="949a7017e27d2ed402d2ad709498fd65" sha1="738f11572a72bea06cc5c6d9c0a341a288f29457" />
+  </game>
+  <game name="RR64 - Ridge Racer 64 (USA)">
+    <category>Games</category>
+    <description>RR64 - Ridge Racer 64 (USA)</description>
+    <rom name="RR64 - Ridge Racer 64 (USA).v64" size="33554432" crc="7ccb9749" md5="87b8428dac1d275b0e32e42dd5cfde22" sha1="79db18ac171142f287a45271ef3a7cf6341a17f8" />
+  </game>
+  <game name="Rally Challenge 2000 (USA)">
+    <category>Games</category>
+    <description>Rally Challenge 2000 (USA)</description>
+    <rom name="Rally Challenge 2000 (USA).v64" size="12582912" crc="faf5c3b6" md5="723fbc251a8d59987d77980496949125" sha1="ecd309fc0826467f7b0e197743abf1c51c48910d" />
+  </game>
+  <game name="Rampage - World Tour (USA)">
+    <category>Games</category>
+    <description>Rampage - World Tour (USA)</description>
+    <rom name="Rampage - World Tour (USA).v64" size="12582912" crc="6fe4da23" md5="407698abb21efa78e7c91e1753c967a9" sha1="5dd821436db22ce9b4168088189ee5788270d044" />
+  </game>
+  <game name="Rampage 2 - Universal Tour (USA)">
+    <category>Games</category>
+    <description>Rampage 2 - Universal Tour (USA)</description>
+    <rom name="Rampage 2 - Universal Tour (USA).v64" size="12582912" crc="75e8c2ad" md5="4a118869c2089fdaad900dc34df0788b" sha1="bb3af2fc085e58befa528051b7a91a54f9f38e8f" />
+  </game>
+  <game name="Rat Attack! (USA) (En,Fr,De,Es,It,Nl)">
+    <category>Games</category>
+    <description>Rat Attack! (USA) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Rat Attack! (USA) (En,Fr,De,Es,It,Nl).v64" size="8388608" crc="78f6ffa2" md5="9ef477aa075abfeb026defde6e57b048" sha1="6814ee444c67f1289f11a9f7decacb75176bf634" />
+  </game>
+  <game name="Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)</description>
+    <rom name="Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).v64" size="33554432" crc="72ee54b2" md5="55ed44f3adbe04c3fc405ccedc261578" sha1="4d7a58f7a87928e592416b75b364e3563bbeed2f" />
+  </game>
+  <game name="Razor Freestyle Scooter (USA)">
+    <category>Games</category>
+    <description>Razor Freestyle Scooter (USA)</description>
+    <rom name="Razor Freestyle Scooter (USA).v64" size="8388608" crc="208350c5" md5="c5a6c5f3a8b1a59ac2064c83744310c3" sha1="8af56990d73f7eae9212c44cd9f417b27ed78649" sha256="c1fea1c3a9108e84495906a5e38f0e9541bf8abd384ea40440f2ded839a41025" />
+  </game>
+  <game name="Re-Volt (USA)">
+    <category>Games</category>
+    <description>Re-Volt (USA)</description>
+    <rom name="Re-Volt (USA).v64" size="12582912" crc="9366c53c" md5="b23b9e8cec8b00507d20464905a0c5c5" sha1="bffc68e662338cdf03b619b3a62ef880f1db025d" />
+  </game>
+  <game name="Ready 2 Rumble Boxing (USA)">
+    <category>Games</category>
+    <description>Ready 2 Rumble Boxing (USA)</description>
+    <rom name="Ready 2 Rumble Boxing (USA).v64" size="33554432" crc="e8d926f3" md5="5802e9c1f9d486e873d413011bff3336" sha1="667083f0dbbd428216475ddcad1883ad04207cfd" />
+  </game>
+  <game name="Ready 2 Rumble Boxing - Round 2 (USA)">
+    <category>Games</category>
+    <description>Ready 2 Rumble Boxing - Round 2 (USA)</description>
+    <rom name="Ready 2 Rumble Boxing - Round 2 (USA).v64" size="33554432" crc="a64fdf28" md5="feb4d736b38b3c6695370e445b7051a5" sha1="3e6b280a6b8925c0528c63add72f0861156d07d6" sha256="0fa4b707b8dcf8a67a041341235ee21f6b106eaa2193a1ccd43414ce91548ffd" />
+  </game>
+  <game name="Resident Evil 2 (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Resident Evil 2 (USA) (Rev 1)</description>
+    <rom name="Resident Evil 2 (USA) (Rev 1).v64" size="67108864" crc="6a0d64bb" md5="2c1c2949b4a5f16ae7c6d9b5db4c034a" sha1="6f5fbedb304d66098732d4a7c69271baeee3ecb4" />
+  </game>
+  <game name="Road Rash 64 (USA)">
+    <category>Games</category>
+    <description>Road Rash 64 (USA)</description>
+    <rom name="Road Rash 64 (USA).v64" size="33554432" crc="2da44585" md5="cdf72cb4647c70fe36247091f5025148" sha1="4990b922e946aa0ee45fd8355e447dedc92ec352" />
+  </game>
+  <game name="Roadsters (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Roadsters (USA) (En,Fr,Es)</description>
+    <rom name="Roadsters (USA) (En,Fr,Es).v64" size="12582912" crc="f68d139e" md5="49d0c8bc8ad23306b87456fb3055c5db" sha1="e2827c55874a4883c5d969eb34944324d639af06" />
+  </game>
+  <game name="Robotron 64 (USA)">
+    <category>Games</category>
+    <description>Robotron 64 (USA)</description>
+    <rom name="Robotron 64 (USA).v64" size="8388608" crc="18c2ad70" md5="bf966b20409c07671189714e89311197" sha1="67040305e6936711632610335ef6bb042df5c506" sha256="b5038833607d6f6a7ae424e5b9fb6571c53b06547f22dae47db462215fe7eb34" />
+  </game>
+  <game name="Rocket - Robot on Wheels (USA)">
+    <category>Games</category>
+    <description>Rocket - Robot on Wheels (USA)</description>
+    <rom name="Rocket - Robot on Wheels (USA).v64" size="12582912" crc="b0f36d79" md5="53bd4994cb0dfca0db955389e96145fa" sha1="5dfcd4cdb0a2ea1412fa5d92236d0a066231d9ac" />
+  </game>
+  <game name="Rugrats - Scavenger Hunt (USA)">
+    <category>Games</category>
+    <description>Rugrats - Scavenger Hunt (USA)</description>
+    <rom name="Rugrats - Scavenger Hunt (USA).v64" size="16777216" crc="ea79ad0a" md5="61dbd8183b1cd88ce41591537851f48a" sha1="f69a4a88bc2374fea96dfb06a42dbb5b9a5eb6b1" />
+  </game>
+  <game name="Rugrats in Paris - The Movie (USA)">
+    <category>Games</category>
+    <description>Rugrats in Paris - The Movie (USA)</description>
+    <rom name="Rugrats in Paris - The Movie (USA).v64" size="16777216" crc="8f09af37" md5="bb517073518efcd38134f1c6d3236c2b" sha1="42fba753590296b288537162437357741b7f5596" />
+  </game>
+  <game name="Rush 2 - Extreme Racing USA (USA)">
+    <category>Games</category>
+    <description>Rush 2 - Extreme Racing USA (USA)</description>
+    <rom name="Rush 2 - Extreme Racing USA (USA).v64" size="12582912" crc="5412916b" md5="68c4766e0fd28e3bafe220d52bb5c841" sha1="94685e4a27114175946cdf2084079c9bf2e69ef3" />
+  </game>
+  <game name="S.C.A.R.S. (USA)">
+    <category>Games</category>
+    <description>S.C.A.R.S. (USA)</description>
+    <rom name="S.C.A.R.S. (USA).v64" size="8388608" crc="6594b593" md5="efbd7401712765d36ce6a1b6685b6ce6" sha1="8fef439b4649fe6c52f722f6158c67cade7841cd" />
+  </game>
+  <game name="San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)">
+    <category>Games</category>
+    <description>San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)</description>
+    <rom name="San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1).v64" size="8388608" crc="ba05b83f" md5="44f14048d541e36f113446a0320d1677" sha1="867c475e65844a421d51af3a75414d46899b404c" />
+  </game>
+  <game name="San Francisco Rush 2049 (USA)">
+    <category>Games</category>
+    <description>San Francisco Rush 2049 (USA)</description>
+    <rom name="San Francisco Rush 2049 (USA).v64" size="12582912" crc="1a03b9de" md5="2120248576e6398f2f90791e2ebd2eda" sha1="f79223f8060a530d0dc8683a923c3c60615aa0a0" />
+  </game>
+  <game name="Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)</description>
+    <rom name="Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).v64" size="16777216" crc="91cc1ed6" md5="9fbab8661de3a959e9a50a2395e5a310" sha1="bbc12b280c38de870a89877809cfd5bda009aa98" />
+  </game>
+  <game name="Sesame Street - Elmo's Letter Adventure (USA)">
+    <category>Games</category>
+    <description>Sesame Street - Elmo's Letter Adventure (USA)</description>
+    <rom name="Sesame Street - Elmo's Letter Adventure (USA).v64" size="8388608" crc="710011fb" md5="1fa1170f9d0c037de32d27d9d9f7afd7" sha1="4c8e68cc1c5af546bc9ac26de423458141346e2c" sha256="1162a8fefd5119e654e141eac7fa1098969dfe3b0a1ae2fcaec9851120ceebdd" />
+  </game>
+  <game name="Sesame Street - Elmo's Number Journey (USA)">
+    <category>Games</category>
+    <description>Sesame Street - Elmo's Number Journey (USA)</description>
+    <rom name="Sesame Street - Elmo's Number Journey (USA).v64" size="8388608" crc="b7ad0f05" md5="76e81d17d5c88ee40a1c32ed20e17b92" sha1="72419fd0a80cbdeea635f094d6b0d086ebbb2750" />
+  </game>
+  <game name="Shadow Man (USA)">
+    <category>Games</category>
+    <description>Shadow Man (USA)</description>
+    <rom name="Shadow Man (USA).v64" size="33554432" crc="47e05128" md5="09d23066364c5f212731b19dd9b9c87c" sha1="f3791231dc17af77056e5320c59081d3e8459a7f" />
+  </game>
+  <game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)">
+    <category>Games</category>
+    <description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)</description>
+    <rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).v64" size="16777216" crc="1e9986e5" md5="bcdc05dd4b0f22f640be713916f4a4fd" sha1="5c22f49bda1332d1c060a576c3e8cebeeee6e7a0" />
+  </game>
+  <game name="Snowboard Kids (USA)">
+    <category>Games</category>
+    <description>Snowboard Kids (USA)</description>
+    <rom name="Snowboard Kids (USA).v64" size="8388608" crc="540c190b" md5="14b72b59aa3efabf368779e6ebecdcab" sha1="584277aa4190d23f7db8a6e225735d934022e58c" />
+  </game>
+  <game name="Snowboard Kids 2 (USA)">
+    <category>Games</category>
+    <description>Snowboard Kids 2 (USA)</description>
+    <rom name="Snowboard Kids 2 (USA).v64" size="16777216" crc="ca84aace" md5="ded8648106f16417c01b4cc68986e97b" sha1="7a195b4d0d03ce1c7c4fd0d13b1be2e97d20000c" />
+  </game>
+  <game name="South Park (USA)">
+    <category>Games</category>
+    <description>South Park (USA)</description>
+    <rom name="South Park (USA).v64" size="16777216" crc="faae9aa3" md5="c26eff29cee9d8f65d5d3321413400fe" sha1="5133b87061172b467424170672c3321de6c78494" sha256="82ed3cdfb1093d8bd172753da9f6eeb03a3052e03d1b13b39fa3ccc2d38636b0" />
+  </game>
+  <game name="South Park - Chef's Luv Shack (USA)">
+    <category>Games</category>
+    <description>South Park - Chef's Luv Shack (USA)</description>
+    <rom name="South Park - Chef's Luv Shack (USA).v64" size="16777216" crc="67d38382" md5="d9699e89a4e4cd0ac04b628d6007df0e" sha1="54fb22142f3a02c9c15e412d7e900a963698bbda" />
+  </game>
+  <game name="South Park Rally (USA)">
+    <category>Games</category>
+    <description>South Park Rally (USA)</description>
+    <rom name="South Park Rally (USA).v64" size="16777216" crc="2c1f0859" md5="39d0960f29634e5bb6aa21f00c1044e7" sha1="0309df340d098f014c6673ec7cad60eace1bf166" />
+  </game>
+  <game name="Space Invaders (USA)">
+    <category>Games</category>
+    <description>Space Invaders (USA)</description>
+    <rom name="Space Invaders (USA).v64" size="8388608" crc="62e6deff" md5="fe0e7b9873fddb70bb5d1271903d9438" sha1="1ed83dd9637d5b6e7323480e74bf151542665a1b" sha256="aaac729231f43a2e8ca6323e0dac6ab106ba328721cc4e37aa6fdfe0fd75c7e4" />
+  </game>
+  <game name="SpaceStation Silicon Valley (USA) (Rev 1)">
+    <category>Games</category>
+    <description>SpaceStation Silicon Valley (USA) (Rev 1)</description>
+    <rom name="SpaceStation Silicon Valley (USA) (Rev 1).v64" size="8388608" crc="0bcf3f2e" md5="412a7853b8860c9cf923c2e2f3cc84b0" sha1="9d826f67dd8b6567de9c9259e795e97f9a02e3f5" />
+  </game>
+  <game name="Spider-Man (USA)">
+    <category>Games</category>
+    <description>Spider-Man (USA)</description>
+    <rom name="Spider-Man (USA).v64" size="33554432" crc="a2866a6e" md5="ea9dd6280a01ab95984caa1cb82c621e" sha1="2ae97b0581bec355c4a7a2dc7a12df46cf4c91ab" sha256="07959761d12187a50de420fb9b5d3b5af9d621307b8da2bed09c88fc16a3c9e0" />
+  </game>
+  <game name="Star Fox 64 (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Star Fox 64 (USA) (Rev 1)</description>
+    <rom name="Star Fox 64 (USA) (Rev 1).v64" size="12582912" crc="d71902b0" md5="ef9a76901153f66123dafccb0c13cd94" sha1="7d6b2d10decd487a172fc4c49e44c4f71ab0d703" />
+  </game>
+  <game name="Star Soldier - Vanishing Earth (USA)">
+    <category>Games</category>
+    <description>Star Soldier - Vanishing Earth (USA)</description>
+    <rom name="Star Soldier - Vanishing Earth (USA).v64" size="12582912" crc="052945e7" md5="ef7d98fee80b68e3b3c1144508eae1f5" sha1="a1a7ee7f86485c854f81dec66462ca83abc8edd2" />
+  </game>
+  <game name="Star Wars - Rogue Squadron (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Star Wars - Rogue Squadron (USA) (Rev 1)</description>
+    <rom name="Star Wars - Rogue Squadron (USA) (Rev 1).v64" size="16777216" crc="4a479574" md5="1822ef9f6da0ddf2b3ccc71f33d4a653" sha1="95b9042bfe4cca5ba801fefb47ca2d7e79f4c76d" />
+  </game>
+  <game name="Star Wars - Shadows of the Empire (USA) (Rev 2)">
+    <category>Games</category>
+    <description>Star Wars - Shadows of the Empire (USA) (Rev 2)</description>
+    <rom name="Star Wars - Shadows of the Empire (USA) (Rev 2).v64" size="12582912" crc="f4e546d1" md5="99b150a2e655d771ee1695cc1df65b65" sha1="f3ab96424b567417722d95790f4efe30333b23f6" sha256="e69ca01ad893d02e0de12c1f78569f2e7fe456f6947a4a19cf58d9129c105038" />
+  </game>
+  <game name="Star Wars Episode I - Battle for Naboo (USA)">
+    <category>Games</category>
+    <description>Star Wars Episode I - Battle for Naboo (USA)</description>
+    <rom name="Star Wars Episode I - Battle for Naboo (USA).v64" size="33554432" crc="97ebbea8" md5="abc8665fc1a2c76ff61394aea0dad6c3" sha1="9f2782c314f7a8f481e6515fcd19c5431c6d5347" />
+  </game>
+  <game name="Star Wars Episode I - Racer (USA)">
+    <category>Games</category>
+    <description>Star Wars Episode I - Racer (USA)</description>
+    <rom name="Star Wars Episode I - Racer (USA).v64" size="33554432" crc="494c667a" md5="dbbf693e7b9e264312b88b7310d18280" sha1="f7f84332057e3fde3168c34d781b8c2b8c312e57" sha256="3211ff21a7a3b1e640f04ba6cd6c0639bc543ad4031b79b9f510e3cf0fa434b4" />
+  </game>
+  <game name="StarCraft 64 (USA)">
+    <category>Games</category>
+    <description>StarCraft 64 (USA)</description>
+    <rom name="StarCraft 64 (USA).v64" size="33554432" crc="14c77369" md5="fcb1ede6d4f63dff012ce8c2e62e95cf" sha1="3466ce39800b160ab8157ba1505ada238ed10d4a" sha256="d04fd33c3aec1113ca3ae35f799cfeec5b6a37ed08f62a98bad9c8e1c02d0394" />
+  </game>
+  <game name="Starshot - Space Circus Fever (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Starshot - Space Circus Fever (USA) (En,Fr,Es)</description>
+    <rom name="Starshot - Space Circus Fever (USA) (En,Fr,Es).v64" size="12582912" crc="64370749" md5="5255c9f757d88188ed3d90faeaff462e" sha1="1a4b81c3bd09d24dbbfed6aae66cb6761429817b" sha256="ac207a9e75bcbcdee629d9fd6987d0b003340c01abf9cdf0dc6ba8dd97f8e9f0" />
+  </game>
+  <game name="Stunt Racer 64 (USA)">
+    <category>Games</category>
+    <description>Stunt Racer 64 (USA)</description>
+    <rom name="Stunt Racer 64 (USA).v64" size="12582912" crc="f60613de" md5="b84f3c943e89f3743befb4092deed5cc" sha1="69d2ccb020f710886e76f28288fea2846e341527" />
+  </game>
+  <game name="Super Bowling (USA)">
+    <category>Games</category>
+    <description>Super Bowling (USA)</description>
+    <rom name="Super Bowling (USA).v64" size="8388608" crc="e651cbaa" md5="61587d9a36d7e745bf53eb7a5c86dd65" sha1="876973c2e83d4f915f65d7231cbf9051a2cf03aa" />
+  </game>
+  <game name="Super Mario 64 (USA)">
+    <category>Games</category>
+    <description>Super Mario 64 (USA)</description>
+    <rom name="Super Mario 64 (USA).v64" size="8388608" crc="42c43204" md5="165a9558b7539507e73e7afecffb200c" sha1="1002dd7b56aa0a59a9103f1fb3d57d6b161f8da7" sha256="f3b0fc9f565f995368b6fa5aefc8ec1e5194c488948b41f3534dece4abcec2b4" />
+  </game>
+  <game name="Super Smash Bros. (USA)">
+    <category>Games</category>
+    <description>Super Smash Bros. (USA)</description>
+    <rom name="Super Smash Bros. (USA).v64" size="16777216" crc="dd2df6d9" md5="3c4e65d9b7bf55338496108f04da7f41" sha1="0fd35ae9976b4fe68ece1c6f2d9156d913ccf076" />
+  </game>
+  <game name="Supercross 2000 (USA)">
+    <category>Games</category>
+    <description>Supercross 2000 (USA)</description>
+    <rom name="Supercross 2000 (USA).v64" size="16777216" crc="5a8a721d" md5="b3922e74a81dc6f71a8fe3af472c17f4" sha1="03cbbfb4f57e2813cbe9050401d6144724b84d6f" />
+  </game>
+  <game name="Superman - The New Superman Aventures (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Superman - The New Superman Aventures (USA) (En,Fr,Es)</description>
+    <rom name="Superman - The New Superman Aventures (USA) (En,Fr,Es).v64" size="8388608" crc="f10d66f0" md5="6574373d96fb836e5e0b79db0f7d10ec" sha1="25fdc20ff0c55f6223c12058f7eab2df893ce9e4" />
+  </game>
+  <game name="Tarzan (USA)">
+    <category>Games</category>
+    <description>Tarzan (USA)</description>
+    <rom name="Tarzan (USA).v64" size="16777216" crc="2b59490b" md5="fb7d7d58e4e3cbd434db579aa4ef3f5e" sha1="64c186549f71134872fe1279a0440a95a2a60866" />
+  </game>
+  <game name="Tetrisphere (USA)">
+    <category>Games</category>
+    <description>Tetrisphere (USA)</description>
+    <rom name="Tetrisphere (USA).v64" size="8388608" crc="5db18578" md5="afedbba2ec96f65582229564b025bf4f" sha1="81ffbb3912aae46bf358fe03a96a090a9997ddb0" />
+  </game>
+  <game name="Tigger's Honey Hunt (USA)">
+    <category>Games</category>
+    <description>Tigger's Honey Hunt (USA)</description>
+    <rom name="Tigger's Honey Hunt (USA).v64" size="16777216" crc="79f8bf3b" md5="800e231deccd724d8b1f1f6820b8be90" sha1="5b48828607cfcecaaf3450ee369e5d0cabbafd7c" />
+  </game>
+  <game name="Tom Clancy's Rainbow Six (USA)">
+    <category>Games</category>
+    <description>Tom Clancy's Rainbow Six (USA)</description>
+    <rom name="Tom Clancy's Rainbow Six (USA).v64" size="16777216" crc="67f3d120" md5="445193c8c48c4ddda38412135fc59c09" sha1="1effa41aeaf6ebf626ea8e26093e0609015e1007" />
+  </game>
+  <game name="Tom and Jerry in Fists of Furry (USA)">
+    <category>Games</category>
+    <description>Tom and Jerry in Fists of Furry (USA)</description>
+    <rom name="Tom and Jerry in Fists of Furry (USA).v64" size="12582912" crc="f0bfc6ab" md5="9dcdfab5fa65efe5e18652e59a116e64" sha1="66c59eef4370edd573b3aead79e1c805ca768e1f" />
+  </game>
+  <game name="Tonic Trouble (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Tonic Trouble (USA) (Rev 1)</description>
+    <rom name="Tonic Trouble (USA) (Rev 1).v64" size="16777216" crc="0ecd289a" md5="b0488cd676773d283fe4fdec55418f32" sha1="88f9ace09f949a43253d37896e75472bc9ae6d12" />
+  </game>
+  <game name="Tony Hawk's Pro Skater (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Tony Hawk's Pro Skater (USA) (Rev 1)</description>
+    <rom name="Tony Hawk's Pro Skater (USA) (Rev 1).v64" size="12582912" crc="1be278c1" md5="a5e0125b0fd742e744505f3895165afc" sha1="8f6b113675cf437fa0686e35683ebdc8aaf11d39" />
+  </game>
+  <game name="Tony Hawk's Pro Skater 2 (USA)">
+    <category>Games</category>
+    <description>Tony Hawk's Pro Skater 2 (USA)</description>
+    <rom name="Tony Hawk's Pro Skater 2 (USA).v64" size="16777216" crc="6df2d58e" md5="bc77a627ad496c0668fd14558f0e9ac2" sha1="6c2d313aea3724f5638738923a58c0e765bddcfa" />
+  </game>
+  <game name="Tony Hawk's Pro Skater 3 (USA)">
+    <category>Games</category>
+    <description>Tony Hawk's Pro Skater 3 (USA)</description>
+    <rom name="Tony Hawk's Pro Skater 3 (USA).v64" size="16777216" crc="ed73272e" md5="a1aa4fce55d79e6f2e76bc04393008f7" sha1="63ecbb3d07b8ac20ed096af0735704ef715bd398" />
+  </game>
+  <game name="Top Gear Hyper-Bike (USA)">
+    <category>Games</category>
+    <description>Top Gear Hyper-Bike (USA)</description>
+    <rom name="Top Gear Hyper-Bike (USA).v64" size="16777216" crc="3e9ce2af" md5="35154380516ab853060a9b60ef6c30b5" sha1="4a146c7a53fb979bceedd79cc1719bd6130698a3" />
+  </game>
+  <game name="Top Gear Overdrive (USA)">
+    <category>Games</category>
+    <description>Top Gear Overdrive (USA)</description>
+    <rom name="Top Gear Overdrive (USA).v64" size="12582912" crc="b5b23053" md5="cb5e6ae88ad069b6e69a1d2feb793c42" sha1="2b79d74949bc631e74379720265e8633806290af" />
+  </game>
+  <game name="Top Gear Rally (USA)">
+    <category>Games</category>
+    <description>Top Gear Rally (USA)</description>
+    <rom name="Top Gear Rally (USA).v64" size="8388608" crc="a04f1cc0" md5="105d3fb95998914a3eb7ac9e7631c6d1" sha1="0dde80bae97b82fa56496360fc6b1bbfeaca6999" />
+  </game>
+  <game name="Top Gear Rally 2 (USA)">
+    <category>Games</category>
+    <description>Top Gear Rally 2 (USA)</description>
+    <rom name="Top Gear Rally 2 (USA).v64" size="12582912" crc="7e4e181c" md5="75c415a43440b19bed2672ee3884a707" sha1="2c51ef2ca9b738daa5f70b8199a64cd765a44243" />
+  </game>
+  <game name="Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)</description>
+    <rom name="Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).v64" size="12582912" crc="a11f0f8e" md5="53bb784d56a81c59b2c0246c37f7035f" sha1="e0cd3699fd9f5443d3dfa2333726eaea724d892d" />
+  </game>
+  <game name="Transformers - Beast Wars Transmetals (USA)">
+    <category>Games</category>
+    <description>Transformers - Beast Wars Transmetals (USA)</description>
+    <rom name="Transformers - Beast Wars Transmetals (USA).v64" size="16777216" crc="14c6b5e3" md5="f256b211e61ae0b75063a23a678f2d40" sha1="423e5388f643bbfda1f893382f1f91849be4dd99" />
+  </game>
+  <game name="Triple Play 2000 (USA)">
+    <category>Games</category>
+    <description>Triple Play 2000 (USA)</description>
+    <rom name="Triple Play 2000 (USA).v64" size="16777216" crc="bfb124fc" md5="e13208ce9412c9db3fb62fff93cd2b0d" sha1="e604aa2d812dfc73d20e3fc8c81cbb73439db88a" />
+  </game>
+  <game name="Turok - Dinosaur Hunter (USA) (Rev 2)">
+    <category>Games</category>
+    <description>Turok - Dinosaur Hunter (USA) (Rev 2)</description>
+    <rom name="Turok - Dinosaur Hunter (USA) (Rev 2).v64" size="8388608" crc="af6ea1b8" md5="3d1b3cf1fde3d730f92fcb4eaee32311" sha1="e5f7580f2909b79c623b93491af2bca5a64127c8" />
+  </game>
+  <game name="Turok - Rage Wars (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Turok - Rage Wars (USA) (Rev 1)</description>
+    <rom name="Turok - Rage Wars (USA) (Rev 1).v64" size="8388608" crc="282319a0" md5="19cecf6d71bfac5930420afb8a4582ef" sha1="c94f093486f2ba2030f077254d0b6ce26372e684" />
+  </game>
+  <game name="Turok 2 - Seeds of Evil (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Turok 2 - Seeds of Evil (USA) (Rev 1)</description>
+    <rom name="Turok 2 - Seeds of Evil (USA) (Rev 1).v64" size="33554432" crc="adec745f" md5="15877e23f64eef6f66a616da7b24d6e2" sha1="bf56fe227f6e1936e7ae54390ee09ec2f9500160" />
+  </game>
+  <game name="Turok 3 - Shadow of Oblivion (USA)">
+    <category>Games</category>
+    <description>Turok 3 - Shadow of Oblivion (USA)</description>
+    <rom name="Turok 3 - Shadow of Oblivion (USA).v64" size="33554432" crc="e0d0d902" md5="0d522595b31aabbd5dcf914c7975770a" sha1="0176e990fa8145dbba9b1781b44a121ea014cda4" sha256="9224a66366548877e49afb742b66877658844cc1988cb1e617dafe9d894cb005" />
+  </game>
+  <game name="Twisted Edge - Extreme Snowboarding (USA)">
+    <category>Games</category>
+    <description>Twisted Edge - Extreme Snowboarding (USA)</description>
+    <rom name="Twisted Edge - Extreme Snowboarding (USA).v64" size="12582912" crc="3a572b23" md5="8e18804153d55b4cf614e2176f7c1fab" sha1="0b737f0e48b4bfc80a78fe18e7e0530050f70fc0" />
+  </game>
+  <game name="V-Rally Edition 99 (USA)">
+    <category>Games</category>
+    <description>V-Rally Edition 99 (USA)</description>
+    <rom name="V-Rally Edition 99 (USA).v64" size="8388608" crc="bfef13e9" md5="5e82395c7f9c3ade651551682f9a9869" sha1="7fc14b6683a5cbf1597211eb2375e5ad0e16c756" />
+  </game>
+  <game name="Vigilante 8 (USA)">
+    <category>Games</category>
+    <description>Vigilante 8 (USA)</description>
+    <rom name="Vigilante 8 (USA).v64" size="8388608" crc="b445edcd" md5="afce4ff54d26b29ba7be5be1b180fee9" sha1="588807afb3acda05955b6362c21ca24a5f2e70a2" />
+  </game>
+  <game name="Vigilante 8 - 2nd Offense (USA)">
+    <category>Games</category>
+    <description>Vigilante 8 - 2nd Offense (USA)</description>
+    <rom name="Vigilante 8 - 2nd Offense (USA).v64" size="12582912" crc="764abdb3" md5="f2c52f565bd370e6827ae8c6438e5a51" sha1="2da6a5a3fa61077949582154597a4717bcf51e3a" />
+  </game>
+  <game name="Virtual Chess 64 (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Virtual Chess 64 (USA) (En,Fr,Es)</description>
+    <rom name="Virtual Chess 64 (USA) (En,Fr,Es).v64" size="4194304" crc="3cd894c4" md5="eec508e77327324b9cd88957c173079b" sha1="9f57ec795e3c62d88ea823a5866a7b1012b731db" />
+  </game>
+  <game name="Virtual Pool 64 (USA)">
+    <category>Games</category>
+    <description>Virtual Pool 64 (USA)</description>
+    <rom name="Virtual Pool 64 (USA).v64" size="4194304" crc="584b2a5f" md5="379a1b5091ac14011bbf13905f7358e3" sha1="5aa70fe4e2bf875ba089afd53d1fef27a59bb3f9" sha256="feecc7cec16a711f216d455036fc561afdf6d7c91236068872b5bd181ac7086d" />
+  </game>
+  <game name="WCW Backstage Assault (USA)">
+    <category>Games</category>
+    <description>WCW Backstage Assault (USA)</description>
+    <rom name="WCW Backstage Assault (USA).v64" size="33554432" crc="d3a9f234" md5="a08b158b8eebb9fe2cbf5c5bec86266e" sha1="f31e03752c7502e99a201bf86ffb453ac260d426" />
+  </game>
+  <game name="WCW Mayhem (USA)">
+    <category>Games</category>
+    <description>WCW Mayhem (USA)</description>
+    <rom name="WCW Mayhem (USA).v64" size="16777216" crc="a1911368" md5="953870b29ec86fdb782136f334bcb05c" sha1="0b848a7747c97286d42764f9237d9ef05b39becd" />
+  </game>
+  <game name="WCW Nitro (USA)">
+    <category>Games</category>
+    <description>WCW Nitro (USA)</description>
+    <rom name="WCW Nitro (USA).v64" size="12582912" crc="ac1909a9" md5="c8c8b278a90951c9eee9097ceee92194" sha1="f4c03ae1ccc3eac5b0f8b37b0293db44daa6397c" />
+  </game>
+  <game name="WCW vs. nWo - World Tour (USA) (Rev 1)">
+    <category>Games</category>
+    <description>WCW vs. nWo - World Tour (USA) (Rev 1)</description>
+    <rom name="WCW vs. nWo - World Tour (USA) (Rev 1).v64" size="12582912" crc="85e0c097" md5="d87e95c5b6bc2e1d484c2f8cc3986d63" sha1="6ecedd03908627b4a76c3e1cc46d3567e755591d" />
+  </game>
+  <game name="WCW-nWo Revenge (USA)">
+    <category>Games</category>
+    <description>WCW-nWo Revenge (USA)</description>
+    <rom name="WCW-nWo Revenge (USA).v64" size="16777216" crc="2257fd02" md5="e3635e2f657ecca2b00714034f5a6330" sha1="ef6cd4df563c3dbbf8e7afd890a6c4a3e0704ff6" sha256="321b9573878395bba2a2e7af8655b96bd3dfcd23be6dc6e0bcdb33d31528bbf6" />
+  </game>
+  <game name="WWF Attitude (USA)">
+    <category>Games</category>
+    <description>WWF Attitude (USA)</description>
+    <rom name="WWF Attitude (USA).v64" size="33554432" crc="f694db1e" md5="71ee30c9bc45e33089226b02b23eee7a" sha1="9519c9a7e9f370e565545fa5f5a21077f585310b" sha256="2417c80a7a4625e0ed4004cf13b60df0cfe0ed816abe82035f5cf5d00a5f9c0d" />
+  </game>
+  <game name="WWF No Mercy (USA) (Rev 1)">
+    <category>Games</category>
+    <description>WWF No Mercy (USA) (Rev 1)</description>
+    <rom name="WWF No Mercy (USA) (Rev 1).v64" size="33554432" crc="afbc514e" md5="761d5c8fb24caf5f44613acd5c9ad4b2" sha1="159ecd53e5fd9b0f607cb39042057f55f07d18a6" />
+  </game>
+  <game name="WWF War Zone (USA)">
+    <category>Games</category>
+    <description>WWF War Zone (USA)</description>
+    <rom name="WWF War Zone (USA).v64" size="12582912" crc="6cfe13a8" md5="0a8f9866320695a5032b946e6e4e6da9" sha1="852a6d39fc61c82bf13e852978924f8c7db8d039" sha256="e1e9f7275b77d10904d37d3d3f585578244c37b8cdfad75dc6f8e588f3897f3a" />
+  </game>
+  <game name="WWF WrestleMania 2000 (USA)">
+    <category>Games</category>
+    <description>WWF WrestleMania 2000 (USA)</description>
+    <rom name="WWF WrestleMania 2000 (USA).v64" size="33554432" crc="d514e83c" md5="20ab9371eaa3bab3e3ed169a7f9a59d1" sha1="d8cf547eb81c72c748be87b6ce6b2f66c2699bd0" />
+  </game>
+  <game name="Waialae Country Club - True Golf Classics (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Waialae Country Club - True Golf Classics (USA) (Rev 1)</description>
+    <rom name="Waialae Country Club - True Golf Classics (USA) (Rev 1).v64" size="16777216" crc="76ebdb18" md5="8f0fd604b64dfdf18e3922258ede4dd1" sha1="305e4a9fa345cf74000f7f05aec2483f4c7bdf3e" />
+  </game>
+  <game name="War Gods (USA)">
+    <category>Games</category>
+    <description>War Gods (USA)</description>
+    <rom name="War Gods (USA).v64" size="12582912" crc="10635b27" md5="804e38e2ff638ef8b2e02e231ad2f8a2" sha1="3ff5c88420221f95eb27a65519c6fe558618bfc7" />
+  </game>
+  <game name="Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)</description>
+    <rom name="Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).v64" size="8388608" crc="dd2bb7b6" md5="d28dbe3d633fc8f955814f9367e61abe" sha1="d37f82b15669502487b3e5790e76e3ed33ef9831" />
+  </game>
+  <game name="Wayne Gretzky's 3D Hockey '98 (USA)">
+    <category>Games</category>
+    <description>Wayne Gretzky's 3D Hockey '98 (USA)</description>
+    <rom name="Wayne Gretzky's 3D Hockey '98 (USA).v64" size="8388608" crc="5c593e2e" md5="4f055251f47ce44d618e0ee4b3962c98" sha1="d561eba53bed8b399635298233a073fffaf0eede" sha256="ed571e1b416c084bfb040408a44cf0f9f4ca978ba93fd35f88b5c56dc30ed9cc" />
+  </game>
+  <game name="Wayne Gretzky's 3D Hockey (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Wayne Gretzky's 3D Hockey (USA) (Rev 1)</description>
+    <rom name="Wayne Gretzky's 3D Hockey (USA) (Rev 1).v64" size="8388608" crc="6e5a30ed" md5="5a54b97a4049e3987bc057535f95fb2b" sha1="073b4e9cd8d93a58145625ffef9b1fc642eb31a8" />
+  </game>
+  <game name="Wetrix (USA) (En,Fr,De,Es,It,Nl)">
+    <category>Games</category>
+    <description>Wetrix (USA) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Wetrix (USA) (En,Fr,De,Es,It,Nl).v64" size="8388608" crc="4eda94c1" md5="b0df900cd2b612f23ce81e1ab28daba2" sha1="80cc6c54cc9517a33e90ccf0cc9f2c03d1f050ad" sha256="23407b95d66db836640088da8a26493d90022d82b239185f51a92c29a4e793f7" />
+  </game>
+  <game name="Wheel of Fortune (USA)">
+    <category>Games</category>
+    <description>Wheel of Fortune (USA)</description>
+    <rom name="Wheel of Fortune (USA).v64" size="4194304" crc="c2571693" md5="6f3c444a52bbeb79664518df389d5bd7" sha1="a40d8dae6bfe2c0abdf1fd6b1eb219f4da988bd2" />
+  </game>
+  <game name="WinBack - Covert Operations (USA)">
+    <category>Games</category>
+    <description>WinBack - Covert Operations (USA)</description>
+    <rom name="WinBack - Covert Operations (USA).v64" size="16777216" crc="1a6334d0" md5="3cddd6598405ce272e14bace45f082b5" sha1="b0fafa4570b27f42428dffa3bac2ba582b99fe21" />
+  </game>
+  <game name="Wipeout 64 (USA)">
+    <category>Games</category>
+    <description>Wipeout 64 (USA)</description>
+    <rom name="Wipeout 64 (USA).v64" size="8388608" crc="3e8cce96" md5="cb63c8cd01a19341b725c9cbc8f28776" sha1="4b9d19e3010756d3106f8b20b2b90daddb80bc1c" />
+  </game>
+  <game name="World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)">
+    <category>Games</category>
+    <description>World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
+    <rom name="World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).v64" size="12582912" crc="b875cd94" md5="197399a234ff807c2b0a69061d719c47" sha1="8eca8b866a0f746e9bd7a6fc1b8dff6bd7b2f210" sha256="8217ead5d20e9581a07885714300f01ffbe8e8977c95bb3c08346f7b0f814f0f" />
+  </game>
+  <game name="World Driver Championship (USA)">
+    <category>Games</category>
+    <description>World Driver Championship (USA)</description>
+    <rom name="World Driver Championship (USA).v64" size="16777216" crc="dcd9d2d2" md5="19831c89b9033f7bcfd0c7106e3c3ec6" sha1="b5a329e477febc75a0b73a7466c48bbfd1320bff" />
+  </game>
+  <game name="Worms Armageddon (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Worms Armageddon (USA) (En,Fr,Es)</description>
+    <rom name="Worms Armageddon (USA) (En,Fr,Es).v64" size="12582912" crc="556268b7" md5="05765f60b64f167ab0cda48183a72384" sha1="04d60d848a5cb9923eb95b016eebb6af829296f2" />
+  </game>
+  <game name="Xena - Warrior Princess - The Talisman of Fate (USA)">
+    <category>Games</category>
+    <description>Xena - Warrior Princess - The Talisman of Fate (USA)</description>
+    <rom name="Xena - Warrior Princess - The Talisman of Fate (USA).v64" size="12582912" crc="7cb26725" md5="2c503835fd4cf83bdbcdef0564d995d7" sha1="91a1e7c709d7cd8065c38cd23910d19c5bf991e1" sha256="dfbd493af1560d8959e6853df7b359ed28bd05cc5501bd578032699ec913c6df" />
+  </game>
+  <game name="Yoshi's Story (USA) (En,Ja)">
+    <category>Games</category>
+    <description>Yoshi's Story (USA) (En,Ja)</description>
+    <rom name="Yoshi's Story (USA) (En,Ja).v64" size="16777216" crc="01a4b1e9" md5="d3436319d51df291ba71a2e512ddb7b5" sha1="2263c34ff25cce79a51693ebba109c76f6246d01" sha256="debc58056b30c4b59c4e079c9a06c52ccc468f8fd531cffde7dcc0123c4e7ec6" />
+  </game>
+</datafile>

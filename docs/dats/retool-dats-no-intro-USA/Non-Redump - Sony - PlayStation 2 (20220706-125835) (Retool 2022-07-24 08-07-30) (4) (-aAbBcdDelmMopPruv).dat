@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Non-Redump - Sony - PlayStation 2 (Retool)</name>
+    <description>Non-Redump - Sony - PlayStation 2 (Retool)</description>
+    <version>20220706-125835</version>
+    <date>2022-07-24 08-07-30</date>
+    <author>Gefflon, Hiccup, norkmetnoil577, Seventy7 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="High Heat Major League Baseball 2003 (USA) (v1.03)">
+    <category>Games</category>
+    <description>High Heat Major League Baseball 2003 (USA) (v1.03)</description>
+    <rom name="High Heat Major League Baseball 2003 (USA) (v1.03).bin" size="428397984" crc="a7b193ef" md5="22e42ad3bb7cf5bd56b63b08f41fad88" sha1="71f630b3c0aec82267ea742201a6ce7b65dd0507" sha256="eb167b5e04e10d42add35b5d8a1dc4e3a55e54e8709cc5eaa1f9e6d2c2e75ca7" />
+    <rom name="High Heat Major League Baseball 2003 (USA) (v1.03).cue" size="116" crc="27cd1741" md5="228d71aaa9cdb185aa01bfc91c2b3847" sha1="e2810bcef64004e2aba448b553bdee002f6e2f7c" sha256="54bc78523cb00186a8809f2471b95f526d3acc2aafaa1cae0d373dee6184be78" />
+  </game>
+  <game name="Lord of the Rings, The - Aragorn's Quest (USA) (v1.00)">
+    <category>Games</category>
+    <description>Lord of the Rings, The - Aragorn's Quest (USA) (v1.00)</description>
+    <rom name="Lord of the Rings, The - Aragorn's Quest (USA) (v1.00).bin" size="824818176" crc="b61fc458" md5="d537dc653fa531239cb7a0a0023a8692" sha1="d1363dd0c073e722570d6cf305626ae80dad1cc3" sha256="7a8ae3822f22dbe6f99233cfbc05a0807a2e332b42b2fb7c27e8c68d620a62f1" />
+    <rom name="Lord of the Rings, The - Aragorn's Quest (USA) (v1.00).cue" size="124" crc="f9faa9ee" md5="70dc43ac13af40b0e047fae6ffd25daf" sha1="41a3baf393f0dd2d3e1f3a1bb5e81ecd450000f7" sha256="0e333b8de4359b236ea9300fb2847e95ba466d7293e4e0b53edc1d3cb4fe1a4a" />
+  </game>
+  <game name="Nickelodeon The Naked Brothers Band - The Video Game (USA)">
+    <category>Games</category>
+    <description>Nickelodeon The Naked Brothers Band - The Video Game (USA)</description>
+    <rom name="Nickelodeon The Naked Brothers Band - The Video Game (USA).iso" size="1277263872" crc="cbbaa447" md5="f3b1477f09c1a58f169a16f40500066e" sha1="3d7f9b8901fe4c4cb8796edb68939d20af671218" sha256="ea1e751db33b7b405c296c3f77e1d06d500d18228e5621abf1322084c6badca3" />
+  </game>
+  <game name="World Championship Poker featuring Howard Lederer - All In (USA) (v1.00)">
+    <category>Games</category>
+    <description>World Championship Poker featuring Howard Lederer - All In (USA) (v1.00)</description>
+    <rom name="World Championship Poker featuring Howard Lederer - All In (USA) (v1.00).iso" size="1330053120" crc="21560bd7" md5="88e54fcff77edf0245ae6bcf8c05aa61" sha1="9db7a4a198a9035b423364d22f99e02c2ecb650c" sha256="de37ebc895be9d103c147b6e36a3baabe02bbec1c73aaefa96b22e576a73f7cb" />
+  </game>
+</datafile>

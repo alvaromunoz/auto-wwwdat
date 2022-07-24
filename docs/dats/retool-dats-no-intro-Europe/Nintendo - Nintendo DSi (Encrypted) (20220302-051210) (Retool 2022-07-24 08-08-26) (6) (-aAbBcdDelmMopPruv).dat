@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Nintendo - Nintendo DSi (Encrypted) (Retool)</name>
+    <description>Nintendo - Nintendo DSi (Encrypted) (Retool)</description>
+    <version>20220302-051210</version>
+    <date>2022-07-24 08-08-26</date>
+    <author>aci68, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, relax, SonGoku, xuom2, zg &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Face Training (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Face Training (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Face Training (Europe) (En,Fr,De,Es,It).dsi" size="134217728" crc="a67fc78e" md5="fbadb8ff08d3303c7339928808f2c1a8" sha1="943f64fc047d20657d5fad29eea8ad92815998fb" sha256="f3645211b7aca25b517821e4ac3a5ca0006ef04b8ee2748c49caf282f9abfb7d" />
+  </game>
+  <game name="Hair Salon (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Hair Salon (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Hair Salon (Europe) (En,Fr,De,Es,It).dsi" size="33554432" crc="de72c673" md5="61bee9adf14bf470bda73f33a053ab58" sha1="698b0429028da9668cfb2ee65510783f1d26057c" sha256="e7a2156232f52f723165dab837d3b745d30e4a869fd3856978b7237671dd0707" />
+  </game>
+  <game name="Hidden Photo (Europe) (En,Fr,Es,It)">
+    <category>Games</category>
+    <description>Hidden Photo (Europe) (En,Fr,Es,It)</description>
+    <rom name="Hidden Photo (Europe) (En,Fr,Es,It).dsi" size="33554432" crc="8861d260" md5="e6710cb05626e928ca06d2eb4c16ec31" sha1="0e1f0e49149dcc8bc522c680a4948ca908a76b52" sha256="9cdb3b7bf5eb92c28721b01bb9cbf16ab79d7a703a17e40302e0a8a5f65fc5aa" />
+  </game>
+  <game name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It).dsi" size="268435456" crc="c2b2f5db" md5="82c6fb4bded0eae18f453385697c4aeb" sha1="2c0575c20a2150d3381d843f2babe7c4b6fc10c4" />
+  </game>
+  <game name="System - Flaw (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>System - Flaw (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="System - Flaw (Europe) (En,Fr,De,Es,It).dsi" size="33554432" crc="dca8dacd" md5="474322c0990f604c7a7d89bff93540a1" sha1="b197454303271894c614e0e0d27ce4540fb16be5" sha256="d7d8253cbd32b4237bdc102034840ca05c31635dee344da8c1b1ddfddd156da7" />
+  </game>
+  <game name="WFRUTester (World)">
+    <category>Games</category>
+    <description>WFRUTester (World)</description>
+    <rom name="WFRUTester (World).dsi" size="268435456" crc="eb638291" md5="edab04f62d562ba8421f7eddeade6601" sha1="329a255a946bdcb70bc76077ab6ddad75617519d" sha256="06e42b845323f4729952489090d8d8d1b1582fc64897c66ad1dd0dc417f6dc37" />
+  </game>
+</datafile>
