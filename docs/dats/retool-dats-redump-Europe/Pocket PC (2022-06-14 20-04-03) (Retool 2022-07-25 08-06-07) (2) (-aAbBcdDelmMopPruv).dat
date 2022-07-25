@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Pocket PC (Retool)</name>
+    <description>Pocket PC (Retool)</description>
+    <version>2022-06-14 20-04-03</version>
+    <date>2022-07-25 08-06-07</date>
+    <author>redump.org &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://redump.org/</url>
+  </header>
+  <game name="Graduate Chess (Europe) (En,Fr,De)">
+    <category>Games</category>
+    <description>Graduate Chess (Europe) (En,Fr,De)</description>
+    <rom name="Graduate Chess (Europe) (En,Fr,De).cue" size="100" crc="4d2bd83b" md5="18d44ba0d1943bfab30a3cfbb3f8dfdc" sha1="a64165369a74fc6ff6aae89a9f8f697df973e92b" />
+    <rom name="Graduate Chess (Europe) (En,Fr,De).bin" size="5371968" crc="84cabce5" md5="1472c99660652a7706fd9c9a4d3f2cb3" sha1="cbebea91dc00a2453ef30e05b300d08e2df8d702" />
+  </game>
+  <game name="Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv)">
+    <category>Games</category>
+    <description>Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
+    <rom name="Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv).cue" size="110" crc="203ec686" md5="7e25ec18c5135cc6baf7cad93c54b6da" sha1="306bb1e0382a632142af93522532402babb5bb18" />
+    <rom name="Pocket Fritz (Europe) (En,Fr,De,Es,It,Nl,Sv).bin" size="17778768" crc="635a5bfd" md5="3b33032769c78857830e4c29e38b49f5" sha1="946d30bdac5763f895f6720fd59c0d566737561f" />
+  </game>
+</datafile>

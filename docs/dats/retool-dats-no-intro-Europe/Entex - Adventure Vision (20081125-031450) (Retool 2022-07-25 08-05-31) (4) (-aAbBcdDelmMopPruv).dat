@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Entex - Adventure Vision (Retool)</name>
+    <description>Entex - Adventure Vision (Retool)</description>
+    <version>20081125-031450</version>
+    <date>2022-07-25 08-05-31</date>
+    <author>Unknown &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Defender (USA, Europe)">
+    <category>Games</category>
+    <description>Defender (USA, Europe)</description>
+    <rom name="Defender (USA, Europe).bin" size="4096" crc="3e280096" md5="24fa782ff3e76241c4862481802e5347" sha1="33e6bc08b3e8a951942e078102e90fbc8ba729a8" />
+  </game>
+  <game name="Space Force (USA, Europe)">
+    <category>Games</category>
+    <description>Space Force (USA, Europe)</description>
+    <rom name="Space Force (USA, Europe).bin" size="4096" crc="c70d4028" md5="a991ce001b95c2c3455a8b2b30a47f61" sha1="86c1a6eb8a5070f4be32bf4e83c0d5951e831d27" />
+  </game>
+  <game name="Super Cobra (USA, Europe)">
+    <category>Games</category>
+    <description>Super Cobra (USA, Europe)</description>
+    <rom name="Super Cobra (USA, Europe).bin" size="4096" crc="b6045c9e" md5="42acae1f1005044cc912853bf729331c" sha1="fd059081d8d82f51dd1415cc3710f1fa5ebb1336" />
+  </game>
+  <game name="Turtles (USA, Europe)">
+    <category>Games</category>
+    <description>Turtles (USA, Europe)</description>
+    <rom name="Turtles (USA, Europe).bin" size="4096" crc="33a23eba" md5="3e7a1ce7b7d69fecd67792a375864759" sha1="88748cf4080646e0a2f115a7f6e6001916314816" />
+  </game>
+</datafile>

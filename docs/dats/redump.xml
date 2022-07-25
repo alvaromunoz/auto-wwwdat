@@ -18,10 +18,10 @@
 <datfile>
 <name>Arcade - Konami - e-Amusement</name>
 <description>Arcade - Konami - e-Amusement</description>
-<version>2022-05-30 05-08-10</version>
+<version>2022-07-24 19-35-24</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Arcade - Konami - e-Amusement - Datfile (26) (2022-05-30 05-08-10).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Arcade - Konami - e-Amusement - Datfile (34) (2022-07-24 19-35-24).dat</url>
 </datfile>
 <datfile>
 <name>Arcade - Konami - FireBeat</name>
@@ -130,10 +130,10 @@
 <datfile>
 <name>Commodore - Amiga CD</name>
 <description>Commodore - Amiga CD</description>
-<version>2022-07-23 03-43-08</version>
+<version>2022-07-24 20-42-58</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Commodore - Amiga CD - Datfile (482) (2022-07-23 03-43-08).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Commodore - Amiga CD - Datfile (483) (2022-07-24 20-42-58).dat</url>
 </datfile>
 <datfile>
 <name>Commodore - Amiga CD32</name>
@@ -170,10 +170,10 @@
 <datfile>
 <name>IBM - PC compatible</name>
 <description>IBM - PC compatible</description>
-<version>2022-07-24 02-58-17</version>
+<version>2022-07-25 09-41-11</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/IBM - PC compatible - Datfile (36179) (2022-07-24 02-58-17).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/IBM - PC compatible - Datfile (36205) (2022-07-25 09-41-11).dat</url>
 </datfile>
 <datfile>
 <name>Incredible Technologies - Eagle</name>
@@ -258,18 +258,18 @@
 <datfile>
 <name>Nintendo - GameCube</name>
 <description>Nintendo - GameCube</description>
-<version>2022-07-24 01-13-48</version>
+<version>2022-07-24 22-53-42</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Nintendo - GameCube - Datfile (1956) (2022-07-24 01-13-48).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Nintendo - GameCube - Datfile (1956) (2022-07-24 22-53-42).dat</url>
 </datfile>
 <datfile>
 <name>Nintendo - Wii</name>
 <description>Nintendo - Wii</description>
-<version>2022-07-24 02-17-20</version>
+<version>2022-07-24 22-41-55</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Nintendo - Wii - Datfile (3653) (2022-07-24 02-17-20).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Nintendo - Wii - Datfile (3653) (2022-07-24 22-41-55).dat</url>
 </datfile>
 <datfile>
 <name>Palm</name>
@@ -330,10 +330,10 @@
 <datfile>
 <name>Sega - Mega CD & Sega CD</name>
 <description>Sega - Mega CD & Sega CD</description>
-<version>2022-07-12 21-10-04</version>
+<version>2022-07-24 18-26-28</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Sega - Mega CD & Sega CD - Datfile (539) (2022-07-12 21-10-04).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Sega - Mega CD & Sega CD - Datfile (539) (2022-07-24 18-26-28).dat</url>
 </datfile>
 <datfile>
 <name>Sega - Prologue 21</name>
@@ -346,18 +346,18 @@
 <datfile>
 <name>Sega - Saturn</name>
 <description>Sega - Saturn</description>
-<version>2022-07-23 14-35-50</version>
+<version>2022-07-24 18-18-42</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Sega - Saturn - Datfile (2355) (2022-07-23 14-35-50).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Sega - Saturn - Datfile (2355) (2022-07-24 18-18-42).dat</url>
 </datfile>
 <datfile>
 <name>Sharp - X68000</name>
 <description>Sharp - X68000</description>
-<version>2022-06-07 04-07-33</version>
+<version>2022-07-24 18-42-32</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Sharp - X68000 - Datfile (27) (2022-06-07 04-07-33).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Sharp - X68000 - Datfile (28) (2022-07-24 18-42-32).dat</url>
 </datfile>
 <datfile>
 <name>SNK - Neo Geo CD</name>
@@ -370,10 +370,10 @@
 <datfile>
 <name>Sony - PlayStation</name>
 <description>Sony - PlayStation</description>
-<version>2022-07-23 15-23-51</version>
+<version>2022-07-25 00-11-18</version>
 <author>redump.org</author>
 <comment>auto-wwwdat</comment>
-<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Sony - PlayStation - Datfile (10660) (2022-07-23 15-23-51).dat</url>
+<url>https://alvaromunoz.github.io/auto-wwwdat/dats/redump/Sony - PlayStation - Datfile (10660) (2022-07-25 00-11-18).dat</url>
 </datfile>
 <datfile>
 <name>Sony - PlayStation 2</name>

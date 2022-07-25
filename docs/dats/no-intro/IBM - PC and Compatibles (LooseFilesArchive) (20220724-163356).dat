@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>IBM - PC and Compatibles (LooseFilesArchive)</name>
+    <description>IBM - PC and Compatibles (LooseFilesArchive)</description>
+    <version>20220724-163356</version>
+    <author>FakeShemp, Gefflon, Hiccup, MeguCocoa, xuom2</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <comment>Software Preservation Society (http://www.softpres.org/games)</comment>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Worms Armageddon (USA) (Press Kit) (Mac)">
+    <description>Worms Armageddon (USA) (Press Kit) (Mac)</description>
+    <rom name="WormsArmageddonN64Assets.rar" size="26393720" crc="15064082" md5="96498f16ac16e463d4cd8dcd83f07427" sha1="12d55dc86aba9cfe26e8162932558e24b907621a" sha256="49e4a953c0f55230df67f7f91d6ad5e47835e98f73536edd7327485c3fb77bed" status="baddump" />
+  </game>
+</datafile>
