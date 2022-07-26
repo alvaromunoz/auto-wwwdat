@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Atari - ST (Retool)</name>
+    <description>Atari - ST (Retool)</description>
+    <version>20220506-114836</version>
+    <date>2022-07-26 08-05-04</date>
+    <author>Connie, FakeShemp, Hiccup, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Indiana Jones and the Temple of Doom (USA)">
+    <category>Games</category>
+    <description>Indiana Jones and the Temple of Doom (USA)</description>
+    <rom name="Indiana Jones and the Temple of Doom (USA).ipf" size="518615" crc="f1ef6832" md5="6b5f082f50f24f445adcdb1cbafa7255" sha1="9a55a3f7a87d6a9aa947787a9bac75a8e93447e2" />
+  </game>
+  <game name="Quink (USA)">
+    <category>Games</category>
+    <description>Quink (USA)</description>
+    <rom name="Quink (USA).ipf" size="469240" crc="ba6001ee" md5="84c8181b53477dbfb069d6b4f8cd6ff6" sha1="60f50797be41e19229254c6c7b8960e9e73cb233" />
+  </game>
+  <game name="[MIA] Lock-On (USA)">
+    <category>Games</category>
+    <description>[MIA] Lock-On (USA)</description>
+    <rom name="Lock-On (USA) (Data Disk).ipf" size="468252" mia="yes" crc="c7467884" />
+    <rom name="Lock-On (USA).ipf" size="469240" mia="yes" crc="81582cef" />
+  </game>
+</datafile>

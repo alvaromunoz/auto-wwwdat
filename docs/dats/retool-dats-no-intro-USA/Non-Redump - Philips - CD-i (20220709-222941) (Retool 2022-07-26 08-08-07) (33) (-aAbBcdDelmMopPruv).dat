@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Non-Redump - Philips - CD-i (Retool)</name>
+    <description>Non-Redump - Philips - CD-i (Retool)</description>
+    <version>20220709-222941</version>
+    <date>2022-07-26 08-08-07</date>
+    <author>Hiccup, MeguCocoa, norkmetnoil577, Seventy7 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Accent Health - Information for Healthy Living - January 2004 (USA)">
+    <category>Games</category>
+    <description>Accent Health - Information for Healthy Living - January 2004 (USA)</description>
+    <rom name="Accent Health - Information for Healthy Living - January 2004 (USA).bin" size="645275904" crc="33bb3215" md5="fe00a0a69b2a76272065fa71881afd25" sha1="85855f631ca8703d82a1530e0ef7909e2e2f9f79" />
+    <rom name="Accent Health - Information for Healthy Living - January 2004 (USA).cue" size="154" crc="6ada440d" md5="780b1474b26162f7447da418f6753d6d" sha1="97b97d2e03fd51158d36ac9be5f4d960dc8bdf5f" />
+  </game>
+  <game name="Accent Health - Information for Healthy Living - November 2004 - 50 Silver CDi 1104 (USA)">
+    <category>Games</category>
+    <description>Accent Health - Information for Healthy Living - November 2004 - 50 Silver CDi 1104 (USA)</description>
+    <rom name="Accent Health - Information for Healthy Living - November 2004 - 50 Silver CDi 1104 (USA).bin" size="622520304" crc="5363bc00" md5="7ed29523018a53c055c8d4baebce7ec5" sha1="56e6166373e44f352097141f5d75479deab5f8c2" />
+    <rom name="Accent Health - Information for Healthy Living - November 2004 - 50 Silver CDi 1104 (USA).cue" size="176" crc="fb9ab3fa" md5="86dd1b64bb8441b4bf712453d393ba40" sha1="78626071938f6d0cc6925f6b7eed795a89470f80" />
+  </game>
+  <game name="Accent Health - Information for Healthy Living - November 2004 - General CDi 11-04 (USA)">
+    <category>Games</category>
+    <description>Accent Health - Information for Healthy Living - November 2004 - General CDi 11-04 (USA)</description>
+    <rom name="Accent Health - Information for Healthy Living - November 2004 - General CDi 11-04 (USA).bin" size="609643104" crc="4b5fd9ec" md5="ef32feccb82f7764b54701113baa42b7" sha1="2ce90ba51be0f8666ec0be684ace94237f2561f8" />
+    <rom name="Accent Health - Information for Healthy Living - November 2004 - General CDi 11-04 (USA).cue" size="175" crc="45ea9afa" md5="1e4446281521e61424434b9963cf9950" sha1="30fa643593060383cfa276cd39c077f3f4f4f25d" />
+  </game>
+  <game name="Accent Health - Information for Healthy Living - October 2004 (USA)">
+    <category>Games</category>
+    <description>Accent Health - Information for Healthy Living - October 2004 (USA)</description>
+    <rom name="Accent Health - Information for Healthy Living - October 2004 (USA).bin" size="616699104" crc="558d0e4e" md5="93c7719c4cfd5de2fc3e479bdc461f9f" sha1="da89bb8c8f4b12fc8099f627bbfa668f3525e30c" />
+    <rom name="Accent Health - Information for Healthy Living - October 2004 (USA).cue" size="154" crc="243040ea" md5="28750258b500cf6fb71fc967906b0cbc" sha1="1b8ee4ee7a296b43ff69b13d3cfac4a52410b0a1" />
+  </game>
+  <game name="Bees and How they Live (USA)">
+    <category>Games</category>
+    <description>Bees and How they Live (USA)</description>
+    <rom name="Bees and How they Live (USA).bin" size="219265200" crc="9be3b9e0" md5="0ac966530320465c29316859fd1d7af2" sha1="433f1435fb19c1ade71e1ba8e6efe17fcb8074d7" />
+    <rom name="Bees and How they Live (USA).cue" size="117" crc="70bb2024" md5="abf5c745ff0bca344b2862d12e742298" sha1="acc975b068d53c20915110d39630c07316859922" />
+  </game>
+  <game name="CD-i Title Sampler - Fall '94 (USA)">
+    <category>Games</category>
+    <description>CD-i Title Sampler - Fall '94 (USA)</description>
+    <rom name="CD-i Title Sampler - Fall '94 (USA).bin" size="578415600" crc="16aa3437" md5="3adeef14da496a3e686772501c638c5a" sha1="25d5532da441a0eb1dba4be375422d3db1e02956" />
+    <rom name="CD-i Title Sampler - Fall '94 (USA).cue" size="99" crc="21cf15af" md5="6840f4dab4424b8831a544b921062052" sha1="14f97459493898103f73ed427e42284486274728" />
+  </game>
+  <game name="CDISC 4 - Shareware Disc (USA)">
+    <category>Games</category>
+    <description>CDISC 4 - Shareware Disc (USA)</description>
+    <rom name="CDISC 4 - Shareware Disc (USA).bin" size="350859600" crc="3ef427f6" md5="8bd60eba56116ff1cc87cd2f14d6d22b" sha1="6262bc085b47c68b8416db1c625e440713a12157" />
+    <rom name="CDISC 4 - Shareware Disc (USA).cue" size="360" crc="b1c9c2f1" md5="0a23a3e20433fc958a0aac079b711af8" sha1="bbfe3c861143e1d0812d69c2d22589d3ea041507" />
+  </game>
+  <game name="Discovery - Your Place in the World (USA)">
+    <category>Games</category>
+    <description>Discovery - Your Place in the World (USA)</description>
+    <rom name="Discovery - Your Place in the World (USA).bin" size="743173200" crc="efc4d02a" md5="fb70c3a60f2e39dc17c87720317b0323" sha1="89ca43ffebfe0e77158a21889c044e9b49cb03db" />
+    <rom name="Discovery - Your Place in the World (USA).cue" size="130" crc="b8311ac4" md5="386fec88bfda8f3c4f01a4503487eabf" sha1="4e872d417e5640458e3ef9e1da0ddde068ccc69b" />
+  </game>
+  <game name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 1)">
+    <category>Games</category>
+    <description>Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 1)</description>
+    <rom name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 1).bin" size="654625104" crc="c05dd73e" md5="bc5a7c793cc458db892be63ac588e3e6" sha1="b9b5a0e4ea333f5a3ce5d856e5704b1971a6828a" />
+    <rom name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 1).cue" size="114" crc="7a38ffb0" md5="9ebb81e6b05299c372be74ef3c109834" sha1="8789e7d80bb01092f1d5353e8205b617e8153aad" />
+  </game>
+  <game name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 2)">
+    <category>Games</category>
+    <description>Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 2)</description>
+    <rom name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 2).bin" size="620756304" crc="f69e02e9" md5="e76fdb663d512065e9da985d5eebe22c" sha1="173b2d220de70b5e26d8538801b45025623c6f71" />
+    <rom name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 2).cue" size="114" crc="fe3d6a60" md5="b83c279ff225015185a53d2291b620cd" sha1="55916412620601eef405ccff6f0fd7de97cff0f1" />
+  </game>
+  <game name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 4)">
+    <category>Games</category>
+    <description>Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 4)</description>
+    <rom name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 4).bin" size="575950704" crc="c2255413" md5="02216b05440f99d0bea0111a6a39d60d" sha1="22fd806f6f5c6509279669d2910441a5b5b4601e" />
+    <rom name="Dr. Ross Nash - Cosmetic Techniques (USA) (Disc 4).cue" size="114" crc="2d474781" md5="71b32e1456651d107c4e40267600f79c" sha1="0a72cf40b8bb44365e6db74888552de214101699" />
+  </game>
+  <game name="Exploring our Solar System (USA)">
+    <category>Games</category>
+    <description>Exploring our Solar System (USA)</description>
+    <rom name="Exploring our Solar System (USA).bin" size="244666800" crc="2fb4f799" md5="440be3895d8c90e96b278320ee92a8f0" sha1="213eb1b8af9a0f02b1856f814bb2a502ec7c89c8" />
+    <rom name="Exploring our Solar System (USA).cue" size="121" crc="319aa0fc" md5="6edbf351e17531e9fdc220d5b0ee9fec" sha1="60fac34ab6f712d2f0b8f9b498433058fa6f6720" />
+  </game>
+  <game name="Frogs and How they Live (USA)">
+    <category>Games</category>
+    <description>Frogs and How they Live (USA)</description>
+    <rom name="Frogs and How they Live (USA).bin" size="200743200" crc="dabff4bf" md5="ea2208b47ed9a9e1b7b640cebf0ed440" sha1="479f34bd25cb12857dad61778005ff00f68ad8f4" />
+    <rom name="Frogs and How they Live (USA).cue" size="118" crc="c46b7a93" md5="1fd84cb05b517c1768233818c1675cb2" sha1="581fbc42c05ad7c9369c8f481faf0d51343464f3" />
+  </game>
+  <game name="Learning About Ecology (USA)">
+    <category>Games</category>
+    <description>Learning About Ecology (USA)</description>
+    <rom name="Learning About Ecology (USA).bin" size="191394000" crc="c83aeb9c" md5="5079096e9e91691a99ddaaf86f5c9c3e" sha1="168660b933cba206fcab42428509e82ab480ebfb" />
+    <rom name="Learning About Ecology (USA).cue" size="117" crc="450f2b46" md5="c12e25c5fe90d898fc07c999953b71fb" sha1="a28ea41b7b777f8c22aea1b124cf16505ad64a1c" />
+  </game>
+  <game name="MPEG Video Sampler Volume 1 (USA)">
+    <category>Games</category>
+    <description>MPEG Video Sampler Volume 1 (USA)</description>
+    <rom name="MPEG Video Sampler Volume 1 (USA).bin" size="255608304" crc="3a91b032" md5="a65f0b7632bb5c9c18ed60547037ad61" sha1="1792cb514fa8e6854c6e04be8a39b67d459a7daf" />
+    <rom name="MPEG Video Sampler Volume 1 (USA).cue" size="95" crc="e16e6003" md5="baffb0c3314ecd93cfafd98f1e9fc258" sha1="8bc12f6aa68f063252cf7bb12f9eca1ebf81a12c" />
+  </game>
+  <game name="Michigan Judicial Institute, The - Court Employees - A Comitment to Excellence (USA)">
+    <category>Games</category>
+    <description>Michigan Judicial Institute, The - Court Employees - A Comitment to Excellence (USA)</description>
+    <rom name="Michigan Judicial Institute, The - Court Employees - A Comitment to Excellence (USA).bin" size="618286704" crc="43128541" md5="c52122ba26b7f9b1e97b04e1ad9736ea" sha1="9ae761ea042481c282c72d575fc48ec3bf3a5f51" />
+    <rom name="Michigan Judicial Institute, The - Court Employees - A Comitment to Excellence (USA).cue" size="148" crc="c39bf6f2" md5="fc367fec3f8cfc48f6179ab62d5a48e0" sha1="41a4af05791e49643b60c3da335f3572560b03bd" />
+  </game>
+  <game name="Michigan Judicial Institute, The - Court Staff Guide to PPOs (USA)">
+    <category>Games</category>
+    <description>Michigan Judicial Institute, The - Court Staff Guide to PPOs (USA)</description>
+    <rom name="Michigan Judicial Institute, The - Court Staff Guide to PPOs (USA).bin" size="647035200" crc="03e17a08" md5="460a6a01e9319045c80e41133c64c91b" sha1="6591b81ba38048c6032d5e090aa85ea2b947a6ee" />
+    <rom name="Michigan Judicial Institute, The - Court Staff Guide to PPOs (USA).cue" size="130" crc="4c0984e7" md5="3e872ecd46da704188fcc8a13b4b1bd9" sha1="02f436170db51146ae0a6e1fb919964eca12d526" />
+  </game>
+  <game name="Michigan Judicial Institute, The - Court Support Personnel Training (USA)">
+    <category>Games</category>
+    <description>Michigan Judicial Institute, The - Court Support Personnel Training (USA)</description>
+    <rom name="Michigan Judicial Institute, The - Court Support Personnel Training (USA).bin" size="405901104" crc="477c1ba7" md5="a275086da01207034ad8c9fabfae1044" sha1="1ec53530c8d0367feb3e41208b35ab4033ffa1fd" />
+    <rom name="Michigan Judicial Institute, The - Court Support Personnel Training (USA).cue" size="137" crc="41fa501f" md5="279473cf7d35d5fb61ff0b1a701dcb16" sha1="ffab7a573500785acafec2e2ec2b71561a1b3178" />
+  </game>
+  <game name="Michigan Judicial Institute, The - Repeat Offender Readiness (USA)">
+    <category>Games</category>
+    <description>Michigan Judicial Institute, The - Repeat Offender Readiness (USA)</description>
+    <rom name="Michigan Judicial Institute, The - Repeat Offender Readiness (USA).bin" size="530086704" crc="4b5cf9fe" md5="382d0e354fb405d1fc06fa05250ffbd8" sha1="b8c8602f37036ef39d0df0b0546a892def35dd9c" />
+    <rom name="Michigan Judicial Institute, The - Repeat Offender Readiness (USA).cue" size="130" crc="0e79cdae" md5="a882807bfef0a5193ba45421e50a5e3e" sha1="12308d07e4a3847ab1ddd18151da013f39eaf544" />
+  </game>
+  <game name="Michigan Judicial Institute, The - Your Guide to Accessing the Michigan Courts (USA)">
+    <category>Games</category>
+    <description>Michigan Judicial Institute, The - Your Guide to Accessing the Michigan Courts (USA)</description>
+    <rom name="Michigan Judicial Institute, The - Your Guide to Accessing the Michigan Courts (USA).bin" size="469581504" crc="3209d7a4" md5="70a209f98089d8976f4e3f13466c3a09" sha1="0aa8c587ff8f48da438fc01769b57fd57e4e2c99" />
+    <rom name="Michigan Judicial Institute, The - Your Guide to Accessing the Michigan Courts (USA).cue" size="148" crc="e3a0fd86" md5="b20e3efd8215a7e34b758a9623998935" sha1="128eec748fbe8729570cdffe257c82b4483618f0" />
+  </game>
+  <game name="Paramount DV Demo V0.05 (USA)">
+    <category>Games</category>
+    <description>Paramount DV Demo V0.05 (USA)</description>
+    <rom name="Paramount DV Demo V0.05 (USA).bin" size="67455360" crc="bc4e0d52" md5="b38b5526ca8b24ade9b63c9e04ccfaf6" sha1="8e5acc8b716aa7d2ad39aa4b3c9d89e49ff1dd11" />
+    <rom name="Paramount DV Demo V0.05 (USA).cue" size="91" crc="62c99650" md5="6b17f57bb882529680a86da42746955c" sha1="7f6e3a1a1585e2e4fc97ea8ae8660dd602687edf" />
+  </game>
+  <game name="Philips Professional CD-i - A World of Opportunities (USA) (Rev 1)">
+    <category>Games</category>
+    <description>Philips Professional CD-i - A World of Opportunities (USA) (Rev 1)</description>
+    <rom name="Philips Professional CD-i - A World of Opportunities (USA) (Rev 1).bin" size="118371456" crc="57fbf4cc" md5="1de5eb264ab48fdcd7dac8755be72055" sha1="b6e04662423bb8cdf909ee7722e16ad60ddad925" />
+    <rom name="Philips Professional CD-i - A World of Opportunities (USA) (Rev 1).cue" size="128" crc="b1109001" md5="211ec6d7d521813869c02e98d9c6708e" sha1="0cb05b0d837a5cae106a302b0580e5654bf76ed9" />
+  </game>
+  <game name="Philips Sampler Disk (USA)">
+    <category>Games</category>
+    <description>Philips Sampler Disk (USA)</description>
+    <rom name="Philips Sampler Disk (USA).bin" size="215031600" crc="65c397ac" md5="c8a2198221864364e5f83514c52ebece" sha1="ade781a99012c208d6e9a973e0f2219679c3e6ec" />
+    <rom name="Philips Sampler Disk (USA).cue" size="377" crc="56c4132b" md5="53696a331c84aa18edf7eedd9c88e2dc" sha1="af6d43b165e1d6e45a4803a5bb79990d1ab37b77" />
+  </game>
+  <game name="Phillips CD-i Digital Video Training - Version 1.0 (USA)">
+    <category>Games</category>
+    <description>Phillips CD-i Digital Video Training - Version 1.0 (USA)</description>
+    <rom name="Phillips CD-i Digital Video Training - Version 1.0 (USA).bin" size="597290400" crc="f2f167b4" md5="27e94afc730754e663dd837b3e2d5957" sha1="2c3f030b36ada503fbb204da52e94571cc06816f" />
+    <rom name="Phillips CD-i Digital Video Training - Version 1.0 (USA).cue" size="118" crc="d0476dad" md5="b28ee511697aa3c297dc90bc94855c19" sha1="5dadd288756d714670d7e0114cecaf844449598c" />
+  </game>
+  <game name="Voyeur (USA) (11220928 03)">
+    <category>Games</category>
+    <description>Voyeur (USA) (11220928 03)</description>
+    <rom name="Voyeur (USA) (11220928 03).bin" size="788331600" crc="634bf6ee" md5="5c0b71ad35d0f6a503ce3ab9bc414a56" sha1="6cef6b91b07d3d9e44326b0732a0510dbed6b1e2" />
+    <rom name="Voyeur (USA) (11220928 03).cue" size="115" crc="5f2a25d5" md5="9f8592b65a41eb2d77d9cf881e506be0" sha1="d47ae6b5f517d0907b8918b1631cf31bbd8348e2" />
+  </game>
+  <game name="WEB-i (USA)">
+    <category>Games</category>
+    <description>WEB-i (USA)</description>
+    <rom name="WEB-i (USA).bin" size="597643200" crc="3b548b9e" md5="86adbd92fc7563f522d40fee65ccf8c8" sha1="82e472c81b4a949c8269fc1905f2c94f2a830576" />
+    <rom name="WEB-i (USA).cue" size="98" crc="38d53d36" md5="8cfebcaa99fb9578579bedcdf723a11e" sha1="c41b8f17378003d79ed2314e39632cb24e9860bb" />
+  </game>
+  <game name="World Below, The - Literature Explorers (USA)">
+    <category>Games</category>
+    <description>World Below, The - Literature Explorers (USA)</description>
+    <rom name="World Below, The - Literature Explorers (USA).bin" size="570835104" crc="aa3ba243" md5="b36bd75a90e3656527d6c74130244244" sha1="531cf2552bee78b50465176a92fd6be7868fab54" />
+    <rom name="World Below, The - Literature Explorers (USA).cue" size="134" crc="93d865d3" md5="325e53390917fd154488b69ae21f8108" sha1="3374b245db41fe72cf3c4e94d372fb0dd73501de" />
+  </game>
+  <game name="World Tours - Egypt (USA)">
+    <category>Games</category>
+    <description>World Tours - Egypt (USA)</description>
+    <rom name="World Tours - Egypt (USA).bin" size="693604800" crc="bd8a56ea" md5="7efc49a81139b795c3f7800611ae2d23" sha1="637c6156a5fe1e2af65b6f5feb02fe1005f26126" />
+    <rom name="World Tours - Egypt (USA).cue" size="112" crc="0538f366" md5="03fb9fc812393ca88a76a36f62dc7924" sha1="f0f33c3b2b5314acabf14ebc4c7960dd50d6ab98" />
+  </game>
+  <game name="World Tours - Hong Kong (USA)">
+    <category>Games</category>
+    <description>World Tours - Hong Kong (USA)</description>
+    <rom name="World Tours - Hong Kong (USA).bin" size="656539632" crc="30d87227" md5="fa6a7ce6444059923ff7724181e97c5f" sha1="85efd95c1aea7c2c6478cac2402d5b53679533be" />
+    <rom name="World Tours - Hong Kong (USA).cue" size="116" crc="f9126dd6" md5="23216bd62d357372c87805fc33e231cd" sha1="4f2d76ccab181da0e4152a0b2788ac19ede87a87" />
+  </game>
+  <game name="World Tours - New Zealand (USA)">
+    <category>Games</category>
+    <description>World Tours - New Zealand (USA)</description>
+    <rom name="World Tours - New Zealand (USA).bin" size="689371200" crc="0b84bbaf" md5="eef978704e8c9a40367986135f796706" sha1="1c9566f1aa43941bb3583896522f751de8a98fad" />
+    <rom name="World Tours - New Zealand (USA).cue" size="118" crc="1f583c87" md5="99fb172f1765eb62b685e830dcd4cfc1" sha1="bda9e77301d25f18b64803d7ed78af03ca52645d" />
+  </game>
+  <game name="World Tours - Pacific Islands (USA)">
+    <category>Games</category>
+    <description>World Tours - Pacific Islands (USA)</description>
+    <rom name="World Tours - Pacific Islands (USA).bin" size="768222000" crc="8db85a06" md5="d1b262d859cd64305789303cb6f8c04a" sha1="b5ef305978b1e6572b5abded7cde98f117ba7eca" />
+    <rom name="World Tours - Pacific Islands (USA).cue" size="122" crc="fd668300" md5="5faa31e06381040f012821bf630bfabc" sha1="4a40de8286528450ea40bb3d8b5873e4c9281d48" />
+  </game>
+  <game name="World Tours - The Amazon Rainforest (USA)">
+    <category>Games</category>
+    <description>World Tours - The Amazon Rainforest (USA)</description>
+    <rom name="World Tours - The Amazon Rainforest (USA).bin" size="664322400" crc="f7da23b0" md5="16d9d147f67176022897b236db53fafd" sha1="37853327754e1524f598081151eb6309f7c5a8df" />
+    <rom name="World Tours - The Amazon Rainforest (USA).cue" size="128" crc="86f25e9c" md5="01a123d8bc7e0aa116340b9bc9d5f778" sha1="dc0b1c7288dd02765a900e3b90c0e68e32aefca0" />
+  </game>
+  <game name="World Tours - West Africa (USA)">
+    <category>Games</category>
+    <description>World Tours - West Africa (USA)</description>
+    <rom name="World Tours - West Africa (USA).bin" size="645099504" crc="89c51331" md5="891f31076c8992789e116fd2859ebfb1" sha1="69c7d90908c747788c104eee3d739090089daf82" />
+    <rom name="World Tours - West Africa (USA).cue" size="118" crc="f60b403e" md5="0e13c7bf8349c6bf56aa254c5b8b6933" sha1="6734a11961bbf921d6d57832a925ba809a66371d" />
+  </game>
+</datafile>

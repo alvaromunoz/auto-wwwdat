@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Unofficial - Video Game Magazine Scans (RAW)</name>
+    <description>Unofficial - Video Game Magazine Scans (RAW)</description>
+    <version>20220725-181140</version>
+    <author>
+    </author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 3, July 18th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 3, July 18th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 3, July 18th 1986) (RAW Scans).zip" size="1335849846" crc="76cd9625" md5="163ffde8f6a1b7ff1279762e529accfb" sha1="1b7cf4e91e8a08ad91704b6697a064f1b9fb8f88" sha256="bf206433c0a2db03ee4059b7876437a48f57a538b727847483170b78292724d6" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 5, August 22nd 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 5, August 22nd 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 5, August 22nd 1986) (RAW Scans).zip" size="1325938810" crc="a2d6b68a" md5="faa39d6e53fc2d09358cac166e732cad" sha1="a8099022d72d25589fb9142b599e940669c57025" sha256="98b935107d0ba4c751a8cb86470cca64a05da1cf7dcc895c8222a53aa710372d" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 7, September 19th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 7, September 19th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 7, September 19th 1986) (RAW Scans).zip" size="1396964646" crc="f3164307" md5="9689cc1a08f640bc1f41f54ffa1809ca" sha1="563ba1f73256f3391fef1580287d348208addae1" sha256="58ecb64432e79cea7bf8b334086f99770a57dcec996a45cbbc99d742eafa1b94" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 9, October 17th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 9, October 17th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 9, October 17th 1986) (RAW Scans).zip" size="1298524951" crc="ae7e050e" md5="689cb029572c20321da75a062308e5f4" sha1="cd9d54c35cedc3d2c639bd446577c1546fb19a22" sha256="2e03f077eaa83408f954fe658aae8991f8bbdd3b2562b6ceafbb501290817148" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 10, October 31st 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 10, October 31st 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 10, October 31st 1986) (RAW Scans).zip" size="1226264086" crc="417f69f4" md5="d0373565036b35d8279c19aaf3d47ca1" sha1="40dfc08e5da18ed9cfe64fbd90ba7aaeeed90bc3" sha256="937e66a3a8559c7148f7acad48236167993bbda4cbc55e5776b5df5d5b1e46fb" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 12, November 28th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 12, November 28th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 12, November 28th 1986) (RAW Scans).zip" size="1543369986" crc="1302d6e7" md5="b08fe6e199e56c1988e5f3bccc734e01" sha1="707deeee309856797f2045f0629eb8db5e437fe6" sha256="f41419470c3051eaf63856f846d2281b9e9a7934367ab82ab4860f3cb6cd592e" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 14, December 26th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 14, December 26th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 14, December 26th 1986) (RAW Scans).zip" size="1671549857" crc="647bcb54" md5="58b9d99b68705cf3800a9484a8bbd741" sha1="882a07fb5c0c0c0d646d572e27e1b54bc5cdef07" sha256="3493174ceab75176e1fe4a26fb8044b725d27496b803f0b6dff96f074f5edd0d" />
+  </game>
+</datafile>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Mobile - Palm OS (Retool)</name>
+    <description>Mobile - Palm OS (Retool)</description>
+    <version>20220725-121548</version>
+    <date>2022-07-26 08-06-19</date>
+    <author>Hiccup, NovaAurora, SonGoku &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Atari Retro (USA)">
+    <category>Games</category>
+    <description>Atari Retro (USA)</description>
+    <rom name="Atari Retro (USA).bin" size="16773120" crc="175e3530" md5="5584488e8899bf622a54008735f587c8" sha1="435ada1e07b4a7b79f8a9430c772ada8bdca1f3e" sha256="023e5202fdeaea3e91feeeba2720f3ce5eeb4d1561cec29be5bb5ad25a21dc9f" />
+  </game>
+  <game name="Merriam-Webster - Crosswords &amp; Word Challenges (USA)">
+    <category>Games</category>
+    <description>Merriam-Webster - Crosswords &amp; Word Challenges (USA)</description>
+    <rom name="Merriam-Webster - Crosswords &amp; Word Challenges (USA).bin" size="8028160" crc="a114e515" md5="6479bca1d07b2a0c168c18412a0ab3cb" sha1="87ea161f48dc469edd21d03230d053530637b9e6" sha256="f1e61706a16d698e3cb1d45547c1b1914c7a0b9120786f6d68686a3db857af55" />
+  </game>
+  <game name="Midway Arcade Classics (USA)">
+    <category>Games</category>
+    <description>Midway Arcade Classics (USA)</description>
+    <rom name="Midway Arcade Classics (USA).bin" size="1372672" crc="55492150" md5="fc64a535c155b40d6d35536508c67e1d" sha1="9f1f495cb2035659525312f7f84ef66990dd24b7" sha256="8daab07902d0bf936891405167d16516685e125217bbaf71513d3dc185a810d7" />
+  </game>
+  <game name="Monopoly + Scrabble + Battleship + Yahtzee (USA)">
+    <category>Games</category>
+    <description>Monopoly + Scrabble + Battleship + Yahtzee (USA)</description>
+    <rom name="Monopoly + Scrabble + Battleship + Yahtzee (USA).bin" size="16773120" crc="bbf21685" md5="c50e5c45968c5af8617932f51027b9f4" sha1="e1ee46ae7fed0e4f681c7ad0d1679686fa2423cc" sha256="63ead469e85d10bfcc04da93513df9655f98fcbbdb94c4756cd6c2c1fc43606a" />
+  </game>
+  <game name="PalmPak Games Card - PopCap (USA) (En,Fr,De,Es,It,Pt)">
+    <category>Games</category>
+    <description>PalmPak Games Card - PopCap (USA) (En,Fr,De,Es,It,Pt)</description>
+    <rom name="PalmPak Games Card - PopCap (USA).bin" size="2097152" crc="35c4750a" md5="fd26c0b3d3455d2a8058092de5df58dc" sha1="21ad238192162c2af41da301365a05aab6b2799a" />
+  </game>
+  <game name="PalmPak Productivity Card (USA)">
+    <category>Games</category>
+    <description>PalmPak Productivity Card (USA)</description>
+    <rom name="PalmPak Productivity Card (USA).bin" size="2097152" crc="cdb41425" md5="c3e653f187ecea29edc18d4b2aef7ba0" sha1="0b4b784d684a5533d264e50a50dae42611dea788" />
+  </game>
+  <game name="SEGA Classics (USA)">
+    <category>Games</category>
+    <description>SEGA Classics (USA)</description>
+    <rom name="SEGA Classics (USA).bin" size="8388608" crc="510fbfb4" md5="e2110021bacfed97338ad048d2964531" sha1="e13dd2cfe7f9f3bc5cd047b87dd34357feaf5701" sha256="e99ce19837c591ef51c78363c757741776f74231ef974bc08df90659ed60d585" />
+  </game>
+  <game name="Tetris Classic Game Pak (USA)">
+    <category>Games</category>
+    <description>Tetris Classic Game Pak (USA)</description>
+    <rom name="Tetris Classic Game Pak (USA).bin" size="16773120" crc="8a7283de" md5="a9246f38415ed650283240275f26c178" sha1="ef95d2d32a3a090c8af6093e8403bc5a54b4f846" sha256="e0b2dc8459b1bc8939a081fb7d34a3cd812312b2e915ec3b685e54f4443c43a6" />
+  </game>
+</datafile>
