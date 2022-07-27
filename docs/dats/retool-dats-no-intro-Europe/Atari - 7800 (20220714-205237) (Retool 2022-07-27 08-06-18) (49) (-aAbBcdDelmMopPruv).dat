@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Atari - 7800 (Retool)</name>
+    <description>Atari - 7800 (Retool)</description>
+    <version>20220714-205237</version>
+    <date>2022-07-27 08-06-18</date>
+    <author>Arctic Circle System, BigFred, Flashfire42, Gefflon, Hiccup, omonim2007, relax &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Ace of Aces (Europe)">
+    <category>Games</category>
+    <description>Ace of Aces (Europe)</description>
+    <rom name="Ace of Aces (Europe).a78" size="131072" crc="20c5db80" md5="aadde920b3aaba03bc10b40bd0619c94" sha1="c43249ba2d38441461e5ffe07ad2e0b46ab1c6df" />
+  </game>
+  <game name="Alien Brigade (Europe)">
+    <category>Games</category>
+    <description>Alien Brigade (Europe)</description>
+    <rom name="Alien Brigade (Europe).a78" size="147456" crc="6a19f0fe" md5="de3e9496cb7341f865f27e5a72c7f2f5" sha1="990711ae451d901a960af8ad9ae70813f16257b1" />
+  </game>
+  <game name="Ballblazer (Europe)">
+    <category>Games</category>
+    <description>Ballblazer (Europe)</description>
+    <rom name="Ballblazer (Europe).a78" size="32768" crc="aff85565" md5="b558814d54904ce0582e2f6a801d03af" sha1="1aa1a508ada1521ae1d373a6860681093e3f851c" />
+  </game>
+  <game name="Barnyard Blaster (Europe)">
+    <category>Games</category>
+    <description>Barnyard Blaster (Europe)</description>
+    <rom name="Barnyard Blaster (Europe).a78" size="131072" crc="02764a86" md5="babe2bc2976688bafb8b23c192658126" sha1="a5797cf7e747bbd755c99fde6936caa15fbba6b1" />
+  </game>
+  <game name="Baseball (Europe)">
+    <category>Games</category>
+    <description>Baseball (Europe)</description>
+    <rom name="Baseball (Europe).a78" size="32768" crc="68d48fdc" md5="386bded4a944bae455fedf56206dd1dd" sha1="c44fe244206590abc26fbbd520a5726353899e35" />
+  </game>
+  <game name="Basketbrawl (Europe)">
+    <category>Games</category>
+    <description>Basketbrawl (Europe)</description>
+    <rom name="Basketbrawl (Europe).a78" size="131072" crc="a4265d4b" md5="fba002089fcfa176454ab507e0eb76cb" sha1="e7ef6b11bb6836ff7d11a25f8d4e2c9361fa69b3" />
+  </game>
+  <game name="Centipede (Europe)">
+    <category>Games</category>
+    <description>Centipede (Europe)</description>
+    <rom name="Centipede (Europe).a78" size="16384" crc="33f8a8f6" md5="38c056a48472d9a9e16ebda5ed91dae7" sha1="323f9fc4fde9aa6fcbaac8ae300aaa06bafa745a" />
+  </game>
+  <game name="Choplifter! (Europe)">
+    <category>Games</category>
+    <description>Choplifter! (Europe)</description>
+    <rom name="Choplifter! (Europe).a78" size="49152" crc="12efeb07" md5="59d4edb0230b5acc918b94f6bc94779f" sha1="f2fe1c82e5b333f4c59f76a28a9d379228596d89" />
+  </game>
+  <game name="Commando (Europe)">
+    <category>Games</category>
+    <description>Commando (Europe)</description>
+    <rom name="Commando (Europe).a78" size="131072" crc="7c211612" md5="55da6c6c3974d013f517e725aa60f48e" sha1="2bdad24967fe4f5492ae294b1ccf8f148930a419" />
+  </game>
+  <game name="Crack'ed (Europe)">
+    <category>Games</category>
+    <description>Crack'ed (Europe)</description>
+    <rom name="Crack'ed (Europe).a78" size="131072" crc="50fd19cb" md5="7cbe78fa06f47ba6516a67a4b003c9ee" sha1="0c1a7806e431efbf0c826a11b92d74eb45e08661" />
+  </game>
+  <game name="Crossbow (Europe)">
+    <category>Games</category>
+    <description>Crossbow (Europe)</description>
+    <rom name="Crossbow (Europe).a78" size="147456" crc="e93d8894" md5="63db371d67a98daec547b2abd5e7aa95" sha1="f26d292210a91a714b4b87712ff53b8e49da611e" />
+  </game>
+  <game name="Dark Chambers (Europe)">
+    <category>Games</category>
+    <description>Dark Chambers (Europe)</description>
+    <rom name="Dark Chambers (Europe).a78" size="131072" crc="c93a563e" md5="a2b8e2f159642c4b91de82e9a2928494" sha1="2b888c95b31109ffd0441f586ba18f21a3a4f22e" />
+  </game>
+  <game name="Desert Falcon (Europe)">
+    <category>Games</category>
+    <description>Desert Falcon (Europe)</description>
+    <rom name="Desert Falcon (Europe).a78" size="49152" crc="33991ee8" md5="2d5d99b993a885b063f9f22ce5e6523d" sha1="185d104614e23699e074e850d5ab8c36a159071c" />
+  </game>
+  <game name="Dig Dug (Europe)">
+    <category>Games</category>
+    <description>Dig Dug (Europe)</description>
+    <rom name="Dig Dug (Europe).a78" size="32768" crc="efab7077" md5="408dca9fc40e2b5d805f403fa0509436" sha1="ce05d3270b0e0d36d80a4f0731d0173cb5921bce" />
+  </game>
+  <game name="Donkey Kong (Europe)">
+    <category>Games</category>
+    <description>Donkey Kong (Europe)</description>
+    <rom name="Donkey Kong (Europe).a78" size="49152" crc="0a43d1c5" md5="8e96ef14ce9b5d84bcbc996b66d6d4c7" sha1="dc69fa8fdf3fcba8557195358b8d206463652e0f" />
+  </game>
+  <game name="Donkey Kong Junior (Europe)">
+    <category>Games</category>
+    <description>Donkey Kong Junior (Europe)</description>
+    <rom name="Donkey Kong Junior (Europe).a78" size="49152" crc="c784dbac" md5="4dc5f88243250461bd61053b13777060" sha1="2626a9cd3326b8ce0ee0e834e17a0eedae005669" />
+  </game>
+  <game name="Double Dragon (Europe)">
+    <category>Games</category>
+    <description>Double Dragon (Europe)</description>
+    <rom name="Double Dragon (Europe).a78" size="131072" crc="f29abdb2" md5="de2ebafcf0e37aaa9d0e9525a7f4dd62" sha1="210f3ac989549e89425e7677127715aee713af32" />
+  </game>
+  <game name="F-18 Hornet (Europe)">
+    <category>Games</category>
+    <description>F-18 Hornet (Europe)</description>
+    <rom name="F-18 Hornet (Europe).a78" size="65536" crc="e5d714b0" md5="e7709da8e49d3767301947a0a0b9d2e6" sha1="673d912b2f9ab7a43f95e0e90bd80249b360fe0d" />
+  </game>
+  <game name="Fatal Run (Europe)">
+    <category>Games</category>
+    <description>Fatal Run (Europe)</description>
+    <rom name="Fatal Run (Europe).a78" size="131072" crc="2a0a93be" md5="23505651ac2e47f3637152066c3aa62f" sha1="f23173d2e42bca0767f3d8ecb6bb1c0d23dde996" />
+  </game>
+  <game name="Fight Night (Europe)">
+    <category>Games</category>
+    <description>Fight Night (Europe)</description>
+    <rom name="Fight Night (Europe).a78" size="131072" crc="64d9c4be" md5="e80f24e953563e6b61556737d67d3836" sha1="ded89f3a4ac0d95aa158c98302b7939e5b89e4c6" />
+  </game>
+  <game name="Food Fight (Europe)">
+    <category>Games</category>
+    <description>Food Fight (Europe)</description>
+    <rom name="Food Fight (Europe).a78" size="49152" crc="c64549ec" md5="de0d4f5a9bf1c1bddee3ed2f7ec51209" sha1="40b8e5eeb9e9ad7239963ed79dc085092ccbec4c" />
+  </game>
+  <game name="Galaga (Europe)">
+    <category>Games</category>
+    <description>Galaga (Europe)</description>
+    <rom name="Galaga (Europe).a78" size="49152" crc="5990a9f8" md5="f5dc7dc8e38072d3d65bd90a660148ce" sha1="f1ae5df03cf90041380d77c1b49c94611443330b" />
+  </game>
+  <game name="Hat Trick (Europe)">
+    <category>Games</category>
+    <description>Hat Trick (Europe)</description>
+    <rom name="Hat Trick (Europe).a78" size="49152" crc="057d9c3c" md5="0baec96787ce17f390e204de1a136e59" sha1="0e9fa678bb4aedc7bb7cf5d38fe27556c4c2bbbd" />
+  </game>
+  <game name="Ikari Warriors (Europe)">
+    <category>Games</category>
+    <description>Ikari Warriors (Europe)</description>
+    <rom name="Ikari Warriors (Europe).a78" size="131072" crc="cb621cdc" md5="8c2c2a1ea6e9a928a44c3151ba5c1ce3" sha1="275cae6c693d9bd1906fdc684460ec596869bbad" />
+  </game>
+  <game name="Impossible Mission (Europe)">
+    <category>Games</category>
+    <description>Impossible Mission (Europe)</description>
+    <rom name="Impossible Mission (Europe).a78" size="131072" crc="994af6e0" md5="80dead01ea2db5045f6f4443faa6fce8" sha1="9770b61472510aba1cf3ea35ceca1859c3493676" />
+  </game>
+  <game name="Jinks (Europe)">
+    <category>Games</category>
+    <description>Jinks (Europe)</description>
+    <rom name="Jinks (Europe).a78" size="131072" crc="9207ed3b" md5="dfb86f4d06f05ad00cf418f0a59a24f7" sha1="eb16de0c3d5c4e769ae2314ba21c4dd3bca33c88" />
+  </game>
+  <game name="Joust (Europe)">
+    <category>Games</category>
+    <description>Joust (Europe)</description>
+    <rom name="Joust (Europe).a78" size="49152" crc="9b3be616" md5="f2dae0264a4b4a73762b9d7177e989f6" sha1="aae5b9ee00c39d577858aba9d1fd791194be2c0c" />
+  </game>
+  <game name="Karateka (Europe)">
+    <category>Games</category>
+    <description>Karateka (Europe)</description>
+    <rom name="Karateka (Europe).a78" size="65536" crc="6c8d9e68" md5="5e0a1e832bbcea6facb832fde23a440a" sha1="c5f25c88eefe0c7b3571ab3c3ec5185e537eb151" />
+  </game>
+  <game name="Kung-Fu Master (Europe)">
+    <category>Games</category>
+    <description>Kung-Fu Master (Europe)</description>
+    <rom name="Kung-Fu Master (Europe).a78" size="32768" crc="c1531fc4" md5="2931b75811ad03f3ac9330838f3d231b" sha1="0f0e24246d9e684b7f900a362fb08878b232580c" />
+  </game>
+  <game name="Mario Bros. (Europe)">
+    <category>Games</category>
+    <description>Mario Bros. (Europe)</description>
+    <rom name="Mario Bros. (Europe).a78" size="49152" crc="efad3d9d" md5="d2e861306be78e44248bb71d7475d8a3" sha1="881beff5103713e655fed80b32e0bbd774e78ee8" />
+  </game>
+  <game name="Mat Mania Challenge (Europe)">
+    <category>Games</category>
+    <description>Mat Mania Challenge (Europe)</description>
+    <rom name="Mat Mania Challenge (Europe).a78" size="131072" crc="065f3873" md5="6819c37b96063b024898a19dbae2df54" sha1="119bb784f1a0638cc6778841131ca1766e94a112" />
+  </game>
+  <game name="Mean 18 Ultimate Golf (Europe)">
+    <category>Games</category>
+    <description>Mean 18 Ultimate Golf (Europe)</description>
+    <rom name="Mean 18 Ultimate Golf (Europe).a78" size="131072" crc="3cec4be8" md5="2e9dbad6c0fa381a6cd1bb9abf98a104" sha1="47702ee71c64af4ada09cd41122c779c7d8d94f1" />
+  </game>
+  <game name="Meltdown (Europe)">
+    <category>Games</category>
+    <description>Meltdown (Europe)</description>
+    <rom name="Meltdown (Europe).a78" size="131072" crc="177fc850" md5="c80155d7eec9e3dcb79aa6b83c9ccd1e" sha1="ac448f369c3c6334415095e4ff344fdd73b473be" />
+  </game>
+  <game name="Midnight Mutants (Europe)">
+    <category>Games</category>
+    <description>Midnight Mutants (Europe)</description>
+    <rom name="Midnight Mutants (Europe).a78" size="131072" crc="7ca6d521" md5="6794ea31570eba0b88a0bf1ead3f3f1b" sha1="85f0e0556df65c0732f71ab3f2bbde3615355f72" />
+  </game>
+  <game name="Motor Psycho (Europe)">
+    <category>Games</category>
+    <description>Motor Psycho (Europe)</description>
+    <rom name="Motor Psycho (Europe).a78" size="131072" crc="38bb45ba" md5="5330bfe428a6b601b7e76c2cfc4cd049" sha1="3b72d6b3e28ca9182f1f25dc57115d2ec33aa63e" />
+  </game>
+  <game name="Ms. Pac-Man (Europe)">
+    <category>Games</category>
+    <description>Ms. Pac-Man (Europe)</description>
+    <rom name="Ms. Pac-Man (Europe).a78" size="32768" crc="8421033a" md5="56469e8c5ff8983c6cb8dadc64eb0363" sha1="a5b0826a130acf8b8dbc59ef980d40b802c22b30" />
+  </game>
+  <game name="Ninja Golf (Europe)">
+    <category>Games</category>
+    <description>Ninja Golf (Europe)</description>
+    <rom name="Ninja Golf (Europe).a78" size="131072" crc="2b5382b7" md5="ea0c859aa54fe5eaf4c1f327fab06221" sha1="99ce5711e38ff7ef3311216f954cf0ab70e289cf" />
+  </game>
+  <game name="One-on-One Basketball (Europe)">
+    <category>Games</category>
+    <description>One-on-One Basketball (Europe)</description>
+    <rom name="One-on-One Basketball (Europe).a78" size="49152" crc="7a628295" md5="8dba0425f0262e5704581d8757a1a6e3" sha1="01dfc5e4e615cf20ee4f07245285f85684ee445d" />
+  </game>
+  <game name="Planet Smashers (Europe)">
+    <category>Games</category>
+    <description>Planet Smashers (Europe)</description>
+    <rom name="Planet Smashers (Europe).a78" size="131072" crc="95dc7e96" md5="2837a8fd49b7fc7ccd70fd45b69c5099" sha1="f12cbb576607ec38d6111f4346412ccc5bfbcf42" />
+  </game>
+  <game name="Pole Position II (Europe)">
+    <category>Games</category>
+    <description>Pole Position II (Europe)</description>
+    <rom name="Pole Position II (Europe).a78" size="32768" crc="d751c7a6" md5="865457e0e0f48253b08f77b9e18f93b2" sha1="268e53b5b2117bf853e0aae6adb0b2d3aad8ad5c" />
+  </game>
+  <game name="Scrapyard Dog (Europe)">
+    <category>Games</category>
+    <description>Scrapyard Dog (Europe)</description>
+    <rom name="Scrapyard Dog (Europe).a78" size="131072" crc="46dd9662" md5="53db322c201323fe2ca8f074c0a2bf86" sha1="ebfed67cfeebc6a558dbb087e4784e5e5258c2e1" />
+  </game>
+  <game name="Sentinel (Europe)">
+    <category>Games</category>
+    <description>Sentinel (Europe)</description>
+    <rom name="Sentinel (Europe).a78" size="131072" crc="47340df9" md5="5469b4de0608f23a5c4f98f331c9e75f" sha1="6d85a73a56d2f02ff439736eace86691aa613444" />
+  </game>
+  <game name="Super Huey UH-IX (Europe)">
+    <category>Games</category>
+    <description>Super Huey UH-IX (Europe)</description>
+    <rom name="Super Huey UH-IX (Europe).a78" size="49152" crc="6b27ea2c" md5="162f9c953f0657689cc74ab20b40280f" sha1="469e03ee1e22ef0978c8095a38d662d34a413723" />
+  </game>
+  <game name="Super Skateboardin' (Europe)">
+    <category>Games</category>
+    <description>Super Skateboardin' (Europe)</description>
+    <rom name="Super Skateboardin' (Europe).a78" size="32768" crc="8f167ba9" md5="95d7c321dce8f57623a9c5b4947bb375" sha1="fab349584af7b6b3f9b034af3034f43257e2c25f" />
+  </game>
+  <game name="Title Match Pro Wrestling (Europe)">
+    <category>Games</category>
+    <description>Title Match Pro Wrestling (Europe)</description>
+    <rom name="Title Match Pro Wrestling (Europe).a78" size="32768" crc="16b54d5b" md5="3bb9c8d9adc912dd7f8471c97445cd8d" sha1="7ab281c9b69692823b3b6b594856172363c507b5" />
+  </game>
+  <game name="Tomcat - The F-14 Fighter Simulator (Europe)">
+    <category>Games</category>
+    <description>Tomcat - The F-14 Fighter Simulator (Europe)</description>
+    <rom name="Tomcat - The F-14 Fighter Simulator (Europe).a78" size="32768" crc="b01205bf" md5="682338364243b023ecc9d24f0abfc9a7" sha1="825381773593365b5ca7eeca968cca00879eee71" />
+  </game>
+  <game name="Tower Toppler (Europe)">
+    <category>Games</category>
+    <description>Tower Toppler (Europe)</description>
+    <rom name="Tower Toppler (Europe).a78" size="65536" crc="0f87fd7b" md5="32a37244a9c6cc928dcdf02b45365aa8" sha1="56e1b795e80382edb376e4536d1dee539d4ac548" />
+  </game>
+  <game name="Xenophobe (Europe)">
+    <category>Games</category>
+    <description>Xenophobe (Europe)</description>
+    <rom name="Xenophobe (Europe).a78" size="131072" crc="cf0e44f1" md5="70937c3184f0be33d06f7f4382ca54de" sha1="b2cf7d6164d6e5acd47e9f6d7cf60bb0f775b4a3" />
+  </game>
+  <game name="Xevious (Europe)">
+    <category>Games</category>
+    <description>Xevious (Europe)</description>
+    <rom name="Xevious (Europe).a78" size="49152" crc="d5ac738b" md5="b1a9f196ce5f47ca8caf8fa7bc4ca46c" sha1="81647c8ce432f891328631b57dd3268dd315f8e8" />
+  </game>
+</datafile>

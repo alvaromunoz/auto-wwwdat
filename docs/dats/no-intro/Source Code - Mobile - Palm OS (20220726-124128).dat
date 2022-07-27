@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Source Code - Mobile - Palm OS</name>
+    <description>Source Code - Mobile - Palm OS</description>
+    <version>20220726-124128</version>
+    <author>NovaAurora</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Donkie Kung (Europe)">
+    <description>Donkie Kung (Europe)</description>
+    <rom name="palmos-dkung-main.zip" size="750104" crc="e5c95c39" md5="acb3997ff6336ea0e3eed8bbbd4b1cd5" sha1="baf0797752dae54291f48d693efd2bbf52490dbe" />
+  </game>
+  <game name="Donkie Kung Jr. (Europe)">
+    <description>Donkie Kung Jr. (Europe)</description>
+    <rom name="palmos-dkjr-main.zip" size="770291" crc="5cfd3a6b" md5="0c1575a25c4c6a4d700fff80fab1f360" sha1="10bb498526f3241b4c038dc4df161d747227ae71" />
+  </game>
+  <game name="Hexxagon (Europe)">
+    <description>Hexxagon (Europe)</description>
+    <rom name="palmos-hexxagon-main.zip" size="722827" crc="e2ccbb0a" md5="8e74154c81b1b252afe69f37c1435e52" sha1="8724229ff0a4e70f2e88713582028b59d6eeeef8" />
+  </game>
+  <game name="Hoards of the Deep Realm (Europe)">
+    <description>Hoards of the Deep Realm (Europe)</description>
+    <rom name="palmos-hoards-main.zip" size="874236" crc="f7d8cb78" md5="14033fda2270851dd88a5425f3a1329f" sha1="7f0c82f092c05bfd99d1d95611971613180f5397" />
+  </game>
+  <game name="Lemmings (Europe)">
+    <description>Lemmings (Europe)</description>
+    <rom name="palmos-lemmings-main.zip" size="18014931" crc="32e42b22" md5="044404cc4a0ac74adff992cf45582fb4" sha1="a175fe3741819890c9a4d1d5a248c3628b4f9e61" />
+  </game>
+  <game name="Liberty (Europe)">
+    <description>Liberty (Europe)</description>
+    <rom name="palmos-liberty-main.zip" size="1155347" crc="0d5d899d" md5="60da2d05055bc0752a08dca87718f886" sha1="7c58a76f799c967cd8ab56ba8dc391e64b13e642" />
+  </game>
+  <game name="Maryo Bros (Europe)">
+    <description>Maryo Bros (Europe)</description>
+    <rom name="palmos-maryobros-main.zip" size="1036432" crc="72867c70" md5="4e75c6baf817d9f0aceb0772094e9fc2" sha1="cb62d9f6104cc7f0e5111a8d2798953cc30cf5e4" />
+  </game>
+  <game name="Oktopus (Europe)">
+    <description>Oktopus (Europe)</description>
+    <rom name="palmos-oktopus-main.zip" size="573615" crc="01272605" md5="ad90b60241b8a598841bbf4fc27bd199" sha1="b1c9154a9c2f294f474809d0e3c7445796cf95d5" />
+  </game>
+  <game name="Palm Source 2000 (Europe)">
+    <description>Palm Source 2000 (Europe)</description>
+    <rom name="palmos-palmsource2000-main.zip" size="776709" crc="6049a4d3" md5="15ad5a49ebf88e3430b8ed64b3c508a2" sha1="64ec2748bb6845cdbba23acc5cd57e968f62ec72" />
+  </game>
+  <game name="Parashoot (Europe)">
+    <description>Parashoot (Europe)</description>
+    <rom name="palmos-parashoot-main.zip" size="648224" crc="3434e828" md5="6cae99eb35bbdb6ead13184a20a71dd2" sha1="2bec893ae0eadb185aeda03e3e3ea5f74ccb268a" />
+  </game>
+  <game name="Phire! (Europe)">
+    <description>Phire! (Europe)</description>
+    <rom name="palmos-phire-main.zip" size="561349" crc="dde7c6c9" md5="3d004158bc5f0d871994be89643119dd" sha1="7b991b89a49d345072641c290e4c0f1bf00c8e2e" />
+  </game>
+  <game name="Soroban Freaks (Japan)">
+    <description>Soroban Freaks (Japan)</description>
+    <rom name="COMPILE.BAT" size="311" crc="f7dd390e" md5="83e0aa29216f4f5218a8785d1df1e8cb" sha1="b1e9e1ff1a0a7d4eebbce6c62ae6a8a3fce6bd57" />
+    <rom name="DRAWSO~1.C" size="6124" crc="067627a4" md5="6e120c98b9baf217c946a77b99fbfb5d" sha1="0aeb2b03d92f1fa6549e62e0997a2d0ce4f435d7" />
+    <rom name="GAMEMA~1.C" size="4210" crc="bb943b0e" md5="665a3c877a5576431160034baf6c75d6" sha1="0108d7bdaf6a4d9942270c6bc00faa08e953b9ef" />
+    <rom name="SF_TITLE.BMP" size="702" crc="faee24b1" md5="1f7b3d27139efaabb701f20de57b5cfe" sha1="95b219a461a21c9a23287126f8da855623caa24f" />
+    <rom name="SOROBAN.BMP" size="190" crc="deae557d" md5="47e28490b73332dd810ee685bed50932" sha1="635e5add598c7ad719bface8e1ddaaf436512d2e" />
+    <rom name="SOROBAN.C" size="6500" crc="eb9377cc" md5="e1a79b4588e5baf10407223216b55fd3" sha1="334bb202418886fbb75a0876c3b05a51b008a3b1" />
+    <rom name="SOROBAN.H" size="811" crc="19bca183" md5="1a73de9fe2e74c34cb8984addff0db97" sha1="89c162e9d0eecd7e4a4e0a98d2f26973f52c4b98" />
+    <rom name="SOROBAN.RCP" size="697" crc="19b8663f" md5="125a28b9e92f3ecf72c56378caee8b44" sha1="f35c69d2734803a04a1b949fef3ee59e8d523317" />
+    <rom name="SOROBA~1.H" size="283" crc="4158a7db" md5="5bb116b7aab112be48561ebf5f1c3d14" sha1="0dc7669d7b6f2c9350e83aa39361363a4986b0fc" />
+    <rom name="SRDAMA.BMP" size="126" crc="d2b9d7d7" md5="75b26b295b43f5e2b5ca1c255571a037" sha1="a52f9ae1a9617d2ff51f6262fb2ee0d7dce40d0a" />
+    <rom name="SRSEN.BMP" size="94" crc="bfcd1b18" md5="70632e813a5223bc82f5f3f6d713a324" sha1="2993764f965d21c434665abc556179beb49a441b" />
+  </game>
+</datafile>

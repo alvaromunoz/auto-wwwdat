@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Apple - Macintosh (Uncategorized) (Retool)</name>
+    <description>Apple - Macintosh (Uncategorized) (Retool)</description>
+    <version>20220720-090259</version>
+    <date>2022-07-27 08-06-17</date>
+    <author>FakeShemp, Gefflon, MeguCocoa, UnlockerPT, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Alge-Blaster Plus! (USA, Europe) (v1.1)">
+    <category>Games</category>
+    <description>Alge-Blaster Plus! (USA, Europe) (v1.1)</description>
+    <rom name="Alge-Blaster Plus! (USA, Europe) (v1.1).image" size="838484" crc="aae4f05b" md5="b53ca61c284054ad47d9581d95506c7b" sha1="38d5cc5ae922cbfd7b96599969e3d37f37ae9204" sha256="4c5c8552d24b066d2fdb390f76daa04a61cf8329856f1c0f851a9083f67cfc91" />
+  </game>
+  <game name="Baron (USA, Europe)">
+    <category>Games</category>
+    <description>Baron (USA, Europe)</description>
+    <rom name="Baron (USA, Europe).image" size="419284" crc="dea9cf23" md5="c0e1158b5ca8380363f7839fda09696b" sha1="0be8754be68fc3841dcc00b368ff020e45c95659" sha256="db8066ee6b371691f2e7a3ee92b05eefd9d112ba27ef7421208582b78c975fe3" />
+  </game>
+  <game name="Dark Castle (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Dark Castle (USA, Europe) (Disk 1)</description>
+    <rom name="Dark Castle (USA, Europe) (Disk 1).image" size="419284" crc="b2bde504" md5="57228617a73c18ee9053fcac1f6f6269" sha1="18f956e42408768143557602cb86e5ae55dd21ac" sha256="235a504511de492a3c130c79444fdd4a0b180d928ff147ed009ed6b312dc9287" />
+  </game>
+  <game name="Dark Castle (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Dark Castle (USA, Europe) (Disk 2)</description>
+    <rom name="Dark Castle (USA, Europe) (Disk 2).image" size="419284" crc="d34fb508" md5="acfb75d51974bbfacef5ce99eb0ec028" sha1="986bc73a6313b28f1931b24b28cfdfa1e048dc08" sha256="917ab0fcc838332d4e30dfd887e67f15e4f01d66903de44dd454117d2b66cf50" />
+  </game>
+</datafile>
