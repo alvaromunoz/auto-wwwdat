@@ -1,0 +1,1966 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>IBM - PC and Compatibles (Digital) (Unknown) (Retool)</name>
+    <description>IBM - PC and Compatibles (Digital) (Unknown) (Retool)</description>
+    <version>20220709-010657</version>
+    <date>2022-07-29 02-58-08</date>
+    <author>FakeShemp, Hiccup, MeguCocoa, norkmetnoil577 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="1849 (World) (v1.0.8) (Mac)">
+    <category>Games</category>
+    <description>1849 (World) (v1.0.8) (Mac)</description>
+    <rom name="1849_version_1.0.8.dmg" size="58682057" crc="1c6052cb" md5="ea3e46a2d2c5fc32fd68d6399554276e" sha1="3af9a3fc8fe88803e837501a5569560dea401df3" />
+  </game>
+  <game name="1849 (World) (v1.0.8) (Windows)">
+    <category>Games</category>
+    <description>1849 (World) (v1.0.8) (Windows)</description>
+    <rom name="1849_version_1.0.8.msi" size="54927360" crc="ee132139" md5="2b85023400b54c0326ec0dd13792ae7b" sha1="cc27da7074b8e4682e47172718bc4be4a85e8f65" />
+  </game>
+  <game name="39 Steps, The (World) (Linux)">
+    <category>Games</category>
+    <description>39 Steps, The (World) (Linux)</description>
+    <rom name="The_39_Steps_Linux.zip" size="763132097" crc="3b7ef3e7" md5="c34afaf02a0b7e66ea58dbe9394b29ea" sha1="188ffd306f25c00f6563b049e693082e673bc008" />
+  </game>
+  <game name="39 Steps, The (World) (Mac)">
+    <category>Games</category>
+    <description>39 Steps, The (World) (Mac)</description>
+    <rom name="The_39_Steps_Mac.zip" size="808791217" crc="d0b71ff1" md5="88c5ba40acf7997d2db4ea9766cc070e" sha1="5ea73addb2daa4d3d7740f844bf62bd7485162cb" />
+  </game>
+  <game name="39 Steps, The (World) (Windows)">
+    <category>Games</category>
+    <description>39 Steps, The (World) (Windows)</description>
+    <rom name="The_39_Steps_PC.zip" size="807522164" crc="e8b27056" md5="3140aa08940906acdf454f47cd1e7637" sha1="ab8c5a426b0d73bcca8c373912c23ff8f8fad8a1" />
+  </game>
+  <game name="3918 (World)">
+    <category>Games</category>
+    <description>3918 (World)</description>
+    <rom name="3918-Mojam_Oxeye_Game.zip" size="9662694" crc="6df782f8" md5="57c914d1637e0e29dd7a963aa4e221b2" sha1="24df1976884c6a18150dbefd1e8025ed7b215864" />
+  </game>
+  <game name="7.62 mm (World)">
+    <category>Games</category>
+    <description>7.62 mm (World)</description>
+    <rom name="762mm.part1.rar" size="996147200" crc="5b90da0f" md5="6f81692e75454103fc2e8412e1506d1d" sha1="6683799dfd467eb1e8dbfdaf45780acb322f604d" />
+    <rom name="762mm.part2.rar" size="996147200" crc="b53e08f8" md5="96af560d380ae76496eff9170ffe2cfc" sha1="602f00e32247740677d4f56e45cd4f1254715e67" />
+    <rom name="762mm.part3.rar" size="737104947" crc="710d6b1e" md5="7c4a53ab63def0506eb41de405b50847" sha1="57c2976667ef0c6d4c400a36392f853c0a9ec707" />
+  </game>
+  <game name="99 Spirits (World) (v1.12)">
+    <category>Games</category>
+    <description>99 Spirits (World) (v1.12)</description>
+    <rom name="99_Spirits_Setup_v112.exe" size="316391835" crc="891d26ec" md5="b829582a5c7c1213bd6a154b694e527b" sha1="c0c92d3306093daa82cafc015dae522b5d9b6523" />
+  </game>
+  <game name="9th Dawn (World)">
+    <category>Games</category>
+    <description>9th Dawn (World)</description>
+    <rom name="9th Dawn PC.zip" size="39063007" crc="d7f68e44" md5="463f8c3e07b6c5b1b145ba0410009e03" sha1="0480dbcb16c091d7f7e15ad917357913affe619f" />
+  </game>
+  <game name="A Camp in the Woods (World) (v9.1)">
+    <category>Games</category>
+    <description>A Camp in the Woods (World) (v9.1)</description>
+    <rom name="A_Camp_in_the_woods_v9_MicroUpdate_v1.zip" size="54958467" crc="040869e0" md5="405b0214282471a091180c52fc24c6ea" sha1="c96d2cb681b5a956191fd079dca4aea8ce9765a3" />
+  </game>
+  <game name="A Nation of Wind (World)">
+    <category>Games</category>
+    <description>A Nation of Wind (World)</description>
+    <rom name="ANoW.zip" size="9159516" crc="a0195d3f" md5="47e247b0ec40607d821167fdc3c54b37" sha1="8e60a2237168371aa505e743a3183eb9e5b95465" />
+  </game>
+  <game name="Abobo Big's Adventure (World) (Mac)">
+    <category>Games</category>
+    <description>Abobo Big's Adventure (World) (Mac)</description>
+    <rom name="aba_MAC.zip" size="20135713" crc="1176975d" md5="85cfc4e905b41904a66f648b2940de70" sha1="1535b4384e79a4ee765f26e39de2733f0225dc19" />
+  </game>
+  <game name="Abobo Big's Adventure (World) (Windows)">
+    <category>Games</category>
+    <description>Abobo Big's Adventure (World) (Windows)</description>
+    <rom name="aba_PC.zip" size="17687351" crc="1e3bd34b" md5="64da603b734ad8980d47a739c345667d" sha1="1baacada9f9f468970f2523a07af54ca6625855d" />
+  </game>
+  <game name="Airline Tycoon Deluxe (World)">
+    <category>Games</category>
+    <description>Airline Tycoon Deluxe (World)</description>
+    <rom name="ATD_EN_Web_Setup.exe" size="406456262" crc="b4fe6bbd" md5="902b4aa381fa6b2def7715e9514177a2" sha1="e75828be2f2b531caf58e4a90e1fe73e34a14f43" />
+  </game>
+  <game name="Akaneiro Demon Hunters (World) (Mac)">
+    <category>Games</category>
+    <description>Akaneiro Demon Hunters (World) (Mac)</description>
+    <rom name="mac0910.zip" size="316480787" crc="83206fd1" md5="8851a760f49a51e9713377d581e0ea8c" sha1="f4e30f5b803da1ce126016a9c432ae5306074d16" />
+  </game>
+  <game name="Albedo Eyes from Outer Space (World) (v2015-05-24) (Windows)">
+    <category>Games</category>
+    <description>Albedo Eyes from Outer Space (World) (v2015-05-24) (Windows)</description>
+    <rom name="ALBEDO_DRMFREE_24_5_2015a.zip" size="963672413" crc="394a5699" md5="5e4421f35b78cfa6c3ab53eb74750beb" sha1="aaaa26d05d51e67f0f8c2ca68b8a653a3cac73d7" />
+  </game>
+  <game name="Albedo Eyes from Outer Space (World) (v2015-05-30) (Mac)">
+    <category>Games</category>
+    <description>Albedo Eyes from Outer Space (World) (v2015-05-30) (Mac)</description>
+    <rom name="ALBEDO_DRMFREE_30_5_2015_MAC.zip" size="985049333" crc="6c1bd7d1" md5="cce309a8792e0f70e81f37d815dd7080" sha1="939a9539453995f0e824bc17ea6e5da798f0658c" />
+  </game>
+  <game name="Alter Ego (World)">
+    <category>Games</category>
+    <description>Alter Ego (World)</description>
+    <rom name="aepack.zip" size="63588991" crc="a73a9687" md5="edbcfae25b56daea53c4809d42e66c65" sha1="608a9839f071a18de0ec13d8e6dd7534b16d2762" />
+  </game>
+  <game name="Alteria (World)">
+    <category>Games</category>
+    <description>Alteria (World)</description>
+    <rom name="alteria1_0.exe" size="51385872" crc="1c6df333" md5="828bdd857c652d328bd607a49c68b628" sha1="43b1373526d43baa3424ef60764033657398ac7c" />
+  </game>
+  <game name="Altitude (World) (Linux)">
+    <category>Games</category>
+    <description>Altitude (World) (Linux)</description>
+    <rom name="altitude.sh" size="78433185" crc="c4b222a7" md5="11a7e32a8832b3048f724412e5fd5bea" sha1="3e9b3258305c841cbac096a00d47d433c8bc5455" />
+  </game>
+  <game name="Altitude (World) (Mac)">
+    <category>Games</category>
+    <description>Altitude (World) (Mac)</description>
+    <rom name="altitude.dmg" size="26912768" crc="dfcf7b11" md5="7907b11c14822a5bc321da8de0589607" sha1="774009a80ce0d2339d5a46d0bea49aea245df0f5" />
+  </game>
+  <game name="Altitude (World) (Windows)">
+    <category>Games</category>
+    <description>Altitude (World) (Windows)</description>
+    <rom name="altitude.exe" size="44432640" crc="c715d3ca" md5="7a4f3b8346daeec694abdd79c4caad7b" sha1="33842c576882aa84ed4f4de73d3cf7d790599300" />
+  </game>
+  <game name="Among the Sleep (World)">
+    <category>Games</category>
+    <description>Among the Sleep (World)</description>
+    <rom name="Among the Sleep.zip" size="517396" crc="50f08920" md5="ac3205f0adae1adf08f4ae8f27271141" sha1="b1ba75a702f3fe8da8a3d25a3fe27c1d2eb96e06" />
+  </game>
+  <game name="Among the Sleep (World) (Mac)">
+    <category>Games</category>
+    <description>Among the Sleep (World) (Mac)</description>
+    <rom name="AmongtheSleep-Linux.140916151606.zip" size="1608231559" crc="1491f962" md5="bb4dfd8da29717f50ba2ff58722c8bee" sha1="8f496515f9cc188b73af727ee20a88e98e8276ea" />
+  </game>
+  <game name="Among the Sleep (World) (Windows)">
+    <category>Games</category>
+    <description>Among the Sleep (World) (Windows)</description>
+    <rom name="AmongtheSleep-PC.140916152005.zip" size="1608305137" crc="fd68e3ee" md5="e237408b8813737d00b7f5cf982a23c6" sha1="50d2e61e808c4616a7984e4efbe8ae7c4075ebf8" />
+  </game>
+  <game name="Amulets &amp; Armor (World) (v1.04) (DOS)">
+    <category>Games</category>
+    <description>Amulets &amp; Armor (World) (v1.04) (DOS)</description>
+    <rom name="AAClassicV1.04_DOS.zip" size="81993352" crc="d1c1dc57" md5="cf9cb686db4f68c47ae827d2ecd65348" sha1="d4e27414715008bd1018039bb144fc148f19aceb" />
+  </game>
+  <game name="Amulets &amp; Armor (World) (v1.04) (Windows)">
+    <category>Games</category>
+    <description>Amulets &amp; Armor (World) (v1.04) (Windows)</description>
+    <rom name="AAClassicV1.04_Windows.zip" size="87168998" crc="b1713556" md5="fba0fd5d1993173b7e7104f38b1f295f" sha1="9b2a106dea8fd0703b5c9d6728dce613c2d76fc9" />
+  </game>
+  <game name="Antibody (World)">
+    <category>Games</category>
+    <description>Antibody (World)</description>
+    <rom name="antibody.zip" size="16796360" crc="de617e29" md5="c9a777c34e30ed63e63701fdb0fb2dbf" sha1="94e1ecf19a282021e4f84d6777e5059e40f8db5e" />
+  </game>
+  <game name="Antibody (World) (Mac)">
+    <category>Games</category>
+    <description>Antibody (World) (Mac)</description>
+    <rom name="antibody_mac.zip" size="17383150" crc="718435f4" md5="60f4259c8167c20e3c7fa5a504ee1071" sha1="4b53f28b3120d0d662ee581fbd41728a522edb36" />
+  </game>
+  <game name="Aozora Meikyuu (World) (Patch)">
+    <category>Games</category>
+    <description>Aozora Meikyuu (World) (Patch)</description>
+    <rom name="AozoraMeikyuu_Uncensor.zip" size="151092489" crc="b986d573" md5="d34b0d24752fd5d8fb860df5c63893dc" sha1="c31f9fa5e9765f60c9e6ac624e2301a3c536291a" />
+  </game>
+  <game name="Area 51 (USA) (v1.2) (Patch)">
+    <category>Games</category>
+    <description>Area 51 (USA) (v1.2) (Patch)</description>
+    <rom name="a51_us_patch_1_2.zip" size="17651041" crc="f0be1d07" md5="f6ff7bf628a5f9e15f377d547a1533e9" sha1="6c8fb91bd73479aa99c8811698b311316e296700" />
+  </game>
+  <game name="Area 51 (World)">
+    <category>Games</category>
+    <description>Area 51 (World)</description>
+    <rom name="midway_area51.exe" size="2075433985" crc="a839cc3a" md5="788cc89f0bf8d54a0876982fa99fc7e5" sha1="8822a64b128ffd95f43d63537c0d11392c23d6b7" />
+  </game>
+  <game name="Army Gals (World) (Patch)">
+    <category>Games</category>
+    <description>Army Gals (World) (Patch)</description>
+    <rom name="armygals-adultpatch.zip" size="113121257" crc="7593fa93" md5="478cdbc1056c0ac59062c9b770cd2b3e" sha1="8214257d4d6b429d640ac69259068fa61c5adc6c" />
+  </game>
+  <game name="Ascension (World)">
+    <category>Games</category>
+    <description>Ascension (World)</description>
+    <rom name="Ascension.zip" size="22392053" crc="241bd9bc" md5="2eb9b3e78ee420b12f1aca2d816578f2" sha1="1834391bf5e5ee1a2ff87fd0a41d6fbebe0636ec" />
+  </game>
+  <game name="Atlantis Evolution (World)">
+    <category>Games</category>
+    <description>Atlantis Evolution (World)</description>
+    <rom name="ATLANTIS_EVOLUTION_w7_32_64.zip" size="4445903266" crc="74e62bdd" md5="42626d9d3a151fdcc80fdd2e1ec63428" sha1="4d96a43b0daaee4bdc6506c1a9ac09b9d4c52d9d" />
+  </game>
+  <game name="Audio Venture (World) (Mac)">
+    <category>Games</category>
+    <description>Audio Venture (World) (Mac)</description>
+    <rom name="AudioVentureMac.zip" size="47775427" crc="0d80f2fd" md5="466d8a609a07d2458340dcb7ae75e2dd" sha1="473f91cb3615765ec936f74511c01b2ca8c40669" />
+  </game>
+  <game name="Audio Venture (World) (v0.3) (Windows)">
+    <category>Games</category>
+    <description>Audio Venture (World) (v0.3) (Windows)</description>
+    <rom name="AudioVentureWin0.3.zip" size="61631822" crc="63d2e0ee" md5="0a781ebf5d612363a46588e20eedec4b" sha1="d109e35686d5411539304d1453255e542055517a" />
+  </game>
+  <game name="Autonomous (World)">
+    <category>Games</category>
+    <description>Autonomous (World)</description>
+    <rom name="amnesia_fortnight-autonomous-594315.zip" size="161548762" crc="e0aa1adb" md5="68597fd6609d5b5c7822d2db56c73a90" sha1="fb201653bc15cf41d4ee331bbf8f70d2a9b26e2c" />
+  </game>
+  <game name="Avadon 2 - The Corruption (World) (v1.01)">
+    <category>Games</category>
+    <description>Avadon 2 - The Corruption (World) (v1.01)</description>
+    <rom name="Avadon2Fullv101.exe" size="165238302" crc="2a133e87" md5="7eb5b0ef609058851c462df77255c16a" sha1="a1befc853b20cf2a64773e7e73674717ceed830e" />
+  </game>
+  <game name="BC Kid (World)">
+    <category>Games</category>
+    <description>BC Kid (World)</description>
+    <rom name="bckid.zip" size="1221460" crc="56d8426e" md5="e4ac87e267d02245c08d8817dbb7c25b" sha1="ecc1f86a69cf8666eb1fcde7943ea985b7e089ed" />
+  </game>
+  <game name="Baru and the Spirit Prince (World) (Linux)">
+    <category>Games</category>
+    <description>Baru and the Spirit Prince (World) (Linux)</description>
+    <rom name="Baru-linux-full.zip" size="49037434" crc="18ea7de7" md5="62cb72cb63e7c2cc753454baf6da2ba5" sha1="1e94f6ae3da2b113e7b3e0a7bf216c7b5179935d" />
+  </game>
+  <game name="Baru and the Spirit Prince (World) (Mac)">
+    <category>Games</category>
+    <description>Baru and the Spirit Prince (World) (Mac)</description>
+    <rom name="Baru-mac-full.zip" size="43303850" crc="26a999a0" md5="5ca4897c582f5f24af2f43ac63adad88" sha1="54b7b890c49ab75aabaf8a45cb204a0cf9316f9a" />
+  </game>
+  <game name="Baru and the Spirit Prince (World) (Windows)">
+    <category>Games</category>
+    <description>Baru and the Spirit Prince (World) (Windows)</description>
+    <rom name="Baru-win-full.zip" size="45075188" crc="878f9210" md5="aa5bbaabd322187483dc0b5922105916" sha1="56af8e4c721e9adf4ccab07ed23f68ef989649ee" />
+  </game>
+  <game name="Battle Chef Brigade (World) (r14725) (Linux)">
+    <category>Games</category>
+    <description>Battle Chef Brigade (World) (r14725) (Linux)</description>
+    <rom name="BattleChefBrigade_Linux_DRMFree_R14725_ID328_Stable_Storefront.zip" size="459975926" crc="c58d5aa6" md5="97ed0ad0c086aca26f0fb25fe90c66e2" sha1="f97ba631790a806a2c2df5ecf122132bed9437e3" />
+  </game>
+  <game name="Battle Chef Brigade (World) (r14725) (Mac)">
+    <category>Games</category>
+    <description>Battle Chef Brigade (World) (r14725) (Mac)</description>
+    <rom name="BattleChefBrigade_OSX_DRMFree_R14725_ID327_Stable_Storefront.zip" size="499611508" crc="5665ac5a" md5="02dc61a8f5c333a6c625c68e5e873e41" sha1="e6312e8611b79bedfffd73cb8474a23655e81009" />
+  </game>
+  <game name="Battle Chef Brigade (World) (r14725) (Windows)">
+    <category>Games</category>
+    <description>Battle Chef Brigade (World) (r14725) (Windows)</description>
+    <rom name="BattleChefBrigade_Win_DRMFree_R14725_ID624_Stable_Storefront.zip" size="505339532" crc="daaab748" md5="75587fdacf5ffe07ab12801421e97ab0" sha1="ba26b2543dce54ccc3530268de70ff43cceb1754" />
+  </game>
+  <game name="Battle Girls (World) (Patch)">
+    <category>Games</category>
+    <description>Battle Girls (World) (Patch)</description>
+    <rom name="battlegirls adultpatch.zip" size="121997355" crc="ec1f1784" md5="900453e4c36716db4f7887cef38a1fad" sha1="cca3e5f6dd31f704a21fc725e9250febbc511291" />
+  </game>
+  <game name="Bear Surfin Mega Wave (World)">
+    <category>Games</category>
+    <description>Bear Surfin Mega Wave (World)</description>
+    <rom name="Bear_Surfin_Mega_Wave.zip" size="11193758" crc="06d5e46c" md5="bd02c098334076402a0716f58002497f" sha1="d124dce0fce02a27869cdb78d180c1ed2d8a303e" />
+  </game>
+  <game name="Bit Shifter (World) (v1.3.7.337)">
+    <category>Games</category>
+    <description>Bit Shifter (World) (v1.3.7.337)</description>
+    <rom name="bitshifter-1.3.7.337.zip" size="221062625" crc="6ea9c718" md5="791608bdda361d16c72e0ab63775385b" sha1="05dcbb97b8c255dfe927417e3621fb35842c2d57" />
+  </game>
+  <game name="Black Lake (World)">
+    <category>Games</category>
+    <description>Black Lake (World)</description>
+    <rom name="amnesia_fortnight-black_lake-594321.zip" size="185379295" crc="a0de1220" md5="28dadabb86c3d03e17cbd6d6dfde0875" sha1="729154777cfd4f9ed21f9b0c9e8d4ca8adf7990f" />
+  </game>
+  <game name="Blackguards 2 (World) (Windows)">
+    <category>Games</category>
+    <description>Blackguards 2 (World) (Windows)</description>
+    <rom name="Blackguards2_PC.zip" size="3939317619" crc="ad24937a" md5="857218ef978a314e90d786fd00a928ff" sha1="b848b822edea87ecb5b5fdd0bb11281deb9e5a67" />
+  </game>
+  <game name="Blackguards 2 (World) (v2.2.9087m) (Mac)">
+    <category>Games</category>
+    <description>Blackguards 2 (World) (v2.2.9087m) (Mac)</description>
+    <rom name="Blackguards_2_2.2.9087m_Mac.dmg" size="4913401279" crc="e3fc27e8" md5="fda992c092683c794b213727e59f6fc0" sha1="585bc3fd9120a240a8b5f1ffd655894733741ed4" />
+  </game>
+  <game name="Blackguards 2 (World) (v2.3) (Patch) (Windows)">
+    <category>Games</category>
+    <description>Blackguards 2 (World) (v2.3) (Patch) (Windows)</description>
+    <rom name="blackguards2_pc_patch_v2.3.zip" size="783735067" crc="44f7cffb" md5="9182626ccac8e914b6e394a1e10044b7" sha1="db02498969ea70935345738226027fb8bb681b24" />
+  </game>
+  <game name="Blackout (World)">
+    <category>Games</category>
+    <description>Blackout (World)</description>
+    <rom name="Blackout_v1.0.zip" size="5724770" crc="7077a6cb" md5="c3ce25c04cd904ebc584e327e78089eb" sha1="4cce1bc1536f8692bffeb620840f0d3140fc4306" />
+  </game>
+  <game name="Blackwell Trilogy Remastered, The (World)">
+    <category>Games</category>
+    <description>Blackwell Trilogy Remastered, The (World)</description>
+    <rom name="Convergence.zip" size="180863466" crc="6def1da5" md5="17594b3b9882787fce232141b195fc6b" sha1="ff9940f9759e0c7d1700ccda5c789f8f5cce5fab" />
+    <rom name="Legacy.1.zip" size="212615063" crc="f9174d7e" md5="08ec33bcf4bde64a4efdbb491aa1732d" sha1="43b92630d42b5dd1c5a3ebebddab30b341aef50a" />
+    <rom name="Unbound.zip" size="165519461" crc="5b65b4c4" md5="73843725d0c690d010702e1add99e4ca" sha1="b60bc4e62973f56f88b6d18037128da334970349" />
+  </game>
+  <game name="Blitz Meet (World)">
+    <category>Games</category>
+    <description>Blitz Meet (World)</description>
+    <rom name="BlitzMeet.zip" size="5432163" crc="21558749" md5="0871a802c7f3267ef883a5a09c37551e" sha1="e5ce9014e3aa240ee0224296bce4c0286442a8d4" />
+  </game>
+  <game name="Bloody Trapland (World) (v1.45)">
+    <category>Games</category>
+    <description>Bloody Trapland (World) (v1.45)</description>
+    <rom name="BloodyTrapland_v1.45.exe" size="76296967" crc="648db36c" md5="d033def6597edf3059f53f914444728f" sha1="100d151b946b4f7dfc9311eae35d8d4a43c3aa1f" />
+  </game>
+  <game name="Bloop (World)">
+    <category>Games</category>
+    <description>Bloop (World)</description>
+    <rom name="Bloop_setup.zip" size="155122765" crc="e4f19213" md5="db02686700820afd631ac9b161aeb92b" sha1="d1d8eff64c4728037e7febc5f5d71aafe1507fa4" />
+  </game>
+  <game name="Blue Rose (World) (v1.1)">
+    <category>Games</category>
+    <description>Blue Rose (World) (v1.1)</description>
+    <rom name="Blue_Rose_1.1-all.zip" size="211331925" crc="6eef9ad8" md5="e01a882165fe494d46a3a3fa798e12f9" sha1="0cc1b10a3e604b410d131b79ea7cc7da67da817c" />
+  </game>
+  <game name="Broken Sword (World) (v1.0.744) (Mac)">
+    <category>Games</category>
+    <description>Broken Sword (World) (v1.0.744) (Mac)</description>
+    <rom name="BrokenSword_v1.0.744_Mac_1371150780.dmg" size="1232553095" crc="c8b42fd3" md5="3245b7f755c03ee7a7f64e3614ec93af" sha1="e6af360dfce71f07cd219db1d41bd4730adf2372" />
+  </game>
+  <game name="Broken Sword (World) (v1.0.744) (Windows)">
+    <category>Games</category>
+    <description>Broken Sword (World) (v1.0.744) (Windows)</description>
+    <rom name="BrokenSword_v1.0.744_Win_1371150780.zip" size="1222179953" crc="cc015ef5" md5="3bb2c9e6ce21cebe1f4f247df76d6d73" sha1="a4b08e964a4b466c75f5f8ed0615e4f5b59fbf2a" />
+  </game>
+  <game name="Broken Sword - Director's Cut (World) (v1.0.800) (Mac)">
+    <category>Games</category>
+    <description>Broken Sword - Director's Cut (World) (v1.0.800) (Mac)</description>
+    <rom name="BrokenSword1DirectorsCut_v1.0.800_Linux_1372464772.tar.gz" size="1218961334" crc="e12b4bbd" md5="f4867d26cda9d8b06b617abcdd8bb1b7" sha1="b32ccf70da9c6dcbc97fe878c9e80bece3e74910" />
+  </game>
+  <game name="BrokenEarth (World)">
+    <category>Games</category>
+    <description>BrokenEarth (World)</description>
+    <rom name="BrokenEarth.rar" size="205458729" crc="99d33435" md5="c602679de2e05eab66f91aa40fb6ff21" sha1="7de5a2653a7bc3c6d06257317f0c0f824955651d" />
+  </game>
+  <game name="Bulb Boy (World) (v1.03) (32-bit)">
+    <category>Games</category>
+    <description>Bulb Boy (World) (v1.03) (32-bit)</description>
+    <rom name="BulbBoy_x86_1_03.zip" size="364437335" crc="46b102b6" md5="b9e2a3d54267ab8979bc6c2ffec561fb" sha1="92254a2e525df5b6acf3a257e096ab1628bee5eb" />
+  </game>
+  <game name="Bulb Boy (World) (v1.03) (64-bit)">
+    <category>Games</category>
+    <description>Bulb Boy (World) (v1.03) (64-bit)</description>
+    <rom name="BulbBoy_x64_1_03.zip" size="366163226" crc="0cb77aee" md5="f0c174d2e4a059b57f86d424abc01219" sha1="9f9c7ff5b0f3fdfed193138a8ccc9712e334553f" />
+  </game>
+  <game name="Bulb Boy (World) (v1.03) (Mac)">
+    <category>Games</category>
+    <description>Bulb Boy (World) (v1.03) (Mac)</description>
+    <rom name="BulbBoy_OSX_1_03.zip" size="379533807" crc="85b5d00a" md5="967a8f5d7c88bc10273d0fe85137fbe6" sha1="dcb101237adad43c108301a047fd2b8559a58abd" />
+  </game>
+  <game name="Burly Men at Sea (World) (v1.3.6) (Mac)">
+    <category>Games</category>
+    <description>Burly Men at Sea (World) (v1.3.6) (Mac)</description>
+    <rom name="Burly_Men_at_Sea_Mac_Installer_1.3.6.zip" size="121256158" crc="e79b454c" md5="5b0d02ac2c5ad8452388c3ffd22bad8c" sha1="1a85be9d61550bec5bbe4fca5512d8d0854f6fe0" />
+  </game>
+  <game name="Burly Men at Sea (World) (v1.3.6) (Windows)">
+    <category>Games</category>
+    <description>Burly Men at Sea (World) (v1.3.6) (Windows)</description>
+    <rom name="Burly_Men_at_Sea_Win_1.3.6.zip" size="115866463" crc="e65e7549" md5="36b513ea1d1402cdac2d92d501f0cb01" sha1="b1c0c087991b0b268f6417744e57f00a14501733" />
+  </game>
+  <game name="CAFE 0 ~The Drowned Mermaid~ (World) (v1.3) (Linux)">
+    <category>Games</category>
+    <description>CAFE 0 ~The Drowned Mermaid~ (World) (v1.3) (Linux)</description>
+    <rom name="drowned-1.3-linux.tar.bz2" size="95455311" crc="5fdc3f12" md5="6b46fcd470ae3af07d8d0f422c8fb555" sha1="466d266c1b87a62da43eab88aabaf6023aef63d1" />
+  </game>
+  <game name="CAFE 0 ~The Drowned Mermaid~ (World) (v1.3) (Mac)">
+    <category>Games</category>
+    <description>CAFE 0 ~The Drowned Mermaid~ (World) (v1.3) (Mac)</description>
+    <rom name="drowned-1.3-mac.zip" size="94997166" crc="c7648de4" md5="3f08e258135a5e784d00f496bcf8d2e2" sha1="97820d519e6a345e7d1f63afdde73888febcee2e" />
+  </game>
+  <game name="CAFE 0 ~The Drowned Mermaid~ (World) (v1.30)">
+    <category>Games</category>
+    <description>CAFE 0 ~The Drowned Mermaid~ (World) (v1.30)</description>
+    <rom name="cafe0drowned130.exe" size="85892748" crc="9d6d66e6" md5="7ce79fa09ec31dfb12068b213288287f" sha1="caf13faf4719ef339437861ebb9dd78abf7fb09f" />
+  </game>
+  <game name="Cahors Sunset (World)">
+    <category>Games</category>
+    <description>Cahors Sunset (World)</description>
+    <rom name="CahorsSunset.1.exe" size="152936451" crc="95b9ff87" md5="86b7406d45f1a04a2afbd7f13f967b65" sha1="b1972104dd9718c8d934313656ae03a39090db6c" />
+  </game>
+  <game name="Celestial Mechanica (World) (Mac)">
+    <category>Games</category>
+    <description>Celestial Mechanica (World) (Mac)</description>
+    <rom name="CelestialMechanica.dmg" size="18733410" crc="b53bdf25" md5="4c7b5a12eaef073381ca6d9c5ab8a1bc" sha1="92e29c3de86603753071a3bb08d2b6245873b224" />
+  </game>
+  <game name="Celestial Mechanica (World) (v1.20)">
+    <category>Games</category>
+    <description>Celestial Mechanica (World) (v1.20)</description>
+    <rom name="Celestial Mechanica v1.20.zip" size="23491425" crc="a73c371b" md5="0cc7c84519e7b322f877abd08946f74f" sha1="f5dbb8eeb37e75a4d08578c474d4e9dc0570e6f7" />
+  </game>
+  <game name="Chaos Engine, The (World) (v1.2.8) (Linux)">
+    <category>Games</category>
+    <description>Chaos Engine, The (World) (v1.2.8) (Linux)</description>
+    <rom name="CE_Build_V1.2.8_-_Linux.tar.gz" size="219014965" crc="b3e985c6" md5="8661c6882e3f518362b24f6f733fb8dd" sha1="f3395902bab19ff989922fe5827be18d4506b515" />
+  </game>
+  <game name="Chaos Engine, The (World) (v1.2.8) (Mac)">
+    <category>Games</category>
+    <description>Chaos Engine, The (World) (v1.2.8) (Mac)</description>
+    <rom name="CE_Build_V1.2.8_-_Mac_OS_X.zip" size="218216431" crc="efac8bda" md5="bcb6fdf988592f37da7c013f2eb84337" sha1="ff303ab56fc39c3f7cde6eb9a2a763c7d0a1c7f9" />
+  </game>
+  <game name="Chaos Engine, The (World) (v1.2.8) (Windows)">
+    <category>Games</category>
+    <description>Chaos Engine, The (World) (v1.2.8) (Windows)</description>
+    <rom name="CE_Build_V1.2.8_-_Windows.exe" size="201999180" crc="146256b0" md5="d8d3aa7a54dd63a676cad360a2a29909" sha1="35e6e47aa452ce53d443fb61d2f424fb114ec957" />
+  </game>
+  <game name="Chinese Checkers (World)">
+    <category>Games</category>
+    <description>Chinese Checkers (World)</description>
+    <rom name="cc-r.exe" size="539031" crc="6320d015" md5="4ea63d3840255a1c6f26d7c5393a4692" sha1="9074a8fec4629f163942bbab23bf95e222a7b8f3" />
+  </game>
+  <game name="Christmas Life HD (World) (v30129)">
+    <category>Games</category>
+    <description>Christmas Life HD (World) (v30129)</description>
+    <rom name="CLHD_setup_v30129.exe" size="545856864" crc="8c0fce95" md5="763df5f1b15113196d77357966e705c8" sha1="a526496b8c2e16c8267d674844c5db3946a84038" />
+  </game>
+  <game name="Chronicles of a Dark Lord Episode 2 (World)">
+    <category>Games</category>
+    <description>Chronicles of a Dark Lord Episode 2 (World)</description>
+    <rom name="chronicles-of-a-dark-lord-ep-ii-war-of-the-abyss.zip" size="5500988734" crc="9a23a79f" md5="dd21ba92126d2a7cb0228021f33cff21" sha1="7376beeab6b873d991edc2f5918fa511172d740f" />
+  </game>
+  <game name="Cibele (World) (Mac)">
+    <category>Games</category>
+    <description>Cibele (World) (Mac)</description>
+    <rom name="Cibele_mac-1446656178.zip" size="709643478" crc="91ef24ab" md5="923181a59a3888ceb359326dfc0590c1" sha1="7ade6ce41605d73792d3d0cd4ba07bdb591bbf86" />
+  </game>
+  <game name="Cibele (World) (Windows)">
+    <category>Games</category>
+    <description>Cibele (World) (Windows)</description>
+    <rom name="Cibele_windows-1446656178.zip" size="656894097" crc="4b8f7500" md5="ca390424137ca5bfb102c8442e9a3d5e" sha1="2ddd69fd7b891041caf656abc49d322b400f5be0" />
+  </game>
+  <game name="Claustrophobia The Downward Struggle (World) (alpha1141)">
+    <category>Games</category>
+    <description>Claustrophobia The Downward Struggle (World) (alpha1141)</description>
+    <rom name="claustrophobia_alpha1141.rar" size="21963541" crc="3f996d07" md5="d505acecccbc27ce6b61f0b81de834d2" sha1="e64bd8906bb14e68a7daf08e9ef06b895d372d82" />
+  </game>
+  <game name="ClusterPuck99 (World) (Linux)">
+    <category>Games</category>
+    <description>ClusterPuck99 (World) (Linux)</description>
+    <rom name="ClusterPuck99_Lin.zip" size="31746079" crc="5aff04c8" md5="0678654e4695968e97ba6922cfeae47a" sha1="4558a71be9fc1ec0a211d8fdcd4514643b4b7b66" />
+  </game>
+  <game name="ClusterPuck99 (World) (Mac)">
+    <category>Games</category>
+    <description>ClusterPuck99 (World) (Mac)</description>
+    <rom name="ClusterPuck99_Mac.zip" size="31054485" crc="66e89eeb" md5="6e025a4686d9959713b506d71afc1c97" sha1="004d6090cd090f9269d6dcc887d009754eaa33f1" />
+  </game>
+  <game name="Codename Rogue Fleet (World) (v0.2)">
+    <category>Games</category>
+    <description>Codename Rogue Fleet (World) (v0.2)</description>
+    <rom name="RogueFleet_v0.2.zip" size="140033890" crc="e5e0e522" md5="e993cba90ab94a618f697c575b5e80ec" sha1="5d5fe5477244519b67eee974b841c7a31475cda4" />
+  </game>
+  <game name="Cognition - Episode 1 (World) (Mac)">
+    <category>Games</category>
+    <description>Cognition - Episode 1 (World) (Mac)</description>
+    <rom name="CognitionEpisode1Mac.zip" size="1340956520" crc="6fe2ce31" md5="251d415d23bced2960a2174af66ba2b2" sha1="b8b393997edd0e5bfe6f17269312f3dd580c9177" />
+  </game>
+  <game name="Cognition - Episode 1 (World) (Windows)">
+    <category>Games</category>
+    <description>Cognition - Episode 1 (World) (Windows)</description>
+    <rom name="CognitionEpisode1Setup.exe" size="1229071225" crc="9bf874fc" md5="d34543990ff0b664d3cc4ada0e51da26" sha1="f4fb3fa4b8dcdaa94ed66a2c3d981351d3665473" />
+  </game>
+  <game name="Cognition - Episode 2 (World) (Mac)">
+    <category>Games</category>
+    <description>Cognition - Episode 2 (World) (Mac)</description>
+    <rom name="Ep2PressBuildMacNew.zip" size="1020034705" crc="0f0f987a" md5="09e7240da04a3aabc52d019ff004675f" sha1="bfea47fae1a915349506eef77d264817e3729669" />
+  </game>
+  <game name="Cognition - Episode 2 (World) (Windows)">
+    <category>Games</category>
+    <description>Cognition - Episode 2 (World) (Windows)</description>
+    <rom name="CognitionEpisode2Setup.exe" size="941222216" crc="56c3de61" md5="229651cccc5b021493986a21a6b047c4" sha1="eaf99ede574e8742f33ed4817f8472dca6f84750" />
+  </game>
+  <game name="Cognition - Episode 3 (World) (Mac)">
+    <category>Games</category>
+    <description>Cognition - Episode 3 (World) (Mac)</description>
+    <rom name="CognitionEpisode3Mac.zip" size="1011054125" crc="1e19ea08" md5="24f6b87188d4a2de07040ce4e84ff0a6" sha1="934a045329160ef45bcdc7dfab54eb2589f3dd5b" />
+  </game>
+  <game name="Cognition - Episode 3 (World) (Windows)">
+    <category>Games</category>
+    <description>Cognition - Episode 3 (World) (Windows)</description>
+    <rom name="CognitionEpisode3Setup.exe" size="941417096" crc="20842c1c" md5="a92e56bb523ddefd7b9973decc4ec06d" sha1="be0e325e26dd7fe3f201078f28b9e8ac58c7fc7d" />
+  </game>
+  <game name="Cognition - Episode 4 (World) (Mac)">
+    <category>Games</category>
+    <description>Cognition - Episode 4 (World) (Mac)</description>
+    <rom name="CognitionEpisode4Mac.zip" size="1044100712" crc="2989b48d" md5="7a663a6dcf987bced186b7650e24f7ed" sha1="c0d365f2a9f0bd7e9d7662cce9f2348df3c99e47" />
+  </game>
+  <game name="Cognition - Episode 4 (World) (Windows)">
+    <category>Games</category>
+    <description>Cognition - Episode 4 (World) (Windows)</description>
+    <rom name="CognitionEpisode4Setup.exe" size="969449146" crc="978f72f3" md5="564656beb71c1f143ab738781ca43e07" sha1="a95f2c783acaf52fc7de9a0c78f7297ae4d70c38" />
+  </game>
+  <game name="Cognition - Game of the Year Edition (World) (Mac)">
+    <category>Games</category>
+    <description>Cognition - Game of the Year Edition (World) (Mac)</description>
+    <rom name="Cognition Game of the Year Edition.zip" size="518802" crc="1bcb6ecd" md5="e90fb538ebfd165e9ae00f4a364caaee" sha1="45b31e19f9259a8dce48572e223660d83851ddec" />
+  </game>
+  <game name="Cognition - Game of the Year Edition (World) (Windows)">
+    <category>Games</category>
+    <description>Cognition - Game of the Year Edition (World) (Windows)</description>
+    <rom name="CognitionGOTY.150403103202.zip" size="3499196262" crc="ae8801c3" md5="c6dbe4642e468c98ba098bb11aa691b8" sha1="06941e19629a2db77959d992b59380ab57402749" />
+  </game>
+  <game name="Color Wizard, The (World)">
+    <category>Games</category>
+    <description>Color Wizard, The (World)</description>
+    <rom name="setupwizard.exe" size="2189120" crc="c8e85074" md5="e50621f2a7018b9c68493b532634848c" sha1="93ab989d69b0d4e4c4d81116506de579f6f7ca06" />
+  </game>
+  <game name="Command &amp; Conquer Gold (World)">
+    <category>Games</category>
+    <description>Command &amp; Conquer Gold (World)</description>
+    <rom name="cnc_gold.zip" size="872388470" crc="59a790a2" md5="b153ebd920f6d39371308a48c845d84d" sha1="49717282ce8ce15341806f7465f3ea4f6cbd7d1e" />
+  </game>
+  <game name="Command &amp; Conquer Red Alert (World)">
+    <category>Games</category>
+    <description>Command &amp; Conquer Red Alert (World)</description>
+    <rom name="RedAlert1_AlliedDisc.rar" size="524014608" crc="01cc41dd" md5="0a528b4d12d01b9076c16687ebf821b0" sha1="30f84e4314365a9f1706cfd7359d638de43689ba" />
+    <rom name="RedAlert1_SovietDisc.rar" size="526433084" crc="0b0e6ff8" md5="0035bad1775dfe3a7cf4de807b41a135" sha1="3df92a8abfd7c5a24d9c8f4c6fd1300da47105f9" />
+  </game>
+  <game name="Command &amp; Conquer Tiberian Sun (World)">
+    <category>Games</category>
+    <description>Command &amp; Conquer Tiberian Sun (World)</description>
+    <rom name="OfficialCnCTiberianSun.rar" size="1334180630" crc="f8ffc46e" md5="c42d739487169d51d15e0c79c256cc5c" sha1="591aabd639fb9f2d2476a2150f3c00b1162674f5" />
+  </game>
+  <game name="Concrete Jungle (World) (v1.16)">
+    <category>Games</category>
+    <description>Concrete Jungle (World) (v1.16)</description>
+    <rom name="concrete_jungle_1.16.zip" size="323346223" crc="7e47b529" md5="56446b0eaadf924a62407f385febb2be" sha1="8fd62456ba636d1aa4844764fcde9065e207e36f" />
+  </game>
+  <game name="Conspiracies II (World) (Windows)">
+    <category>Games</category>
+    <description>Conspiracies II (World) (Windows)</description>
+    <rom name="Conspiracies_II_Windows_Installer.part1.rar" size="1536000000" crc="6a70f7cf" md5="a27142c8f36ef4ee1706b2022d946d7b" sha1="f025157a646e9f3810a020c1e7103c4ffb8c2417" />
+    <rom name="Conspiracies_II_Windows_Installer.part2.rar" size="1536000000" crc="bddf59a9" md5="62abd1e8b679e9e3368c8ea35b77da13" sha1="e83f905640d44087505d9212694bcbfab6cf720e" />
+    <rom name="Conspiracies_II_Windows_Installer.part3.rar" size="1536000000" crc="47f8db45" md5="dd094275db543852d8bb63a119d2b655" sha1="eaf8d3f06c89552285242e309b5a3a1c77880942" />
+    <rom name="Conspiracies_II_Windows_Installer.part4.rar" size="1536000000" crc="aa32e028" md5="1b45660a52ed9fd4fa771694ff4570a5" sha1="16366497b382d34f4073714c91c8ea844f82ab07" />
+    <rom name="Conspiracies_II_Windows_Installer.part5.rar" size="1536000000" crc="3cc57b11" md5="02adc1c7fd1ded294927bf7eed04b4e4" sha1="01b43e99a14507ed7924dd200cb79f98c8ba6a2a" />
+    <rom name="Conspiracies_II_Windows_Installer.part6.rar" size="866615901" crc="5559d6c9" md5="47ec16eaff9e1c3242869514c2deebde" sha1="87170494fc52b4c2a618354cbf6bdc51ca74be66" />
+  </game>
+  <game name="Crazy Belts (World) (v1.1) (Mac)">
+    <category>Games</category>
+    <description>Crazy Belts (World) (v1.1) (Mac)</description>
+    <rom name="Crazy_Belts_v1.1.dmg" size="20014620" crc="d13f615a" md5="010c315cd76ffbff9df5a196b59cb04c" sha1="4b653a66111edc676c76ea3310d0c3a6aca9b955" />
+  </game>
+  <game name="Crazy Belts (World) (v1.1) (Windows)">
+    <category>Games</category>
+    <description>Crazy Belts (World) (v1.1) (Windows)</description>
+    <rom name="CrazyBelts_v1.1.exe" size="19550817" crc="a70b3cf6" md5="960097dda861edb824fcacc934edeefd" sha1="7f3d9529f36e5fffacf7696242d2da3df8d3a8fd" />
+  </game>
+  <game name="Creatures Exodus (World)">
+    <category>Games</category>
+    <description>Creatures Exodus (World)</description>
+    <rom name="Creatures_Exodus.zip" size="211431293" crc="bba4fa8b" md5="af3d49d1127447a737d8d619931bc1b1" sha1="99874358dc18ccd3a4cf46e6a3517f6883107e91" />
+  </game>
+  <game name="Creatures The Albian Years (World)">
+    <category>Games</category>
+    <description>Creatures The Albian Years (World)</description>
+    <rom name="Creatures_TheAlbian_Years.zip" size="121243016" crc="64a0e262" md5="0ef18378829f9881d0e506c3715a11a3" sha1="a165e8408c125ba693d45f445d7fbba3f5144b49" />
+  </game>
+  <game name="Creatures Village (World)">
+    <category>Games</category>
+    <description>Creatures Village (World)</description>
+    <rom name="Creatures_Village.zip" size="290924213" crc="65cfdb9d" md5="67bcc43d63d4ed42c87cf12e44a08c7d" sha1="4aeb3f4bf8e6618449fe70cb1fedb47d9c2b021e" />
+  </game>
+  <game name="Cruel Arena (World)">
+    <category>Games</category>
+    <description>Cruel Arena (World)</description>
+    <rom name="Cruel_Arena_-_Doodle_Bleeding.exe" size="12183032" crc="56e0b290" md5="a374ec46dec848ba405aa9e08c2271c6" sha1="47e6f5f72f83e31339e4c3c6795fe5f295d91971" />
+  </game>
+  <game name="Crystal Story II (World)">
+    <category>Games</category>
+    <description>Crystal Story II (World)</description>
+    <rom name="Crystal_Story_II.exe" size="72768141" crc="cc9e693e" md5="8e165fcf5ba1b077169bcf7b0a8976e1" sha1="e902fe9585e505eab8455ef6e71d3a4b5dc33862" />
+  </game>
+  <game name="Curse of Nordic Cove, The (World)">
+    <category>Games</category>
+    <description>Curse of Nordic Cove, The (World)</description>
+    <rom name="install.zip" size="1295661856" crc="d6e3063c" md5="46844bfd39df30aad4e9cb104a41e132" sha1="963496c86c520e95cac9de67ddfa4b52389cc751" />
+  </game>
+  <game name="Curse of Nordic Cove, The (World) (Mac)">
+    <category>Games</category>
+    <description>Curse of Nordic Cove, The (World) (Mac)</description>
+    <rom name="install.bin" size="1306644074" crc="8c05a15c" md5="37d7cc31d3d659ad5ef892fad6238c6d" sha1="540323fab5c96515d3bfcf0a9a37647cc6d5d763" />
+  </game>
+  <game name="Curse of Nordic Cove, The (World) (Windows)">
+    <category>Games</category>
+    <description>Curse of Nordic Cove, The (World) (Windows)</description>
+    <rom name="install.exe" size="1296164846" crc="fd920cb5" md5="93fb344d38f411ce994c626c7fa462d5" sha1="a7a9497e31c14098b4c6031910fda5c3b16cf609" />
+  </game>
+  <game name="Cypher (World)">
+    <category>Games</category>
+    <description>Cypher (World)</description>
+    <rom name="Deluxe_v1.zip" size="282612052" crc="bf62ca67" md5="16ff90da358bf52010b41091e01eec56" sha1="3b880cdafecf8b08b8c528ff299475c6fd2f785a" />
+  </game>
+  <game name="Cypher (World) (v1.6) (Mac)">
+    <category>Games</category>
+    <description>Cypher (World) (v1.6) (Mac)</description>
+    <rom name="CYPHER_MAC_v1-6.dmg" size="141825599" crc="bf8216af" md5="fed915015279c380aa45402280261e14" sha1="7eb523a2e94643763ce82b45c3943f23fdb7fe89" />
+  </game>
+  <game name="Cypher (World) (v1.7) (Windows)">
+    <category>Games</category>
+    <description>Cypher (World) (v1.7) (Windows)</description>
+    <rom name="CYPHER_WIN_v1-7.zip" size="130828201" crc="82f88f4a" md5="9bcb2760372f25b91749d21a81a2c841" sha1="d52705100739e017da2ce81d5f0e8fcedaa94855" />
+  </game>
+  <game name="DLC Quest (World) (v1.1.4439.32928)">
+    <category>Games</category>
+    <description>DLC Quest (World) (v1.1.4439.32928)</description>
+    <rom name="DLC_Quest_1.1.4439.32928_Setup.exe" size="68262169" crc="758027bf" md5="0e513d64999a9c4ebff8bc018bf7d9ba" sha1="7b57e47fbc80f8b35aa49c4428abba8810895598" />
+  </game>
+  <game name="Dangerous Insects (World)">
+    <category>Games</category>
+    <description>Dangerous Insects (World)</description>
+    <rom name="dangerous-insects-1.0.zip" size="63392704" crc="9286ab46" md5="91f235b67209546135e77f64d4489234" sha1="498dd722acfe9cbef74fe81ff9ba7f531f061c20" />
+  </game>
+  <game name="Dangerous Insects (World) (Mac) (32-bit)">
+    <category>Games</category>
+    <description>Dangerous Insects (World) (Mac) (32-bit)</description>
+    <rom name="LinuxStandalone32.zip" size="68235014" crc="47989ed2" md5="647dd9286422130cf2eaa50840bc9d58" sha1="210520e2ed9c45ccabe7acd54f3334627519c57a" />
+  </game>
+  <game name="Dangerous Insects (World) (Mac) (64-bit)">
+    <category>Games</category>
+    <description>Dangerous Insects (World) (Mac) (64-bit)</description>
+    <rom name="LinuxStandalone64.zip" size="69115623" crc="0473dcdc" md5="589ed1534d025acdec95b1bb145ceda1" sha1="d7a18ab1c3ef061376c4a76b88433728531a5fc3" />
+  </game>
+  <game name="Dark Gates (World) (v0.6.0) (Mac)">
+    <category>Games</category>
+    <description>Dark Gates (World) (v0.6.0) (Mac)</description>
+    <rom name="DarkGates_0.6.0.tar.gz" size="31194019" crc="2ebe4539" md5="adb7e71407153e87f470882e9b07ee25" sha1="918bc8a50a3d9de7fb8a66f8054c2421eb9c32a6" />
+  </game>
+  <game name="Dark Gates (World) (v0.6.0) (Mac) (64-bit)">
+    <category>Games</category>
+    <description>Dark Gates (World) (v0.6.0) (Mac) (64-bit)</description>
+    <rom name="DarkGates_0.6.0_x86_64.tar.gz" size="31982763" crc="22195e58" md5="6e535310351056ea7f45001850c64ba1" sha1="94a845b7e7502da382006b2366198699fa773b95" />
+  </game>
+  <game name="Dark Gates (World) (v0.6.0) (Windows)">
+    <category>Games</category>
+    <description>Dark Gates (World) (v0.6.0) (Windows)</description>
+    <rom name="DarkGates_0.6.0_win.zip" size="30127435" crc="3235ee7f" md5="b87a9d6a216a07cdddc63df8641d3997" sha1="2c3cdc6c42072ace1a2d17d8179e93712dacc1d1" />
+  </game>
+  <game name="Data Hacker Initiation (World) (v1.999b)">
+    <category>Games</category>
+    <description>Data Hacker Initiation (World) (v1.999b)</description>
+    <rom name="data-hacker-initiation-1.999b.zip" size="326939145" crc="a7d7db11" md5="04bc76b413d6f90d13a7fb8bc4b77dc6" sha1="426936de4a0e0e39c918577db4552974768b454a" />
+  </game>
+  <game name="David (World) (Mac)">
+    <category>Games</category>
+    <description>David (World) (Mac)</description>
+    <rom name="davidmac.app.zip" size="17138404" crc="ec072143" md5="727a24db1947f66add6e458aaab57bb9" sha1="bced28f7f3d9c9bb8f357fc43c39d38bcd6943fd" />
+  </game>
+  <game name="Defenders of the Last Colony (World) (v1.1.0.3)">
+    <category>Games</category>
+    <description>Defenders of the Last Colony (World) (v1.1.0.3)</description>
+    <rom name="DOTLC_setup_1.1.0.3.zip" size="111783081" crc="d0f2e3ab" md5="8540d529053f728e93885addaea71a4d" sha1="dbdcc43a58ec09be830615c26b103d7c5e6de7af" />
+  </game>
+  <game name="Deponia (World)">
+    <category>Games</category>
+    <description>Deponia (World)</description>
+    <rom name="Deponia.zip" size="516804" crc="84ee5eb4" md5="046bc470c857517f3bb5bd37357c30e1" sha1="507cedef5d8bcc5670f164bc14439a1dbc4297af" />
+  </game>
+  <game name="Deponia (World) (v3.2.150409152503)) (Windows)">
+    <category>Games</category>
+    <description>Deponia (World) (v3.2.150409152503)) (Windows)</description>
+    <rom name="Deponia_PC_Full_3_2.150409152503.exe" size="1591630460" crc="4f8907f5" md5="9cab7e2085f0fa893ff5e01559a4671a" sha1="56798c81c277c16854d01a4ce560042516913d24" />
+  </game>
+  <game name="Deponia (World) (v3.2.3.1337) (Linux)">
+    <category>Games</category>
+    <description>Deponia (World) (v3.2.3.1337) (Linux)</description>
+    <rom name="Deponia_DEB_Full_3.2.3.1337_Multi_Daedalic_ESD.tar.gz" size="1536700177" crc="3caf3441" md5="a0862c5a78143b9af94d9d0edd4523e8" sha1="bc8e37e115bf3c02829f018a8c5d9138107a10bf" />
+  </game>
+  <game name="Deponia (World) (v3.2.3.1337) (Mac)">
+    <category>Games</category>
+    <description>Deponia (World) (v3.2.3.1337) (Mac)</description>
+    <rom name="Deponia_OSX_Full_3.2.3.1337_Multi_Daedalic_ESD.dmg" size="1552611067" crc="0ddb4ff8" md5="193d8ddcdd093e65eb52f73f3f1c21a8" sha1="cdcba6695f4dc92e872b4b06ef824bd620f18160" />
+  </game>
+  <game name="Deponia (World) (v3.2.3.1337) (Windows)">
+    <category>Games</category>
+    <description>Deponia (World) (v3.2.3.1337) (Windows)</description>
+    <rom name="Deponia_PC_Full_3.2.3.1337_Multi_Daedalic_ESD.exe" size="1593241671" crc="4f15fdb3" md5="0873620ccb6f8acf94dbe111ccbd7c73" sha1="6a3a71c5a30edae3a1eeeadac4573d8f2ea10242" />
+  </game>
+  <game name="Detective Case and Clown Bot in - Murder in The Hotel Lisbon (World) (Source Code)">
+    <category>Games</category>
+    <description>Detective Case and Clown Bot in - Murder in The Hotel Lisbon (World) (Source Code)</description>
+    <rom name="MurderInTheHotelLisbon-YoYo.gmz" size="87023129" crc="20545c90" md5="9f28c7744aac04a8087e0b2f85150b3f" sha1="a24f6876636aea5b5c0494efdbe4f9b582294cdf" />
+  </game>
+  <game name="Dirty Split (World)">
+    <category>Games</category>
+    <description>Dirty Split (World)</description>
+    <rom name="DirtySplit_Setup_en.exe" size="191625977" crc="d40ac9ea" md5="43b339d1c58f0327ccfc8aec99db954a" sha1="bc9936c3c7fe0e19f3da7de3dd59ba4e9084a7fe" />
+  </game>
+  <game name="Divinity Dragon Commander (World)">
+    <category>Games</category>
+    <description>Divinity Dragon Commander (World)</description>
+    <rom name="DragonCommander.zip" size="9981844651" crc="fab19e9c" md5="0c337114d6ce0a12fb437a6f42498798" sha1="ab35ec90f6b03aef467957ecbf72ff7e8058a08e" />
+  </game>
+  <game name="Divinity Dragon Commander (World) (v1.0.124) (Patch)">
+    <category>Games</category>
+    <description>Divinity Dragon Commander (World) (v1.0.124) (Patch)</description>
+    <rom name="DCPatch1_0_124.exe" size="95559659" crc="cb0d4d4c" md5="46d4d09e94bac9087304f6016160dcd1" sha1="c23e00ef4252202996d07e4048441da7fa2a91e2" />
+  </game>
+  <game name="Downpour (World)">
+    <category>Games</category>
+    <description>Downpour (World)</description>
+    <rom name="Downpour.zip" size="64370344" crc="63dfda2a" md5="53539b6e9c8d0bb44e6fb21079961f8c" sha1="f880d3763cd482789a1b096f4d20b7e470cde431" />
+  </game>
+  <game name="Downpour (World) (Linux)">
+    <category>Games</category>
+    <description>Downpour (World) (Linux)</description>
+    <rom name="DownpourLinuxVersion.zip" size="66422499" crc="9b6d31da" md5="240711b7d7b5396f4fb9ba774fd7cc41" sha1="a0c88385d2b054505bc404355e348f4850391c0d" />
+  </game>
+  <game name="Downpour (World) (Mac)">
+    <category>Games</category>
+    <description>Downpour (World) (Mac)</description>
+    <rom name="DownpourMacVersion.zip" size="65590878" crc="fda87d15" md5="f91021946a5bb0a17634afb8d420dd6a" sha1="2399089e4b60fa6180220a189355d9dfd86a76b7" />
+  </game>
+  <game name="Dragon History (World)">
+    <category>Games</category>
+    <description>Dragon History (World)</description>
+    <rom name="dh-en-2012.zip" size="3310860" crc="b2df49a1" md5="b3f16d4e8a96739a4353617bdeb2c749" sha1="5132d355c708bfdcd12255c8437c7bf05802a455" />
+  </game>
+  <game name="Drascula The Vampire Strikes Back (World)">
+    <category>Games</category>
+    <description>Drascula The Vampire Strikes Back (World)</description>
+    <rom name="drascula-1.0.zip" size="32842993" crc="dcc196ca" md5="fe2ee0948159c3acb923c89a1af7cc84" sha1="0cb91c9e56bc963d17a3c6afe15b76430dd2c6fe" />
+  </game>
+  <game name="Driftmoon (World)">
+    <category>Games</category>
+    <description>Driftmoon (World)</description>
+    <rom name="driftmoon_nodrm.exe" size="128340232" crc="0b5245d4" md5="5d9afb148205b5968d9e142fb15b36a6" sha1="16f2c59e6ab8070ae0f26cde4a83f80e304c43a5" />
+  </game>
+  <game name="Droplitz (World)">
+    <category>Games</category>
+    <description>Droplitz (World)</description>
+    <rom name="Droplitz build for PC distributors.zip" size="524964182" crc="2a604a17" md5="b24b02a023202e3cf58bfca65b4fe047" sha1="3bc73dff798529f5019a1a7e4724a71b0e4972c3" />
+  </game>
+  <game name="Dungeon of Elements (World) (v1.3.7)">
+    <category>Games</category>
+    <description>Dungeon of Elements (World) (v1.3.7)</description>
+    <rom name="DOE_Setup_1.3.7.exe" size="173968833" crc="40622b74" md5="336133fd4391dad0dbec1149199ffa2a" sha1="4cf3391e2efb9e59a065c737538237f369986870" />
+  </game>
+  <game name="Dungeon of Elements (World) (v1.3.7) (Linux)">
+    <category>Games</category>
+    <description>Dungeon of Elements (World) (v1.3.7) (Linux)</description>
+    <rom name="DungeonofElements_v1_3_7_Linux.zip" size="233728604" crc="c16ed9a1" md5="bb10d51451ef88ca3c707dbdaf5106f7" sha1="5d37f94ba77abd1e87910d2299b187aec2ab0f89" />
+  </game>
+  <game name="Dungeon of Elements (World) (v1.3.7) (Mac)">
+    <category>Games</category>
+    <description>Dungeon of Elements (World) (v1.3.7) (Mac)</description>
+    <rom name="DungeonofElements_v1_3_7_Mac.zip" size="236015509" crc="93f49ecf" md5="3fb0486996a1405c1bbb5731d228c1b6" sha1="70d09ad6b35170157244c40e1f73ba39c0ea1738" />
+  </game>
+  <game name="Dynamite Jack (World) (v1.0.23) (Linux)">
+    <category>Games</category>
+    <description>Dynamite Jack (World) (v1.0.23) (Linux)</description>
+    <rom name="dynamitejack-1.0.23.tgz" size="54195417" crc="dd823817" md5="72eeb2829c98c16c308d13d54144515e" sha1="a82fe42e6508adf5d2e0046f58f94550732f995e" />
+  </game>
+  <game name="Dynamite Jack (World) (v1.0.23) (Mac)">
+    <category>Games</category>
+    <description>Dynamite Jack (World) (v1.0.23) (Mac)</description>
+    <rom name="DynamiteJack-1.0.23.dmg" size="53639002" crc="9c6b11b2" md5="dc737084c7c509e02a748566df08d91f" sha1="bd02e04bd4f4326eac6ddb7fa782740e03711507" />
+  </game>
+  <game name="Dynamite Jack (World) (v1.0.23) (Windows)">
+    <category>Games</category>
+    <description>Dynamite Jack (World) (v1.0.23) (Windows)</description>
+    <rom name="DynamiteJack_setup-1.0.23.exe" size="52674210" crc="f730a6df" md5="1a26dd7427752abb96ec73ff6cd5918d" sha1="b52ec3238e546c37c46325b63c62344e9dd319f9" />
+  </game>
+  <game name="Dynamite Jack (World) (v1.0.23) (deb) (Mac)">
+    <category>Games</category>
+    <description>Dynamite Jack (World) (v1.0.23) (deb) (Mac)</description>
+    <rom name="dynamitejack_1.0.23_i386.deb" size="54252972" crc="00a2a4a9" md5="5f6888461c7016a3849f8a55f9f0aeb3" sha1="c6c0b83a9b9e8eff4e0b23d16d2d955c4725b042" />
+  </game>
+  <game name="Eador Masters of the Broken World + Eador Genesis (World)">
+    <category>Games</category>
+    <description>Eador Masters of the Broken World + Eador Genesis (World)</description>
+    <rom name="Build-MotBW_Genesis.zip" size="1270747312" crc="bda8cfe6" md5="54099dc0a362fa406ab074c51c903373" sha1="f407751633ad9da6f58e2aeb33e4a6c420cfcfa9" />
+  </game>
+  <game name="East Tower (World) (Mac)">
+    <category>Games</category>
+    <description>East Tower (World) (Mac)</description>
+    <rom name="etakio100.dmg" size="104849481" crc="dd0ad2f8" md5="c89bb19e4febdaeaf730fd9787593c3c" sha1="799f24789af7a8f836402cd3359b2e158fbd2df7" />
+  </game>
+  <game name="East Tower (World) (Windows)">
+    <category>Games</category>
+    <description>East Tower (World) (Windows)</description>
+    <rom name="etakiofull-1.0.0.exe" size="95426170" crc="97593e29" md5="951851fc4ff332c11bc7e40eae96768b" sha1="ac616a700c355ebac54b6e1489228b9787eb2c24" />
+  </game>
+  <game name="EcoFish (World)">
+    <category>Games</category>
+    <description>EcoFish (World)</description>
+    <rom name="EcoFish.msi" size="111510272" crc="f1cddc4b" md5="c5d16e8c4d24e73f59f12881477e8328" sha1="9691d05a33b63aa3eea6316dfaf3362d572ac07a" />
+  </game>
+  <game name="Edna &amp; Harvey - Harvey's New Eyes (World)">
+    <category>Games</category>
+    <description>Edna &amp; Harvey - Harvey's New Eyes (World)</description>
+    <rom name="Harveys_New_Eyes_PC_FULL_2_0.150409151814.exe" size="2261147555" crc="872ac8d4" md5="562e277c15b0705775c56d4a19e0c455" sha1="c6893a03437bbc14cd0f8bef36fac9aaad2e344c" />
+  </game>
+  <game name="Edna and Harvey - Harvey's New Eyes (World)">
+    <category>Games</category>
+    <description>Edna and Harvey - Harvey's New Eyes (World)</description>
+    <rom name="Edna Harvey Harveys New Eyes.zip" size="518358" crc="a9c0ec1a" md5="9fb4c8fdcbfeb4795af69a682422604f" sha1="589f9edf06c4767f37aa56b6983354fa0dc64465" />
+  </game>
+  <game name="Edna and Harvey - The Breakout (World)">
+    <category>Games</category>
+    <description>Edna and Harvey - The Breakout (World)</description>
+    <rom name="Edna and Harvey - The Breakout.part1.rar" size="996147200" crc="1e648e1e" md5="fbeee3af453d5cf9dd64f9a67c00aaf0" sha1="be5bd622550fa802a898ddff8104e713f0814b00" />
+    <rom name="Edna and Harvey - The Breakout.part2.rar" size="996147200" crc="d851fc2a" md5="f08f19f0ae13c9834891d9a5b4236e87" sha1="ea702d92be8de05bfec9fe8a0a1ae7d6fbd5b71a" />
+    <rom name="Edna and Harvey - The Breakout.part3.rar" size="996147200" crc="d682f662" md5="7dc7b243e7680eb6b09b2269c853cf27" sha1="c1c883de45675e85e8b6b1042c2710255f16074a" />
+    <rom name="Edna and Harvey - The Breakout.part4.rar" size="310790992" crc="d207a930" md5="07c19fdca6e899ff03358bbb2d9769e1" sha1="2d3ddcea5ff7df1e1acaf7d2004a3e3390ddc04c" />
+  </game>
+  <game name="Elves Adventure (World) (v0.03)">
+    <category>Games</category>
+    <description>Elves Adventure (World) (v0.03)</description>
+    <rom name="Elves_Adventure_Alpha_0_03.zip" size="533317751" crc="1677944b" md5="8f6734e68785d7809cd5cd6885f3ce4b" sha1="d437b9cf3de3be9134c5a9afe06b32d0485e948b" />
+  </game>
+  <game name="Enforcer Police Crime Action (World) (v1.0.4.2) (Mac)">
+    <category>Games</category>
+    <description>Enforcer Police Crime Action (World) (v1.0.4.2) (Mac)</description>
+    <rom name="Enforcerv1.0.4.2_OSX.zip" size="780690869" crc="802c7b34" md5="2eeef2dfd3e5964e462321e37b7f2575" sha1="d536c2a334da93d28bd8f53734dc242be620e209" />
+  </game>
+  <game name="Environmental Station Alpha (World) (v9.6) (Mac)">
+    <category>Games</category>
+    <description>Environmental Station Alpha (World) (v9.6) (Mac)</description>
+    <rom name="ESA_mac_9_6.zip" size="82900704" crc="db961ec1" md5="3923de5c5862f0ed471865d360f528cf" sha1="360d70f83d0e4b5af8506fd5f4cc73bec618bf75" />
+  </game>
+  <game name="Environmental Station Alpha (World) (v9.6) (Windows)">
+    <category>Games</category>
+    <description>Environmental Station Alpha (World) (v9.6) (Windows)</description>
+    <rom name="ESA_win_9_6.zip" size="43944918" crc="b0d9f9c9" md5="0ab2295e971916df7d951649dbcc5f30" sha1="4f5004366b5a420aabf093d84ae7980d93626509" />
+  </game>
+  <game name="Exit Fate (World) (Linux)">
+    <category>Games</category>
+    <description>Exit Fate (World) (Linux)</description>
+    <rom name="exitfate.tar.gz" size="488781213" crc="e67dddc5" md5="8888e2a07a268d5bfa666910be2d397c" sha1="e449a8c9a7a533c4841bac0c5ec03e07f4c6cbcb" />
+  </game>
+  <game name="Exit Fate (World) (Mac)">
+    <category>Games</category>
+    <description>Exit Fate (World) (Mac)</description>
+    <rom name="exitfate.app.zip" size="491432389" crc="1a6069cc" md5="85e41544e9536f7ac1b5516207a5a9ce" sha1="cac81ec12ee87089d349d0d192654c6205e20635" />
+  </game>
+  <game name="Exit Fate (World) (v1.02)">
+    <category>Games</category>
+    <description>Exit Fate (World) (v1.02)</description>
+    <rom name="Exit Fate v102.zip" size="152764237" crc="3fe083f9" md5="2a47e48f6968943cc984408c02d9e97d" sha1="5deca696e161bac5a581d6539b2773db2db99caf" />
+  </game>
+  <game name="Extinction, The (World) (v0.30)">
+    <category>Games</category>
+    <description>Extinction, The (World) (v0.30)</description>
+    <rom name="TheExtinctionEarlyAccessAlpha_0.30.rar" size="290869120" crc="5d348a82" md5="44bbc167f004561f5324fb7ea5d88536" sha1="15715aab87741c7e7dcc988da607b3f32bbca848" />
+  </game>
+  <game name="Faerie Solitaire (World) (Linux)">
+    <category>Games</category>
+    <description>Faerie Solitaire (World) (Linux)</description>
+    <rom name="faerie-solitaire_1.0_i386.tar" size="103112370" crc="7e373e60" md5="2f5fdd31e71e93a9be654508d57c34af" sha1="75063cebc0728a0d04273d9b74bed88bf6a2896a" />
+  </game>
+  <game name="Faerie Solitaire (World) (Mac)">
+    <category>Games</category>
+    <description>Faerie Solitaire (World) (Mac)</description>
+    <rom name="FaerieSolitaireMac.dmg" size="105309843" crc="283419ec" md5="e1ead5b5432f00ee7abcca85230ee9a9" sha1="b3cd7e528786da335107ffef451b37904099758f" />
+  </game>
+  <game name="Faerie Solitaire (World) (Windows)">
+    <category>Games</category>
+    <description>Faerie Solitaire (World) (Windows)</description>
+    <rom name="FaerieSolitaireInstaller.exe" size="112851210" crc="d7d5d6ac" md5="997f2fb0bd04bd66eb184db64ab97fe6" sha1="10d03d245780d3856d32cecb7cdd0bababba2b0e" />
+  </game>
+  <game name="Fairytale (World)">
+    <category>Games</category>
+    <description>Fairytale (World)</description>
+    <rom name="Fairy_Tale.zip" size="916304773" crc="32c15dcb" md5="3352b52446a2d3614acdf1f6b2b84771" sha1="0f9940e387bda0749090927d4164c7df3e8f54b3" />
+  </game>
+  <game name="Ferrari Virtual Race (World)">
+    <category>Games</category>
+    <description>Ferrari Virtual Race (World)</description>
+    <rom name="FerrariVirtualRace.exe" size="79602431" crc="88bf1961" md5="6ae9c375aaf5aeff347d7f0f5d315fd8" sha1="ab1a183e59746376a70de0689c513dba74e9bb33" />
+  </game>
+  <game name="Few, The (World)">
+    <category>Games</category>
+    <description>Few, The (World)</description>
+    <rom name="TheFew.zip" size="155174998" crc="ce56d630" md5="2c5ed2f41b6db30607fd0fcdd47ed0a3" sha1="933f6e790cfe67cce35a804ff1f6b14c7ab3314f" />
+  </game>
+  <game name="Few, The (World) (Mac)">
+    <category>Games</category>
+    <description>Few, The (World) (Mac)</description>
+    <rom name="TheFew_Mac.1.zip" size="155187104" crc="3fb1bbd9" md5="85808c76b333f9bc1f6e618205f43f50" sha1="fd561629e832a881580c24400bee17077dbb72ca" />
+  </game>
+  <game name="First Person Lover (World) (Mac)">
+    <category>Games</category>
+    <description>First Person Lover (World) (Mac)</description>
+    <rom name="FirstPersonLover (OSX).zip" size="597697519" crc="ea1b38ba" md5="8097ee3996523bc076e2aacfe39bd4e5" sha1="7e676a853aa2050bbbb76fe53d21f591eacbecc2" />
+  </game>
+  <game name="First Person Lover (World) (Windows)">
+    <category>Games</category>
+    <description>First Person Lover (World) (Windows)</description>
+    <rom name="FirstPersonLover (Win).zip" size="592703144" crc="f0a6a826" md5="a56270f02841567682e24f43f1822fbd" sha1="1378c895cf9bd968e394b93414e33a0456707f5f" />
+  </game>
+  <game name="Fleet Buster (World)">
+    <category>Games</category>
+    <description>Fleet Buster (World)</description>
+    <rom name="Fleet_Buster_Release.msi" size="29298176" crc="63d693d7" md5="951f356bb9951e835349ceb1d1f0a0d8" sha1="d82b2839d706e10464e87aaf574ccb0d6d290803" />
+  </game>
+  <game name="Fortix 2 (World) (Mac)">
+    <category>Games</category>
+    <description>Fortix 2 (World) (Mac)</description>
+    <rom name="Fortix2.pkg" size="263505189" crc="83e53141" md5="ad39b2c62b6cdd190f54b26b628ce490" sha1="8401d6c3fca435c0ff994770cd12568d4b6162d6" />
+  </game>
+  <game name="Freedom Fall (World)">
+    <category>Games</category>
+    <description>Freedom Fall (World)</description>
+    <rom name="FreedomFall.zip" size="169382831" crc="14f62462" md5="b6d10102fd677a9f26167e687fe88f58" sha1="57847caa45bbfe85fe0ea4acad55daef7238af9f" />
+  </game>
+  <game name="Freedom Planet (World) (Linux)">
+    <category>Games</category>
+    <description>Freedom Planet (World) (Linux)</description>
+    <rom name="freedomplanetlinux.tar.gz" size="343102097" crc="57a602f1" md5="45730d0870604adab76ad5f0c51a5ddf" sha1="4128af117d5d6dc7ab2af6ffcd44a78f75f6b407" />
+  </game>
+  <game name="Freedom Planet (World) (Mac)">
+    <category>Games</category>
+    <description>Freedom Planet (World) (Mac)</description>
+    <rom name="freedomplanetmac.dmg" size="327433487" crc="b2f38d71" md5="1c76a9719d7424f0f2902a835d468af7" sha1="ec1e3177c8c1ea702283aa21e2f69fa666fa880f" />
+  </game>
+  <game name="Freedom Planet (World) (Windows)">
+    <category>Games</category>
+    <description>Freedom Planet (World) (Windows)</description>
+    <rom name="freedomplanetwindows.zip" size="355152227" crc="2c60d14d" md5="d88d5d6f926e4f01a4d3ff19fb6e07a0" sha1="4672f60623dc950880dd5ca066261491fcadfb4d" />
+  </game>
+  <game name="Full Throttle Ramastered (World) (v1.1.891868) (Windows)">
+    <category>Games</category>
+    <description>Full Throttle Ramastered (World) (v1.1.891868) (Windows)</description>
+    <rom name="Throttle-1.1.891868.zip" size="4831394091" crc="15747a29" md5="b436a1c959bbe57fda6c3a08c96e1fcb" sha1="8b5e660e31ca3385e85d07d80297a90afbda13d2" />
+  </game>
+  <game name="Full Throttle Ramastered (World) (v1.4.891868)">
+    <category>Games</category>
+    <description>Full Throttle Ramastered (World) (v1.4.891868)</description>
+    <rom name="Throttle-1.4.891868_Signed.zip" size="4822759423" crc="49832ef7" md5="7f19da221401c66027c6b732de6f95e7" sha1="7dddeeaa03cc2b2f82af7950222f8c8900a6eaa7" />
+  </game>
+  <game name="Full Throttle Ramastered (World) (v2017-08-04) (Mac)">
+    <category>Games</category>
+    <description>Full Throttle Ramastered (World) (v2017-08-04) (Mac)</description>
+    <rom name="ft-linux_nonsteam_2017-08-04.tar.gz" size="4822938064" crc="e9278269" md5="dcb2421020c126a5ade7cd7ffbf83744" sha1="840740200c8e5cb93ff8b48b5a23ce4f87fe8888" />
+  </game>
+  <game name="Geri's Chess (World)">
+    <category>Games</category>
+    <description>Geri's Chess (World)</description>
+    <rom name="gerischess.zip" size="10453390" crc="99a19785" md5="0e7965689c424640ac186feedc9621e4" sha1="fc3ba2ff7c1aeeef25315fa4499f3c3d8365fe91" />
+  </game>
+  <game name="Gold Contract (World) (v0.92)">
+    <category>Games</category>
+    <description>Gold Contract (World) (v0.92)</description>
+    <rom name="Cold_Contract_V092_EA.exe" size="125360359" crc="7dd07b35" md5="32c3c230541497157c64d877e591d9fe" sha1="ff0904bdf84d5f20b2f71a655dcb040212655d9e" />
+  </game>
+  <game name="Gravity Bone (World) (v1.1)">
+    <category>Games</category>
+    <description>Gravity Bone (World) (v1.1)</description>
+    <rom name="gravitybone_v11.zip" size="25340733" crc="16f8606c" md5="3b01dfd7cf3117f3a5b131e8f6a70df8" sha1="ec39b688ca0dbc302a6481ebfabcef243ebe79d7" />
+  </game>
+  <game name="Gray Matter (World)">
+    <category>Games</category>
+    <description>Gray Matter (World)</description>
+    <rom name="Gray_Matter.part1.rar" size="1536000000" crc="6307c099" md5="1c46fab29fadfc8ae8784e3cbb85d791" sha1="bea173e4765a36e8bae2a40ba22b3b188b4eb5a7" />
+    <rom name="Gray_Matter.part2.rar" size="1536000000" crc="68bce861" md5="9b3b78770888587e1b933741e4bee003" sha1="f88ad4eff071d8ef64664632acfc586a1b7c5a57" />
+    <rom name="Gray_Matter.part3.rar" size="1536000000" crc="48a26219" md5="d488d356a464a12df9b8faeaaba30fd0" sha1="289cea279064fbff1b10492bc8674087d682e799" />
+    <rom name="Gray_Matter.part4.rar" size="943936138" crc="8158a2ee" md5="a017a9662b88187515eb8a973e308d05" sha1="0d4a106d58b2808eb7889ef207bb21d850422d77" />
+  </game>
+  <game name="Guilty Gear Isuka (World)">
+    <category>Games</category>
+    <description>Guilty Gear Isuka (World)</description>
+    <rom name="Download Guilty Gear Isuka.exe" size="290825" crc="e12f4ed1" md5="f946e5b62f24e0a0ce1e2de9a03dc7a1" sha1="c968d7d81895dce0a9c97f364cbf8b26c7d279c5" />
+  </game>
+  <game name="Gun Metal (World)">
+    <category>Games</category>
+    <description>Gun Metal (World)</description>
+    <rom name="Download Gun Metal.exe" size="290825" crc="ceb0792c" md5="54ef5199a2e7e781e468b21bbd91d517" sha1="a3dc5b35ebbb56e2fbafa5f2b7d9c7a712298a20" />
+  </game>
+  <game name="Guncraft (World)">
+    <category>Games</category>
+    <description>Guncraft (World)</description>
+    <rom name="GuncraftSetup.zip" size="152483277" crc="e3f6fd06" md5="7fdbe6ff7a1ff4b368b22e09f8556356" sha1="9584989ad40c0677191541cedee3741783a0176a" />
+  </game>
+  <game name="Guy vs The Wicked and Nefarious Land (World)">
+    <category>Games</category>
+    <description>Guy vs The Wicked and Nefarious Land (World)</description>
+    <rom name="Guy_older_versions.zip" size="2116938" crc="bc3cd004" md5="db1c048635ae8268ad8dcb566883f033" sha1="4d34b162c139e3b8442dc197bced911fd9ded302" />
+  </game>
+  <game name="HOX (World) (v1.0.06) (Windows)">
+    <category>Games</category>
+    <description>HOX (World) (v1.0.06) (Windows)</description>
+    <rom name="hox-win-1.0.06.zip" size="2997220" crc="a141c64e" md5="f144e7424287715518f9ef0be2288e7e" sha1="abb63fcce6bb99c1ae1e6efc3f76a6be0e60e2b4" />
+  </game>
+  <game name="Happy Campers (World) (Patch)">
+    <category>Games</category>
+    <description>Happy Campers (World) (Patch)</description>
+    <rom name="HappyCamp Patch.zip" size="11094700" crc="8622490f" md5="5f1447b491b567fc8db413d9d905c147" sha1="61a70b60d638cfb00ce232ec8b9cd3dc17f7a101" />
+  </game>
+  <game name="Harkanoid (World) (v1.0.1) (Linux)">
+    <category>Games</category>
+    <description>Harkanoid (World) (v1.0.1) (Linux)</description>
+    <rom name="Harkanoid Linux 1.0.1.zip" size="15806049" crc="a8292bbb" md5="4060071d64c66a87a6def6b8e6adab1e" sha1="f1c2eff9411742d023b5b74208e7b0528f805e9a" />
+  </game>
+  <game name="Harkanoid (World) (v1.0.1) (Mac)">
+    <category>Games</category>
+    <description>Harkanoid (World) (v1.0.1) (Mac)</description>
+    <rom name="Harkanoid Mac 1.0.1.zip" size="16340971" crc="65323b30" md5="d25964ec2921285dd1b16b10566da29a" sha1="9820af9776eb7cc1639184570fb13e6ba4a0b6db" />
+  </game>
+  <game name="Hero Siege (World)">
+    <category>Games</category>
+    <description>Hero Siege (World)</description>
+    <rom name="setup.exe" size="3572904" crc="f4d25845" md5="881be46da8805d2a70371cbd8072bc0e" sha1="6acb12477b5387ccc90a082511e2d037c9171850" />
+  </game>
+  <game name="Hotline Miami 2 (World) (v1.0.8) (Linux)">
+    <category>Games</category>
+    <description>Hotline Miami 2 (World) (v1.0.8) (Linux)</description>
+    <rom name="HotlineMiami2-DRMFree-Linux-v1.0.8-02-11-2016.tar.gz" size="564050497" crc="34eda9c2" md5="8bda29dd10ed8fb8a5a8dc8563a41b11" sha1="e0dfde7e8b92324468a1a8ad68958606d61131f7" />
+  </game>
+  <game name="Hotline Miami 2 (World) (v1.0.8) (Mac)">
+    <category>Games</category>
+    <description>Hotline Miami 2 (World) (v1.0.8) (Mac)</description>
+    <rom name="HotlineMiami2-MacOSX-DRMFree-v1.0.8-02-11-2016.zip" size="560020080" crc="1793fd88" md5="6ccb42e056f7ccad7dd0283aff893413" sha1="edd1304ebac7ea4707850f17750a0015f0b8d849" />
+  </game>
+  <game name="Hotline Miami 2 (World) (v1.0.8) (Windows)">
+    <category>Games</category>
+    <description>Hotline Miami 2 (World) (v1.0.8) (Windows)</description>
+    <rom name="HotlineMiami2-DRMFree-Win32-1.0.8-02-11-2016.exe" size="538949117" crc="fba87d4a" md5="42ff387048ba8fd2fa39caa2572c78a7" sha1="cb946929787045a877036ef3d35cc1d65ceb3600" />
+  </game>
+  <game name="Howler, The (World)">
+    <category>Games</category>
+    <description>Howler, The (World)</description>
+    <rom name="Howler.zip" size="36131923" crc="387f4fbc" md5="b1b0f8c881d39d4da8515d810d19226b" sha1="140b7d736872bdde152038acee73f2cd1d169f4c" />
+  </game>
+  <game name="Howler, The (World) (Mac)">
+    <category>Games</category>
+    <description>Howler, The (World) (Mac)</description>
+    <rom name="Howler_mac.zip" size="35877587" crc="4c03b8a5" md5="96c2ef08632cf200174c0afe3b261da4" sha1="07814f62cfa064e244acb3a5438bf0e2d5767e2f" />
+  </game>
+  <game name="Hyper Light Drifter (World) (v2017-07-21) (Windows)">
+    <category>Games</category>
+    <description>Hyper Light Drifter (World) (v2017-07-21) (Windows)</description>
+    <rom name="HyperLightDrifter-DRMFree-Windows-2017-07-21.zip" size="788894912" crc="393c2a63" md5="55d2e5c1f44d999777ca5fed4d264c6f" sha1="8f6dfac7808e19ad093c2a1d0c9d19b8dff3d0a9" />
+  </game>
+  <game name="Hyper Light Drifter (World) (v2018-11-21) (Linux)">
+    <category>Games</category>
+    <description>Hyper Light Drifter (World) (v2018-11-21) (Linux)</description>
+    <rom name="HyperLightDrifter-DRMFree-Linux-2018-11-21.sh" size="795227931" crc="b79ea17f" md5="8579efba68f8d26b15a201f98168862b" sha1="f8a9a77482d2351d390861c9f19a8b98edfdbcb5" />
+  </game>
+  <game name="Hyper Light Drifter (World) (v2018-11-21) (Mac)">
+    <category>Games</category>
+    <description>Hyper Light Drifter (World) (v2018-11-21) (Mac)</description>
+    <rom name="HyperLightDrifter-DRMFree-MacOSX-2018-11-21.dmg" size="792646577" crc="bccabcb8" md5="a307e726c35a139f7f1a6c54767c3acf" sha1="b79ae6113abe0aa4bebd3290a8ab8e38167ab11f" />
+  </game>
+  <game name="Imscared (World)">
+    <category>Games</category>
+    <description>Imscared (World)</description>
+    <rom name="Imscared.zip" size="3268755" crc="18f736bb" md5="b2aa0b11627171b26b4f1fe0f44cb88a" sha1="4664e8f3e99b7f100acac57bd11cc78e954d4618" />
+  </game>
+  <game name="Infinite Loop (World)">
+    <category>Games</category>
+    <description>Infinite Loop (World)</description>
+    <rom name="Data.zip" size="39354926" crc="fb87c18a" md5="34bfac7f359d100772429044a8b1a9aa" sha1="1b0a5db26aed457875575a65859a5bd9ae5ec199" />
+  </game>
+  <game name="Ingenious Machine, The - New and Improved Edition (World) (Mac)">
+    <category>Games</category>
+    <description>Ingenious Machine, The - New and Improved Edition (World) (Mac)</description>
+    <rom name="IngeniousMachine.app.zip" size="23339522" crc="9dd30795" md5="22c035654e11050ca59bdbeb238cec06" sha1="64ecd3e95eb4f3abf8ceb0fc719dc438efd8eef1" />
+  </game>
+  <game name="Iron Storm (World)">
+    <category>Games</category>
+    <description>Iron Storm (World)</description>
+    <rom name="Iron_Storm_3218EFIGS_w7_32_64_setup.zip" size="832328257" crc="744e04ca" md5="72ffc394ccb6314f5a543e09ea06bb63" sha1="d5b2a7deb42799a7765ffba5daf4ad9880f29d7c" />
+  </game>
+  <game name="Isaac the Adventurer (World)">
+    <category>Games</category>
+    <description>Isaac the Adventurer (World)</description>
+    <rom name="isa.zip" size="215272199" crc="45ba5455" md5="88db1667e718d703ba09c4176c185295" sha1="a9a959159160006faf727c7130056bb1379ba7ba" />
+  </game>
+  <game name="Jagged Alliance - Classic Pack (World)">
+    <category>Games</category>
+    <description>Jagged Alliance - Classic Pack (World)</description>
+    <rom name="jaggedalliance_classicpack.zip" size="1913083458" crc="17a2a2fc" md5="39ea413966d9340a0ce0b6a47058aefc" sha1="10d531de9896937a5b02ff12c3cfdae2068844e4" />
+  </game>
+  <game name="Jamsouls (World)">
+    <category>Games</category>
+    <description>Jamsouls (World)</description>
+    <rom name="Jamsouls_Setup.1.exe" size="204293974" crc="f7cdf44b" md5="80c8f587eb174bdd629d0ea2bbdeb687" sha1="3f4636cd2e2676d342ea7902b84b68e761e39f48" />
+  </game>
+  <game name="Judge Dredd Dredd Vs Death (World)">
+    <category>Games</category>
+    <description>Judge Dredd Dredd Vs Death (World)</description>
+    <rom name="JudgeDreddversusDeathFull.zip" size="986186994" crc="2a9d569e" md5="d9441728c69a037307704c2d557902f4" sha1="13b9c9fc813981ced27a8078888b6734d671ae54" />
+  </game>
+  <game name="KFY.14.dmg (World)">
+    <category>Games</category>
+    <description>KFY.14.dmg (World)</description>
+    <rom name="KFY.14.dmg" size="58784533" crc="b1f0907b" md5="7341baf4f5582b5eed067111b123adf1" sha1="eeff0946221e85c9110563e5cf00bcf6bb5a5fdc" />
+  </game>
+  <game name="Katakis (World)">
+    <category>Games</category>
+    <description>Katakis (World)</description>
+    <rom name="katakis.zip" size="592969" crc="6a7a5cf5" md5="d7010529f9aeeecdff5dc5a090097839" sha1="884472ea00d9225aabbec42d9b6837465a0d413e" />
+  </game>
+  <game name="Kill Fun Yeah (World)">
+    <category>Games</category>
+    <description>Kill Fun Yeah (World)</description>
+    <rom name="KFY_Windows.8.exe" size="59375250" crc="c45c9dcd" md5="90d5a651a106bd088a2b54a1b14d931d" sha1="c53f212159867c0cae5be30ba7982f7aece040b8" />
+  </game>
+  <game name="Ku - Shroud of the Morrigan (World)">
+    <category>Games</category>
+    <description>Ku - Shroud of the Morrigan (World)</description>
+    <rom name="ku_sotm_setup.exe" size="228299430" crc="135d5cea" md5="2f174af93e94afce842dc8f9c335067d" sha1="f7aef1ac9cfb637e800dbc5c1b32b2aaf437883d" />
+  </game>
+  <game name="L'Abbaye des Morts (World) (Source Code)">
+    <category>Games</category>
+    <description>L'Abbaye des Morts (World) (Source Code)</description>
+    <rom name="AbbayeDesMorts-YoYo.gmz" size="5397252" crc="4bee3ad3" md5="ff3f2088c5c373f778b5a1755b621746" sha1="23588a233adad4dddf4c05762a27c77ef461bfa9" />
+  </game>
+  <game name="L'Abbaye des Morts (World) (v1.2)">
+    <category>Games</category>
+    <description>L'Abbaye des Morts (World) (v1.2)</description>
+    <rom name="Abbaye_des_morts_1_2.exe" size="4958189" crc="7f452c07" md5="2d444e593a84a8c30e41ba90ebdd0ca5" sha1="822f686270e4f1f77d4cefaaef36a1d2fe068b8e" />
+  </game>
+  <game name="Last Knight (World) (v1.1) (Mac)">
+    <category>Games</category>
+    <description>Last Knight (World) (v1.1) (Mac)</description>
+    <rom name="LastKnight-1.1-final-Mac.zip" size="291245039" crc="92ae32a5" md5="e46a05ff2198bac1bfa7f02f0521eff5" sha1="e3b2751431f2595cd28de604289c71683847860c" />
+  </game>
+  <game name="Last Knight (World) (v1.1) (Windows)">
+    <category>Games</category>
+    <description>Last Knight (World) (v1.1) (Windows)</description>
+    <rom name="LastKnight-1.1-final-PC.zip" size="398043099" crc="17ff4a5b" md5="72e464c6b0abb92e7bb86379c46f4024" sha1="9cfb9d804465582573fc2aea8cc945b517a716f6" />
+  </game>
+  <game name="Letter Quest Grimm's Journey (World) (v2.2.0)">
+    <category>Games</category>
+    <description>Letter Quest Grimm's Journey (World) (v2.2.0)</description>
+    <rom name="letterquest_2_2_0.exe" size="87329616" crc="e1e39eb4" md5="f042ce88f44335763e8957b5a44537db" sha1="6c634f6b11eb26fbc41d20dad1d908f5bcc93e8d" />
+  </game>
+  <game name="Letter Quest Grimm's Journey (World) (v2.2.0) (Mac)">
+    <category>Games</category>
+    <description>Letter Quest Grimm's Journey (World) (v2.2.0) (Mac)</description>
+    <rom name="letterquest_2_2_0_mac.zip" size="98850933" crc="ec4be703" md5="9a9c99b7628a7d35a72ae7eede9d82dc" sha1="d4acb2e9501f6fc1b7348d8c6f172eeb04776082" />
+  </game>
+  <game name="Love Ribbon (World) (Patch)">
+    <category>Games</category>
+    <description>Love Ribbon (World) (Patch)</description>
+    <rom name="hpatch.rpa" size="15686" crc="b487eb06" md5="28bea855c54ee7e46fef60fa7056d21d" sha1="d9b9070da4686c850b1bf5e047b26868ac04adcd" />
+  </game>
+  <game name="Lunchtime Of The Damned (World)">
+    <category>Games</category>
+    <description>Lunchtime Of The Damned (World)</description>
+    <rom name="lunchtime.zip" size="415467" crc="c70096d1" md5="d72d6a92c757179e2d883c66e34c07bf" sha1="0473d41dbcb25c6927ac3d85543c5d8acc6290fb" />
+  </game>
+  <game name="Lunnye Devitsy (World) (Windows)">
+    <category>Games</category>
+    <description>Lunnye Devitsy (World) (Windows)</description>
+    <rom name="LunnyeDevitsy_Win.zip" size="54206599" crc="432d9396" md5="cb0f937868e7382260d29ec68444bd5a" sha1="1103b2dfe60ff0ca803f0577ea822f542bcaaea6" />
+  </game>
+  <game name="Lyle in Cube Sector (World) (v1.05)">
+    <category>Games</category>
+    <description>Lyle in Cube Sector (World) (v1.05)</description>
+    <rom name="lyle1.05.zip" size="1514863" crc="c7d87939" md5="ca2ff1f74c5923f0abd5d32d4e90fd5c" sha1="693d5b0bcef2bd15f40ded037d655abe4f40a450" />
+  </game>
+  <game name="MacGuffin's Curse (World) (v1.20) (Mac)">
+    <category>Games</category>
+    <description>MacGuffin's Curse (World) (v1.20) (Mac)</description>
+    <rom name="macguffin-mac-1.20-full.zip" size="149390499" crc="6e2891e3" md5="e6ee0b391d8a4794e09215f085a01ee4" sha1="e04c0a8634b39fc5c6f94fad9b5dcb14aec42d5f" />
+  </game>
+  <game name="MacGuffin's Curse (World) (v1.20) (Windows)">
+    <category>Games</category>
+    <description>MacGuffin's Curse (World) (v1.20) (Windows)</description>
+    <rom name="macguffin-windows-1.20-full.zip" size="129027976" crc="bd839145" md5="c1b8fdb3019e464adbf017d5363d5af7" sha1="2c7ca8d1bddffa1be63ff8ae7d57d81c0cfab232" />
+  </game>
+  <game name="Mad Father (World)">
+    <category>Games</category>
+    <description>Mad Father (World)</description>
+    <rom name="MadFather104.zip" size="46002713" crc="abb70489" md5="43bd248fc39b6ce590bc05b5efa76bc3" sha1="9b0ebfaef5cff5267713911ea9e97a293eb61f00" />
+  </game>
+  <game name="Make it indie! (World) (Linux)">
+    <category>Games</category>
+    <description>Make it indie! (World) (Linux)</description>
+    <rom name="Make_it_indie_Linux.zip" size="1125405092" crc="6ea7ce78" md5="8dd5f3b04cb09901f755959711594371" sha1="64157e6c2374bcbddf7b827b3af2588d85e459e8" />
+  </game>
+  <game name="Make it indie! (World) (Mac)">
+    <category>Games</category>
+    <description>Make it indie! (World) (Mac)</description>
+    <rom name="Make_it_indie_Mac_Universal.zip" size="1132504737" crc="743fbcfc" md5="067fd2e6c05046151e5907f12c986073" sha1="cb42c51d5ee3f162161dd5ab1a7617e80ea13dae" />
+  </game>
+  <game name="Make it indie! (World) (Mac) (64-bit)">
+    <category>Games</category>
+    <description>Make it indie! (World) (Mac) (64-bit)</description>
+    <rom name="Make_it_indie_Linux_x64.zip" size="1126285174" crc="1640767b" md5="f3c3f5bea777c963e6ed6701b42816b8" sha1="fc0986de3f534af075b1b0add5dda2889fe46cd2" />
+  </game>
+  <game name="Make it indie! (World) (Windows)">
+    <category>Games</category>
+    <description>Make it indie! (World) (Windows)</description>
+    <rom name="Make_it_indie_PC.zip" size="1123280113" crc="09d17563" md5="d353b954e3b7f651c1ee012aa41af34b" sha1="eed54cc5c623cbd213c2e4a9f0bae2092803ab73" />
+  </game>
+  <game name="Manor Road (World) (Windows)">
+    <category>Games</category>
+    <description>Manor Road (World) (Windows)</description>
+    <rom name="Manor_Road_Windows.zip" size="56934280" crc="023bd42a" md5="d797b6ae5e2888e3c0c31a62fff84e7a" sha1="8c3e0e529a5bb60935a078b557a02145f6f5531f" />
+  </game>
+  <game name="Mayhem Triple (World)">
+    <category>Games</category>
+    <description>Mayhem Triple (World)</description>
+    <rom name="MayhemTriple.rar" size="24129648" crc="999d02cb" md5="b33ec087458d81d36a05bbce2ccefb5d" sha1="d1293866373555919e12a7c44806de777f584f79" />
+  </game>
+  <game name="McDROID (World) (Alt)">
+    <category>Games</category>
+    <description>McDROID (World) (Alt)</description>
+    <rom name="SetupMcDROID.1.exe" size="96581919" crc="62e6cc33" md5="7c488fcd88899d5f71c9bc3845598422" sha1="cbe2fcf0466afeaada831c8aaaed110979c655e8" />
+  </game>
+  <game name="McDROID (World) (Mac)">
+    <category>Games</category>
+    <description>McDROID (World) (Mac)</description>
+    <rom name="McDROID.tar.3.gz" size="157848236" crc="e8d3dbe6" md5="fe423a1801dc639fa1ccdbb2e239fef5" sha1="90b8bf2151ff006a3307d67c4330c291df4a4ba9" />
+  </game>
+  <game name="Me and PostApocalypse 2 Scraping (World)">
+    <category>Games</category>
+    <description>Me and PostApocalypse 2 Scraping (World)</description>
+    <rom name="me-and-postapocalypse-2-scraping.zip" size="1266482675" crc="99bc2caa" md5="52b2098aae24bbef687f7e9928097d45" sha1="161a48512e9ca2793935c0d62c7afbee9de3ca6d" />
+  </game>
+  <game name="Mega Man 8-bit Deathmatch (World)">
+    <category>Games</category>
+    <description>Mega Man 8-bit Deathmatch (World)</description>
+    <rom name="MM8BDMv3a.zip" size="84704281" crc="7abf67ea" md5="dbf244bd41145a8b1770ba18a377da33" sha1="1351e7e770919eb29f8416435d2ced99b2928758" />
+  </game>
+  <game name="Megabyte Punch (World) (Linux)">
+    <category>Games</category>
+    <description>Megabyte Punch (World) (Linux)</description>
+    <rom name="MegabytePunch_Linux_SpecialEdition.zip" size="319116544" crc="48d59ae5" md5="83a1880bd6835da49e9abb1c5eab22aa" sha1="4233fa10d8e18b7b435035962602b781f3148fe9" />
+  </game>
+  <game name="Megabyte Punch (World) (Mac)">
+    <category>Games</category>
+    <description>Megabyte Punch (World) (Mac)</description>
+    <rom name="MegabytePunch_Mac_SpecialEdition.zip" size="309827485" crc="af834c87" md5="fc5dcb8a3754834e75d4eb5f0a3a34df" sha1="cb78cd2b87d24010383ac0574bb1285c02782980" />
+  </game>
+  <game name="Megabyte Punch (World) (Windows)">
+    <category>Games</category>
+    <description>Megabyte Punch (World) (Windows)</description>
+    <rom name="MegabytePunchSE_install.exe" size="307115487" crc="7248da13" md5="f28404eb10978d1ff3a5f3b83a8ba3ab" sha1="efc8889c948ae4177482700a2228729bc1d305b5" />
+  </game>
+  <game name="Meridian New World (World)">
+    <category>Games</category>
+    <description>Meridian New World (World)</description>
+    <rom name="MeridianFull.zip" size="1107764311" crc="0dd1b687" md5="3f399acb260576491bc8c6f3848c7753" sha1="0a2e1a89f16f42e263884facd6545a20f9e89e11" />
+  </game>
+  <game name="Metal Planet (World) (Mac)">
+    <category>Games</category>
+    <description>Metal Planet (World) (Mac)</description>
+    <rom name="MPsetup-1.bin" size="609640003" crc="ba87b259" md5="fc4254b2c798e5a67263decfe21d06f3" sha1="3a29d01e7e607d917c77897f9c0b5a9909b95b2b" />
+  </game>
+  <game name="Metal Planet (World) (Windows)">
+    <category>Games</category>
+    <description>Metal Planet (World) (Windows)</description>
+    <rom name="MPsetup.exe" size="494619" crc="b6766443" md5="56e14d146a99c2c54a8cfddbd1528ad9" sha1="e5e860d3bf3788d9484b81059578b75950287136" />
+  </game>
+  <game name="Mibibli's Quest (World) (v1.02) (Mac)">
+    <category>Games</category>
+    <description>Mibibli's Quest (World) (v1.02) (Mac)</description>
+    <rom name="MibiblisQuestv1.02MAC.zip" size="62920737" crc="14e926d7" md5="cb66b88f89908e3e3009e0ccb8c7cef0" sha1="e07bd9e483e85ae828362fb8b0f06c4e3efc0523" />
+  </game>
+  <game name="Mibibli's Quest (World) (v1.02) (Windows)">
+    <category>Games</category>
+    <description>Mibibli's Quest (World) (v1.02) (Windows)</description>
+    <rom name="MibiblisQuestv1.02WIN.zip" size="65609782" crc="881b90c8" md5="1165666006d493f6fcc0cb9f3a46c569" sha1="b956a94ff67d3dfe587f09df046127d7854f8d12" />
+  </game>
+  <game name="Millennium - A New Hope (World)">
+    <category>Games</category>
+    <description>Millennium - A New Hope (World)</description>
+    <rom name="Millennium1.exe" size="96779302" crc="e76d4747" md5="e9d23367f914b99aa39d69794c70652a" sha1="48250de52f3bc15e55baaa5215474482031205c1" />
+  </game>
+  <game name="Momodora II (World)">
+    <category>Games</category>
+    <description>Momodora II (World)</description>
+    <rom name="momodora2.rar" size="16303260" crc="e40b702d" md5="b9b4985bd3a834438e8c95351b69392f" sha1="616c476eefedd3b7d37a1f75595227f18f075112" />
+  </game>
+  <game name="Monster Madness (World)">
+    <category>Games</category>
+    <description>Monster Madness (World)</description>
+    <rom name="MM_PC_RC15_noSecureRom.zip" size="4062388114" crc="d302e4fc" md5="6b8142c9533684d49864afbb4ddaf0fe" sha1="0a8e5f4437b7f6ab04c9edaf1f9bf8abd4693c92" />
+  </game>
+  <game name="Multilytheus (World)">
+    <category>Games</category>
+    <description>Multilytheus (World)</description>
+    <rom name="Multilytheus.zip" size="52868384" crc="d4b138af" md5="fffbbac982166f76f64420ad8d3ddf9d" sha1="c76a9f28df50394f5d9fd8eec6719bf5daed2ee1" />
+  </game>
+  <game name="Multilytheus (World) (Mac)">
+    <category>Games</category>
+    <description>Multilytheus (World) (Mac)</description>
+    <rom name="Multilytheus.app.zip" size="53502873" crc="2a3ed55a" md5="1c0c66f0435cb7d99a28453f0b254eac" sha1="f1174974d4cc2ad729a5f365902e3e67d6ceeee4" />
+  </game>
+  <game name="Multimedia Fusion 2 (World)">
+    <category>Games</category>
+    <description>Multimedia Fusion 2 (World)</description>
+    <rom name="Multimedia_Fusion_2_CD1_Windows_1386118150.zip" size="447508317" crc="e84b76a9" md5="26643fc114f124b8a55fe77c79e9539b" sha1="28b1550119335c047f5d73b81365edff06d3ba54" />
+    <rom name="Multimedia_Fusion_2_CD2_Windows_1386118150.zip" size="488398557" crc="fcdc0aa4" md5="fa3467ef9feeb96f6bf9bdaea1c7ef4f" sha1="ef26f96adb726c10b5c04dd03e4ae6b963888651" />
+  </game>
+  <game name="Murder Files - The Mysteries of Little Riddle (World)">
+    <category>Games</category>
+    <description>Murder Files - The Mysteries of Little Riddle (World)</description>
+    <rom name="InstallBlueToadSeasonOne.msi" size="1396701184" crc="1c262c15" md5="2a107ee12823ac7b3118bc7185a046f3" sha1="c558daa472b724cf628752d42ee408de6612f901" />
+  </game>
+  <game name="Murder in the Hotel Lisbon (World)">
+    <category>Games</category>
+    <description>Murder in the Hotel Lisbon (World)</description>
+    <rom name="Case_Bot.zip" size="35739799" crc="701ea07c" md5="9928512bbb34228984a6cd063b8e1796" sha1="15a05132976b0ac5a19b01575c8d167a1de7237f" />
+  </game>
+  <game name="Murder in the Hotel Lisbon (World) (Mac)">
+    <category>Games</category>
+    <description>Murder in the Hotel Lisbon (World) (Mac)</description>
+    <rom name="CaseBot.app.1.zip" size="36065296" crc="26e065a6" md5="59e6002f84fd0f225a95a5b7e9f19584" sha1="1d9e92f7ef84432634fdd3c54aa2f07894a0f22b" />
+  </game>
+  <game name="NEO AQUARIUM - The King of Crustaceans (World)">
+    <category>Games</category>
+    <description>NEO AQUARIUM - The King of Crustaceans (World)</description>
+    <rom name="neoaq_en_setup.zip" size="160422575" crc="878373e8" md5="bb5c5e8cf23997ed5d2fcaa5bd424a9b" sha1="edeff9f508733759517b97ad44709a24c859f944" />
+  </game>
+  <game name="Need for Speed World (World)">
+    <category>Games</category>
+    <description>Need for Speed World (World)</description>
+    <rom name="setup_nfsw.exe" size="6400680" crc="969702e5" md5="64899dbeb30fd8de1d054982bff57f52" sha1="559197359ae892830149441ab75b8e324f55ce34" />
+  </game>
+  <game name="New Kind of Adventure (World)">
+    <category>Games</category>
+    <description>New Kind of Adventure (World)</description>
+    <rom name="PC_BUILD_3.rar" size="33788481" crc="bd9ec57f" md5="99ebbe0ed28114b901dd9891276d8540" sha1="df60a91eb3df793d96200f3111474712633e3c17" />
+  </game>
+  <game name="Ninja Girl RPG Defense (World) (v1.02) (Mac)">
+    <category>Games</category>
+    <description>Ninja Girl RPG Defense (World) (v1.02) (Mac)</description>
+    <rom name="PC_MAC_Ninja_Girl_v102.zip" size="105996516" crc="6840634f" md5="e2fd6d1ac1aa433fb7d6e5101293454e" sha1="06f2bfd2de81f9deba90ca4d4026b71a555347b3" />
+  </game>
+  <game name="Ninja Senki (World)">
+    <category>Games</category>
+    <description>Ninja Senki (World)</description>
+    <rom name="NinjaSenki.zip" size="10278273" crc="fae62c7e" md5="8f72ef071a78dca96c8c7d5d78e5dd32" sha1="b0c74c4626bfb8a8eb54f216769606f93382d898" />
+  </game>
+  <game name="Nitronic Rush (World)">
+    <category>Games</category>
+    <description>Nitronic Rush (World)</description>
+    <rom name="NitronicRush_setup_20121221.0.exe" size="360866722" crc="f6883d87" md5="60d642daeae9bb4d66f051ecfa24a73e" sha1="b29e4db5b4148b3c9460b31f5bf9b2dc89fef91e" />
+  </game>
+  <game name="No Turning Back (World) (v1.0.0.80)">
+    <category>Games</category>
+    <description>No Turning Back (World) (v1.0.0.80)</description>
+    <rom name="NoTurningBack-Alpha1-Default-1.0.0.80.zip" size="35163828" crc="050e4e22" md5="f1bbcb412917402335467b389f42ea0c" sha1="9516d8529d36b074d3ac6163bbadef13d4397d52" />
+  </game>
+  <game name="Noir Syndrome (World) (Linux)">
+    <category>Games</category>
+    <description>Noir Syndrome (World) (Linux)</description>
+    <rom name="linux.zip" size="46734129" crc="ee86c734" md5="db53447a0ef066bf192f180cec232d8b" sha1="c03f7f8fae8289943a6e8a6353afbb4d5596cace" />
+  </game>
+  <game name="Noir Syndrome (World) (Mac)">
+    <category>Games</category>
+    <description>Noir Syndrome (World) (Mac)</description>
+    <rom name="mac.zip" size="54090174" crc="ea4fe061" md5="49b357ac856a36b7c44eb0ddcbd698b4" sha1="d8d0937d209f79c16e036210cd5c8488aff03710" />
+  </game>
+  <game name="Noir Syndrome (World) (Windows)">
+    <category>Games</category>
+    <description>Noir Syndrome (World) (Windows)</description>
+    <rom name="windows.zip" size="87774296" crc="2acc7e6c" md5="9759aac45d5c64f1e6775a050003cfa9" sha1="0e2c2ec83bfd0259344a76750779bcd145e36654" />
+  </game>
+  <game name="Nosferatu The Wrath of Malachi (World)">
+    <category>Games</category>
+    <description>Nosferatu The Wrath of Malachi (World)</description>
+    <rom name="Nosferatu.rar" size="611026975" crc="69c959d6" md5="d12942365b389ad6a9803cdaaa036f8c" sha1="844cca64e310832263090032d9b1438f11e60039" />
+  </game>
+  <game name="Ocean City Racing (World)">
+    <category>Games</category>
+    <description>Ocean City Racing (World)</description>
+    <rom name="OceanCityRacing-Install.zip" size="3776476948" crc="553779ca" md5="fcba84569ab6d4571a07736fb867ad31" sha1="5149742cbb8da4037dbc78521c698ff13f6fe8a4" />
+  </game>
+  <game name="Ocean City Racing (World) (Windows) (Installer)">
+    <category>Games</category>
+    <description>Ocean City Racing (World) (Windows) (Installer)</description>
+    <rom name="OceanCityRacing-Install.exe" size="3777675301" crc="04b2cec7" md5="169e16d4ab7222d5dc9d66cdb261eba1" sha1="dbdfb5284ea30888b02ea973bc66f4f26f159610" />
+  </game>
+  <game name="Ocean City Racing (World) (v2) (Mac)">
+    <category>Games</category>
+    <description>Ocean City Racing (World) (v2) (Mac)</description>
+    <rom name="OceanCityRacing-Mac-Releasev2.app.zip" size="3162408992" crc="5e19b653" md5="95984177b12fd2ca22be141929037cb3" sha1="bd31f4d8ed04fa460e5be07ca4c77e3c47248b02" />
+  </game>
+  <game name="Oceanhorn Monster of Uncharted (World)">
+    <category>Games</category>
+    <description>Oceanhorn Monster of Uncharted (World)</description>
+    <rom name="oceanhorn-pc-2016-january-01.zip" size="345750267" crc="6b1592a3" md5="9b5512e5f5f0c8dccab949f6939a9926" sha1="f31d821d130d6ae1f22bf5e39e9933c80db86409" />
+  </game>
+  <game name="Odallus The Dark Call (World) (v1.1.2)">
+    <category>Games</category>
+    <description>Odallus The Dark Call (World) (v1.1.2)</description>
+    <rom name="Odallus_v1.1.2.zip" size="35579028" crc="4fb151df" md5="4bd9e52bea518aca7f8f36a8dbeed2f5" sha1="b83890730679bafa33f7338e8ca588fd39271a48" />
+  </game>
+  <game name="One Ship Two Ship Redshift Blueshift (World) (Mac)">
+    <category>Games</category>
+    <description>One Ship Two Ship Redshift Blueshift (World) (Mac)</description>
+    <rom name="01010111-Redshift-Blueshift-MAC.dmg" size="23456231" crc="f3344c44" md5="1ad19eb29728141a53a1401db91f490b" sha1="ace2f0e9fa649dd6b4e764a650930249ba7b9698" />
+  </game>
+  <game name="One Ship Two Ship Redshift Blueshift (World) (Windows)">
+    <category>Games</category>
+    <description>One Ship Two Ship Redshift Blueshift (World) (Windows)</description>
+    <rom name="01010111-Redshift-Blueshift-WIN.zip" size="22351790" crc="0e91a0b3" md5="1dd543966bd09bc91f2fcfb5fdbf63e1" sha1="3a934a79ad6905edbabb79d8ac1f8f84b4f62c03" />
+  </game>
+  <game name="Organ Trail Director's Cut (World) (Windows)">
+    <category>Games</category>
+    <description>Organ Trail Director's Cut (World) (Windows)</description>
+    <rom name="OrganTrailDirectorsCut_win_1366135254.zip" size="51256777" crc="5ce7ad9d" md5="d50dde9f0bc3c2c1a11f34672088b446" sha1="7407b51eb3b414cbcb5d1c225dc178762dd4ff1f" />
+  </game>
+  <game name="Organ Trail Director's Cut (World) (v1.6.4) (Mac)">
+    <category>Games</category>
+    <description>Organ Trail Director's Cut (World) (v1.6.4) (Mac)</description>
+    <rom name="OrganTrailDirectorsCut-Mac-1.6.4.dmg" size="54415585" crc="d72115a6" md5="be7c2e96adc680d0d4f21217ec2d1ae3" sha1="a6f0ac311547158e9ccd5eabd6a7556355b749b0" />
+  </game>
+  <game name="Ostrich Island (World)">
+    <category>Games</category>
+    <description>Ostrich Island (World)</description>
+    <rom name="OstrichIslandFull_Install_02.10.2014.zip" size="113595298" crc="2c6208ee" md5="1b27b716cee9b085ec49381859d13fc1" sha1="cdac674e25f3fd3384bdb5e4c4353ac08a156b88" />
+  </game>
+  <game name="Ostrich Island (World) (64-bit)">
+    <category>Games</category>
+    <description>Ostrich Island (World) (64-bit)</description>
+    <rom name="OstrichIslandFull_Install_x64_02.10.2014.zip" size="114919390" crc="5f0a3d4e" md5="7d80b4684f87f064060afc44e2f7b18b" sha1="3a7bdf5321c9b56de8d14876a5f60cebe8a3ed16" />
+  </game>
+  <game name="POP Methodology Experiment One (World)">
+    <category>Games</category>
+    <description>POP Methodology Experiment One (World)</description>
+    <rom name="POP-ME1_by_Rob_Lach.zip" size="87878502" crc="139f8dd1" md5="ffa019c51f237097ce3a631d05f7a04e" sha1="13d2eaaba954735b945bfe1c722f7480f810f048" />
+  </game>
+  <game name="POP Methodology Experiment One (World) (Mac)">
+    <category>Games</category>
+    <description>POP Methodology Experiment One (World) (Mac)</description>
+    <rom name="POP-ME1_by_Rob_Lach.dmg" size="83069194" crc="cfc5b270" md5="49521cd7922794d9d28349db62e71530" sha1="25adba39d020ca4d7f44397f165c1ae4a99ad564" />
+  </game>
+  <game name="PataPony (World)">
+    <category>Games</category>
+    <description>PataPony (World)</description>
+    <rom name="PataPony.zip" size="30143866" crc="fe77146d" md5="a747897dcd1ce231452da43e74dbc0c0" sha1="4daccca29afbeed9ff653f0c599a21ee23cb7da3" />
+  </game>
+  <game name="Pirate Hell (World)">
+    <category>Games</category>
+    <description>Pirate Hell (World)</description>
+    <rom name="piratehell_full.3.zip" size="89164008" crc="c2bb7e21" md5="64b36987d584840ebbfd04b87e32acba" sha1="38d84b125890726d8a2ccba60ee86491cbd474a3" />
+  </game>
+  <game name="Pirate Hell (World) (v1.2.2) (Mac)">
+    <category>Games</category>
+    <description>Pirate Hell (World) (v1.2.2) (Mac)</description>
+    <rom name="piratehell-1.2.2.tar.bz2" size="89681925" crc="da92f7ff" md5="41b77ec4c1961bcc63ee98e460747912" sha1="1dac64073f70e97db1e4bc11d5e85cc392423d15" />
+  </game>
+  <game name="Pirate Jump 2 (World)">
+    <category>Games</category>
+    <description>Pirate Jump 2 (World)</description>
+    <rom name="PirateJump2Setup.exe" size="54478992" crc="89f49bfb" md5="df0832d2746f192935f2cb0de0403052" sha1="44e418e01dc1a1762c8c4b998542df415b28f75f" />
+  </game>
+  <game name="Pitiri 1977 (World)">
+    <category>Games</category>
+    <description>Pitiri 1977 (World)</description>
+    <rom name="Pitiri_1977.exe" size="216035232" crc="2bfbefb9" md5="4fe5c2f1eca80a7b142bc00baf1a560b" sha1="4b6bc31c5d0ed08469ec559bdb22267115c54e66" />
+  </game>
+  <game name="PixelJunk Shooter (World)">
+    <category>Games</category>
+    <description>PixelJunk Shooter (World)</description>
+    <rom name="PJShooter.exe" size="276502929" crc="fe01b9f8" md5="7dd72599b4c8069970c21f7152ae3ff3" sha1="3802bb8af54d309285907d558b84dadd66655cb9" />
+  </game>
+  <game name="PixelJunk Shooter (World) (Linux)">
+    <category>Games</category>
+    <description>PixelJunk Shooter (World) (Linux)</description>
+    <rom name="PJShooter.tar.gz" size="272973481" crc="2e874922" md5="852ca1c395199e7d6e52aa4f028562b6" sha1="4e9cc1508f52e2260d80df1de5b030b4f0d8d254" />
+  </game>
+  <game name="PixelJunk Shooter (World) (Mac)">
+    <category>Games</category>
+    <description>PixelJunk Shooter (World) (Mac)</description>
+    <rom name="PixelJunkShooter.dmg" size="277251178" crc="a8be71f3" md5="a7cf2a52dc24f798dc9d2272b7c37e83" sha1="7718854e98872b13b84210b098eccff4fd279259" />
+  </game>
+  <game name="Planet Alcatraz (World)">
+    <category>Games</category>
+    <description>Planet Alcatraz (World)</description>
+    <rom name="Planet_Alcatraz.zip" size="2942932341" crc="1111adf1" md5="174f4fe414e458ac86cc5189b51b26db" sha1="7510438ba44a1445db364fe89ceafb95d12a4c28" />
+  </game>
+  <game name="Planet R-12 (World)">
+    <category>Games</category>
+    <description>Planet R-12 (World)</description>
+    <rom name="PlanerR12.zip" size="16665207" crc="f8a5ef4d" md5="887766703854b353daad1fb7a20f1ac8" sha1="f48ab74ef4b97dd13c3b5d88b290425b2060620f" />
+  </game>
+  <game name="Plantify (World) (v1.010)">
+    <category>Games</category>
+    <description>Plantify (World) (v1.010)</description>
+    <rom name="Platfinity1.010.exe" size="72823787" crc="bf7da02d" md5="989b4c22fc7c151461ba456cddb22558" sha1="4854b581045ebf6aca417b08ed2eff229d6ac7bb" />
+  </game>
+  <game name="Poseidon 12 (World)">
+    <category>Games</category>
+    <description>Poseidon 12 (World)</description>
+    <rom name="p12v10.zip" size="1052094" crc="e35b7d4d" md5="7afab1ee2b16bb12bab7ac69e6398686" sha1="7485871ab380a6494f318ea3b74b7ad1543bad10" />
+  </game>
+  <game name="Prince of Persia Story Book (World)">
+    <category>Games</category>
+    <description>Prince of Persia Story Book (World)</description>
+    <rom name="pop_2008_storybook.zip" size="3943330" crc="0beb927d" md5="2573e74bea45bc4053342db928f6bb99" sha1="ad38b285784b2589d16ab98907db4169e5f31c31" />
+  </game>
+  <game name="R-Type (World)">
+    <category>Games</category>
+    <description>R-Type (World)</description>
+    <rom name="r-type.zip" size="635884" crc="4d6306db" md5="703f841d8092d5f98ea53140fa21a2a7" sha1="195ffad58cad49f2b7bb4d1c6b0e87cbbcb5102e" />
+  </game>
+  <game name="RADICAL HEROES CRIMSON CITY CRISIS (World) (v1.05)">
+    <category>Games</category>
+    <description>RADICAL HEROES CRIMSON CITY CRISIS (World) (v1.05)</description>
+    <rom name="radical-heroes-crimson-city-crisis-1.05.1.zip" size="172559726" crc="d0d2237c" md5="615b8148cf3757de1055494e7897a04a" sha1="a31a0c9e74d4122aa2bc4bf8405f8e7e4ca749b3" />
+  </game>
+  <game name="RE Prince of Nigeria (World) (v1.0b)">
+    <category>Games</category>
+    <description>RE Prince of Nigeria (World) (v1.0b)</description>
+    <rom name="RE Prince of Nigeria Ver 1.0b.zip" size="70284874" crc="4c9a205f" md5="6ad7d33a297fe96d205e322ec876f2dc" sha1="46a17ef19618132d229dd0ad3fb7592b7bd55efb" />
+  </game>
+  <game name="Rac and Ren (World)">
+    <category>Games</category>
+    <description>Rac and Ren (World)</description>
+    <rom name="RacRen.zip" size="231044888" crc="7814f3ad" md5="42cfcdc94eeee244d7b49da1c3df085b" sha1="5ee485bbfcad594f7f88cc0d7de11f941fbd403b" />
+  </game>
+  <game name="Race Room The Game (World)">
+    <category>Games</category>
+    <description>Race Room The Game (World)</description>
+    <rom name="RRG_Setup.exe" size="609184745" crc="68f90ce4" md5="ed379eaf82657086f66d2ff6ca68f036" sha1="23695675059a92c034e843ff3e389c13f5295c0b" />
+  </game>
+  <game name="Race Room The Game 2 (World)">
+    <category>Games</category>
+    <description>Race Room The Game 2 (World)</description>
+    <rom name="RRG_2_Setup.exe" size="1232306884" crc="3682d7dd" md5="b568ddd87dbdf87b418507803c76d963" sha1="3f89dcd9631273a1b1a1c556425bda94a515647e" />
+  </game>
+  <game name="Race for the White House, The (World)">
+    <category>Games</category>
+    <description>Race for the White House, The (World)</description>
+    <rom name="ecus_dl_114.exe" size="491691640" crc="d02446ff" md5="aaa0fe698ec85113dd08540072ac7c69" sha1="b92c863d05d21909450a257a0d263c358345d593" />
+  </game>
+  <game name="Redhook's Revenge! (World)">
+    <category>Games</category>
+    <description>Redhook's Revenge! (World)</description>
+    <rom name="red-r.exe" size="1432202" crc="a36281ca" md5="51c2870d281a73d901f2355e20048c7d" sha1="fc2ad97dec1a4e4b1389865e4e513e9ebdc3a214" />
+  </game>
+  <game name="Residue (World)">
+    <category>Games</category>
+    <description>Residue (World)</description>
+    <rom name="Residue_2013_06_30_Full.zip" size="535326646" crc="3ada6f25" md5="e1fc1cb9821e60c60daf295098274db7" sha1="70a007d418405944d5dbe3647761a975fa7a8932" />
+  </game>
+  <game name="Reversion (World)">
+    <category>Games</category>
+    <description>Reversion (World)</description>
+    <rom name="Reversion_-_Chapter_1___2___More.zip" size="661663139" crc="a97bae4e" md5="5985bc8bd1ede70867c0b5ebf9166091" sha1="c52bdab9ff59a2ab56ea310da1703850e995d011" />
+  </game>
+  <game name="Rhiannon (World)">
+    <category>Games</category>
+    <description>Rhiannon (World)</description>
+    <rom name="Rhiannon.zip" size="912363278" crc="ad8535b0" md5="e9ec99107f446fb76f098ef2323db3f7" sha1="1f2ca135e5df4676d6d10c2a53cdfb9aba2bec57" />
+  </game>
+  <game name="Risky Bison (World)">
+    <category>Games</category>
+    <description>Risky Bison (World)</description>
+    <rom name="RiskyBison1443050414.zip" size="3099169" crc="5f96f4bf" md5="6f3ea051935d363b235a1338acdf8306" sha1="42e0efacbae4ddc3bc1b249fb18435e29136c089" />
+  </game>
+  <game name="Sakura Agent (World) (Patch)">
+    <category>Games</category>
+    <description>Sakura Agent (World) (Patch)</description>
+    <rom name="archive.rpa" size="361413789" crc="b5a573d4" md5="ceef65d0b07c1306277663c0cc3fc127" sha1="c64d125216541b8d43f38b39fee515a53bf4ba4d" />
+  </game>
+  <game name="Sakura Magical Girls (World) (Patch)">
+    <category>Games</category>
+    <description>Sakura Magical Girls (World) (Patch)</description>
+    <rom name="adult.rpa" size="24546912" crc="56cf8877" md5="de07120c6a589f3360996f88011fd9ac" sha1="4511509e2ad84f72d71cc66d306e8e7596c1bd8f" />
+  </game>
+  <game name="Sakura Nova (World) (Patch)">
+    <category>Games</category>
+    <description>Sakura Nova (World) (Patch)</description>
+    <rom name="assets.rpa" size="53045065" crc="8e1c99b4" md5="dc7b10cf68c15d4a13e734ced2624c8f" sha1="cedb782479794221232da64c77f423c5cf531417" />
+  </game>
+  <game name="Savage 2 A Tortured Soul (World) (v2.1.0.8) (Linux)">
+    <category>Games</category>
+    <description>Savage 2 A Tortured Soul (World) (v2.1.0.8) (Linux)</description>
+    <rom name="Savage2-2.1.0.8-linux-installer.run" size="953784677" crc="a82233bd" md5="d049386d1f1fcc262c95275582a0dcd0" sha1="e6b969fee3b483f982e0eddd7759179ecdc14e88" />
+  </game>
+  <game name="Savage 2 A Tortured Soul (World) (v2.1.0.8) (Mac)">
+    <category>Games</category>
+    <description>Savage 2 A Tortured Soul (World) (v2.1.0.8) (Mac)</description>
+    <rom name="Savage2-2.1.0.8-osx.zip" size="955864371" crc="06ef632c" md5="54c4a5b9fd4aeaf4955e2b5a9c30941e" sha1="a79a4841538027f0d4dc61ef42473777525ed80d" />
+  </game>
+  <game name="Savage 2 A Tortured Soul (World) (v2.1.0.8) (Mac) (64-bit)">
+    <category>Games</category>
+    <description>Savage 2 A Tortured Soul (World) (v2.1.0.8) (Mac) (64-bit)</description>
+    <rom name="Savage2-2.1.0.8-linux-x64-installer.run" size="954294103" crc="453c9bdd" md5="e126bcfd808a785766a33231f40b066a" sha1="88f53a6e16fd2b4df978fcbb053fd7175b350cc0" />
+  </game>
+  <game name="Savage 2 A Tortured Soul (World) (v2.1.0.8) (Windows)">
+    <category>Games</category>
+    <description>Savage 2 A Tortured Soul (World) (v2.1.0.8) (Windows)</description>
+    <rom name="Savage2-2.1.0.8-windows-installer.exe" size="1198785596" crc="9f0b2c51" md5="e1f4930214d45a8f2dd007feea99c150" sha1="66d5f9cf9f14ec6420b0ed69239cb03a82d138b3" />
+  </game>
+  <game name="SeaSnake (World)">
+    <category>Games</category>
+    <description>SeaSnake (World)</description>
+    <rom name="seasnake-v01.zip" size="19618464" crc="edae4424" md5="2d0550645566a4d61b6e04ce32a72fb9" sha1="6401bd9b7aaca9fc3b29a8968a6efc9db2f8b0ab" />
+  </game>
+  <game name="Seduce Me (World) (v1.02)">
+    <category>Games</category>
+    <description>Seduce Me (World) (v1.02)</description>
+    <rom name="SEDUCE.ME_Installer_v1.02.exe" size="144560608" crc="88f07027" md5="77f268ee6a5f9c1a445a734a0fe0a359" sha1="afc06ee3bb2fe58f5583a4beaa8017c545697793" />
+  </game>
+  <game name="Seduce Me (World) (v1.02.2) (Mac)">
+    <category>Games</category>
+    <description>Seduce Me (World) (v1.02.2) (Mac)</description>
+    <rom name="SEDUCE.ME_Installer.Mac_v1.02.2.dmg" size="209063163" crc="98cabff4" md5="693d32f68eb1cf1ea2cffd432d7d1844" sha1="9a7e558819ba3b0f87ea7d3d363cf4a7063493e3" />
+  </game>
+  <game name="Sekaiju Yggdrasil (World)">
+    <category>Games</category>
+    <description>Sekaiju Yggdrasil (World)</description>
+    <rom name="SekaijuYggdrasil.zip" size="138225977" crc="128fc093" md5="4e3b7ab2f8c7fe7c8cf4bc60555c6e64" sha1="ce5362db27addff69b476ea82b0d3406aa9810ad" />
+  </game>
+  <game name="Sekaiju Yggdrasil (World) (v1.1) (Windows)">
+    <category>Games</category>
+    <description>Sekaiju Yggdrasil (World) (v1.1) (Windows)</description>
+    <rom name="SekaijuYggdrasil-1.1-win.zip" size="138233811" crc="f4ed1392" md5="15a8681ff2d1f5f300a09bcf5f5f407f" sha1="eda798d8e5633d945bb11768512fb688bd51b661" />
+  </game>
+  <game name="Shadow Tactics Blades of the Shogun (World) (v2.2.10) (Linux)">
+    <category>Games</category>
+    <description>Shadow Tactics Blades of the Shogun (World) (v2.2.10) (Linux)</description>
+    <rom name="ShadowTactics_2.2.10_Full_DEB_Multi_Daedalic_ESD_.tar.gz" size="3992974400" crc="b4af788b" md5="d21ce6f645edad7c4ee4f6bedd483678" sha1="65c2b25074e5971788dbe462f08baa81749a6635" />
+  </game>
+  <game name="Shadow Tactics Blades of the Shogun (World) (v2.2.10) (Mac)">
+    <category>Games</category>
+    <description>Shadow Tactics Blades of the Shogun (World) (v2.2.10) (Mac)</description>
+    <rom name="ShadowTactics_2.2.10_Full_OSX_Multi_Daedalic_ESD.dmg" size="3954631253" crc="ce2695b1" md5="75814f8667a3aa83ec88c49f26485218" sha1="c22773f94a5caa64c8be4188bfc46418597fc07a" />
+  </game>
+  <game name="Shadow Tactics Blades of the Shogun (World) (v2.2.10) (Windows)">
+    <category>Games</category>
+    <description>Shadow Tactics Blades of the Shogun (World) (v2.2.10) (Windows)</description>
+    <rom name="ShadowTactics_2.2.10_PC_Full_Multi_Daedalic_ESD.zip" size="3374244197" crc="1b474e72" md5="6119f438ae56d439307fea46e87b7ce7" sha1="e258fe0ac78ef705e44c65eedbf42daeee01e229" />
+  </game>
+  <game name="Sid Meier's Railroad Tycoon (World)">
+    <category>Games</category>
+    <description>Sid Meier's Railroad Tycoon (World)</description>
+    <rom name="Railroad_Tycoon.zip" size="14981420" crc="f4c4f18f" md5="dab0d29f1ec0c3f0a777922de9af7a9a" sha1="d05b01bc0fb8926098230dec9ac3fe14197ffa0e" />
+  </game>
+  <game name="Siege Wars (World)">
+    <category>Games</category>
+    <description>Siege Wars (World)</description>
+    <rom name="SiegeWars.zip" size="25776237" crc="1e12d8c4" md5="828e5f76b45425e10a875deee5327c22" sha1="85051c39f419518e7cff408b5f9b782a001c66de" />
+  </game>
+  <game name="Signal Ops (World) (r5203)">
+    <category>Games</category>
+    <description>Signal Ops (World) (r5203)</description>
+    <rom name="Signal_Ops_r5203.exe" size="1136077337" crc="48aa79a9" md5="4e87974f9d9e73f5165cf05f9d6337b2" sha1="27217109422bb154bb3db8d06959cb8d2b1ba9c7" />
+  </game>
+  <game name="Signal Ops (World) (r5361)">
+    <category>Games</category>
+    <description>Signal Ops (World) (r5361)</description>
+    <rom name="Signal_Ops_r5361.exe" size="1136017706" crc="7c5f6845" md5="ce9be0b52c36be1ba836373fb952d56b" sha1="1dad0915ea3e3da09bab114a6a1c7a10234c9c76" />
+  </game>
+  <game name="Sinister City (World)">
+    <category>Games</category>
+    <description>Sinister City (World)</description>
+    <rom name="SinisterCity_setup.exe" size="106719645" crc="4e3a7c4c" md5="8d5d6905a61dbb777250cddfe4f0791c" sha1="17325d8b024ee4c9cde5593a1859f43568b3e7ff" />
+  </game>
+  <game name="Slinki (World) (Linux)">
+    <category>Games</category>
+    <description>Slinki (World) (Linux)</description>
+    <rom name="Linux.tar.gz" size="108545471" crc="6d1d78ad" md5="38fb12a6e82414a9588eb084af3f3768" sha1="fce3bad74dc17f07dd84bc79f5fdc5932cb26955" />
+  </game>
+  <game name="Slinki (World) (Mac)">
+    <category>Games</category>
+    <description>Slinki (World) (Mac)</description>
+    <rom name="Mac.tar.gz" size="98397668" crc="d593c717" md5="bad7c012e0af3d077c49528c683467bd" sha1="bb6e96125dbe0b685e02003052f15cd4136389cd" />
+  </game>
+  <game name="Soldier Vs Aliens (World)">
+    <category>Games</category>
+    <description>Soldier Vs Aliens (World)</description>
+    <rom name="PC_SoldierVSAliens_Premium_20130107.zip" size="142869595" crc="e12823b3" md5="89f7299c31b815e9a69fba8c6d09060a" sha1="0b8a879766d55fc23e0405ff93171127c676bf08" />
+  </game>
+  <game name="Song of the Myrne What Lies Beneath (World) (v1.7.2) (Linux)">
+    <category>Games</category>
+    <description>Song of the Myrne What Lies Beneath (World) (v1.7.2) (Linux)</description>
+    <rom name="What_Lies_Beneath_-_Linux_-_1.7.2.zip" size="95462556" crc="d03c0643" md5="698c33e1c51164239233b6721f135a5e" sha1="96cd432ece1ef34f3aba518dc05e93b1bef1e9a3" />
+  </game>
+  <game name="Song of the Myrne What Lies Beneath (World) (v1.7.2) (Mac)">
+    <category>Games</category>
+    <description>Song of the Myrne What Lies Beneath (World) (v1.7.2) (Mac)</description>
+    <rom name="What_Lies_Beneath_-_MacOS_-_1.7.2.zip" size="98556142" crc="073805f7" md5="aec49823edc7c6c222ea26d51bb3f4a6" sha1="3893f748a800ef34940d7b7023bc50091e188282" />
+  </game>
+  <game name="Song of the Myrne What Lies Beneath (World) (v1.7.2) (Windows)">
+    <category>Games</category>
+    <description>Song of the Myrne What Lies Beneath (World) (v1.7.2) (Windows)</description>
+    <rom name="What_Lies_Beneath_-_Windows_-_1.7.2.zip" size="93263646" crc="d6b1d243" md5="580bfd6d8c077a5161167172c005e987" sha1="fa3b587939275c6b643525f6fca5a41d0be72cd1" />
+  </game>
+  <game name="Space Game (World) (Mac)">
+    <category>Games</category>
+    <description>Space Game (World) (Mac)</description>
+    <rom name="Space_Game.tar.1.gz" size="17878619" crc="76d7d102" md5="1c13c7a2ce8b9839729a9c8e41135556" sha1="09a4d764df9bef2dc03df61f7e458d10da3a447e" />
+  </game>
+  <game name="Space Game (World) (Windows)">
+    <category>Games</category>
+    <description>Space Game (World) (Windows)</description>
+    <rom name="Space_Game.1.exe" size="18250519" crc="3df0dbed" md5="564f777b0bddfe1de80cd57f2af8390d" sha1="75e3c1cdc82841db7e722e211fb03ddb1c82903e" />
+  </game>
+  <game name="Space Slice (World) (v2.0)">
+    <category>Games</category>
+    <description>Space Slice (World) (v2.0)</description>
+    <rom name="Install_Space_Slice_2_0.exe" size="35652125" crc="ee757898" md5="4556c71f0b621d57357af28fad1538a7" sha1="9766f86b5ec4c68312d29dab77e6e77a2b018653" />
+  </game>
+  <game name="Space Slice (World) (v2.0) (Patch)">
+    <category>Games</category>
+    <description>Space Slice (World) (v2.0) (Patch)</description>
+    <rom name="Install_SpaceSliceUpgrade2_0.exe" size="1606196" crc="b15755fc" md5="69b89208db52b6425a133886cf8b1cab" sha1="ac0e4468ebc99713ffea1fbb3c1892c03a0b1d23" />
+  </game>
+  <game name="Splatter (World)">
+    <category>Games</category>
+    <description>Splatter (World)</description>
+    <rom name="Splatter.zip" size="251066193" crc="adfb9dc2" md5="0b30b033c460b6ad8f6b9a9570dc1f5c" sha1="41e480fac1233cae920b52378d70b6873d2ee07f" />
+  </game>
+  <game name="Stalin Subway 2 - Red Veil (World)">
+    <category>Games</category>
+    <description>Stalin Subway 2 - Red Veil (World)</description>
+    <rom name="TSS-RV_Meridian4.rar" size="3150378259" crc="24ac476e" md5="f4769fa512b3a224756e809e46ff2fab" sha1="9c07d4dbb244eb68fc37c66e142b2e05fa898275" />
+  </game>
+  <game name="Star Chronicles Delta Quadrant (World)">
+    <category>Games</category>
+    <description>Star Chronicles Delta Quadrant (World)</description>
+    <rom name="SetupDQ.exe" size="26202606" crc="fe839df2" md5="7a07aec0bae124c9d7c71eaf49cc11a5" sha1="71d27e26fbccccb8cb8748791706e5b13d4637e0" />
+  </game>
+  <game name="StarDrone (World) (Bonuses)">
+    <category>Games</category>
+    <description>StarDrone (World) (Bonuses)</description>
+    <rom name="pcd369-stardrone-bonuses.zip" size="14883340" crc="45c5a5ac" md5="6f9c949f950c825ccadb620a7f373519" sha1="5bc7b8bbda1f725a3d8e5719cf78f463dbda5fb1" />
+  </game>
+  <game name="Starsiege Tribes (World)">
+    <category>Games</category>
+    <description>Starsiege Tribes (World)</description>
+    <rom name="StarsiegeAndStarsiegeTribes.iso" size="38938979" crc="73498a65" md5="f3800b85e70dd8f90283e8db800d2d50" sha1="627738c19cbe01bfbcce45c1dd24f93225f754d2" />
+  </game>
+  <game name="States, Firms &amp; Households (World) (Mac)">
+    <category>Games</category>
+    <description>States, Firms &amp; Households (World) (Mac)</description>
+    <rom name="LLC_Mac.zip" size="52807567" crc="db6f832e" md5="f65fcbdf9db3e360cf103c72c374e5f9" sha1="394ab4019764e4b9e67f8210f36dbaf4a3df0562" />
+  </game>
+  <game name="States, Firms &amp; Households (World) (Windows)">
+    <category>Games</category>
+    <description>States, Firms &amp; Households (World) (Windows)</description>
+    <rom name="LLC_Win.zip" size="54074690" crc="f16fd5b7" md5="924aac423e31307351767fe368aed32b" sha1="33edfb3dcecd9ae8cc652fe2afa3f44a5fc9b7e4" />
+  </game>
+  <game name="Street Fighter X Mega Man (World)">
+    <category>Games</category>
+    <description>Street Fighter X Mega Man (World)</description>
+    <rom name="SFxMMv2_US.zip" size="36964316" crc="b4951b32" md5="37ee0a72289c7f6a73f7dfc96c6b68af" sha1="f322c7728cdb4bd01a543d0280891fa35c7457dc" />
+  </game>
+  <game name="Street Racing Syndicate (World)">
+    <category>Games</category>
+    <description>Street Racing Syndicate (World)</description>
+    <rom name="Download Street Racing Syndicate.exe" size="290825" crc="483ee12f" md5="f959727f83ebba71bdb6ff408f5d0d5d" sha1="16899a3e1cfbd981096bbdfee5c11e9972c5e801" />
+  </game>
+  <game name="Super Killer Hornet Resurrection (World) (v1.21)">
+    <category>Games</category>
+    <description>Super Killer Hornet Resurrection (World) (v1.21)</description>
+    <rom name="SKHR_V_1.21.zip" size="122049084" crc="6ffb59b4" md5="92625b18977935ccd7b3358da4f4c6c4" sha1="32cb6c8e288d59a44671dc80480f7304d212e602" />
+  </game>
+  <game name="Super Ninja Warrior Extreme (World)">
+    <category>Games</category>
+    <description>Super Ninja Warrior Extreme (World)</description>
+    <rom name="ninja_setup.exe" size="13584244" crc="fa0e314c" md5="aecc61cd5dbcae2163b10908a9e8902f" sha1="06402c96090e805bdda6bfadd0a02627f272ad80" />
+  </game>
+  <game name="Super Panda Adventures (World)">
+    <category>Games</category>
+    <description>Super Panda Adventures (World)</description>
+    <rom name="SuperPandaInstaller.exe" size="75273719" crc="0f19f0e2" md5="81661f8c3a1d9a5a2f4441c75a71d3aa" sha1="e481a7115120ea92968c7392d782b1aa314a4702" />
+  </game>
+  <game name="Survivalist (World)">
+    <category>Games</category>
+    <description>Survivalist (World)</description>
+    <rom name="survivalist.1.zip" size="143662508" crc="f8268666" md5="9cc2ff278d68c66ffe28cd0508069134" sha1="c54d4b98f2550f2b9bb73b4fa71fade473036bbc" />
+  </game>
+  <game name="Survive (World)">
+    <category>Games</category>
+    <description>Survive (World)</description>
+    <rom name="DRM_Free_Build.zip" size="418492170" crc="c563cd12" md5="793b4095da40dcb663a6c2b580210f43" sha1="0383ba378e393db8e4d7e7fbc08d681befe61259" />
+  </game>
+  <game name="Telepath RPG Servants of God (World) (Mac)">
+    <category>Games</category>
+    <description>Telepath RPG Servants of God (World) (Mac)</description>
+    <rom name="telepath_rpg_servants_of_god.tar.bz2" size="165284887" crc="6052f282" md5="fd67cbead8176727db1122288a0afe40" sha1="6563ccfa494c38ad39096d4645588bfaf83eb312" />
+  </game>
+  <game name="Telepath RPG Servants of God (World) (Windows)">
+    <category>Games</category>
+    <description>Telepath RPG Servants of God (World) (Windows)</description>
+    <rom name="Telepath_RPG_Servants_of_God.zip" size="148454684" crc="4e4e4189" md5="0216feb039235e6f3b166de5b4df624d" sha1="aead8a485b63dc92ebbb327150631e8075f8228f" />
+  </game>
+  <game name="The Mysterious Cities of Gold Secret Paths (World)">
+    <category>Games</category>
+    <description>The Mysterious Cities of Gold Secret Paths (World)</description>
+    <rom name="Mysterious_cities_of_gold.exe" size="1245541562" crc="473ec284" md5="fe5180bd4809e3ad58b96d2ab9745163" sha1="9ab3776e35876e71436f928a54f4ce571f227a4e" />
+  </game>
+  <game name="The Useful Dead (World) (Mac)">
+    <category>Games</category>
+    <description>The Useful Dead (World) (Mac)</description>
+    <rom name="mac-usefulDead-1.0.zip" size="105975343" crc="9f08928b" md5="380af2b7ebd41a2376c378bf5e10fe5c" sha1="5be2169b288984dee56929edcb0286b0aee54d87" />
+  </game>
+  <game name="Thief Town (World) (Linux)">
+    <category>Games</category>
+    <description>Thief Town (World) (Linux)</description>
+    <rom name="linux.zip" size="36544196" crc="9359ca89" md5="8478d805cbb4f53f6063ae44d2b5cb5a" sha1="62c5d409dc07ac800cefe5d2b46cb7d860ddb14c" />
+  </game>
+  <game name="Thief Town (World) (Mac)">
+    <category>Games</category>
+    <description>Thief Town (World) (Mac)</description>
+    <rom name="mac.zip" size="36554204" crc="4b522ec1" md5="03e5f35616419b7c7af5042f4041c44d" sha1="fe10e1af954992f180336801023921e102263bdb" />
+  </game>
+  <game name="Thief Town (World) (Windows)">
+    <category>Games</category>
+    <description>Thief Town (World) (Windows)</description>
+    <rom name="pc.zip" size="81041966" crc="624a4d81" md5="934b3aa0103c5e6eeadff4591a65679b" sha1="11b2e6653d63da209b898c1f7586ea44addff197" />
+  </game>
+  <game name="Three Dead Zed (World) (Mac) (RPM)">
+    <category>Games</category>
+    <description>Three Dead Zed (World) (Mac) (RPM)</description>
+    <rom name="Three_Dead_Zed.rpm" size="62725133" crc="a8ebc9dd" md5="1da4c7e6579dd45bab8e38409de9f2d4" sha1="03d0d5fa49fe950fa66a19a557164c630d652c2e" />
+  </game>
+  <game name="Three Dead Zed (World) (deb) (Mac)">
+    <category>Games</category>
+    <description>Three Dead Zed (World) (deb) (Mac)</description>
+    <rom name="3DZ_Linux_Enhanced.1.deb" size="532876982" crc="5029c4a3" md5="65e770e55cd9286edf010fdcdce4c14b" sha1="d69da903823d571343659f4a07bd655214143662" />
+  </game>
+  <game name="To The Edge Of The Sky (World) (Mac)">
+    <category>Games</category>
+    <description>To The Edge Of The Sky (World) (Mac)</description>
+    <rom name="ToTheEdgeOfTheSky_Installer_addtl_lang.dmg" size="117724144" crc="1f475f50" md5="a09472007db031572267558cf703c52b" sha1="0d6a0c16ac57ffe49bf90368203f49d8b133c350" />
+  </game>
+  <game name="To The Edge Of The Sky (World) (Windows)">
+    <category>Games</category>
+    <description>To The Edge Of The Sky (World) (Windows)</description>
+    <rom name="ToTheEdgeOfTheSky_installer.msi" size="145584128" crc="301fa8ba" md5="7280f256791cf0fb40565255db8e2755" sha1="a41abb72beb8f6df0b4529feac2e3cabd091688f" />
+  </game>
+  <game name="Toy Wars Invasion (World)">
+    <category>Games</category>
+    <description>Toy Wars Invasion (World)</description>
+    <rom name="setup.exe" size="1246885628" crc="7a1a93aa" md5="68cb489564410780c4ec4d1d98ea596d" sha1="a7d7fcc72678208d5536ac78bfe4abd37268308c" />
+  </game>
+  <game name="Trace Vector (World) (v1.02) (Linux)">
+    <category>Games</category>
+    <description>Trace Vector (World) (v1.02) (Linux)</description>
+    <rom name="Trace_Vector_Linux_1.02.zip" size="132133929" crc="cb37421b" md5="2d049b260f98d4f63dd65502c3c1a256" sha1="3213cfe7db7b9ce4c0e7bbbd104cba864dbdabb6" />
+  </game>
+  <game name="Trace Vector (World) (v1.02) (Mac)">
+    <category>Games</category>
+    <description>Trace Vector (World) (v1.02) (Mac)</description>
+    <rom name="Trace_Vector_OSX_1.02.zip" size="125172992" crc="d9009ffa" md5="4db927a2fe82df06f83879473f2a7ade" sha1="ae1305e5c52727e7276abef08a99cc2c1e76ca0f" />
+  </game>
+  <game name="Trace Vector (World) (v1.02) (Windows)">
+    <category>Games</category>
+    <description>Trace Vector (World) (v1.02) (Windows)</description>
+    <rom name="Trace_Vector_1.02_Setup.exe" size="122145951" crc="fa2412ea" md5="430ad182266b2b6aec205a6004c8d3b6" sha1="3a4b9ef927015bc2762e9235ac626cdcc3cbe351" />
+  </game>
+  <game name="Treasure Adventure Game (World) (Fan Translations)">
+    <category>Games</category>
+    <description>Treasure Adventure Game (World) (Fan Translations)</description>
+    <rom name="FanTranslations.zip" size="267679" crc="3e0dafa5" md5="e562cd6b422f1826a8013bb327bb36d0" sha1="c5c7debef88d216bc1681396a894fb76de16a6a1" />
+  </game>
+  <game name="Tribes 2 (World)">
+    <category>Games</category>
+    <description>Tribes 2 (World)</description>
+    <rom name="Tribes2.iso" size="15562140" crc="987d50eb" md5="9f131f1b9735c528820a15e0e8f6445c" sha1="512977d82f4291b4bbd68e4c3a5bef2a86a71f4a" />
+  </game>
+  <game name="Tribes 2 (World) (Patch)">
+    <category>Games</category>
+    <description>Tribes 2 (World) (Patch)</description>
+    <rom name="_tribes2_update_21570-24834_25034.exe" size="91348699" crc="e3779a9e" md5="d5a61f787b13668c6a3c1cb8694e236d" sha1="7e35505debcfdb94eb3bdaf053c31a31b90d8ca9" />
+  </game>
+  <game name="Tribes 2 (World) (rc2a)">
+    <category>Games</category>
+    <description>Tribes 2 (World) (rc2a)</description>
+    <rom name="TribesNext_rc2a.exe" size="2142001" crc="d64c3f3b" md5="3bec757215cd29b37d85b567edf8d693" sha1="2e561722ef8944a893f616b82b4bf17fc7979d32" />
+  </game>
+  <game name="Tribes Aerial Assault (World)">
+    <category>Games</category>
+    <description>Tribes Aerial Assault (World)</description>
+    <rom name="TribesAerialAssault.iso" size="630521856" crc="20eab4fa" md5="24af289858d96d99293a60dd2e78b88a" sha1="69501108b3afb09c29868ae373823734fbd3129b" />
+  </game>
+  <game name="Tribes Ascend (World)">
+    <category>Games</category>
+    <description>Tribes Ascend (World)</description>
+    <rom name="InstallHiRezTribesGAExternal.exe" size="74067024" crc="e2546a20" md5="e5a16534d57ab47966669a0febac18aa" sha1="d14d5278b7e086b6a93364b1a28a247a3c73cca5" />
+  </game>
+  <game name="Tribes Vengeance (World)">
+    <category>Games</category>
+    <description>Tribes Vengeance (World)</description>
+    <rom name="TribesVengeance.zip" size="2206947539" crc="3ea8eff0" md5="57d33595d5c5b4622d491bf0a98150cf" sha1="2ce4d25fffd28b57b998d8059c4080eb4ccd2397" />
+  </game>
+  <game name="Ultionus A Tale of Petty Revenge (World)">
+    <category>Games</category>
+    <description>Ultionus A Tale of Petty Revenge (World)</description>
+    <rom name="Ultionus_RC2D_Win.zip" size="60403802" crc="5adb778b" md5="4f77ef88d86d20eb57d873a8f007f34f" sha1="ad73b84e370dfb8a6ac1fc59b623aa08dfe49f09" />
+  </game>
+  <game name="Under the Garden (World)">
+    <category>Games</category>
+    <description>Under the Garden (World)</description>
+    <rom name="garden.zip" size="11010960" crc="ada088e7" md5="fc39e190332ed749007be8a0b9b5b717" sha1="2c3fb3d2ae95d6d4f84d6453a6be0a279dc9b412" />
+  </game>
+  <game name="Uprising 44 The Silent Shadows (World)">
+    <category>Games</category>
+    <description>Uprising 44 The Silent Shadows (World)</description>
+    <rom name="setup.exe" size="2014553481" crc="21230ecc" md5="8820c41690478d938ea4e6e58859a659" sha1="0fd0e4e307f337d1f507b60045b1ce364dd0402c" />
+  </game>
+  <game name="Vampires Guide Them to Safety! (World) (Mac)">
+    <category>Games</category>
+    <description>Vampires Guide Them to Safety! (World) (Mac)</description>
+    <rom name="SetupVampires.dmg" size="117017818" crc="4fc27ddb" md5="2bdf75e30720f3156e1cb884db9c309a" sha1="dfb024398daaf1ed8f37f2868493797188b30d10" />
+  </game>
+  <game name="Vertex Dispenser (World) (Mac)">
+    <category>Games</category>
+    <description>Vertex Dispenser (World) (Mac)</description>
+    <rom name="Boss_Fight_Mac.zip" size="25649366" crc="517f9212" md5="16f94e145dcbe5f6578da4d986db1850" sha1="b71b4ae8021deb3b6012b035ef2175db4432fb58" />
+  </game>
+  <game name="Vertex Dispenser (World) (Windows)">
+    <category>Games</category>
+    <description>Vertex Dispenser (World) (Windows)</description>
+    <rom name="BOSS_FIGHT_PC.zip" size="19481399" crc="7298e39d" md5="a754dae6952e7c0feccd1c07e03099dd" sha1="b922c720ec0165d28b7b4fb572f5189e4e50acf3" />
+  </game>
+  <game name="VolChaos (World) (v1.5)">
+    <category>Games</category>
+    <description>VolChaos (World) (v1.5)</description>
+    <rom name="volchaos-1.5.zip" size="67844975" crc="8992df3d" md5="37075166a1ef4f4b4e075251a69d37dd" sha1="7bc6e2a9b012fac0017db9522b8372c5346261d7" />
+  </game>
+  <game name="Voxel Blast (World)">
+    <category>Games</category>
+    <description>Voxel Blast (World)</description>
+    <rom name="setup.exe" size="32630804" crc="4a7508de" md5="efb03beb9ce4c4fdfefffab98d20a9d7" sha1="74720880f5b61ed231744547255c079615f87c79" />
+  </game>
+  <game name="Wasteland Kings (World)">
+    <category>Games</category>
+    <description>Wasteland Kings (World)</description>
+    <rom name="WASTELAND_KINGS.zip" size="64208513" crc="639aaf16" md5="067775542ee49d2e542dc04e4535dc02" sha1="5067e089c28687ce101d06a9f7c23e3f33012f74" />
+  </game>
+  <game name="Where Angels Cry (World) (v1.0.2)">
+    <category>Games</category>
+    <description>Where Angels Cry (World) (v1.0.2)</description>
+    <rom name="L0084m_master_1.0.2.zip" size="511977010" crc="84ac50b9" md5="2f2b473415a755c8ab6c90b7239623ef" sha1="a5b417abbb69bec9c4a43a207d7d706863746574" />
+  </game>
+  <game name="Why So Evil 2 Dystopia (World) (Mac)">
+    <category>Games</category>
+    <description>Why So Evil 2 Dystopia (World) (Mac)</description>
+    <rom name="LINUX_64_WSE2D_1.0.zip" size="121146557" crc="21e2709d" md5="c61fc9bed7ca204ecacaa8d4f709efee" sha1="937dd2bdc666043143de264d6e1f46886d8eb67a" />
+  </game>
+  <game name="Will Fight for Food (World)">
+    <category>Games</category>
+    <description>Will Fight for Food (World)</description>
+    <rom name="wff_full.2.zip" size="124989397" crc="a5106c63" md5="aeb57037a205a9b3d03315eddb1d7343" sha1="85da6f866f9f73ee430c1036176fe7ab4b032912" />
+  </game>
+  <game name="Wolfenstein Enemy Territory (World)">
+    <category>Games</category>
+    <description>Wolfenstein Enemy Territory (World)</description>
+    <rom name="et260b.x86_full.zip" size="275647724" crc="3b8bd329" md5="6db59b543d42ee096ce263f3df571c08" sha1="dda982dcaf9911c347f4b4d86c319da56be2a9ae" />
+  </game>
+  <game name="Wolfenstein Enemy Territory (World) (v2.60) (Mac)">
+    <category>Games</category>
+    <description>Wolfenstein Enemy Territory (World) (v2.60) (Mac)</description>
+    <rom name="et-linux-2.60.x86.run" size="270965248" crc="ea09b3f5" md5="2d2373f29f02e18d365d7f1860eee435" sha1="9a66247affcdf804a7341c7630e5610d1ae5d39f" />
+  </game>
+  <game name="Yelaxot (World) (v1.9.1)">
+    <category>Games</category>
+    <description>Yelaxot (World) (v1.9.1)</description>
+    <rom name="Yelaxot_v1.9.1.zip" size="88739361" crc="ee25851d" md5="a3f89c3d1cd363edd5d437923a6e3aa2" sha1="58655593ea97fba6239d2bb44f03f385c2dfa98b" />
+  </game>
+  <game name="Yrminsul (World) (v1.031) (Windows) (32-bit)">
+    <category>Games</category>
+    <description>Yrminsul (World) (v1.031) (Windows) (32-bit)</description>
+    <rom name="setupYrminsulv1.031W32.exe" size="306857138" crc="457e6be3" md5="f1e380abbc419dab24599d20402db3ef" sha1="bc66cd10e85de1d8064fdf839535ee6955a74f22" />
+  </game>
+  <game name="Yrminsul (World) (v1.031) (Windows) (64-bit)">
+    <category>Games</category>
+    <description>Yrminsul (World) (v1.031) (Windows) (64-bit)</description>
+    <rom name="setupYrminsulV1.031W64.2.exe" size="307654144" crc="9f224ee2" md5="fd6a2bf5615983451f7ccddc6b54a6a0" sha1="0d340eb7859023a8aa8f2b3d0182b5e2c9d6b23d" />
+  </game>
+  <game name="realMyst Masterpiece Edition (World)">
+    <category>Games</category>
+    <description>realMyst Masterpiece Edition (World)</description>
+    <rom name="realMyst ME.zip" size="517100" crc="56ba7ea9" md5="f3654fa09deed50af0940382b91d87d3" sha1="24465e62c0e2b7f98d5f6c545ae65499fee8bda9" />
+  </game>
+</datafile>

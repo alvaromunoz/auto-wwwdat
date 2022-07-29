@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Nintendo - Nintendo DSi (Encrypted) (Retool)</name>
+    <description>Nintendo - Nintendo DSi (Encrypted) (Retool)</description>
+    <version>20220302-051210</version>
+    <date>2022-07-29 03-00-01</date>
+    <author>aci68, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, relax, SonGoku, xuom2, zg &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Foto Showdown (USA)">
+    <category>Games</category>
+    <description>Foto Showdown (USA)</description>
+    <rom name="Foto Showdown (USA).dsi" size="33554432" crc="7779cbc4" md5="fae7451386da087d2842ac4c62a8838c" sha1="040ae5cb3bad8b661d4d530f6dcd2b0ee39ba534" sha256="adb4e2fed7d9ef816fbc9571306f712b83240857558016cb04c7d1f6cc099592" />
+  </game>
+  <game name="Nintendo DSi XL Demo Video (USA)">
+    <category>Games</category>
+    <description>Nintendo DSi XL Demo Video (USA)</description>
+    <rom name="Nintendo DSi XL Demo Video (USA).dsi" size="536870912" crc="3479622e" md5="e0b50a9f81262a19cfe5983540e81f2c" sha1="5cd16f5e76cc44dff5cacee94bb40ab7d0ad1391" sha256="7a86a84713fc6df7e71ed78f6c944f97ba0c64f677ff2865ca40dc4c8f1f6162" />
+  </game>
+  <game name="Nintendo DSi XL Demo Video Volume 2 (USA)">
+    <category>Games</category>
+    <description>Nintendo DSi XL Demo Video Volume 2 (USA)</description>
+    <rom name="Nintendo DSi XL Demo Video Volume 2 (USA).dsi" size="536870912" crc="5239bd45" md5="fe3b60278c916c60ad7bfb974a55cfa1" sha1="c54f260d7ee28d3c9f80abc2817278021d78bb0c" sha256="40f680b8243d0ce2c46d7e798782bebd757eb0ab441ed88b70ae5dd60b1abded" />
+  </game>
+  <game name="Picture Perfect Hair Salon (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>Picture Perfect Hair Salon (USA) (En,Fr,Es)</description>
+    <rom name="Picture Perfect Hair Salon (USA) (En,Fr,Es).dsi" size="33554432" crc="77eaca34" md5="54ba5865d961075de68e9d9137948008" sha1="b3a01ffc332fdf8e1bda427c774193dd5dc79a32" sha256="c08283f1c7420ac721646ee8b87e8e99771ca27c1f45e3e5fdac105f6dc0e1b8" />
+  </game>
+  <game name="System - Flaw (USA) (En,Fr,Es)">
+    <category>Games</category>
+    <description>System - Flaw (USA) (En,Fr,Es)</description>
+    <rom name="System - Flaw (USA) (En,Fr,Es).dsi" size="33554432" crc="a7e5e0b8" md5="42b6408a8ad39ba72e373056387e8d73" sha1="1d644465d6547a4a69aa82eabccae6e51e9cff1e" sha256="27a177e768e3d8a909b0bef4cad6caf20de7aaed770418c406b3a3bb2326ce9f" />
+  </game>
+  <game name="WFRUTester (World)">
+    <category>Games</category>
+    <description>WFRUTester (World)</description>
+    <rom name="WFRUTester (World).dsi" size="268435456" crc="eb638291" md5="edab04f62d562ba8421f7eddeade6601" sha1="329a255a946bdcb70bc76077ab6ddad75617519d" sha256="06e42b845323f4729952489090d8d8d1b1582fc64897c66ad1dd0dc417f6dc37" />
+  </game>
+</datafile>

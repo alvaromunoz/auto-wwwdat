@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Non-Redump - Sega - Alls</name>
+    <description>Non-Redump - Sega - Alls</description>
+    <version>20220727-012511</version>
+    <author>Gefflon, NovaAurora</author>
+    <homepage>No-Intro</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="[MIA] Fate - Grand Order Arcade (Japan) (Disc 1)">
+    <description>[MIA] Fate - Grand Order Arcade (Japan) (Disc 1)</description>
+    <rom name="Fate - Grand Order Arcade (Japan) (Disc 1).iso" size="8386904064" crc="ee4f9fa6" md5="0bbfc298fc98db6d5f5e779a209af950" sha1="c82dc0c2d8de205a58fed4d9a5362359ef65e72e" mia="yes" />
+  </game>
+  <game name="[MIA] Fate - Grand Order Arcade (Japan) (Disc 1) (Rev 1)">
+    <description>[MIA] Fate - Grand Order Arcade (Japan) (Disc 1) (Rev 1)</description>
+    <rom name="Fate - Grand Order Arcade (Japan) (Disc 1) (Rev 1).iso" size="8386904064" crc="43ba6e53" md5="ba6028f37ed025bef9ed090b2b01aae7" sha1="fd441cfe08842b5516824822fa8570f523ebb5c5" mia="yes" />
+  </game>
+  <game name="[MIA] Fate - Grand Order Arcade (Japan) (Disc 2)">
+    <description>[MIA] Fate - Grand Order Arcade (Japan) (Disc 2)</description>
+    <rom name="Fate - Grand Order Arcade (Japan) (Disc 2).iso" size="1323679744" crc="d7bc8270" md5="e7d780f35f2e9ae41a121c97f2ef1c85" sha1="917516b384fddbde35e85adbaf3e9ea6b40bea89" mia="yes" />
+  </game>
+  <game name="[MIA] Fate - Grand Order Arcade (Japan) (Disc 3)">
+    <description>[MIA] Fate - Grand Order Arcade (Japan) (Disc 3)</description>
+    <rom name="Fate - Grand Order Arcade (Japan) (Disc 3).iso" size="1537867776" crc="d788b5c4" md5="8c7c6a9ef9f5f063ceb462590ff04d93" sha1="f2510ed28a17fe38ce45312cffb2bc72ba1c326f" mia="yes" />
+  </game>
+</datafile>
