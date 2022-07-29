@@ -3,8 +3,7 @@ name: Get DATs
 on:
   workflow_dispatch:
   schedule:
-    # Run everyday at 8:00 UTC
-    - cron: "0 8 * * *"
+    - cron: "0 0 * * 0"
 
 defaults:
   run:
