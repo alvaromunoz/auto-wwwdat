@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Non-Redump - Microsoft - Xbox Series X (Retool)</name>
+    <description>Non-Redump - Microsoft - Xbox Series X (Retool)</description>
+    <version>20220724-114831</version>
+    <date>2022-07-31 00-10-55</date>
+    <author>NovaAurora &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Judgment (USA)">
+    <category>Games</category>
+    <description>Judgment (USA)</description>
+    <rom name="Judgment (USA).iso" size="45957781504" crc="f9d34f82" md5="3e4eb8fa9dcefb822bb02d6972b7ecaa" sha1="dac0437c57c70631eaac8151ec8f7a8178aea784" />
+  </game>
+</datafile>

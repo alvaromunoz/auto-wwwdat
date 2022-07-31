@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Non-Redump - Konami - Python 2 (Retool)</name>
+    <description>Non-Redump - Konami - Python 2 (Retool)</description>
+    <version>20220727-012254</version>
+    <date>2022-07-31 00-09-55</date>
+    <author>Gefflon, NovaAurora &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="[MIA] Dancing Stage SuperNOVA (Europe) (Install Disk)">
+    <category>Games</category>
+    <description>[MIA] Dancing Stage SuperNOVA (Europe) (Install Disk)</description>
+    <rom name="Dancing Stage SuperNOVA (Europe) (Install Disk).iso" size="4002709504" mia="yes" crc="95e713bb" md5="49db9be25831e87140f2fd67ecd7e99b" sha1="8e2799b9316367f3fb10b1e5bc4a6cc9ff1bcb2a" />
+  </game>
+</datafile>

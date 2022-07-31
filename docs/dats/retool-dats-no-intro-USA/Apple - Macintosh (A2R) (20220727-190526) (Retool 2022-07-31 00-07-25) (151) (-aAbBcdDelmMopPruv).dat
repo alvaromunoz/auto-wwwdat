@@ -1,0 +1,769 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Apple - Macintosh (A2R) (Retool)</name>
+    <description>Apple - Macintosh (A2R) (Retool)</description>
+    <version>20220727-190526</version>
+    <date>2022-07-31 00-07-25</date>
+    <author>FakeShemp, Gefflon, MeguCocoa, UnlockerPT, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>https://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="APS PowerTools (USA, Europe) (v4.01)">
+    <category>Games</category>
+    <description>APS PowerTools (USA, Europe) (v4.01)</description>
+    <rom name="APS PowerTools (USA, Europe) (v4.01).a2r" size="43342361" crc="4bad679f" md5="890463b5d1b4a9595c07ba636b3b0464" sha1="ba3b6311ee5b3e1c15ec7bc6498fce50e6d083e8" sha256="ebc7242ba63422b8391f5082b9f0f5dc91a491696ebe63f9212048d4dbe63afc" />
+  </game>
+  <game name="APS PowerTools (USA, Europe) (v4.1)">
+    <category>Games</category>
+    <description>APS PowerTools (USA, Europe) (v4.1)</description>
+    <rom name="APS PowerTools (USA, Europe) (v4.1).a2r" size="41982336" crc="e518c4cb" md5="6e44069d89956f20aad7410626899f86" sha1="a734ff0bdcbb7125e59fe858b7b46cee07a8b0d3" sha256="4ae401a96ea883df2015c68af70bdfd39a806fb032d982b6045fbf2c5132de4c" />
+  </game>
+  <game name="Adobe Illustrator (USA, Europe) (v3.2)">
+    <category>Games</category>
+    <description>Adobe Illustrator (USA, Europe) (v3.2)</description>
+    <rom name="Adobe Illustrator (USA, Europe) (v3.2).a2r" size="23377314" crc="3c519ffa" md5="70688f037920a5f522a2b661536aa416" sha1="3e8e57e8d645b2f72ef0dc758290167b49abddfa" sha256="a2f12c5c18a1c2617ceee31bf4660eeedba22a3eddf1dbd54db3de70102704da" />
+  </game>
+  <game name="Adobe Illustrator 88 (USA, Europe)">
+    <category>Games</category>
+    <description>Adobe Illustrator 88 (USA, Europe)</description>
+    <rom name="Adobe Illustrator - Disk 1.a2r" size="22087129" crc="b920da4b" md5="c43c9bf8a1055ed69e9bd374a0127811" sha1="b1d5e7f10a14314644440bd87483be47654c28ea" sha256="1e67ceabfc612315bf8f9f36ea80c78617664feecd50b4707450ff9148db37bf" />
+  </game>
+  <game name="Adobe Type Manager (USA, Europe) (v1.2)">
+    <category>Games</category>
+    <description>Adobe Type Manager (USA, Europe) (v1.2)</description>
+    <rom name="Adobe Type Manager (USA, Europe) (v1.2).a2r" size="22292688" crc="139c7b85" md5="96290135f54d2ff0ba0d25f9b392d2d6" sha1="bf02571407f2cc2c7d7c6c1e89528a23ca39f3ff" sha256="7e205490fce553f501597c3194de99ceb707a58ee9286f6f65301c932b2d1650" />
+  </game>
+  <game name="Airborne! (USA, Europe)">
+    <category>Games</category>
+    <description>Airborne! (USA, Europe)</description>
+    <rom name="Airborne! (USA, Europe).a2r" size="14169032" crc="78042b4f" md5="0c571255d348946b395ebe0d9555fa03" sha1="43258230ac276436d64ad19bfd7e4dd4ac5e8d1d" sha256="3b545349014467a85ed272dc0054a443db3d0810fc2fd5cd4f2116d98a3d6e4f" />
+  </game>
+  <game name="Aladdin Spring Cleaning (USA, Europe)">
+    <category>Games</category>
+    <description>Aladdin Spring Cleaning (USA, Europe)</description>
+    <rom name="Aladdin Spring Cleaning (USA, Europe).a2r" size="40472863" crc="cb320558" md5="4961ba01d00dc3930e3b141834bb8035" sha1="bd942421e0618e1e534f61d74409835439f86322" sha256="131058720bf29d8d32810703f85b99d7623fda674504d72c6f6cce42eed9e64f" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 1)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 1)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 1).a2r" size="39596782" crc="a5bb80d5" md5="89f6c8b7521a1b355f183da07989eca5" sha1="4a4ca241a7dd255c16a59ff201e3382e0e97bff3" sha256="e2fbbc10ff6879f0406623eeb66d6d5d03944f2ac87c2684c927762c75cad2cf" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 2)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 2)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 2).a2r" size="39724484" crc="f6f45f33" md5="0e5c95b68b6322106df4a0509c6894a8" sha1="a679e8da19aa4e7767fecbb704d05d8503b0f0a3" sha256="154c02589188535bd503574afbdfe1542fb694a8310ffb2fa1c7668bf2ff00ed" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 3)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 3)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 3).a2r" size="39721411" crc="74502c81" md5="ab6c5f90dfa8fe4a7d5973385bb1d175" sha1="c8d14cc7743162d89c7f739ede23916f7fd58f6d" sha256="95cf0be2e9e87b1dadfc880d9b522344dc62e2256719bf48db1ebc376476c5ed" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 4)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 4)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 4).a2r" size="39553735" crc="39ee6e46" md5="22741f5960e62f7e6ca9d2f739bf0096" sha1="b6e9117fd4acfa38cb27db6cd69c8fc55c7e0322" sha256="c885787f87d197f407fcb2ac78d046ebed29cdc7cdfcc998874665957168599e" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 5)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 5)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0) (Disk 5).a2r" size="39551271" crc="4c243c7b" md5="d877c052fa56be6be0832b9a068e7529" sha1="825993edd6cb514dc1d9a087e2bbcd8a367f4e24" sha256="092170f96bd17e08d2c641227004fee7bc461dbd0c85828a14307494b9810eee" />
+  </game>
+  <game name="Aldus IntelliDraw (USA, Europe) (v2.0.1) (Upgrade Disk)">
+    <category>Games</category>
+    <description>Aldus IntelliDraw (USA, Europe) (v2.0.1) (Upgrade Disk)</description>
+    <rom name="Aldus IntelliDraw (USA, Europe) (v2.0.1) (Upgrade Disk).a2r" size="40869281" crc="0bf151c7" md5="1011afd8d380ea5a4769361392284d15" sha1="24e8c28331dd2ec4cd0c50ae42a7c7af3cc4e700" sha256="aae32058fb2789985bed514978c7612a16a26716de1e3d5536bedb28747f96e6" />
+  </game>
+  <game name="Alge-Blaster Plus! (USA, Europe) (v1.1)">
+    <category>Games</category>
+    <description>Alge-Blaster Plus! (USA, Europe) (v1.1)</description>
+    <rom name="Alge-Blaster Plus! (USA, Europe) (v1.1).a2r" size="22546422" crc="44054107" md5="ecf675a6da2e355236959b7907e02d88" sha1="cc443b88a28b634cb20364578d78edc55cd79897" sha256="826201842cd3c7872922da99ad4fb298f012f906e0af7168f135c36349527b51" />
+  </game>
+  <game name="Anubis Utility (USA, Europe) (v2.54u)">
+    <category>Games</category>
+    <description>Anubis Utility (USA, Europe) (v2.54u)</description>
+    <rom name="Anubis Utility (USA, Europe) (v2.54u).a2r" size="24374338" crc="d774b97d" md5="8363f2dcfbcec7469d69c06b639573d7" sha1="703a80c811831b939260e8e983c8fade613cf4e6" sha256="78e8cccd445185575fecd99e4ca12bd57da375ad01eb8e00a2c1e56e2497cfcd" />
+  </game>
+  <game name="Apache Strike (USA, Europe)">
+    <category>Games</category>
+    <description>Apache Strike (USA, Europe)</description>
+    <rom name="Apache Strike (USA, Europe).a2r" size="24418495" crc="4809bdda" md5="05c1cb9127b938e998f2bc24cc89716a" sha1="4394d6bcd147e60369fd73f9d5a4bc22366e8882" sha256="33b47a8ce82457b78f3a5e1eedc77e61240283b800aaa0fde5218edfd15c1b8b" />
+  </game>
+  <game name="Apple Font Pack (USA, Europe)">
+    <category>Games</category>
+    <description>Apple Font Pack (USA, Europe)</description>
+    <rom name="Apple Font Pack (USA, Europe).a2r" size="22513410" crc="687045c8" md5="ed9540f85c6ed5b7db18de14d5e2398c" sha1="2df4eff2ee46cd5d7f085cad88b75020004964eb" sha256="9c23c591d2a0a35b273b97a4678daeb27a4df18b390c0ff0c7598aff66fc1c45" />
+  </game>
+  <game name="Apple Multiple Scan Software for Macintosh (USA, Europe) (v1.2)">
+    <category>Games</category>
+    <description>Apple Multiple Scan Software for Macintosh (USA, Europe) (v1.2)</description>
+    <rom name="Apple Multiple Scan Software for Macintosh (USA, Europe) (v1.2).a2r" size="23055938" crc="0a40847e" md5="c958ee1689d4071be2ff52200e48ae48" sha1="4d82a1a178195359a5a043e6116e6b102f5bd879" sha256="b570e035007f21132e54b488bcdeb6b72f0867601d5b7b080ebdd803096a37d1" />
+  </game>
+  <game name="Apple Remote Access Client (USA, Europe) (Install Disk 1)">
+    <category>Games</category>
+    <description>Apple Remote Access Client (USA, Europe) (Install Disk 1)</description>
+    <rom name="Apple Remote Access Client (USA, Europe) (Install Disk 1).a2r" size="22024689" crc="2fa1f390" md5="5e23f78c43648869946186308001f4df" sha1="b7b8ac5fcca7098e9fdfeadadbb8b4f4fb41373c" sha256="2fb0c24ac7689d30b4c2e95eca9bcaed884b9b5b2157e9bdb004d54b637feea3" />
+  </game>
+  <game name="Apple Remote Access Client (USA, Europe) (Install Disk 2)">
+    <category>Games</category>
+    <description>Apple Remote Access Client (USA, Europe) (Install Disk 2)</description>
+    <rom name="Apple Remote Access Client (USA, Europe) (Install Disk 2).a2r" size="21989021" crc="1b6554e5" md5="f17c9f160847021950ff28d6dfc5d864" sha1="6c98870a622018b44c29e2396fe61c3913a4b95b" sha256="ca30e4706dec2965a806021fc39e8d6c560c2ea8ea2c0fc93d47c7666edbbf4e" />
+  </game>
+  <game name="Apple Remote Access Client (USA, Europe) (Install Disk 3)">
+    <category>Games</category>
+    <description>Apple Remote Access Client (USA, Europe) (Install Disk 3)</description>
+    <rom name="Apple Remote Access Client (USA, Europe) (Install Disk 3).a2r" size="20207034" crc="c9f7aa31" md5="7c62ac8a1e983904b7f2c4158d409b72" sha1="c9b9047687f4c4b365c70ef7fd1b9bba93037c00" sha256="9f088338e1e20e361c0cda8df53369f5100e20f9e4cdd4ca39b1f753c62c7e0a" />
+  </game>
+  <game name="Baron (USA, Europe)">
+    <category>Games</category>
+    <description>Baron (USA, Europe)</description>
+    <rom name="Baron (USA, Europe).a2r" size="14901424" crc="9238a2ad" md5="db59afafe303f554eb3cf602ce732d5d" sha1="47b62d7dd7113a0ff36fa12443fd640e57dd4cce" sha256="8e31efeb062784aa6cea40e644f738534008a10fcdb6c8c1493b193b46358f5f" />
+  </game>
+  <game name="Battleship (USA, Europe)">
+    <category>Games</category>
+    <description>Battleship (USA, Europe)</description>
+    <rom name="Battleship (USA, Europe).a2r" size="18478248" crc="2d6796b1" md5="6886c38fc344bc985ee9281caef8b86a" sha1="e049d1887df7ffe39433b59532fa9c9fac1e0a0f" sha256="ffb94e2a2764250a20730474956d68f65610bf09f90d929e2bf3df949cddb5cf" />
+  </game>
+  <game name="Beyond Dark Castle (USA) (Disk 1)">
+    <category>Games</category>
+    <description>Beyond Dark Castle (USA) (Disk 1)</description>
+    <rom name="Beyond Dark Castle (USA) (Disk 1).a2r" size="21045153" crc="7ae844ea" md5="61c02dd961374d012a1ac16dde1010d2" sha1="7f2d21a6ac5c3a9c4832c3f85b5b725e812dd8e3" sha256="47dfaec8793d572cb3598ed59676d550e3004eb387380ba7cd0a2e5113b98b69" />
+  </game>
+  <game name="Beyond Dark Castle (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Beyond Dark Castle (USA, Europe) (Disk 2)</description>
+    <rom name="Beyond Dark Castle (USA, Europe) (Disk 2).a2r" size="21841871" crc="0a40fab2" md5="34911e8c77bc74dee814c318871533c0" sha1="b64f8b413f56ea460c08e1c29fd3aff4a3d4d917" sha256="c1a2ff5b006afa2dab4d855ad9d09b633873f20ec39f246d6f8e12fd9f30b872" />
+  </game>
+  <game name="Beyond Zork (USA, Europe)">
+    <category>Games</category>
+    <description>Beyond Zork (USA, Europe)</description>
+    <rom name="Beyond Zork (USA, Europe).a2r" size="11265828" crc="a19e914c" md5="d1793f16b715aace898454a78133cd2c" sha1="1e5d541b7ba59d16379c5cb21c0727721fe1be30" />
+  </game>
+  <game name="CS-Edit (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>CS-Edit (USA, Europe) (Disk 1)</description>
+    <rom name="CS-Edit (USA, Europe) (Disk 1).a2r" size="22444315" crc="56a13355" md5="b298df636a74661fc5a6679e4abc7208" sha1="d197b9d5ce1733fe54347400ff0f60ed910bbe16" />
+  </game>
+  <game name="Canvas (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Canvas (USA, Europe) (Disk 1)</description>
+    <rom name="Canvas (USA, Europe) (Disk 1).a2r" size="40070231" crc="3be23f98" md5="ec6a4da4e252d36f4960fb6a989ffad7" sha1="664acd538afe0d371816612e9d084ce8c0a498ba" />
+  </game>
+  <game name="Canvas (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Canvas (USA, Europe) (Disk 2)</description>
+    <rom name="Canvas (USA, Europe) (Disk 2).a2r" size="39872145" crc="82e8b10f" md5="602d61bc04cf15a228612ccd7f28a3f1" sha1="e64f0b62fd6cb944371dce0be9c03c5d54cf68af" />
+  </game>
+  <game name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Castles - Siege &amp; Conquest (USA, Europe) (Disk 1)</description>
+    <rom name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 1).a2r" size="39641879" crc="5d8489ff" md5="1a6a83565ff32ce8abce6cd6dbc2cd12" sha1="bd3f3e5cf820e9e8ad82bbf00dde6d1b2e5b0358" />
+  </game>
+  <game name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Castles - Siege &amp; Conquest (USA, Europe) (Disk 2)</description>
+    <rom name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 2).a2r" size="39586189" crc="f815f393" md5="d05ef5787d694d480a528f0c7a30e8ff" sha1="77ee1ccae10d04567896f9d84e50014553af2874" />
+  </game>
+  <game name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>Castles - Siege &amp; Conquest (USA, Europe) (Disk 3)</description>
+    <rom name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 3).a2r" size="39920178" crc="68fdf275" md5="e9bc15d5688d05f37c6d85526fb6551c" sha1="43ccdb5f42a627f43c10ca4ab12b34dce2dd56d6" />
+  </game>
+  <game name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 4)">
+    <category>Games</category>
+    <description>Castles - Siege &amp; Conquest (USA, Europe) (Disk 4)</description>
+    <rom name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 4).a2r" size="39485592" crc="6f5f2ba6" md5="f0fadfc1e7be64fd7d9571cb5c90644a" sha1="02de50f3fa94cd101012b2c4550e13fd2f4e9000" />
+  </game>
+  <game name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 5)">
+    <category>Games</category>
+    <description>Castles - Siege &amp; Conquest (USA, Europe) (Disk 5)</description>
+    <rom name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 5).a2r" size="39856006" crc="b7bb654b" md5="379b5577dde825c33f9b15d5f1de541c" sha1="d60908542740f68b4da5dee0a1cdbdf1458c38ed" />
+  </game>
+  <game name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 6)">
+    <category>Games</category>
+    <description>Castles - Siege &amp; Conquest (USA, Europe) (Disk 6)</description>
+    <rom name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 6).a2r" size="39455410" crc="36608574" md5="79335d7dd35e046ebff1d0e18c884dd8" sha1="615170d48852c0bf179c1e013452ad42e1af01cf" />
+  </game>
+  <game name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 7)">
+    <category>Games</category>
+    <description>Castles - Siege &amp; Conquest (USA, Europe) (Disk 7)</description>
+    <rom name="Castles - Siege &amp; Conquest (USA, Europe) (Disk 7).a2r" size="39511775" crc="ac4c5cbb" md5="e9a8c146ba2ced98a4bc46c07c743dec" sha1="2d953c3e07e8ee4b8d42a602ac0c58ae8770647a" />
+  </game>
+  <game name="Certificate Maker (USA, Europe) (v2.02)">
+    <category>Games</category>
+    <description>Certificate Maker (USA, Europe) (v2.02)</description>
+    <rom name="Certificate Maker (USA, Europe) (v2.02).a2r" size="22766703" crc="627fb47d" md5="034f09a5b87a8ffd3fa45cea24d04c1d" sha1="0909f2e44c9b2f8819d1762040cac84ef154f377" />
+  </game>
+  <game name="Chuck Yeager's Advanced Flight Trainer (USA, Europe) (Data Disk)">
+    <category>Games</category>
+    <description>Chuck Yeager's Advanced Flight Trainer (USA, Europe) (Data Disk)</description>
+    <rom name="Chuck Yeager's Advanced Flight Trainer (USA, Europe) (Data Disk).a2r" size="22386970" crc="4af3f27e" md5="f479b69061a5a809ea22ea090fd8b524" sha1="7af95b0edab9e591d1884dee4a3dd3cbfb83c8d7" />
+  </game>
+  <game name="Chuck Yeager's Advanced Flight Trainer (USA, Europe) (Program Disk)">
+    <category>Games</category>
+    <description>Chuck Yeager's Advanced Flight Trainer (USA, Europe) (Program Disk)</description>
+    <rom name="Chuck Yeager's Advanced Flight Trainer (USA, Europe) (Program Disk).a2r" size="22443800" crc="a074209a" md5="73f544f7b935ada605da133b82d85a1f" sha1="443baabd1524738eb68629c79992f5ceb347de88" />
+  </game>
+  <game name="Comic Works (USA, Europe) (Art Disk 1)">
+    <category>Games</category>
+    <description>Comic Works (USA, Europe) (Art Disk 1)</description>
+    <rom name="Comic Works (USA, Europe) (Art Disk 1).a2r" size="15891374" crc="a24098e0" md5="bbdff5f31ae10c0edb993c4b5083ecb1" sha1="cd25debbec01b75e2b061010e66125024e104dfb" />
+  </game>
+  <game name="Comic Works (USA, Europe) (Art Disk 2)">
+    <category>Games</category>
+    <description>Comic Works (USA, Europe) (Art Disk 2)</description>
+    <rom name="Comic Works (USA, Europe) (Art Disk 2).a2r" size="15195580" crc="9cdee2e9" md5="88b2b2f4462ee5a6824f670add7f7d09" sha1="2f4fd1240471033f5d48ac006514b5c64cfc2118" />
+  </game>
+  <game name="Comic Works (USA, Europe) (Program Disk)">
+    <category>Games</category>
+    <description>Comic Works (USA, Europe) (Program Disk)</description>
+    <rom name="Comic Works (USA, Europe) (Program Disk).a2r" size="16605236" crc="78dc1a90" md5="ccddefeea94c4612272c1386f48d9c8e" sha1="632618e3bbde878cbda471d9daa2589e26e2df62" />
+  </game>
+  <game name="Conflict Catcher 3 (USA, Europe)">
+    <category>Games</category>
+    <description>Conflict Catcher 3 (USA, Europe)</description>
+    <rom name="Conflict Catcher 3 (USA, Europe).a2r" size="20789492" crc="b241654f" md5="2f7c824c269861b159394bcbfcb714d6" sha1="214ac3a94bff46f287db88f297a5120d8e4e12e8" />
+  </game>
+  <game name="Connectix PowerBook Utilities (USA, Europe)">
+    <category>Games</category>
+    <description>Connectix PowerBook Utilities (USA, Europe)</description>
+    <rom name="Connectix PowerBook Utilities (USA, Europe).a2r" size="24040115" crc="15a9e821" md5="fa18b0a75a7aa9b9bbf56c24fc4e403b" sha1="9ee2cd93c1f237f1f988f2659461abf5f1a10eed" />
+  </game>
+  <game name="Copy II Mac (USA, Europe) (v3.2)">
+    <category>Games</category>
+    <description>Copy II Mac (USA, Europe) (v3.2)</description>
+    <rom name="Copy II Mac (USA, Europe) (v3.2).a2r" size="10396643" crc="e6f47946" md5="890622997e26f5317465f575e3fa9a1e" sha1="5c255571c5928af438953fa28435d0e26a0c53f6" />
+  </game>
+  <game name="Copy II Mac - MacTools (USA, Europe) (v6.3)">
+    <category>Games</category>
+    <description>Copy II Mac - MacTools (USA, Europe) (v6.3)</description>
+    <rom name="Copy II Mac - MacTools (USA, Europe) (v6.3).a2r" size="14780509" crc="d0a35855" md5="9b0041af1800ac8359f5c7ad8ed4b935" sha1="9a8594a95c376ffb5885d0d96a54ccda514f1cb5" />
+  </game>
+  <game name="Correct Grammar (USA, Europe) (v2.02)">
+    <category>Games</category>
+    <description>Correct Grammar (USA, Europe) (v2.02)</description>
+    <rom name="Correct Grammar (USA, Europe) (v2.02).a2r" size="22270177" crc="4b8e797a" md5="45208bd969ac986a139714415599014a" sha1="a52813c19c6831d92871c0360916a08b229a6f87" />
+  </game>
+  <game name="Cricket Graph (USA, Europe) (Applications Disk)">
+    <category>Games</category>
+    <description>Cricket Graph (USA, Europe) (Applications Disk)</description>
+    <rom name="Cricket Graph (USA, Europe) (Applications Disk).a2r" size="21733071" crc="cf48465b" md5="2975334323c26522a54ddc795d945763" sha1="c2d4a4ecdbc670d47f87ad5cb7af5c29ccecb84a" />
+  </game>
+  <game name="Cricket Graph (USA, Europe) (System and Utilities Disk)">
+    <category>Games</category>
+    <description>Cricket Graph (USA, Europe) (System and Utilities Disk)</description>
+    <rom name="Cricket Graph (USA, Europe) (System and Utilities Disk).a2r" size="23634922" crc="ca9487c9" md5="163ac8d8f43a621bab632e44b142efa4" sha1="8d7f4525029f61722ef9fd6ced16fef103c49d70" />
+  </game>
+  <game name="Cutthroats (USA, Europe)">
+    <category>Games</category>
+    <description>Cutthroats (USA, Europe)</description>
+    <rom name="Cutthroats (USA, Europe).a2r" size="11294773" crc="81ce4e79" md5="59ec877e886e0dd0e2c7a74ca36d4287" sha1="ff1f1c42b0aee6135f975abd9d0f75d4b755f77f" />
+  </game>
+  <game name="Cutthroats (USA, Europe) (r23)">
+    <category>Games</category>
+    <description>Cutthroats (USA, Europe) (r23)</description>
+    <rom name="Cutthroats (USA, Europe) (r23).a2r" size="15176712" crc="1c65a63c" md5="5b7db7a4362ab635ed5604a20e40e248" sha1="cdde40e5aee7c6de7ba5f0cb7c1da7603f721b28" />
+  </game>
+  <game name="Dark Castle (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Dark Castle (USA, Europe) (Disk 1)</description>
+    <rom name="Dark Castle (USA, Europe) (Disk 1).a2r" size="15074777" crc="4ce7bebe" md5="5b1a10eafc476e29db9fa52ec6cbb094" sha1="8af2de6e9a39bbd41c70d4ae080ea350349fe797" sha256="880ee0c75f72da73d9ce37157c8ad92654cf6ad6b6ad31c020957409b97199f0" />
+  </game>
+  <game name="Dark Castle (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Dark Castle (USA, Europe) (Disk 2)</description>
+    <rom name="Dark Castle (USA, Europe) (Disk 2).a2r" size="15092063" crc="e0ca8d9a" md5="f6b08823c02b130a713fd180c70444fe" sha1="ea59aec529a74db75c89a50487c66e8d44d2cf4f" sha256="590aedb8db66008d0e40023e49b9e27a1649fa2ac8b5b912f2ea4565c6b16727" />
+  </game>
+  <game name="Destination - Mars! (USA, Europe) (Discovery Pack)">
+    <category>Games</category>
+    <description>Destination - Mars! (USA, Europe) (Discovery Pack)</description>
+    <rom name="Destination - Mars! (USA, Europe) (Discovery Pack).a2r" size="39798054" crc="70b4156d" md5="e748579e8c7b1346e1ad2f4aff9e4724" sha1="c6a6257729baf152d3f648369563059a5279d56f" />
+  </game>
+  <game name="Digital Gourmet (USA, Europe) (v2.6.2) (Disk 1)">
+    <category>Games</category>
+    <description>Digital Gourmet (USA, Europe) (v2.6.2) (Disk 1)</description>
+    <rom name="Digital Gourmet (USA, Europe) (v2.6.2) (Disk 1).a2r" size="22419666" crc="b07c6382" md5="21cd7ed710589536c5effdefe4404bdb" sha1="439aceccb20abb319e8ab63c57377d0d7ab760a3" />
+  </game>
+  <game name="Digital Gourmet (USA, Europe) (v2.6.2) (Disk 2)">
+    <category>Games</category>
+    <description>Digital Gourmet (USA, Europe) (v2.6.2) (Disk 2)</description>
+    <rom name="Digital Gourmet (USA, Europe) (v2.6.2) (Disk 2).a2r" size="22363071" crc="234f5736" md5="9d2d930cd9126f0793ef08eff27bab6b" sha1="cf0878380469f62592f76467f3927b6bda5e44e9" />
+  </game>
+  <game name="Disk Manager Mac (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Disk Manager Mac (USA, Europe) (Disk 1)</description>
+    <rom name="Disk Manager Mac (USA, Europe) (Disk 1).a2r" size="20133868" crc="b64e68a1" md5="3f69287377dccccc21dded2d02f31f66" sha1="267c58e8d5a77b90d6c330f31db96a3c0aa8ab8a" />
+  </game>
+  <game name="Distant Suns - Stars (USA, Europe)">
+    <category>Games</category>
+    <description>Distant Suns - Stars (USA, Europe)</description>
+    <rom name="Distant Suns - Stars (USA, Europe).a2r" size="22529312" crc="61434cc5" md5="832e8f4b5a72febeb8c6ec428c30e4f7" sha1="71d55c0f7610a6c8469d37b8717c1e9b4da0b9a6" />
+  </game>
+  <game name="Draw It Again, Sam (USA, Europe)">
+    <category>Games</category>
+    <description>Draw It Again, Sam (USA, Europe)</description>
+    <rom name="Draw It Again, Sam (USA, Europe).a2r" size="26319501" crc="4e04e4c3" md5="9ebb980e3d0e4cda89593b01093bb630" sha1="73048d87a1b39da6168c709cab1e1394bfb96207" />
+  </game>
+  <game name="Dynopage Lite (USA, Europe)">
+    <category>Games</category>
+    <description>Dynopage Lite (USA, Europe)</description>
+    <rom name="Dynopage Lite (USA, Europe).a2r" size="22580981" crc="acd6d260" md5="6cab0d2e17e739378ea4d39ea8f1b230" sha1="814a11212234200c7c20fe4d0f91f912e1f11f93" />
+  </game>
+  <game name="Falcon (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Falcon (USA, Europe) (Disk 1)</description>
+    <rom name="Falcon (USA, Europe) (Disk 1).a2r" size="24108745" crc="4039de48" md5="d209e5972da06861b66739d713f32439" sha1="cc490cb1d8cd433c453436bb32e5d5b76d06a311" />
+  </game>
+  <game name="Falcon (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Falcon (USA, Europe) (Disk 2)</description>
+    <rom name="Falcon (USA, Europe) (Disk 2).a2r" size="24212571" crc="532dc977" md5="dbfb3dab1b0deefc27dbacc04992a63f" sha1="85887a970bfca68842d312955e6f6477cb590c1f" />
+  </game>
+  <game name="Family Lawyer for Macintosh (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Family Lawyer for Macintosh (USA, Europe) (Disk 1)</description>
+    <rom name="Family Lawyer for Macintosh (USA, Europe) (Disk 1).a2r" size="39758894" crc="08a67678" md5="c24f513acee01b7c8cb015a99942ed42" sha1="fb83345a5c9a636db678744eb3764fa86dacf891" />
+  </game>
+  <game name="Family Lawyer for Macintosh (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Family Lawyer for Macintosh (USA, Europe) (Disk 2)</description>
+    <rom name="Family Lawyer for Macintosh (USA, Europe) (Disk 2).a2r" size="39581348" crc="e2f426f7" md5="68d6f635b79e8e704d26fdd7f5aca3cc" sha1="239d578bbaf058fc6c6f822988d57394fbd229f4" />
+  </game>
+  <game name="Family Lawyer for Macintosh (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>Family Lawyer for Macintosh (USA, Europe) (Disk 3)</description>
+    <rom name="Family Lawyer for Macintosh (USA, Europe) (Disk 3).a2r" size="39677036" crc="ca02dd81" md5="aa69a2347ee95a64f40d7da07cf5ce7d" sha1="69093850e6f32bec11006df629946378c798d6c0" />
+  </game>
+  <game name="Family Lawyer for Macintosh (USA, Europe) (Disk 4)">
+    <category>Games</category>
+    <description>Family Lawyer for Macintosh (USA, Europe) (Disk 4)</description>
+    <rom name="Family Lawyer for Macintosh (USA, Europe) (Disk 4).a2r" size="39646416" crc="85344ff9" md5="b150a84e83ce0e0f37d1f9e62e6d3b43" sha1="477400d5177e502acd89cc7f2beced7b14f18964" />
+  </game>
+  <game name="Family Lawyer for Macintosh (USA, Europe) (Disk 5)">
+    <category>Games</category>
+    <description>Family Lawyer for Macintosh (USA, Europe) (Disk 5)</description>
+    <rom name="Family Lawyer for Macintosh (USA, Europe) (Disk 5).a2r" size="39688704" crc="dd54c9b2" md5="ed5ef6f7f48a0cbecab75c23f2641fec" sha1="216df4ee17c58282777e0e56f76db8f6f6ea5c13" />
+  </game>
+  <game name="FileMaker Pro (USA, Europe) (Templates)">
+    <category>Games</category>
+    <description>FileMaker Pro (USA, Europe) (Templates)</description>
+    <rom name="FileMaker Pro (USA, Europe) (Templates).a2r" size="22928353" crc="361a9416" md5="855bbfe19b6bf576047b0093ab76efed" sha1="40e21200301df429bfb78484f4667f451083c888" />
+  </game>
+  <game name="FileMaker Pro (USA, Europe) (Utilities)">
+    <category>Games</category>
+    <description>FileMaker Pro (USA, Europe) (Utilities)</description>
+    <rom name="FileMaker Pro (USA, Europe) (Utilities).a2r" size="19276850" crc="3ba1187f" md5="cac9b191c1d424d36b1609704f28d1d6" sha1="e449a35327592bdf676ac6d1ac4bad80ed13f149" />
+  </game>
+  <game name="FullPaint (USA, Europe) (Print Utilities)">
+    <category>Games</category>
+    <description>FullPaint (USA, Europe) (Print Utilities)</description>
+    <rom name="FullPaint (USA, Europe) (Print Utilities).a2r" size="11147269" crc="431d5add" md5="ad9207e613ac3e6f60562645d577b500" sha1="ee8d852efe50dd8dc49b41a21000342c1543c963" />
+  </game>
+  <game name="FullPaint (USA, Europe) (Program Disk)">
+    <category>Games</category>
+    <description>FullPaint (USA, Europe) (Program Disk)</description>
+    <rom name="FullPaint (USA, Europe) (Program Disk).a2r" size="11182978" crc="04a4ccec" md5="2cce89c45c0b5addf6b1fb2df453127e" sha1="76a14aef65b4ba0fc3e94f756745c72483e0ea1c" />
+  </game>
+  <game name="Gauntlet (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Gauntlet (USA, Europe) (Disk 1)</description>
+    <rom name="Gauntlet (USA, Europe) (Disk 1).a2r" size="22415551" crc="bd3664f1" md5="14c3203aecc0fb822c38b240c0d53bb4" sha1="a521e3add43bd2b7ff0b2855f40509b2bd2569a4" />
+  </game>
+  <game name="Gauntlet (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Gauntlet (USA, Europe) (Disk 2)</description>
+    <rom name="Gauntlet (USA, Europe) (Disk 2).a2r" size="22820786" crc="0b9c1bac" md5="d4c1bcebccb8dc7e3b55631798d03f2a" sha1="4e5eb29cc037d7168611ffdc68da62e6ee0a793b" />
+  </game>
+  <game name="Geometry (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Geometry (USA, Europe) (Disk 1)</description>
+    <rom name="Geometry (USA, Europe) (Disk 1).a2r" size="16592418" crc="5ca676fe" md5="e03fe2e03ef6b8cd77012ff61dd72cf2" sha1="c4a469615cd1357fc3e86c38a0dcbf427eba5d60" />
+  </game>
+  <game name="Geometry (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Geometry (USA, Europe) (Disk 2)</description>
+    <rom name="Geometry (USA, Europe) (Disk 2).a2r" size="15821453" crc="c751e283" md5="947691ae62b55d7f6965ea3439a48559" sha1="413d4388eff43271c3a9985c2ad70b89a3f6f890" />
+  </game>
+  <game name="GlobalFax (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>GlobalFax (USA, Europe) (Disk 1)</description>
+    <rom name="GlobalFax (USA, Europe) (Disk 1).a2r" size="45603015" crc="29a9a20a" md5="b34e10560430aa55e947f31d9060fae3" sha1="12e9687ce2dfc05f0e33d58ff43a526b79dc0ab1" />
+  </game>
+  <game name="Grappler 9 Pin Parallel Printer Interface (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Grappler 9 Pin Parallel Printer Interface (USA, Europe) (Disk 1)</description>
+    <rom name="Grappler 9 Pin Parallel Printer Interface (USA, Europe) (Disk 1).a2r" size="20549138" crc="1a552cd4" md5="7fa8c2f08335fd083f01f15c6d0eecc8" sha1="aa2f1d9c90df0d9845efc2495ffdf38d81bea981" />
+  </game>
+  <game name="HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 1)</description>
+    <rom name="HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 1).a2r" size="40116503" crc="bcf14415" md5="d51bdf331a5fcdb0b04b2894f78f238c" sha1="3c9b76ae3816f2543d493baafe109d26c8ec7515" />
+  </game>
+  <game name="HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 2)</description>
+    <rom name="HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 2).a2r" size="39794755" crc="074412f8" md5="e4f298d7df52ee73f6e7557267ed6fc6" sha1="2c4d1a88bfa3f1351b550fa5017a3ed20fd384ee" />
+  </game>
+  <game name="HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 3)</description>
+    <rom name="HP DeskJet 850C Macintosh Printer Driver (USA, Europe) (Disk 3).a2r" size="43341744" crc="506d4449" md5="44714c35d965957c83f822d8798af7bb" sha1="0c6f75d0b23a703667ff65cf01961d8bb89ec69f" />
+  </game>
+  <game name="HP LaserJet 4MP Printer Software (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>HP LaserJet 4MP Printer Software (USA, Europe) (Disk 1)</description>
+    <rom name="HP LaserJet 4MP Printer Software (USA, Europe) (Disk 1).a2r" size="22440117" crc="439c89e3" md5="5114b20054d093aaec2a5bdf9acfa7ae" sha1="da3e44721311363e13df0b4f536839f19f4c225f" />
+  </game>
+  <game name="HP LaserJet 4MP Printer Software (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>HP LaserJet 4MP Printer Software (USA, Europe) (Disk 2)</description>
+    <rom name="HP LaserJet 4MP Printer Software (USA, Europe) (Disk 2).a2r" size="22517689" crc="f3595a6c" md5="f9986adbbbcb06f27e95ad93ebf426c6" sha1="03f7752a582644701dde27c90cc1879dc8feaa07" />
+  </game>
+  <game name="HP LaserJet 4MP Printer Software (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>HP LaserJet 4MP Printer Software (USA, Europe) (Disk 3)</description>
+    <rom name="HP LaserJet 4MP Printer Software (USA, Europe) (Disk 3).a2r" size="22255195" crc="2e28bad1" md5="5b5260fd302e6c1c98c838f98b828236" sha1="f58249a50c5ef07cb6aee4614e9c89e06e8124dc" />
+  </game>
+  <game name="Harrier Strike Mission (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Harrier Strike Mission (USA, Europe) (Disk 1)</description>
+    <rom name="Harrier Strike Mission (USA, Europe) (Disk 1).a2r" size="12242446" crc="e4a96642" md5="682f04b0ff411db844fd0ed6e1e9ff4a" sha1="009d6f6c614f49bc365c6e32441246d7d062ce8e" />
+  </game>
+  <game name="Hayden Speller (USA, Europe) (v1.2c)">
+    <category>Games</category>
+    <description>Hayden Speller (USA, Europe) (v1.2c)</description>
+    <rom name="Hayden Speller (USA, Europe) (v1.2c).a2r" size="11217305" crc="1ae9964f" md5="2d8d7c8a2376cf84bd73d6546cf7ae0e" sha1="296f2cc8dfc3af114202414940c32ba9b12341d4" />
+  </game>
+  <game name="Heaven &amp; Earth (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Heaven &amp; Earth (USA, Europe) (Disk 1)</description>
+    <rom name="Heaven &amp; Earth (USA, Europe) (Disk 1).a2r" size="19079312" crc="2443a275" md5="ec9f8f0bd8d19b21a282e4aa145f7795" sha1="8cb1394995478bfc49fe126cb63a4e2b871de1c2" />
+  </game>
+  <game name="Heaven &amp; Earth (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Heaven &amp; Earth (USA, Europe) (Disk 2)</description>
+    <rom name="Heaven &amp; Earth (USA, Europe) (Disk 2).a2r" size="22354555" crc="44a64235" md5="50be5599d3d7548edb27612f39eea33c" sha1="dad446cfce813e099a69c6de570f54d5d34449e0" />
+  </game>
+  <game name="Heaven &amp; Earth (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>Heaven &amp; Earth (USA, Europe) (Disk 3)</description>
+    <rom name="Heaven &amp; Earth (USA, Europe) (Disk 3).a2r" size="22298859" crc="59ceb7fb" md5="04879b3d1bdb39fd0c911d8e994b1b3b" sha1="cf236785886e14dc70eabae85d7ed1a55bbbe6e8" />
+  </game>
+  <game name="Heaven &amp; Earth (USA, Europe) (Disk 4)">
+    <category>Games</category>
+    <description>Heaven &amp; Earth (USA, Europe) (Disk 4)</description>
+    <rom name="Heaven &amp; Earth (USA, Europe) (Disk 4).a2r" size="22336789" crc="222689ed" md5="81b46d5eae34edc5be1a351a4726c54a" sha1="b7bd3578a046ec2783d4eae925bf7eb29f21b6ec" />
+  </game>
+  <game name="Heaven &amp; Earth (USA, Europe) (Disk 5)">
+    <category>Games</category>
+    <description>Heaven &amp; Earth (USA, Europe) (Disk 5)</description>
+    <rom name="Heaven &amp; Earth (USA, Europe) (Disk 5).a2r" size="22369221" crc="dd40d9aa" md5="6c3a0f1b76e038ba0f83a0f40b9e577a" sha1="ee6ed8f7f77333848798aca97ccbf9f65448188b" />
+  </game>
+  <game name="Heaven &amp; Earth (USA, Europe) (Disk 6)">
+    <category>Games</category>
+    <description>Heaven &amp; Earth (USA, Europe) (Disk 6)</description>
+    <rom name="Heaven &amp; Earth (USA, Europe) (Disk 6).a2r" size="22290511" crc="9a46c1ca" md5="bfc270b9de2ea8d54cbd9032a33025fd" sha1="af7f4f9ee0ebecfc11f49fc87dca403a96eed9b6" />
+  </game>
+  <game name="Install Me, Too! MacLinkPlus Easy Open Translators (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Install Me, Too! MacLinkPlus Easy Open Translators (USA, Europe) (Disk 1)</description>
+    <rom name="Install Me, Too! MacLinkPlus Easy Open Translators (USA, Europe) (Disk 1).a2r" size="39650987" crc="35d52cfd" md5="2170a78a50e888086fdcb26521283eb5" sha1="f5e932494ec70173aa981d1f004203a517ca7629" />
+  </game>
+  <game name="Internet Starter Kit for Macintosh (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Internet Starter Kit for Macintosh (USA, Europe) (Disk 1)</description>
+    <rom name="Internet Starter Kit for Macintosh (USA, Europe) (Disk 1).a2r" size="39802367" crc="363a7585" md5="d6de3e42896432ffcaa6f53a998a7a14" sha1="6e15dd61b67b1bba24247aeb4865870d576a1789" />
+  </game>
+  <game name="Jam Session (USA, Europe) (Music 1)">
+    <category>Games</category>
+    <description>Jam Session (USA, Europe) (Music 1)</description>
+    <rom name="Jam Session (USA, Europe) (Music 1).a2r" size="12092034" crc="265d6124" md5="646b555c9b6a5d54f380e2eb9aaf2bd5" sha1="24ff2ec24c3e1eab6ce9a46d09e80f352666922c" />
+  </game>
+  <game name="Jam Session (USA, Europe) (Music 2)">
+    <category>Games</category>
+    <description>Jam Session (USA, Europe) (Music 2)</description>
+    <rom name="Jam Session (USA, Europe) (Music 2).a2r" size="15468499" crc="9ad61448" md5="e0ded62c39b57f46462fbdb5422ffbbb" sha1="281146bf222283b9137db63a9195575fefffa232" />
+  </game>
+  <game name="Jam Session (USA, Europe) (Program Disk)">
+    <category>Games</category>
+    <description>Jam Session (USA, Europe) (Program Disk)</description>
+    <rom name="Jam Session (USA, Europe) (Program Disk).a2r" size="12691150" crc="2ec35af0" md5="d2d1bfb6a4217843264d3b952b51de0e" sha1="8a68aada6e8fbba62e5a4d100b6b091d84ad3699" />
+  </game>
+  <game name="King's Quest V (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>King's Quest V (USA, Europe) (Disk 1)</description>
+    <rom name="King's Quest V (USA, Europe) (Disk 1).a2r" size="39838925" crc="3bcda6c0" md5="83dcea6be782135af0060f906f0189ad" sha1="82636f54f24cfd627b5b1596cdd654b6c51f9916" />
+  </game>
+  <game name="King's Quest V (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>King's Quest V (USA, Europe) (Disk 2)</description>
+    <rom name="King's Quest V (USA, Europe) (Disk 2).a2r" size="39884233" crc="54dd476e" md5="2508b3fdc469e2d92a4d50f7b6d2daa6" sha1="eff8a232e1803b861cc91854c93f0f5ff44642ea" />
+  </game>
+  <game name="King's Quest V (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>King's Quest V (USA, Europe) (Disk 3)</description>
+    <rom name="King's Quest V (USA, Europe) (Disk 3).a2r" size="39891785" crc="dbbe4ca4" md5="8e36aa2da5c50e20d2a9d9624c96c088" sha1="4ee85e460e3423a2483a9a6c0333918e37442a86" />
+  </game>
+  <game name="King's Quest V (USA, Europe) (Disk 4)">
+    <category>Games</category>
+    <description>King's Quest V (USA, Europe) (Disk 4)</description>
+    <rom name="King's Quest V (USA, Europe) (Disk 4).a2r" size="40530281" crc="2e92bc51" md5="2de63cbd1c65b7b272cc58bbc5348ae1" sha1="bea8ddb795643820d97ec1b9c058cac60b4b125e" />
+  </game>
+  <game name="King's Quest V (USA, Europe) (Disk 5)">
+    <category>Games</category>
+    <description>King's Quest V (USA, Europe) (Disk 5)</description>
+    <rom name="King's Quest V (USA, Europe) (Disk 5).a2r" size="40228841" crc="6ecdc81d" md5="a922d40f5328d9c2599c810c5387aa35" sha1="64984573fc5d6ef4ace3fda87a62d8a21a0c75a9" />
+  </game>
+  <game name="King's Quest V (USA, Europe) (Disk 6)">
+    <category>Games</category>
+    <description>King's Quest V (USA, Europe) (Disk 6)</description>
+    <rom name="King's Quest V (USA, Europe) (Disk 6).a2r" size="40178992" crc="0da21a54" md5="2a52bb73d3cf3b3e4bc147f8c50b918e" sha1="8a689ecff181a39a9117da72393671b569d30532" />
+  </game>
+  <game name="King's Quest V (USA, Europe) (Disk 7)">
+    <category>Games</category>
+    <description>King's Quest V (USA, Europe) (Disk 7)</description>
+    <rom name="King's Quest V (USA, Europe) (Disk 7).a2r" size="40815610" crc="fe9a0d7f" md5="bcc909d2ae03fdb9da12602019f6a499" sha1="74bc358deceb92a749f09726f9b9be7dfb449308" />
+  </game>
+  <game name="King's Quest V (USA, Europe) (Startup Disk)">
+    <category>Games</category>
+    <description>King's Quest V (USA, Europe) (Startup Disk)</description>
+    <rom name="King's Quest V (USA, Europe) (Startup Disk).a2r" size="40452097" crc="6f57a202" md5="7fd2e136df6d61fc7fef7447dd01fabb" sha1="b1215caf3a5030b86d755b172e97ec16a86af846" />
+  </game>
+  <game name="LaserWriter 300 Installation (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>LaserWriter 300 Installation (USA, Europe) (Disk 1)</description>
+    <rom name="LaserWriter 300 Installation (USA, Europe) (Disk 1).a2r" size="22447638" crc="f522dc87" md5="755ac61e361da4468ab4b9db40421d4b" sha1="81515c333e4a5c6552547b44018e66d2c3e91e1b" />
+  </game>
+  <game name="Lembracs (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Lembracs (USA, Europe) (Disk 1)</description>
+    <rom name="Lembracs (USA, Europe) (Disk 1).a2r" size="17981942" crc="1566cf4d" md5="d3ecdbb3f826a9dbc50bc925d8fe1383" sha1="01058620279cc4ad227d6102296f257a3657626a" />
+  </game>
+  <game name="Lemmings (USA, Europe) (Graphics Disk)">
+    <category>Games</category>
+    <description>Lemmings (USA, Europe) (Graphics Disk)</description>
+    <rom name="Lemmings (USA, Europe) (Graphics Disk).a2r" size="22083028" crc="6ef3d195" md5="e696901ee17dbc5ed802e74658a2b745" sha1="9752e0b025e29d930d746446875beefc128d3811" />
+  </game>
+  <game name="Lemmings (USA, Europe) (Levels &amp; Sound Disk)">
+    <category>Games</category>
+    <description>Lemmings (USA, Europe) (Levels &amp; Sound Disk)</description>
+    <rom name="Lemmings (USA, Europe) (Levels &amp; Sound Disk).a2r" size="21869722" crc="cd44785b" md5="34f299d7de6bb83474b23be1050585dd" sha1="5e942805b7043a8ad84a10cca9d3ddc0e6379bc8" />
+  </game>
+  <game name="Lemmings (USA, Europe) (Program Disk)">
+    <category>Games</category>
+    <description>Lemmings (USA, Europe) (Program Disk)</description>
+    <rom name="Lemmings (USA, Europe) (Program Disk).a2r" size="21675348" crc="ff7d14e8" md5="7515c0cccbfe0aa3bb5bbdf573f6d2b4" sha1="fbaa19ef8e2fceb5bc028368ef3a501f7915b939" />
+  </game>
+  <game name="Links Pro for Macintosh (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Links Pro for Macintosh (USA, Europe) (Disk 1)</description>
+    <rom name="Links Pro for Macintosh (USA, Europe) (Disk 1).a2r" size="40208623" crc="a96657fa" md5="87de8c88deb23d964d7771e54a9d2754" sha1="938987bd5bb9e099a454c24bc60e9a0b5d9c9bca" />
+  </game>
+  <game name="Links Pro for Macintosh (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Links Pro for Macintosh (USA, Europe) (Disk 2)</description>
+    <rom name="Links Pro for Macintosh (USA, Europe) (Disk 2).a2r" size="40131232" crc="ffd06894" md5="156ef504294ee8e574e9db988a7dfc8c" sha1="d164c93ef526bf3eb6664f7e0fc245f2e05b2c04" />
+  </game>
+  <game name="Lode Runner (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Lode Runner (USA, Europe) (Disk 1)</description>
+    <rom name="Lode Runner (USA, Europe) (Disk 1).a2r" size="11919817" crc="e308e0db" md5="fdb571d50b089d67a5690b05dcc52425" sha1="cd5a53d71d60b819deffb3778fc784086af1af34" />
+  </game>
+  <game name="Los Angeles Times Electronic Crossword Puzzles (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Los Angeles Times Electronic Crossword Puzzles (USA, Europe) (Disk 1)</description>
+    <rom name="Los Angeles Times Electronic Crossword Puzzles (USA, Europe) (Disk 1).a2r" size="39753630" crc="db0226fb" md5="d7d2e65179c72cd444676538104a8e5a" sha1="0064e774a3b783849e3773d8a80d5921de8d8f5a" />
+  </game>
+  <game name="Los Angeles Times Electronic Crossword Puzzles (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Los Angeles Times Electronic Crossword Puzzles (USA, Europe) (Disk 2)</description>
+    <rom name="Los Angeles Times Electronic Crossword Puzzles (USA, Europe) (Disk 2).a2r" size="39512927" crc="4f3fedb0" md5="1dd57e61a2fe35e8d4e444bec105b7a9" sha1="356a16f3c85a8be86028506a1c3d7ac7fe126761" />
+  </game>
+  <game name="Mac Attack (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac Attack (USA, Europe) (Disk 1)</description>
+    <rom name="Mac Attack (USA, Europe) (Disk 1).a2r" size="10766395" crc="53a9dbfe" md5="7c24407f50e8d3ca38b45dcf46c2eedb" sha1="edfeac25fae240f48a64a9832349d66d4df4bd3b" />
+  </game>
+  <game name="Mac Challenger (USA, Europe)">
+    <category>Games</category>
+    <description>Mac Challenger (USA, Europe)</description>
+    <rom name="Mac Challenger (USA, Europe).a2r" size="12777833" crc="56a6369d" md5="a49110e3b8c57769ee715f269dfaf2c5" sha1="254028e5ffac041504f3e03f2b247126a4136bb2" />
+  </game>
+  <game name="Mac Com Center (USA, Europe)">
+    <category>Games</category>
+    <description>Mac Com Center (USA, Europe)</description>
+    <rom name="Mac Com Center (USA, Europe).a2r" size="22631722" crc="25bed958" md5="d31a46d7e3cbcd027add8db7d507c70a" sha1="e46428b369c07a89e3355d45410ab5ce727d8f56" />
+  </game>
+  <game name="Mac Companion - Poker Solitaire (USA, Europe) (v1.6)">
+    <category>Games</category>
+    <description>Mac Companion - Poker Solitaire (USA, Europe) (v1.6)</description>
+    <rom name="Mac Companion - Poker Solitaire (USA, Europe) (v1.6).a2r" size="19013425" crc="ef5476f8" md5="7afcce90537e53683650662f2c50cdd4" sha1="e4161a957bb15dce16f0c1725ec6b7209d0e665c" />
+  </game>
+  <game name="Mac Companion 3-D Paddle Bash (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac Companion 3-D Paddle Bash (USA, Europe) (Disk 1)</description>
+    <rom name="Mac Companion 3-D Paddle Bash (USA, Europe) (Disk 1).a2r" size="18512094" crc="c880e4ba" md5="31b0b439aef77237dc3de0343b6b2dfd" sha1="fc86218c6bfa9eb10585f59e13ca4fd07eb8eae8" />
+  </game>
+  <game name="Mac Draft (USA, Europe)">
+    <category>Games</category>
+    <description>Mac Draft (USA, Europe)</description>
+    <rom name="Mac Draft (USA, Europe).a2r" size="15891691" crc="fcc2e01b" md5="b9b7b5be3b0426d6c20670ae35ba83a1" sha1="03e107c5b2585c3e34f5ea6d48735e75e918cbcd" />
+  </game>
+  <game name="Mac Draw II (USA, Europe) (Advanced Tour)">
+    <category>Games</category>
+    <description>Mac Draw II (USA, Europe) (Advanced Tour)</description>
+    <rom name="Mac Draw II (USA, Europe) (Advanced Tour).a2r" size="22507487" crc="ac722104" md5="fac2e4118dacd95772cc2013a5958827" sha1="1567a4c9407f89b12f7964618a68100bfc90d151" />
+  </game>
+  <game name="Mac Draw II (USA, Europe) (Dictionaries and Templates)">
+    <category>Games</category>
+    <description>Mac Draw II (USA, Europe) (Dictionaries and Templates)</description>
+    <rom name="Mac Draw II (USA, Europe) (Dictionaries and Templates).a2r" size="22471453" crc="504a2154" md5="e43a11a59008daa6de937e65e6eae77a" sha1="4058a2b1299649d8f142bac9c577c3859eaea8eb" />
+  </game>
+  <game name="Mac Draw II (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac Draw II (USA, Europe) (Disk 1)</description>
+    <rom name="Mac Draw II (USA, Europe) (Disk 1).a2r" size="22346952" crc="7237ec2a" md5="4c02c2d038104cc119d1aa62c83e6bb9" sha1="20e7bac44aaa9e092aea8baa086da49c2be847e7" />
+  </game>
+  <game name="Mac Draw II (USA, Europe) (Tour)">
+    <category>Games</category>
+    <description>Mac Draw II (USA, Europe) (Tour)</description>
+    <rom name="Mac Draw II (USA, Europe) (Tour).a2r" size="21695849" crc="9ec67ee3" md5="a16cb449f5cd6a025040ab0fb67900f6" sha1="3e4275e00a9705d46e3f9f08467626eebb3e741b" />
+  </game>
+  <game name="Mac Draw Pro (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac Draw Pro (USA, Europe) (Disk 1)</description>
+    <rom name="Mac Draw Pro (USA, Europe) (Disk 1).a2r" size="22387777" crc="88a82fbc" md5="f2f3fb3cbbce1ec38f03a19284580838" sha1="f05c55c41e1aef6359a37b333bdeb00353335744" />
+  </game>
+  <game name="Mac Draw Pro (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Mac Draw Pro (USA, Europe) (Disk 2)</description>
+    <rom name="Mac Draw Pro (USA, Europe) (Disk 2).a2r" size="22543351" crc="d872eef4" md5="14f37a04ab21e520339c3997f7ad1161" sha1="0adee5f3dd0d3e13fa0eddf91ed11a7787f7159d" />
+  </game>
+  <game name="Mac Draw Pro (USA, Europe) (Help)">
+    <category>Games</category>
+    <description>Mac Draw Pro (USA, Europe) (Help)</description>
+    <rom name="Mac Draw Pro (USA, Europe) (Help).a2r" size="22429229" crc="1fa7455f" md5="52c5e1288f7779a9ed6574a180bb2d23" sha1="4b90336c83cadc11d6ea9dc3386c500ccd0feb4e" />
+  </game>
+  <game name="Mac Draw Pro (USA, Europe) (Hyper Tour)">
+    <category>Games</category>
+    <description>Mac Draw Pro (USA, Europe) (Hyper Tour)</description>
+    <rom name="Mac Draw Pro (USA, Europe) (Hyper Tour).a2r" size="21643034" crc="de7ec4a4" md5="7ad8546426522387168f9ecca85ca0f9" sha1="b097360ed95b9edc4365691eecb8939f3d144e3e" />
+  </game>
+  <game name="Mac Draw Pro (USA, Europe) (Installer)">
+    <category>Games</category>
+    <description>Mac Draw Pro (USA, Europe) (Installer)</description>
+    <rom name="Mac Draw Pro (USA, Europe) (Installer).a2r" size="22536066" crc="f27dd973" md5="44b19dd621f8d51a6d4fbc217d7fc9e8" sha1="b6decba117a36990be8dabe55cf8f59564d12413" />
+  </game>
+  <game name="Mac Draw Pro (USA, Europe) (Reference)">
+    <category>Games</category>
+    <description>Mac Draw Pro (USA, Europe) (Reference)</description>
+    <rom name="Mac Draw Pro (USA, Europe) (Reference).a2r" size="22535768" crc="a87489b6" md5="6c515671212cd24cf3ba073fead35274" sha1="fa74e29a28184d3da803df65ae83f1b1ee23eea8" />
+  </game>
+  <game name="Mac Golf (USA, Europe)">
+    <category>Games</category>
+    <description>Mac Golf (USA, Europe)</description>
+    <rom name="Mac Golf (USA, Europe).a2r" size="12220558" crc="6faa4314" md5="99affa15c250db7178d16ddd79262bdb" sha1="d7fa878b61eadd1858e8de1d934a942a7555ba24" />
+  </game>
+  <game name="Mac OS 8 Disk Tools (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac OS 8 Disk Tools (USA, Europe) (Disk 1)</description>
+    <rom name="Mac OS 8 Disk Tools (USA, Europe) (Disk 1).a2r" size="40943138" crc="ace86bce" md5="04c817cba1f339691e5d945a26f26937" sha1="152ae4465a0dc69fb01db9b42afc6a27f1b98b49" />
+  </game>
+  <game name="Mac OS 8 Disk Tools (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Mac OS 8 Disk Tools (USA, Europe) (Disk 2)</description>
+    <rom name="Mac OS 8 Disk Tools (USA, Europe) (Disk 2).a2r" size="40816743" crc="66246b8b" md5="70abdc625ab92790fba0a4eee2475891" sha1="1ba77d5fdea521d2518d0731a3b286d873fb56bd" />
+  </game>
+  <game name="Mac Paint (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac Paint (USA, Europe) (Disk 1)</description>
+    <rom name="Mac Paint (USA, Europe) (Disk 1).a2r" size="18219003" crc="cee373a6" md5="314674afc332743df29c2d8bacf55e1d" sha1="9f015724519038271b974fa3e11944a5a041f3d5" />
+  </game>
+  <game name="Mac Paint (USA, Europe) (v1.5)">
+    <category>Games</category>
+    <description>Mac Paint (USA, Europe) (v1.5)</description>
+    <rom name="Mac Paint (USA, Europe) (v1.5).a2r" size="15133940" crc="e060369b" md5="8fc57442ecc26f601ca19f0f7adc3320" sha1="c064df1ca070a7d6113395decc4f8cb82581ac61" />
+  </game>
+  <game name="Mac SLIP (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac SLIP (USA, Europe) (Disk 1)</description>
+    <rom name="Mac SLIP (USA, Europe) (Disk 1).a2r" size="22568610" crc="69c40a62" md5="a21e25ceebecccbde1efadbd0f29d01f" sha1="1bfad280a9ba17e401f4ed1f4a82c52327e5d7ae" />
+  </game>
+  <game name="Mac Temp (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac Temp (USA, Europe) (Disk 1)</description>
+    <rom name="Mac Temp (USA, Europe) (Disk 1).a2r" size="20063975" crc="a3f4c8d9" md5="a732182e5fc67cd318f6b24634ac95b7" sha1="96e03d0b4a124a452d863f9b77be179d51be60cd" />
+  </game>
+  <game name="Mac Tools Deluxe (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Mac Tools Deluxe (USA, Europe) (Disk 2)</description>
+    <rom name="Mac Tools Deluxe (USA, Europe) (Disk 2).a2r" size="24235864" crc="32d1426a" md5="846e6fa487a02caa0be3617b9f2776c3" sha1="bbf61896e9bfd6b27061a65529365e7dfb65645d" />
+  </game>
+  <game name="Mac Tools Deluxe (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>Mac Tools Deluxe (USA, Europe) (Disk 3)</description>
+    <rom name="Mac Tools Deluxe (USA, Europe) (Disk 3).a2r" size="24115584" crc="d3fd7d2f" md5="44eaa2e05577e098d257b3892d26588d" sha1="7f5443e966193a74c5fc314e0c8a1b1da8e3c02d" />
+  </game>
+  <game name="Mac Tracks (USA, Europe)">
+    <category>Games</category>
+    <description>Mac Tracks (USA, Europe)</description>
+    <rom name="Mac Tracks (USA, Europe).a2r" size="11293582" crc="659396f2" md5="6f4a3927d2522bfd19a76519a76eaa23" sha1="3a20c3bc5f0608426e836c726182b6ff182e6ffa" />
+  </game>
+  <game name="Mac User 1001 Macintosh Hints &amp; Tips (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Mac User 1001 Macintosh Hints &amp; Tips (USA, Europe) (Disk 1)</description>
+    <rom name="Mac User 1001 Macintosh Hints &amp; Tips (USA, Europe) (Disk 1).a2r" size="20639778" crc="1f56b94a" md5="2cd50c3c1bcfa6204dfac1c6a8866d55" sha1="503bd0cd1ca9227c6f6eae9b383bda3ea7c16067" />
+  </game>
+  <game name="Mac Vegas (USA, Europe)">
+    <category>Games</category>
+    <description>Mac Vegas (USA, Europe)</description>
+    <rom name="Mac Vegas (USA, Europe).a2r" size="11558315" crc="18708551" md5="847dd68004aa55b8f25b473731e2c320" sha1="c02f64a4c266ccba6193b96a4e4b55d4e037b922" />
+  </game>
+  <game name="Mac Write II (USA, Europe) (v1.1v2) (Disk 1)">
+    <category>Games</category>
+    <description>Mac Write II (USA, Europe) (v1.1v2) (Disk 1)</description>
+    <rom name="Mac Write II (USA, Europe) (v1.1v2) (Disk 1).a2r" size="22481568" crc="ea39a488" md5="4ddceb1b04edc15859a86915144069f3" sha1="75e85edf9be3e52bf8886be04be5ae01f46281dd" />
+  </game>
+  <game name="Macintosh CD-ROM Setup (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Macintosh CD-ROM Setup (USA, Europe) (Disk 1)</description>
+    <rom name="Macintosh CD-ROM Setup (USA, Europe) (Disk 1).a2r" size="20799735" crc="f6f03393" md5="6ab33d96964f0564cdaae41303a3389e" sha1="4590a6f6ebdea205de0419f4261536a801dd4a8f" />
+  </game>
+  <game name="Macintosh SCSI Utility (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Macintosh SCSI Utility (USA, Europe) (Disk 1)</description>
+    <rom name="Macintosh SCSI Utility (USA, Europe) (Disk 1).a2r" size="22559636" crc="b9b49649" md5="56bd21996f6db42f2e30eb6a769b4e8d" sha1="2fc133bdc529821552d068d3cc72810f15466858" />
+  </game>
+  <game name="Mind Forever Voyaging, A (USA, Europe)">
+    <category>Games</category>
+    <description>Mind Forever Voyaging, A (USA, Europe)</description>
+    <rom name="Mind Forever Voyaging, A (USA, Europe).a2r" size="11160379" crc="7a164545" md5="4dc10e6b4c4bbf876d01c4c658ef12cc" sha1="c98ae14a1285e6b81dfb653c80b8df240069397a" sha256="ce1df3c52f3f3d5c926ed31c24529bba4edfcf31a15dd599964ef59248e6e3a8" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 1)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 1)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 1).a2r" size="22637125" crc="05fc3a24" md5="33ba55e5cf048708007978b2c635f904" sha1="3b21c4f4ecec4cc3a91724470dd67700f2207855" sha256="de0cb92a6aa8ee342e2e065bc0a86912c98a6bba4a0e532c1c1871b3eb06cc8d" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 2)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 2)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 2).a2r" size="22111891" crc="c4b72245" md5="6876f4955d0d075e2885e130b1f19224" sha1="5f382940307d96bcd62de82cb41bd761d2cd01b2" sha256="419a9fddb454db4ea5474caaecfa91580ae5ee471e49efcd91acbe437de113ef" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 3)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 3)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 3).a2r" size="21850995" crc="5da5bb77" md5="f692ea2625d4b303ac7fafed0948da3c" sha1="87c01887338d2eb64207b1923f8ba6c6a7ed68d0" sha256="deb6b097598c328d764afc66ef8b1dc6944418647564a6a3245c1a08bfd3e9b3" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 4)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 4)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 4).a2r" size="22235425" crc="24b2a920" md5="6829ca36a33ec2023c07bdc8c515d8b1" sha1="353ce4962d8fffef9f6e27e6ea1cf2be5e5ef914" sha256="0bd4ea1b39a0b9cad692d26c88c58c2e9b5f526306293745a05c94aa8bdb13d3" />
+  </game>
+  <game name="Space Ace II (USA, Europe) (Disk 5)">
+    <category>Games</category>
+    <description>Space Ace II (USA, Europe) (Disk 5)</description>
+    <rom name="Space Ace II (USA, Europe) (Disk 5).a2r" size="22384837" crc="d4f73173" md5="140d7d15fd688f061cdc111c459d4a2e" sha1="864da790f1957e248a4b5b6099de731c1f5e1ae2" sha256="8d748bf5fd7abda46105c5ee3c0df825dcb3dbb096daf0f07ed028407c9a31fc" />
+  </game>
+</datafile>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>VTech - V.Smile (Retool)</name>
+    <description>VTech - V.Smile (Retool)</description>
+    <version>20211018-030934</version>
+    <date>2022-07-31 00-12-20</date>
+    <author>coraz, FakeShemp, Gefflon, Hiccup, InternalLoss, Larsenv, relax, sCZther, Tauwasser, TeamEurope, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Batman, The - Gotham City Rescue (Europe) (En-GB)">
+    <category>Games</category>
+    <description>Batman, The - Gotham City Rescue (Europe) (En-GB)</description>
+    <rom name="Batman, The - Gotham City Rescue (Europe).bin" size="8388608" crc="fde620e9" md5="61a9a08a76c370bad91c420b5680c2ca" sha1="81d014800f06bb964f23919fa16f9d14c8189c7d" />
+  </game>
+  <game name="Bob the Builder - Bob's Busy Day (Europe) (En-GB)">
+    <category>Games</category>
+    <description>Bob the Builder - Bob's Busy Day (Europe) (En-GB)</description>
+    <rom name="Bob the Builder - Bob's Busy Day (Europe).bin" size="8388608" crc="15f334a6" md5="73e30d527a2f353da4aac2401063f602" sha1="9f03e7547cdd5cd67f74947fb8a086907c6d2337" />
+  </game>
+  <game name="Cars - Rev It Up in Radiator Springs (Europe) (En-GB)">
+    <category>Games</category>
+    <description>Cars - Rev It Up in Radiator Springs (Europe) (En-GB)</description>
+    <rom name="Cars - Rev It Up in Radiator Springs (Europe).bin" size="8388608" crc="fbcf207a" md5="63f84e96711ab6980660b1e5322287e4" sha1="c25ac103c07a13a369f8d47a8bb5f14c752a6f53" />
+  </game>
+  <game name="Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)">
+    <category>Games</category>
+    <description>Cinderella - Cinderella's Magic Wishes (Europe) (En-GB)</description>
+    <rom name="Cinderella - Cinderella's Magic Wishes (Europe).bin" size="8388608" crc="34bf1ab1" md5="bc3e87e8b70b0abd59c58df8acb09fe0" sha1="293ca8314bcc6ceb187998728cfedece3ff07908" />
+  </game>
+  <game name="Dora the Explorer - Dora's Fix-It Adventure (Europe) (En-GB)">
+    <category>Games</category>
+    <description>Dora the Explorer - Dora's Fix-It Adventure (Europe) (En-GB)</description>
+    <rom name="Dora the Explorer - Dora's Fix-It Adventure (Europe).bin" size="8388608" crc="225c3133" md5="b941dba85d040afc620e7df286fc70da" sha1="97610c09834251d1960dbc67da18dad91e832dba" />
+  </game>
+  <game name="Kung Fu Panda - Path of the Panda (Europe)">
+    <category>Games</category>
+    <description>Kung Fu Panda - Path of the Panda (Europe)</description>
+    <rom name="Kung Fu Panda - Path of the Panda (Europe).bin" size="8388608" crc="0a56ba7b" md5="1439f62f45d222d130a5a5362acc45f2" sha1="04afc9bb216154c91fa3ef92b6bbcc88a9a2a43e" />
+  </game>
+  <game name="Little Mermaid, The - Ariel's Majestic Journey (USA, Europe) (En-GB)">
+    <category>Games</category>
+    <description>Little Mermaid, The - Ariel's Majestic Journey (USA, Europe) (En-GB)</description>
+    <rom name="Little Mermaid, The - Ariel's Majestic Journey (USA, Europe).bin" size="8388608" crc="1fdb3332" md5="d9ae3046396e9b76121375fb66854fb3" sha1="1385c8bd7a3f30c8a823f3593828a1d30af5204a" sha256="f5628b8c8ef832d9c884765666eb53168b747fa63f1c9439824a7c1fca098696" />
+  </game>
+  <game name="Noddy - Detective for a Day (Europe) (En-GB)">
+    <category>Games</category>
+    <description>Noddy - Detective for a Day (Europe) (En-GB)</description>
+    <rom name="Noddy - Detective for a Day (Europe).bin" size="8388608" crc="24a04b1d" md5="8cdcda9419488e4eeb18b4e4c994baea" sha1="f11c2a4bc5c5eb50ca0231e5e9e1c0da17ef1be7" />
+  </game>
+  <game name="Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)">
+    <category>Games</category>
+    <description>Scooby-Doo! - Funland Frenzy (Europe) (En-GB) (Rev 1)</description>
+    <rom name="Scooby-Doo! - Funland Frenzy (Europe) (Rev 1).bin" size="8388608" crc="5623cf63" md5="f766b617897077f533e8c92f8561256d" sha1="b2a78c471cae0ce7aa05a0f0cf49a3049f1c5143" />
+  </game>
+  <game name="Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)">
+    <category>Games</category>
+    <description>Shrek the Third - Arthur's School Day Adventure (Europe) (En-GB)</description>
+    <rom name="Shrek the Third - Arthur's School Day Adventure (Europe).bin" size="8388608" crc="7f06555c" md5="13eb2057421895a34077137d21b3f709" sha1="b1082ab883cdb3caf5f87831cbe1a8623b41e88e" />
+  </game>
+  <game name="Thomas &amp; Friends - Engines Working Together (Europe) (En-GB) (Rev 1)">
+    <category>Games</category>
+    <description>Thomas &amp; Friends - Engines Working Together (Europe) (En-GB) (Rev 1)</description>
+    <rom name="Thomas &amp; Friends - Engines Working Together (Europe) (Rev 1).bin" size="8388608" crc="0d0002f7" md5="572b82a3a38a67e9b686929144f00023" sha1="f1124d4e6590d58cf2b4a70e92435b2b4687ae7b" />
+  </game>
+  <game name="Toy Story 2 - Operation - Rescue Woody! (Europe) (En-GB)">
+    <category>Games</category>
+    <description>Toy Story 2 - Operation - Rescue Woody! (Europe) (En-GB)</description>
+    <rom name="Toy Story 2 - Operation - Rescue Woody! (Europe).bin" size="8388608" crc="57608d88" md5="a064a6601fe7c40dc522ebca43c59f08" sha1="c7d59f109da68d1d2299136f6f9a69cbb83a9e5e" />
+  </game>
+  <game name="Up (Europe)">
+    <category>Games</category>
+    <description>Up (Europe)</description>
+    <rom name="Up (Europe).bin" size="8388608" crc="739a10a0" md5="f15502bd863acf0316d65e0bc9baddc5" sha1="1d88241675f304ad50b756af49b33062b7de05dc" />
+  </game>
+  <game name="Zayzoo - An Earth Adventure (Europe)">
+    <category>Games</category>
+    <description>Zayzoo - An Earth Adventure (Europe)</description>
+    <rom name="Zayzoo - An Earth Adventure (Europe).bin" size="8388608" crc="4e94fce2" md5="f5ae93c7e57a2f6aedef7a3572a9250d" sha1="b65a446199d390d6b25046fb66fb7e7f329e84c5" sha256="5b3f5139e94227b6200e1dc499cd6f346f256e217f79247c97d99634d65342b2" />
+  </game>
+</datafile>

@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool/main/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Unofficial - Sony - PlayStation Vita (VPK) (Retool)</name>
+    <description>Unofficial - Sony - PlayStation Vita (VPK) (Retool)</description>
+    <version>20220718-094729</version>
+    <date>2022-07-31 00-12-20</date>
+    <author>Bumpfi, Densetsu, diego-rbb, foxe, Gefflon, Hiccup, jimmsu, norkmetnoil577, SonGoku, UnlockerPT, Whovian9369, xuom2 &amp; Retool</author>
+    <homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+    <url>http://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Akiba's Beat (Europe) (En,Ja)">
+    <category>Games</category>
+    <description>Akiba's Beat (Europe) (En,Ja)</description>
+    <rom name="Akiba's Beat (Europe) (En,Ja).vpk" size="2693025048" crc="92803389" md5="e8d3351917288049f9e43c683aaa7737" sha1="aca7170f011264973c1a92cd7793e40373961e77" />
+  </game>
+  <game name="Akiba's Trip - Undead &amp; Undressed (Europe) (En,Ja)">
+    <category>Games</category>
+    <description>Akiba's Trip - Undead &amp; Undressed (Europe) (En,Ja)</description>
+    <rom name="Akiba's Trip - Undead &amp; Undressed (Europe) (En,Ja).vpk" size="2201003635" crc="16b7b2c9" md5="e17aaa119e22120776da5eae4c6032fe" sha1="24c37dfb05b4d40eaa051ba652294389cd6c1f2a" />
+  </game>
+  <game name="Angry Birds - Star Wars (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Angry Birds - Star Wars (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Angry Birds - Star Wars (Europe) (En,Fr,De,Es,It).vpk" size="230638450" crc="07680938" md5="a6658b257cbff2002f5b86962ad99699" sha1="561a3e4bd2cfc1262fd23413225dcb0fde05c327" />
+  </game>
+  <game name="Arcana Heart 3 - LOVEMAX!!!!! (Europe)">
+    <category>Games</category>
+    <description>Arcana Heart 3 - LOVEMAX!!!!! (Europe)</description>
+    <rom name="Arcana Heart 3 - LOVEMAX!!!!! (Europe).vpk" size="2141591697" crc="68326b0d" md5="896fa5414a9d86fc9b9ea6eec7db3c37" sha1="45628bafadf09e77cf523d736cb75f7d3bb3781d" />
+  </game>
+  <game name="Army Corps of Hell (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Army Corps of Hell (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Army Corps of Hell (Europe) (En,Fr,De,Es,It).vpk" size="677822909" crc="990deb70" md5="384c18438c767bf87a6b9e71a6c2d4dc" sha1="3a04f92818fd5e8054830a49b679ff88d2c80ad3" />
+  </game>
+  <game name="Asphalt - Injection (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Asphalt - Injection (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Asphalt - Injection (Europe) (En,Fr,De,Es,It).vpk" size="564039940" crc="9b3576e0" md5="2b382c22568d9ab6a509437b56287c0f" sha1="1995746a32b06df0691ce647fc08c25cc313f759" />
+  </game>
+  <game name="Assassin's Creed III - Liberation (Europe) (En,Fr,De,Es,It,Nl,Ru)">
+    <category>Games</category>
+    <description>Assassin's Creed III - Liberation (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+    <rom name="Assassin's Creed III - Liberation (Europe) (En,Fr,De,Es,It,Nl,Ru).vpk" size="3126721032" crc="8b2cbe3a" md5="5b9f1f54a370e43ec3ed97ce30808a36" sha1="95b3351d329a93ba3a2df333c655f27f97913bdd" />
+  </game>
+  <game name="Batman - Arkham Origins - Blackgate (Europe)">
+    <category>Games</category>
+    <description>Batman - Arkham Origins - Blackgate (Europe)</description>
+    <rom name="Batman - Arkham Origins - Blackgate (Europe).vpk" size="1330867672" crc="f9742ae9" md5="4261cb45a45e6ecb30bb04f9117e8a71" sha1="79319d34d58520807bceba7c6ae40734e1ba2a39" />
+  </game>
+  <game name="Best of Arcade Games (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Games</category>
+    <description>Best of Arcade Games (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Best of Arcade Games (Europe) (En,Fr,De,Es,It,Nl).vpk" size="53770576" crc="ab43d2e4" md5="8950cb574c8bbc63375831eb7f36879e" sha1="bdbe8c3f6a0372a84a0f956d6d0ea7528504620b" />
+  </game>
+  <game name="BlazBlue - Chrono Phantasma Extend (Europe) (En,Ja)">
+    <category>Games</category>
+    <description>BlazBlue - Chrono Phantasma Extend (Europe) (En,Ja)</description>
+    <rom name="BlazBlue - Chrono Phantasma Extend (Europe) (En,Ja).vpk" size="3262284981" crc="258add9d" md5="b269248b5e07e33d5d0229e9fc87b213" sha1="7de8d1714a02dfa5f124713eb58a2af1c97a85d2" />
+  </game>
+  <game name="Borderlands 2 (Europe) (En,Fr,De)">
+    <category>Games</category>
+    <description>Borderlands 2 (Europe) (En,Fr,De)</description>
+    <rom name="Borderlands 2 (Europe) (En,Fr,De).vpk" size="3194073260" crc="1c80f00b" md5="dd7968e15a9b53e68abc0ee6c5afc494" sha1="f99a1e81f6b986780ace0b19ede5c85d939972c7" />
+  </game>
+  <game name="Call of Duty - Black Ops - Declassified (Europe)">
+    <category>Games</category>
+    <description>Call of Duty - Black Ops - Declassified (Europe)</description>
+    <rom name="Call of Duty - Black Ops - Declassified (Europe).vpk" size="2395325599" crc="2e69f1da" md5="6625b0b801320bec96b72e74fcc69228" sha1="ba98280b65097e32168c87e8daa3be51d067334c" />
+  </game>
+  <game name="Child of Light (Europe) (En,Fr,De,Es,It,Ru)">
+    <category>Games</category>
+    <description>Child of Light (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="Child of Light (Europe) (En,Fr,De,Es,It,Ru).vpk" size="993647206" crc="23fe7fe4" md5="87800073fbc3e49c64c17b08d56a9525" sha1="8233613fc49696d9e02d63da4731f216f310631a" />
+  </game>
+  <game name="Criminal Girls 2 - Party Favors (Europe)">
+    <category>Games</category>
+    <description>Criminal Girls 2 - Party Favors (Europe)</description>
+    <rom name="Criminal Girls 2 - Party Favors (Europe).vpk" size="1189958412" crc="a2d1282d" md5="d43d1df5b311f6f0ba0f3394a95bd09d" sha1="bc9ac0c8ef886c855404e69e3aeb25216152c167" />
+  </game>
+  <game name="Danganronpa Another Episode - Ultra Despair Girls (Europe)">
+    <category>Games</category>
+    <description>Danganronpa Another Episode - Ultra Despair Girls (Europe)</description>
+    <rom name="Danganronpa Another Episode - Ultra Despair Girls (Europe).vpk" size="2360334250" crc="a74941de" md5="bf717ddb4a1345e91c0a6ab060175259" sha1="f08fdb521bf69052b182d6f8a74619cb52e39e1e" />
+  </game>
+  <game name="Dead or Alive 5 Plus (Europe) (En,Ja,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Dead or Alive 5 Plus (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Dead or Alive 5 Plus (Europe) (En,Ja,Fr,De,Es,It).vpk" size="2751352661" crc="f7d28696" md5="899d69ee840c8094261ef25c815b0050" sha1="734f73bbd1bdd30ef554aa06c2e13a957404b276" />
+  </game>
+  <game name="Demon Gaze (Europe) (En,Ja)">
+    <category>Games</category>
+    <description>Demon Gaze (Europe) (En,Ja)</description>
+    <rom name="Demon Gaze (Europe) (En,Ja).vpk" size="537302467" crc="d9dc4513" md5="41ef1c6da8fbb89dc4a710dc3f4c4127" sha1="0e0e81401a47b90bd84b716531ba18b7851edcf1" />
+  </game>
+  <game name="Disney Epic Mickey 2 - The Power of Two (Europe) (En,Fr,De,It,Nl)">
+    <category>Games</category>
+    <description>Disney Epic Mickey 2 - The Power of Two (Europe) (En,Fr,De,It,Nl)</description>
+    <rom name="Disney Epic Mickey 2 - The Power of Two (Europe) (En,Fr,De,It,Nl).vpk" size="3156130487" crc="0e205ccd" md5="a7da7298e16989fb144ab30ce8c85615" sha1="44aca58eaeb2e1781119965855a286bdec868105" />
+  </game>
+  <game name="Dragon Ball Z - Battle of Z (Europe)">
+    <category>Games</category>
+    <description>Dragon Ball Z - Battle of Z (Europe)</description>
+    <rom name="Dragon Ball Z - Battle of Z (Europe).vpk" size="1524419470" crc="9d2b2b49" md5="f2cc0cac8e40d13b534bad496273f8da" sha1="d7d1a193f5751f407ecb27fe5ae475d96d1f8228" />
+  </game>
+  <game name="Dragon's Crown (Europe)">
+    <category>Games</category>
+    <description>Dragon's Crown (Europe)</description>
+    <rom name="Dragon's Crown (Europe).vpk" size="1100531424" crc="fa1ad706" md5="417005b89a4ee522d1ed940bbecbb491" sha1="79df393e412028d711301947076d86dff330078c" />
+  </game>
+  <game name="Dungeon Hunter - Alliance (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Games</category>
+    <description>Dungeon Hunter - Alliance (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Dungeon Hunter - Alliance (Europe) (En,Fr,De,Es,It,Nl).vpk" size="577336337" crc="48c15260" md5="4631dfa567ad40c3f5649b8564a4ada6" sha1="a798e6cfa4ad7f411f0e14c0738693b2d04da213" />
+  </game>
+  <game name="Dungeon Travelers 2 - The Royal Library &amp; The Monster Seal (Europe)">
+    <category>Games</category>
+    <description>Dungeon Travelers 2 - The Royal Library &amp; The Monster Seal (Europe)</description>
+    <rom name="Dungeon Travelers 2 - The Royal Library &amp; The Monster Seal (Europe).vpk" size="1892376008" crc="f378c417" md5="b66457e9ece3f53d4a5832cd40eb190d" sha1="9bdf050bd9149ddea3650c06f033e096d3c554f1" />
+  </game>
+  <game name="Dynasty Warriors Next (Europe)">
+    <category>Games</category>
+    <description>Dynasty Warriors Next (Europe)</description>
+    <rom name="Dynasty Warriors Next (Europe).vpk" size="1528776245" crc="470e1705" md5="0afe70a7c1eb296760d675096066a0ec" sha1="09f9e2fc4b8d6eb5c24445811f2f41f37ee50c97" />
+  </game>
+  <game name="Everybody's Golf (Europe) (En,Fr,De,It)">
+    <category>Games</category>
+    <description>Everybody's Golf (Europe) (En,Fr,De,It)</description>
+    <rom name="Everybody's Golf (Europe) (En,Fr,De,It).vpk" size="1294215972" crc="c5dc3471" md5="8603d20f6bc01a6527cff17458daa982" sha1="d5c82638fa2e28db9e200dfc71408db024911cdf" />
+  </game>
+  <game name="F1 2011 (Europe) (En,Fr,De,Es,It,Pt,Sv,Fi)">
+    <category>Games</category>
+    <description>F1 2011 (Europe) (En,Fr,De,Es,It,Pt,Sv,Fi)</description>
+    <rom name="F1 2011 (Europe) (En,Fr,De,Es,It,Pt,Sv,Fi).vpk" size="1043839807" crc="27aeed31" md5="66805275fd2a244416a46173d9205a83" sha1="49c193072f40f66a10da13f6137d038ec77cd47d" />
+  </game>
+  <game name="FIFA 14 (Europe)">
+    <category>Games</category>
+    <description>FIFA 14 (Europe)</description>
+    <rom name="FIFA 14 (Europe).vpk" size="2769171345" crc="51258f4d" md5="af629455bebe48f89000d78946591362" sha1="d475c87ba0dc885b8c7bd6cb9e14eacd588d63b2" />
+  </game>
+  <game name="Farming Simulator 14 (Europe) (En,Fr,De,Es,It,Pt,Ru)">
+    <category>Games</category>
+    <description>Farming Simulator 14 (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+    <rom name="Farming Simulator 14 (Europe) (En,Fr,De,Es,It,Pt,Ru).vpk" size="124370735" crc="d8bcd799" md5="61c79e89c8c5310efd29b6e4eeba6717" sha1="903e5ff0640cb32b0dfa2e999f2de2042c7a532c" />
+  </game>
+  <game name="Farming Simulator 16 (Europe) (En,Fr,De,Es,It,Pt,Ru)">
+    <category>Games</category>
+    <description>Farming Simulator 16 (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+    <rom name="Farming Simulator 16 (Europe) (En,Fr,De,Es,It,Pt,Ru).vpk" size="153455045" crc="0b61940e" md5="0e0d4ff63d057386053817b5a14e7eb5" sha1="02fe322f18fc35f6d360111c38132420925a304d" />
+  </game>
+  <game name="Farming Simulator 2018 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)">
+    <category>Games</category>
+    <description>Farming Simulator 2018 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru)</description>
+    <rom name="Farming Simulator 2018 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru).vpk" size="254072420" crc="f43c10f8" md5="7c0c5e70e61e176783ae2be0f93f8904" sha1="9654ca1b1fa394cfe7d643920923ef099d99c187" />
+  </game>
+  <game name="Final Fantasy X - HD Remaster (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Final Fantasy X - HD Remaster (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Final Fantasy X - HD Remaster (Europe) (En,Fr,De,Es,It).vpk" size="3514959295" crc="d0aec80e" md5="9ed827ef3d18029e91a3820fa3ed380c" sha1="56d753e25fbc91fe3ed63b2808558ee3b8dadaf3" />
+  </game>
+  <game name="Final Fantasy X-2 - HD Remaster (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Final Fantasy X-2 - HD Remaster (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Final Fantasy X-2 - HD Remaster (Europe) (En,Fr,De,Es,It).vpk" size="3529088855" crc="7a8bf884" md5="c3325405c2907db8b7d565731659a7ed" sha1="ba083ece495ccc391d98fabb1c4108ca9c61fc7f" />
+  </game>
+  <game name="Gal Gun - Double Peace (Europe)">
+    <category>Games</category>
+    <description>Gal Gun - Double Peace (Europe)</description>
+    <rom name="Gal Gun - Double Peace (Europe).vpk" size="1352211046" crc="617fc8c8" md5="e16076f1285c1d44cb656a6cc7acfb8e" sha1="3de09a7dbce33f721cf73701fc7dae4c585d8de4" />
+  </game>
+  <game name="God Eater 2 - Rage Burst (Europe) (En,Fr,De,Es,It,Ru)">
+    <category>Games</category>
+    <description>God Eater 2 - Rage Burst (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="God Eater 2 - Rage Burst (Europe) (En,Fr,De,Es,It,Ru).vpk" size="3159444921" crc="d21eacb8" md5="df1f731bd350bac73cc3d698db5b1c0a" sha1="40a067e3e575d9d438a97900afefbdd4c4aadd0d" />
+  </game>
+  <game name="God Of War Collection (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>God Of War Collection (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="God Of War Collection (Europe) (En,Fr,De,Es,It).vpk" size="3312419169" crc="c352c533" md5="e6f7a1adc9b25ea94885194a16c7caf1" sha1="d23c14dd40bd994eca52196af15786651af5c2e8" />
+  </game>
+  <game name="Gravity Rush (Europe)">
+    <category>Games</category>
+    <description>Gravity Rush (Europe)</description>
+    <rom name="Gravity Rush (Europe).vpk" size="1521931954" crc="3cac3e81" md5="b888172d719dbfea8dea9e5115c2f68c" sha1="fd924001fabf789b47b0e03986e03a7d9d125ad5" />
+  </game>
+  <game name="Handball 16 (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Handball 16 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Handball 16 (Europe) (En,Fr,De,Es,It).vpk" size="725544620" crc="47d777d6" md5="13e33dd48617a8630800579c807af899" sha1="a1d896b0ef3db2eb636dda47d03d256ae42c551a" />
+  </game>
+  <game name="Hyperdimension Neptunia PP - Producing Perfection (Europe)">
+    <category>Games</category>
+    <description>Hyperdimension Neptunia PP - Producing Perfection (Europe)</description>
+    <rom name="Hyperdimension Neptunia PP - Producing Perfection (Europe).vpk" size="1298956488" crc="44c7c938" md5="3e8bba46bfe48c2f512c2533414de8fb" sha1="7d31d275c112d28379f921783493e55c2cb84ffc" />
+  </game>
+  <game name="Injustice - Gods Among Us - Ultimate Edition (Europe) (En,Fr,De,Es,It,Nl,Pt)">
+    <category>Games</category>
+    <description>Injustice - Gods Among Us - Ultimate Edition (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
+    <rom name="Injustice - Gods Among Us - Ultimate Edition (Europe) (En,Fr,De,Es,It,Nl,Pt).vpk" size="3164066643" crc="7f6a146f" md5="0bdbb18b3daf5142174587204588bfcf" sha1="fb7a2231dbda00a0943339f875544d988f5b244d" />
+  </game>
+  <game name="J-Stars Victory Vs Plus (Europe, Asia) (En)">
+    <category>Games</category>
+    <description>J-Stars Victory Vs Plus (Europe, Asia) (En)</description>
+    <rom name="J-Stars Victory Vs Plus (Europe, Asia) (En).vpk" size="1851521070" crc="64265f5d" md5="cf2a4c95f213a69e180f7e9c6c061df2" sha1="7a34e79a8b0d59f52c9fe57daf54fb539c24dec8" />
+  </game>
+  <game name="Jak and Daxter Trilogy, The (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Jak and Daxter Trilogy, The (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Jak and Daxter Trilogy, The (Europe) (En,Fr,De,Es,It).vpk" size="3178427604" crc="f2cccb45" md5="838798cc34afcee37f1539aaa9f86abe" sha1="69d1776f69790052f07532a595eb021f912eceec" />
+  </game>
+  <game name="Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt)">
+    <category>Games</category>
+    <description>Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
+    <rom name="Killzone - Mercenary (Europe) (En,Fr,De,Es,It,Nl,Pt).vpk" size="3547533527" crc="8c8e3194" md5="33a08ce1c627db74f453e179ded7c650" sha1="f360e521c852397253e7062f0163062c2a45fdb7" />
+  </game>
+  <game name="LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)">
+    <category>Games</category>
+    <description>LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+    <rom name="LEGO - The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).vpk" size="1594759593" crc="f77d9e48" md5="caa35c5b9c3e87c5d25858a13ca7a074" sha1="dcd87c67d6190dfc451bd966a5c100daa85d69fc" />
+  </game>
+  <game name="LEGO Marvel Super Heroes - Universe in Peril (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)">
+    <category>Games</category>
+    <description>LEGO Marvel Super Heroes - Universe in Peril (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+    <rom name="LEGO Marvel Super Heroes - Universe in Peril (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).vpk" size="1382550388" crc="49168462" md5="4ad0cec1433c9ca35ce9db260f2d2bbd" sha1="1158530a97fb69823ca429dcdedff4c61d3c123a" />
+  </game>
+  <game name="LEGO Marvel's Avengers (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)">
+    <category>Games</category>
+    <description>LEGO Marvel's Avengers (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+    <rom name="LEGO Marvel's Avengers (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).vpk" size="1421689538" crc="4b72bea2" md5="cca6ded2fcb6eadac5ab4e950a31c251" sha1="340adf09dc3cb55ae0cbab88959d78b34bb581d4" />
+  </game>
+  <game name="LEGO Ninjago - Nindroids (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)">
+    <category>Games</category>
+    <description>LEGO Ninjago - Nindroids (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru)</description>
+    <rom name="LEGO Ninjago - Nindroids (Europe) (En,Fr,De,Es,It,Nl,Da,Pl,Ru).vpk" size="1407809176" crc="7536cad0" md5="de02ff6b463f7bafcae8b25285cce97e" sha1="154a8970e17eb97710adea71a01d77302a654e38" />
+  </game>
+  <game name="Legend of Heroes, The - Trails of Cold Steel II (Europe)">
+    <category>Games</category>
+    <description>Legend of Heroes, The - Trails of Cold Steel II (Europe)</description>
+    <rom name="Legend of Heroes, The - Trails of Cold Steel II (Europe).vpk" size="3245432188" crc="0c12f327" md5="071bf40288f9adf8b3acf25ddf7f5bb6" sha1="e3ce604e8e700431294d20d6434c4e39e068eb37" />
+  </game>
+  <game name="Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+    <category>Games</category>
+    <description>Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+    <rom name="Little Deviants (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).vpk" size="965782311" crc="39f0f233" md5="32b83b68e9f94fd956edf8e56d99976b" sha1="87615c73ee0fff369910a5c56e2adebb7624404f" />
+  </game>
+  <game name="LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru)">
+    <category>Games</category>
+    <description>LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru)</description>
+    <rom name="LittleBigPlanet PS Vita (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru).vpk" size="1681829193" crc="6eba9f42" md5="75a2e915fcddbb847f138f1d7ec56041" sha1="0e8f6dc2cfb14a0c54ea571465952fcf362ce3ea" />
+  </game>
+  <game name="LittleBigPlanet PS Vita - Marvel Super Hero Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+    <category>Games</category>
+    <description>LittleBigPlanet PS Vita - Marvel Super Hero Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+    <rom name="LittleBigPlanet PS Vita - Marvel Super Hero Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).vpk" size="1601880089" crc="7e3ce38b" md5="0921eece084a962f6cc958cad948c3a5" sha1="5d28ba1402167b269c56888e1e64e34b85227500" />
+  </game>
+  <game name="Looney Tunes - Galactic Sports (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru,El)">
+    <category>Games</category>
+    <description>Looney Tunes - Galactic Sports (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru,El)</description>
+    <rom name="Looney Tunes - Galactic Sports (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru,El).vpk" size="517996996" crc="3fef5b19" md5="96e5031bcf1b0f17254c543e8b074466" sha1="238df555c9d3bd023e0c1a0798705253ecb5f2e8" />
+  </game>
+  <game name="Lost Dimension (Europe)">
+    <category>Games</category>
+    <description>Lost Dimension (Europe)</description>
+    <rom name="Lost Dimension (Europe).vpk" size="1068681272" crc="672cf12d" md5="0dc0df5701901f761f19c0cf68d39819" sha1="eca694e4e304f21c529145af7bbbb3a66198ee07" />
+  </game>
+  <game name="Lumo (Europe) (En,Fr,De,Es,It,Pt,Ru)">
+    <category>Games</category>
+    <description>Lumo (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+    <rom name="Lumo (Europe) (En,Fr,De,Es,It,Pt,Ru).vpk" size="720491753" crc="f8310162" md5="6a7fdc627cc63c6e6eafcc616d786015" sha1="14fc87c9c1f811d246a42bce1cf34c1d60dcf9cd" />
+  </game>
+  <game name="MUD - FIM Motocross World Championship (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>MUD - FIM Motocross World Championship (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="MUD - FIM Motocross World Championship (Europe) (En,Fr,De,Es,It).vpk" size="609258355" crc="6e95e750" md5="f2273cc5751507fc07d4b0d8d32be895" sha1="a4b077d44e63d6c01144a61bc1bae8d0100cff38" />
+  </game>
+  <game name="MXGP - The Official Motocross Videogame (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>MXGP - The Official Motocross Videogame (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="MXGP - The Official Motocross Videogame (Europe) (En,Fr,De,Es,It).vpk" size="1181415234" crc="f9029f54" md5="9c4f0620e7742af09683583d7eef8057" sha1="b158075c94d2e29bb72eea9bf1494ef32ba61094" />
+  </game>
+  <game name="Minecraft - PlayStation Vita Edition (Europe)">
+    <category>Games</category>
+    <description>Minecraft - PlayStation Vita Edition (Europe)</description>
+    <rom name="Minecraft - PlayStation Vita Edition (Europe).vpk" size="164575411" crc="aa118b57" md5="6572c128d161c6a986b3c7fc7c63b4ec" sha1="7fb7d8230930bfdb35cf358effb77f1dcb0cf102" />
+  </game>
+  <game name="Mortal Kombat (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Mortal Kombat (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Mortal Kombat (Europe) (En,Fr,De,Es,It).vpk" size="3138638748" crc="a58cd720" md5="9f52ec72810cd3b3e9f2dd39c6a97bd1" sha1="62497855254ca7fb107d062a9c34fd6c3c7d619d" />
+  </game>
+  <game name="MotoGP 13 (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>MotoGP 13 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="MotoGP 13 (Europe) (En,Fr,De,Es,It).vpk" size="1551039864" crc="ee8d4c31" md5="9ffa3fda9852fe1e4fb57f0cb999c838" sha1="da4498012f655d89e0c09beabebb322b2bb3fdda" />
+  </game>
+  <game name="MotoGP 14 (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>MotoGP 14 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="MotoGP 14 (Europe) (En,Fr,De,Es,It).vpk" size="2151109556" crc="fe83b425" md5="36cc9e48b37c27235a8d97de1e7a4bf4" sha1="0364df9c0b4c81dbcb016b1322f6a6fc47c69875" />
+  </game>
+  <game name="Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El)">
+    <category>Games</category>
+    <description>Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El)</description>
+    <rom name="Muppets Movie, The - Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,El).vpk" size="913122537" crc="79a54fe6" md5="ea4fc3525864cf3dc110c22691c7dd0b" sha1="42bd5e303994b0d942e95b56a3973c024676a996" />
+  </game>
+  <game name="Natural Doctrine (Europe) (En,Ja)">
+    <category>Games</category>
+    <description>Natural Doctrine (Europe) (En,Ja)</description>
+    <rom name="Natural Doctrine (Europe) (En,Ja).vpk" size="2942095574" crc="00778f02" md5="aabdb7ad5d1fe54d3012779f4f5f7897" sha1="0272e261ef96562418723c91a04078230c8a9ed0" />
+  </game>
+  <game name="Need for Speed - Most Wanted (Europe) (En,Fr,De,Es,It,Ru)">
+    <category>Games</category>
+    <description>Need for Speed - Most Wanted (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="Need for Speed - Most Wanted (Europe) (En,Fr,De,Es,It,Ru).vpk" size="2641346620" crc="2b28af31" md5="2f56075bdf8796cae027e6e39107e06a" sha1="bd558edc728e0a0b9e0478a5fa93a6a5151a824c" />
+  </game>
+  <game name="New Little King's Story (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>New Little King's Story (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="New Little King's Story (Europe) (En,Fr,De,Es,It).vpk" size="691521383" crc="9f295e16" md5="c59f0417c0305ace612edb88fd107aec" sha1="73874bcba68e36e70be51b9cd2f142d1aeabb9aa" />
+  </game>
+  <game name="Odin Sphere - Leifthrasir (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Odin Sphere - Leifthrasir (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Odin Sphere - Leifthrasir (Europe) (En,Fr,De,Es,It).vpk" size="2373464623" crc="c1bb9479" md5="381dfe1cf74cbcd57a7bd6563f32c420" sha1="70a6ca5efb1d8bb2b042fa2f4c790b0528ae24a4" />
+  </game>
+  <game name="One Piece - Burning Blood (Europe) (En,Fr,De,Es,It,Pl,Ru)">
+    <category>Games</category>
+    <description>One Piece - Burning Blood (Europe) (En,Fr,De,Es,It,Pl,Ru)</description>
+    <rom name="One Piece - Burning Blood (Europe) (En,Fr,De,Es,It,Pl,Ru).vpk" size="2676036155" crc="0e1c41b5" md5="6c1d6097d88721645a8629f3486b67c7" sha1="575cf4780fabd58e0bbbb118053480ca854779ee" />
+  </game>
+  <game name="Operation Abyss - New Tokyo Legacy (Europe)">
+    <category>Games</category>
+    <description>Operation Abyss - New Tokyo Legacy (Europe)</description>
+    <rom name="Operation Abyss - New Tokyo Legacy (Europe).vpk" size="698424594" crc="20f08b38" md5="794133353b36e6c944d4a52c871f3be3" sha1="c098f78d185b73b93f997c8363f176bd6fff6bbc" />
+  </game>
+  <game name="Persona 4 Golden (Europe)">
+    <category>Games</category>
+    <description>Persona 4 Golden (Europe)</description>
+    <rom name="Persona 4 Golden (Europe) [b].vpk" size="3222340985" crc="e90e5b67" md5="1cf28fb9b7d480ea0ce0c8722714ac4d" sha1="7195918750c9fc4a9f24a9baf1786a09842401e3" />
+  </game>
+  <game name="Phineas and Ferb - Day of Doofenshmirtz (Europe) (En,Fr,De,Es,It,Nl,Pt,El)">
+    <category>Games</category>
+    <description>Phineas and Ferb - Day of Doofenshmirtz (Europe) (En,Fr,De,Es,It,Nl,Pt,El)</description>
+    <rom name="Phineas and Ferb - Day of Doofenshmirtz (Europe) (En,Fr,De,Es,It,Nl,Pt,El).vpk" size="903293788" crc="ef64c8aa" md5="307d8d9f3a2be8948c6100cd4610a3b0" sha1="f8f0f07e57604dd221b2df77b8347bf1153900bc" />
+  </game>
+  <game name="PlayStation All-Stars Battle Royale (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+    <category>Games</category>
+    <description>PlayStation All-Stars Battle Royale (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+    <rom name="PlayStation All-Stars Battle Royale (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).vpk" size="1669439293" crc="cb550bae" md5="4114b747748de9f1a0135e5fc1d5edfb" sha1="af7ba862fbec240709f615464af867988544a5b4" />
+  </game>
+  <game name="PlayStation Vita Pets (Europe) (En,Fr,De,Es)">
+    <category>Games</category>
+    <description>PlayStation Vita Pets (Europe) (En,Fr,De,Es)</description>
+    <rom name="PlayStation Vita Pets (Europe) (En,Fr,De,Es).vpk" size="1697168775" crc="88648650" md5="2eec41a70da891ccea7d72ca5140fdb4" sha1="61645132af7c55677b98f5767ceea2436b8c8477" />
+  </game>
+  <game name="Putty Squad (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Putty Squad (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Putty Squad (Europe) (En,Fr,De,Es,It).vpk" size="422720991" crc="af31f4af" md5="b8e2f3c7d9cdca76314c8940b43e1134" sha1="eb88d0639d09235cb8af161a09a6f4f9e4b14961" />
+  </game>
+  <game name="Ratchet &amp; Clank Trilogy, The (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Ratchet &amp; Clank Trilogy, The (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Ratchet &amp; Clank Trilogy, The (Europe) (En,Fr,De,Es,It).vpk" size="3473121229" crc="83dd0fca" md5="c7aeef5d6d743016d2dcdfff3402c15f" sha1="16ea60697741990721d5ee9ba93b9930ed6d60aa" />
+  </game>
+  <game name="Resistance - Burning Skies (Europe) (Fr,De,It)">
+    <category>Games</category>
+    <description>Resistance - Burning Skies (Europe) (Fr,De,It)</description>
+    <rom name="Resistance - Burning Skies (Europe) (Fr,De,It).vpk" size="2987963574" crc="b7f0d932" md5="e78ff6a3e43fed562c4251b36ce43380" sha1="534a6f6ab1a6dad78e8fc034663756d4bfb2ae46" />
+  </game>
+  <game name="Ridge Racer (Europe)">
+    <category>Games</category>
+    <description>Ridge Racer (Europe)</description>
+    <rom name="Ridge Racer (Europe).vpk" size="835673358" crc="663c374a" md5="ddbb9a84b7ceafc2211acabd9de91c4f" sha1="c62af17e90221068a1ff340ae6fba319e62a1583" />
+  </game>
+  <game name="Rugby 15 (Europe) (En,Fr,De,It,Nl,Ru)">
+    <category>Games</category>
+    <description>Rugby 15 (Europe) (En,Fr,De,It,Nl,Ru)</description>
+    <rom name="Rugby 15 (Europe) (En,Fr,De,It,Nl,Ru).vpk" size="1240874300" crc="6b1e1176" md5="22b0306b334cf4ce109ea27f6a98697c" sha1="61184f1f2990850f07b868661b64241dfa3c7fec" />
+  </game>
+  <game name="Rugby World Cup 2015 (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Rugby World Cup 2015 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Rugby World Cup 2015 (Europe) (En,Fr,De,Es,It).vpk" size="1254173624" crc="c563d90d" md5="ea6a103ef384d60b75654a8c89b28a74" sha1="5168a7c98c76121cdfad09bb4aea5a7271d4a3c2" />
+  </game>
+  <game name="Senran Kagura - Estival Versus (Europe)">
+    <category>Games</category>
+    <description>Senran Kagura - Estival Versus (Europe)</description>
+    <rom name="Senran Kagura - Estival Versus (Europe).vpk" size="3311246380" crc="31cb8f3d" md5="b4810481e9348e701e2445e87bdcc6f6" sha1="b0e70936607d1769938498b358345db448c30f99" />
+  </game>
+  <game name="Silent Hill - Book of Memories (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Silent Hill - Book of Memories (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Silent Hill - Book of Memories (Europe) (En,Fr,De,Es,It).vpk" size="1636974123" crc="0b1be61e" md5="318173c3f0127263e28c40af9278d299" sha1="9a49d0b04157c6ccab9124b37d3e718021b9c3bf" />
+  </game>
+  <game name="Sly Trilogy, The (Europe)">
+    <category>Games</category>
+    <description>Sly Trilogy, The (Europe)</description>
+    <rom name="Sly Trilogy, The (Europe).vpk" size="3248161781" crc="5eefe016" md5="120c15cbeffe19ae593de51acea8000c" sha1="98224b0e29c9575a576a368621037a571b0368a9" />
+  </game>
+  <game name="Smart as... (Europe) (En,Fr,De,It,Nl)">
+    <category>Games</category>
+    <description>Smart as... (Europe) (En,Fr,De,It,Nl)</description>
+    <rom name="Smart as... (Europe) (En,Fr,De,It,Nl).vpk" size="1586674313" crc="54c3692d" md5="6a8d358585da1d244ed61823a349e4f6" sha1="a780ce1914284911460ed06ae196c31d45b8fcdd" />
+  </game>
+  <game name="Soeldner X2 - Final Prototype (Europe) (En,Ja,Fr,De)">
+    <category>Games</category>
+    <description>Soeldner X2 - Final Prototype (Europe) (En,Ja,Fr,De)</description>
+    <rom name="Soeldner X2 - Final Prototype (Europe) (En,Ja,Fr,De).vpk" size="1169083377" crc="377e543c" md5="33d01088bb8959bdab496a4db19a4c22" sha1="2cdc59ce86639afaa2cde0171dc1da3a2fee229e" />
+  </game>
+  <game name="Sonic &amp; All-Stars Racing Transformed (Europe)">
+    <category>Games</category>
+    <description>Sonic &amp; All-Stars Racing Transformed (Europe)</description>
+    <rom name="Sonic &amp; All-Stars Racing Transformed (Europe).vpk" size="1488093925" crc="64dfa7b7" md5="7a61602f83d6fa4ba15c53fe056ed54c" sha1="c2cb808f6f6aa5afd80196569714d84e510de20e" />
+  </game>
+  <game name="Soul Sacrifice (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Soul Sacrifice (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Soul Sacrifice (Europe) (En,Fr,De,Es,It).vpk" size="1829929596" crc="92d70c26" md5="02c34c7693c23ba21a508da24947e2fb" sha1="21f63db56b57bc5995020cc223f0bbc701e31b38" />
+  </game>
+  <game name="Space Hulk (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Games</category>
+    <description>Space Hulk (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Space Hulk (Europe) (En,Fr,De,Es,It,Nl).vpk" size="455775962" crc="430b94d1" md5="aa5e4f520bd5294f0afd6143b431048b" sha1="b26004870ddce30038595b6087b62283f5adbe7f" />
+  </game>
+  <game name="Spy Hunter (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Games</category>
+    <description>Spy Hunter (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Spy Hunter (Europe) (En,Fr,De,Es,It,Nl).vpk" size="986530416" crc="4410b1d9" md5="d8ffb4c0327fedc7a9f0b04e3d7d4203" sha1="148c33e6138e4b510be90138e11799f174744d0c" />
+  </game>
+  <game name="Street Fighter X Tekken (Europe) (En,Fr,De,Es,It,Ru)">
+    <category>Games</category>
+    <description>Street Fighter X Tekken (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="Street Fighter X Tekken (Europe) (En,Fr,De,Es,It,Ru).vpk" size="2282794374" crc="d8a9235a" md5="e8130cd76e8a433a0321779e43657115" sha1="c009c31c871abf039645a30d3b664c4e731ec39d" />
+  </game>
+  <game name="Sword Art Online - Hollow Realization (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Sword Art Online - Hollow Realization (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Sword Art Online - Hollow Realization (Europe) (En,Fr,De,Es,It).vpk" size="3042153669" crc="47b1b2ab" md5="4f4d095bbf3646c7708f0af0c1438888" sha1="55ee4fbc69e04837aa1804965735a98a99093c48" />
+  </game>
+  <game name="Tadeo Jones (Europe) (En,Es)">
+    <category>Games</category>
+    <description>Tadeo Jones (Europe) (En,Es)</description>
+    <rom name="Tadeo Jones (Europe) (En,Es).vpk" size="843648562" crc="22092978" md5="5af3fc0c50ca397d8dd82421677e4e5c" sha1="defac0c17c6247df8f7f542dbcfe3c8d57dcdbcf" />
+  </game>
+  <game name="Tadeo Jones y el Manuscrito Perdido (Europe) (En,Es)">
+    <category>Games</category>
+    <description>Tadeo Jones y el Manuscrito Perdido (Europe) (En,Es)</description>
+    <rom name="Tadeo Jones y el Manuscrito Perdido (Europe) (En,Es).vpk" size="1012941167" crc="1f44037e" md5="8a6126547e94a6eaf6fc6933bd810818" sha1="c06fcc8c3f4394b5fbeecdee98a06a9adf020b79" />
+  </game>
+  <game name="Tearaway (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Tearaway (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Tearaway (Europe) (En,Fr,De,Es,It).vpk" size="1412144828" crc="903dac93" md5="e2cbbbff221b94cb77d234bbd381c638" sha1="7fb566c4fe0678ee39028006ba8fdba8440713da" />
+  </game>
+  <game name="Terraria (Europe)">
+    <category>Games</category>
+    <description>Terraria (Europe)</description>
+    <rom name="Terraria (Europe).vpk" size="32583319" crc="fddb3297" md5="ff7d29535966a0e6197b9a26369d6acc" sha1="f839850cf61832c66916364b71dc14da7afaee35" />
+  </game>
+  <game name="Teslagrad (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Pl,Ru,Tr)">
+    <category>Games</category>
+    <description>Teslagrad (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Pl,Ru,Tr)</description>
+    <rom name="Teslagrad (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Pl,Ru,Tr).vpk" size="279143684" crc="3970f280" md5="c26f86c77aa0721dbb08d0db81a53a10" sha1="4894734657584781a41616551cfacec3290ebc73" />
+  </game>
+  <game name="Tetris Ultimate (Europe) (En,Fr,De,Es,It,Ru)">
+    <category>Games</category>
+    <description>Tetris Ultimate (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="Tetris Ultimate (Europe) (En,Fr,De,Es,It,Ru).vpk" size="104001751" crc="65164ff1" md5="2cf3ccb08afa20ad702d53268f53c7f6" sha1="9a4b09c7eadb298a8e12642fbf02375b3f6c3396" />
+  </game>
+  <game name="Tokyo Twilight Ghost Hunters (Europe)">
+    <category>Games</category>
+    <description>Tokyo Twilight Ghost Hunters (Europe)</description>
+    <rom name="Tokyo Twilight Ghost Hunters (Europe).vpk" size="1533057122" crc="a4feba74" md5="632fbc47f4d075e4b895ed4d8f238d7e" sha1="21c134f490154733e8ba15ddf79bdc120fee8e89" />
+  </game>
+  <game name="Toukiden - Kiwami (Europe)">
+    <category>Games</category>
+    <description>Toukiden - Kiwami (Europe)</description>
+    <rom name="Toukiden - Kiwami (Europe).vpk" size="3426652166" crc="1144b2b3" md5="524578e1ea356b38b5eefa833da73789" sha1="deffd312ff76ad2bf74cb542baee241900e1a1b5" />
+  </game>
+  <game name="Toukiden - The Age of Demons (Europe)">
+    <category>Games</category>
+    <description>Toukiden - The Age of Demons (Europe)</description>
+    <rom name="Toukiden - The Age of Demons (Europe).vpk" size="1810333940" crc="2052de72" md5="166a1fb87d239cce484a76f8c5160746" sha1="fd4dfad2b40959eb7ee75ec5728f22cabbea0770" />
+  </game>
+  <game name="Ultimate Marvel vs Capcom 3 (Europe)">
+    <category>Games</category>
+    <description>Ultimate Marvel vs Capcom 3 (Europe)</description>
+    <rom name="Ultimate Marvel vs Capcom 3 (Europe).vpk" size="1466094059" crc="54297bac" md5="f7f54de2401e0d9870b24c34b50a3eca" sha1="8387c5eb90e6d73b8993d5a9d79717a8d034f152" />
+  </game>
+  <game name="Uncharted - Golden Abyss (Europe) (En-GB,Es,Pt,Sv,No,Da,Fi,Pl,Ru)">
+    <category>Games</category>
+    <description>Uncharted - Golden Abyss (Europe) (En-GB,Es,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+    <rom name="Uncharted - Golden Abyss (Europe) (En-GB,Es,Pt,Sv,No,Da,Fi,Pl,Ru).vpk" size="3550586667" crc="46d7216c" md5="9fb6c06885d9d9747924ae150d0faff2" sha1="4d908801c5515a9315775208c89a6adc2c826cd2" />
+  </game>
+  <game name="Unit 13 (Europe) (En,Fr,De,It,Nl)">
+    <category>Games</category>
+    <description>Unit 13 (Europe) (En,Fr,De,It,Nl)</description>
+    <rom name="Unit 13 (Europe) (En,Fr,De,It,Nl).vpk" size="1130416811" crc="9798210d" md5="eabd61d4a99d20d1392765e9cb2ea1ff" sha1="d0302a19fe8ff4aca951036cc204f59752f46398" />
+  </game>
+  <game name="Valkyrie Drive - Bhikkhuni (Europe)">
+    <category>Games</category>
+    <description>Valkyrie Drive - Bhikkhuni (Europe)</description>
+    <rom name="Valkyrie Drive - Bhikkhuni (Europe).vpk" size="1561624120" crc="e6771cba" md5="ebeaa5f1b04457cc50bcceb4ae4f2e05" sha1="8300e1edfb5296a1b81996267aad9c297ccd6246" />
+  </game>
+  <game name="Virtua Tennis 4 - World Tour Edition (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>Virtua Tennis 4 - World Tour Edition (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Virtua Tennis 4 - World Tour Edition (Europe) (En,Fr,De,Es,It).vpk" size="1146844603" crc="55ad9769" md5="7e4c41ca21e340874e497f4e57e7c65e" sha1="289e384383a72b49f7b4b330715ddfc10617744a" />
+  </game>
+  <game name="WRC 3 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>WRC 3 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="WRC 3 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It).vpk" size="735109963" crc="ab9ff176" md5="735a9394810e1c9bb73eb875d68fd861" sha1="2fcb6e6f27fe6a4367f0b9d7ac4fdc5e64edcffe" />
+  </game>
+  <game name="WRC 4 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>WRC 4 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="WRC 4 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It).vpk" size="1647245080" crc="3272c92b" md5="50407efbafc421f7473922a67d8fdc21" sha1="cf7b8bc6522663a9b80acae6b65102286805576d" />
+  </game>
+  <game name="WRC 5 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>WRC 5 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="WRC 5 - FIA World Rally Championship (Europe) (En,Fr,De,Es,It).vpk" size="3036377621" crc="8f6b4dbc" md5="600d943ce291d8c765f208116aa2427a" sha1="6b62d25569817690040ea97fe763e2d3dd223ec1" />
+  </game>
+  <game name="WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)">
+    <category>Games</category>
+    <description>WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+    <rom name="WipEout 2048 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).vpk" size="1686956188" crc="a2e44eec" md5="b3cb47d46ec30c167ec2e3be74e597dc" sha1="a0cfe93e353c2bd779e96c29372a6cf16cfd4476" />
+  </game>
+  <game name="World of Final Fantasy (Europe) (En,Fr,De,Es,It)">
+    <category>Games</category>
+    <description>World of Final Fantasy (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="World of Final Fantasy (Europe) (En,Fr,De,Es,It).vpk" size="2646479252" crc="bf733018" md5="e260156c0d5cb7b18ad777ac56a66847" sha1="0bb335d6c0f96f399d0da32fac1672c621bdf9fc" />
+  </game>
+  <game name="Zero Escape - Virtue's Last Reward (Europe)">
+    <category>Games</category>
+    <description>Zero Escape - Virtue's Last Reward (Europe)</description>
+    <rom name="Zero Escape - Virtue's Last Reward (Europe).vpk" size="1231167862" crc="8e510c45" md5="495c0f6fe0568f11ed9c5f334fae3bea" sha1="6c404256f86e43af54c54d8f204bfe7159142e59" />
+  </game>
+</datafile>

@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd"[]>
+<datafile>
+  <header>
+    <name>Unofficial - Video Game Magazine Scans (CBZ)</name>
+    <description>Unofficial - Video Game Magazine Scans (CBZ)</description>
+    <version>20220729-072933</version>
+    <author>Hiccup, xuom2</author>
+    <homepage>No-Intro</homepage>
+    <url>https://www.no-intro.org</url>
+    <clrmamepro forcenodump="required" />
+  </header>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 31, September 4th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 31, September 4th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 31, September 4th 1987).cbz" size="908920767" crc="e8aded2b" md5="1f9160883c9dcf14e4897002e84d1769" sha1="27599af822080e3f9cbd14436a9a988936d52da2" sha256="976ced90c1edc56174a61a69eb60409465efd779e6f572c3182e27783039d5a8" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 21, April 17th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 21, April 17th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 21, April 17th 1987).cbz" size="845154979" crc="ea622d5d" md5="2075dc9b5c6360584da1b78fc65be64e" sha1="fba1923d760429a7bbf792ac2c739ad449801582" sha256="62790496ef88fbdb1b9fc2fc8499765f04e0001636cb76b463006a58cb968168" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 22, May 1st 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 22, May 1st 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 22, May 1st 1987).cbz" size="870045412" crc="59b719e0" md5="58d768a1c7ab98f2952e655951ec8eb0" sha1="81896a4b701571dfdabfb78d3a8b619407da624c" sha256="e091bfccb245dfdec0de0a5928f654b7ffbb8ba9cc588557ef14a5bf8329fc6f" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 23, May 15th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 23, May 15th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 23, May 15th 1987).cbz" size="853915167" crc="d15576a2" md5="0b9b336134bd6ef218abd4e0f760c7dd" sha1="05f1856096131b47f335f4c9f9ad0d4c2e906fec" sha256="3c26a577f354a01996d54852518cebdc100b4f044de1ebb9782012a4bb5f98ee" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 24, May 29th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 24, May 29th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 24, May 29th 1987).cbz" size="948868802" crc="f240b68b" md5="c4778b55a01fdc6066855411112e7e86" sha1="3150093d13eb568e999e3e15c28c4752552845ff" sha256="072d3ce2bc87fbda4dc77aaf5dea2bbb31f36fc4c3387b4698a72198c34ecc9f" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 25, June 12th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 25, June 12th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 25, June 12th 1987).cbz" size="919676490" crc="83e0b6bd" md5="163793bc77d417d658560ddffedb9d8b" sha1="7a251369962741f79b7a3fc94521c5ca02da67fe" sha256="aa20d0d77194f5e59f447c64316f752c61f9c0b963bbde1e1adb4df85b321075" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 26, June 26th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 26, June 26th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 26, June 26th 1987).cbz" size="926886282" crc="090e8f9d" md5="d1f9239ba3e450bb2b196217827b98d7" sha1="d2ff3554a524df8d368423aa36917453b03fd954" sha256="196ddb35b6c8224701c13249314c5b4790fb137f40249a4bd492d82cc555c72b" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 27, July 10th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 27, July 10th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 27, July 10th 1987).cbz" size="914985611" crc="66c0c6c3" md5="5456e93b1b25afb46451339704c74825" sha1="6d96e795b45d88ed935a690ee2a244349b30aa0a" sha256="02a41137f3da68b49bec3d0e0a466d8d38d57bf4fe50fbb7647c8b729ff6122c" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 28, July 24th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 28, July 24th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 28, July 24th 1987).cbz" size="896303171" crc="dbb7787f" md5="cbef7bca6b6f3f0f801f5ca411ff9ee7" sha1="c08d07836a1a9d4835dfdee116f96459481cc18e" sha256="89a7b13be2d5099ed9c768469d7b1e89156bd3d3b32c883694563a48e932eb05" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 29-30, August 7th-21st 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 29-30, August 7th-21st 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 29-30, August 7th-21st 1987).cbz" size="893733665" crc="ef74f369" md5="24a5c0dccdb6718e4d51edc56c47392d" sha1="9749e35fba239a5b1ac14bbfa10d107177bd6981" sha256="ec5e645c9a164f61fe3ec2b70c78544f8b300dc6de9d46a5452a530181d5d58d" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 20, April 3rd 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 20, April 3rd 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 20, April 3rd 1987).cbz" size="972657659" crc="89edd375" md5="75c7ec0c9bf65c5399dad261e5a47034" sha1="2dd3c535b4063e041465333a240e722c1c2a8fcd" sha256="2615cd8f1360545111f8b45ee70356d28ba18f58a773222f30c98ddc4aa85d99" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 32, September 18th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 32, September 18th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 32, September 18th 1987).cbz" size="909765069" crc="c540ad5f" md5="284f1517e5f93d97f615caaab22648be" sha1="2f0d86a9392c6b7cece2ade91bc54d96d1a25109" sha256="eaa31f44e68ed2fbc45cadb756bca4c924a48b6ed375e906a0ec77fd4cec683d" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 33, October 2nd 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 33, October 2nd 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 33, October 2nd 1987).cbz" size="1021997615" crc="8fd8bb6d" md5="392d02714b62e2496a83bd79a02eac4e" sha1="b0d4be4e0920494818fb2a5e8d04b72a8ef8ddaf" sha256="4e30c86c39b6a0fea89b98e670fd3b949f59d6328fbdb501539a347787d3757d" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 34, October 16th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 34, October 16th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 34, October 16th 1987).cbz" size="1033854667" crc="4c16474c" md5="80b068d374db7c64a5e8c1c044470e3e" sha1="7d357bd755004d1f10351e9f48d185e50bcc5f35" sha256="b53f0c028925b72094c8acaee4513c74c3e713bffff445d4be3ab00674afc52f" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 35, October 30th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 35, October 30th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 35, October 30th 1987).cbz" size="1015697153" crc="6427c3f5" md5="0e5e66b8ea3a2d6d2a7b2e3bb615f9a5" sha1="2a3b5386d055db6655b5c8ff82cf340d290cb26b" sha256="0573b142fda868c47718eb534ad3ee60f277af1273888bd81384d22a8bce43cc" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 36, November 13th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 36, November 13th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 36, November 13th 1987).cbz" size="987268143" crc="20d1f008" md5="8923f083e22168a7e332958b4186a844" sha1="43066f688a5ad8f221c10653a85a3211d197662d" sha256="3c044492d27fe36b7623f583951437b5f297c1c9f195ee519fcaeec8c827166d" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 37, November 27th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 37, November 27th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 37, November 27th 1987).cbz" size="1013263491" crc="289bf13b" md5="7f43095160aecdf5b5af89986f4035bc" sha1="a3343336184424a7ac3d3b1789baaf8c45ac430d" sha256="bac6d5e8eddfab54d3a3315776ce2a11149f168a00d81db51b6f5a7ba7594de9" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 38, December 11th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 38, December 11th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 38, December 11th 1987).cbz" size="940464349" crc="8b713d63" md5="e2f577862e66d98a96e01bd42f5dbf46" sha1="d86b6b371d0c468b96f4115ccaa1ed760a682571" sha256="8fa05b497ebe06b53242a91f05fc5ece6107780a2585f26fff0069e570ddab45" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 39, December 25th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 39, December 25th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 39, December 25th 1987).cbz" size="1033823143" crc="7ff0aac4" md5="a8e950913602df221451e9a04d8ac4f6" sha1="77e65bdacbbdbbd3a0233a39d1ee7894863e481c" sha256="2b20e33c1f7cb1b92000deec50218743b8b934133fc160e3d6e9bb7fbe2547a6" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 11, November 14th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 11, November 14th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 11, November 14th 1986).cbz" size="794103737" crc="422d1501" md5="10a4566baa26fd3d24f053aac63f8379" sha1="9c06d39ba2bd9774af177c7dc0722290d8bc7047" sha256="50afa1bc207af205eddc51c8cd9fe19bd677cda08c1e503e964aaa8bc256dc1b" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 2, July 4th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 2, July 4th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 2, July 4th 1986).cbz" size="959975082" crc="a44fcd68" md5="68240c8071b3c5f9e154570fc1c500f0" sha1="f9d5b25ef1db07dd16976d9c645cbe3c8d1524c3" sha256="e7122f9b6073c34644e72dd798f85be9cc92dfb062493eae15c3de507f6d8f17" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 3, July 18th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 3, July 18th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 3, July 18th 1986).cbz" size="936386066" crc="d60bf06c" md5="cb25c375ea15986250b7eb4c0efa610b" sha1="074f516dfbe57daa5ddeec8b2359e0d422b67fb7" sha256="10959e4155b0433a6e67c7e67f3a34f5ad4215b9771809d650ec7d749cf72b8e" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 4, August 1st 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 4, August 1st 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 4, August 1st 1986).cbz" size="775613477" crc="ba3d9335" md5="4c4a731c91e32218aed9770e9a197ad7" sha1="6df9a0f7642f65e5407590c86757bfa560bba2f1" sha256="5e3c446418de90f0a46d71caa10c450931e24b320c51367c28aafd70577f61b0" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 5, August 22nd 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 5, August 22nd 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 5, August 22nd 1986).cbz" size="701120773" crc="a88d4b4a" md5="49aaefa2dab5d050ebe4fee3545f8eef" sha1="f6be21665e0392e3ff2c38f6ce3005a5205bdb05" sha256="7b58ab741ed3ee7b3f73a620dcd3796dacf383ac802429732e2d04ce04de0055" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 6, September 5th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 6, September 5th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 6, September 5th 1986).cbz" size="849957949" crc="a75fadf4" md5="572762396b33df76997b84b7bca3a08e" sha1="7f3d45cf2d52bd1d48bb02a93172dc7a512f7d66" sha256="5a9f8b411432674756c54d0f0795c72bfc9ce784f8a2606a51b8492a0c57a471" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 7, September 19th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 7, September 19th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 7, September 19th 1986).cbz" size="776973875" crc="d429a7a8" md5="ea0717abd3607c2f4ec8a59a15d5130d" sha1="250e34a313e2f1bca1af4abe9b60efa05763565e" sha256="1bd99543dde9df07d7dd1f8773fa0fa3600fc714ec3aa53a2a4c152385460773" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 8, October 3rd 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 8, October 3rd 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 8, October 3rd 1986).cbz" size="767341326" crc="ca437a4a" md5="249c348672220834f5594b9667bed583" sha1="c15545491aff15e650769140da4792d5bfd57102" sha256="aa694c13d67b196a5de1b5d3a2d5cfaac10068268703cd73f965f6f6121bc0cc" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 9, October 17th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 9, October 17th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 9, October 17th 1986).cbz" size="800727861" crc="3f1a0bbf" md5="7fa6c58e4a73fd0460a4c2a56fdf7a07" sha1="6ff4114997a5becb50609b17108db826607db8d7" sha256="8c43035c61d7f91a55205b6ddd9f15df669bbfec76102220a897c0899ecfda41" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 10, October 31st 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 10, October 31st 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 10, October 31st 1986).cbz" size="779178672" crc="51317987" md5="4bc253d587335a9a7f629ac804c25386" sha1="dec9ffde840d3e7d810819fb8bbba99b8ce887fd" sha256="cdb133cc3903cb1b4371bcd4bcbff2b58456ca0dd068ac0474d3e4c6b23f704a" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 1, June 20th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 1, June 20th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 1, June 20th 1986).cbz" size="983663938" crc="68b8cc57" md5="a05d9c0a21a7b6f24b3f355f8c528da6" sha1="340ce2928bf377ae1d32827896d83c35b1ea7d21" sha256="c826952ea6bd81dc31921ed2efd8df90b36c73f1bb87876202bfc98754dbdb2f" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 12, November 28th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 12, November 28th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 12, November 28th 1986).cbz" size="875744987" crc="ebf84ef8" md5="8e8813f27941fae44428934c432d6f55" sha1="e5873f6375ceae00bada474830734c6ff9d52ebe" sha256="7c9dd946695e72cee86b10f163cb60c5a528cbc1efefd2caf705950d5cdaca50" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 13, December 12th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 13, December 12th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 13, December 12th 1986).cbz" size="855569074" crc="39697a1a" md5="6ac027f253b1c1c92716f60f4262ca43" sha1="42f9cb3d66995e349a8e3039239456c82d1f1ab9" sha256="ee445c336783f6423c5775fa3a1c71db5f075a44085cbebefcddc9ecdef04486" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 14, December 26th 1986)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 14, December 26th 1986)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 14, December 26th 1986).cbz" size="966943204" crc="b85ec662" md5="35aaa99bd22614c6773f89507cf0c3c4" sha1="6c430b879d37ceadedc6de673c8b593376fe50d2" sha256="e1a18689a6c2b40b7cb301b51a0f8db9979c7bd1f6abb2866458dc764b0eaea0" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 15, January 9th-23rd 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 15, January 9th-23rd 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 15, January 9th-23rd 1987).cbz" size="985545544" crc="7bad0859" md5="da5355e753735cae46ea99aa98af11b8" sha1="c5d8796e0eedf6c810c2b4057701bfd682db27db" sha256="786c3c3957a9f5c96dd465e08a3a15862b71168c69ee975fb0b1d66ed2fce697" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 16, February 6th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 16, February 6th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 16, February 6th 1987).cbz" size="790901630" crc="380fdf51" md5="d8fed60bdbb8b3d39308f2a890389521" sha1="a72d091522004d2eb008b767295ff9a0cdb83461" sha256="62b54560b2ec6c303089a8d1547633f46072086f18e44ab19abcb1ad250c59b3" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 17, February 20th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 17, February 20th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 17, February 20th 1987).cbz" size="836849069" crc="0c738e24" md5="f8e6fa66e7f3b2aca884a44e70f3b74e" sha1="df59bc09f87d9f6013e4259b6f8af2b3bd8af65c" sha256="aa64a9f11ec00d895591b09bee1aab829c82db26823dad6e1e216b9900d8c4f0" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 18, March 6th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 18, March 6th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 18, March 6th 1987).cbz" size="840994998" crc="c3a26156" md5="14f2df6ac7ef71e83a4c827e79c613a4" sha1="423e9fa92ac5413764758e89b23cc690de908393" sha256="26c291c9d177e08a9e9d702c7ae5487b79d3166f59f829d09127150bb4a78c19" />
+  </game>
+  <game name="Bi-Weekly Famitsu (Japan) (No. 19, March 20th 1987)">
+    <description>Bi-Weekly Famitsu (Japan) (No. 19, March 20th 1987)</description>
+    <rom name="Bi-Weekly Famitsu (Japan) (No. 19, March 20th 1987).cbz" size="881819901" crc="3576afbe" md5="fdc3dd64e2b7ff872903ef171994b21c" sha1="b173292d8ea692ecbfbc2b07d2445d6b3d6c0727" sha256="d6e754a2776adc9105cbaf37fce5d3cb373da703031da6046813e70e487e1d70" />
+  </game>
+</datafile>
